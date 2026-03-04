@@ -120,6 +120,66 @@
     "url": "https://arxiv.org/abs/2603.00575"
   },
   {
+    "source": "arXiv",
+    "title": "Draft-Thinking: Learning Efficient Reasoning in Long Chain-of-Thought LLMs",
+    "date": "Wed, 04 Mar 2026 00:00:00 -0500",
+    "url": "https://arxiv.org/abs/2603.00578"
+  },
+  {
+    "source": "arXiv",
+    "title": "MicroVerse: A Preliminary Exploration Toward a Micro-World Simulation",
+    "date": "Wed, 04 Mar 2026 00:00:00 -0500",
+    "url": "https://arxiv.org/abs/2603.00585"
+  },
+  {
+    "source": "arXiv",
+    "title": "Fair in Mind, Fair in Action? A Synchronous Benchmark for Understanding and Generation in UMLLMs",
+    "date": "Wed, 04 Mar 2026 00:00:00 -0500",
+    "url": "https://arxiv.org/abs/2603.00590"
+  },
+  {
+    "source": "arXiv",
+    "title": "Heterophily-Agnostic Hypergraph Neural Networks with Riemannian Local Exchanger",
+    "date": "Wed, 04 Mar 2026 00:00:00 -0500",
+    "url": "https://arxiv.org/abs/2603.00599"
+  },
+  {
+    "source": "arXiv",
+    "title": "Machine Learning Grade Prediction Using Students' Grades and Demographics",
+    "date": "Wed, 04 Mar 2026 00:00:00 -0500",
+    "url": "https://arxiv.org/abs/2603.00608"
+  },
+  {
+    "source": "arXiv",
+    "title": "TraceSIR: A Multi-Agent Framework for Structured Analysis and Reporting of Agentic Execution Traces",
+    "date": "Wed, 04 Mar 2026 00:00:00 -0500",
+    "url": "https://arxiv.org/abs/2603.00623"
+  },
+  {
+    "source": "arXiv",
+    "title": "LiTS: A Modular Framework for LLM Tree Search",
+    "date": "Wed, 04 Mar 2026 00:00:00 -0500",
+    "url": "https://arxiv.org/abs/2603.00631"
+  },
+  {
+    "source": "arXiv",
+    "title": "InfoPO: Information-Driven Policy Optimization for User-Centric Agents",
+    "date": "Wed, 04 Mar 2026 00:00:00 -0500",
+    "url": "https://arxiv.org/abs/2603.00656"
+  },
+  {
+    "source": "arXiv",
+    "title": "K^2-Agent: Co-Evolving Know-What and Know-How for Hierarchical Mobile Device Control",
+    "date": "Wed, 04 Mar 2026 00:00:00 -0500",
+    "url": "https://arxiv.org/abs/2603.00676"
+  },
+  {
+    "source": "arXiv",
+    "title": "MemPO: Self-Memory Policy Optimization for Long-Horizon Agents",
+    "date": "Wed, 04 Mar 2026 00:00:00 -0500",
+    "url": "https://arxiv.org/abs/2603.00680"
+  },
+  {
     "source": "HuggingFace",
     "title": "PRX Part 3 — Training a Text-to-Image Model in 24h!",
     "date": "Tue, 03 Mar 2026 16:50:49 GMT",
@@ -282,10 +342,28 @@
     "url": "https://openai.com/index/introducing-lockdown-mode-and-elevated-risk-labels-in-chatgpt"
   },
   {
+    "source": "OpenAI",
+    "title": "Scaling social science research",
+    "date": "Fri, 13 Feb 2026 09:00:00 GMT",
+    "url": "https://openai.com/index/scaling-social-science-research"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Beyond rate limits: scaling access to Codex and Sora",
+    "date": "Fri, 13 Feb 2026 09:00:00 GMT",
+    "url": "https://openai.com/index/beyond-rate-limits"
+  },
+  {
     "source": "HuggingFace",
     "title": "Custom Kernels for All from Codex and Claude",
     "date": "Fri, 13 Feb 2026 00:00:00 GMT",
     "url": "https://huggingface.co/blog/custom-cuda-kernels-agent-skills"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Introducing GPT-5.3-Codex-Spark",
+    "date": "Thu, 12 Feb 2026 10:00:00 GMT",
+    "url": "https://openai.com/index/introducing-gpt-5-3-codex-spark"
   },
   {
     "source": "HuggingFace",
@@ -294,16 +372,58 @@
     "url": "https://huggingface.co/blog/openenv-turing"
   },
   {
+    "source": "OpenAI",
+    "title": "Harness engineering: leveraging Codex in an agent-first world",
+    "date": "Wed, 11 Feb 2026 09:00:00 GMT",
+    "url": "https://openai.com/index/harness-engineering"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Testing ads in ChatGPT",
+    "date": "Mon, 09 Feb 2026 11:00:00 GMT",
+    "url": "https://openai.com/index/testing-ads-in-chatgpt"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Bringing ChatGPT to GenAI.mil",
+    "date": "Mon, 09 Feb 2026 11:00:00 GMT",
+    "url": "https://openai.com/index/bringing-chatgpt-to-genaimil"
+  },
+  {
     "source": "HuggingFace",
     "title": "Transformers.js v4 Preview: Now Available on NPM!",
     "date": "Mon, 09 Feb 2026 00:00:00 GMT",
     "url": "https://huggingface.co/blog/transformersjs-v4"
   },
   {
+    "source": "OpenAI",
+    "title": "Making AI work for everyone, everywhere: our approach to localization",
+    "date": "Fri, 06 Feb 2026 10:00:00 GMT",
+    "url": "https://openai.com/index/our-approach-to-localization"
+  },
+  {
     "source": "HuggingFace",
     "title": "Introducing SyGra Studio",
     "date": "Thu, 05 Feb 2026 16:52:28 GMT",
     "url": "https://huggingface.co/blog/ServiceNow-AI/sygra-studio"
+  },
+  {
+    "source": "OpenAI",
+    "title": "GPT-5 lowers the cost of cell-free protein synthesis",
+    "date": "Thu, 05 Feb 2026 11:00:00 GMT",
+    "url": "https://openai.com/index/gpt-5-lowers-protein-synthesis-cost"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Introducing Trusted Access for Cyber",
+    "date": "Thu, 05 Feb 2026 10:00:00 GMT",
+    "url": "https://openai.com/index/trusted-access-for-cyber"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Introducing OpenAI Frontier",
+    "date": "Thu, 05 Feb 2026 06:00:00 GMT",
+    "url": "https://openai.com/index/introducing-openai-frontier"
   },
   {
     "source": "HuggingFace",
@@ -366,6 +486,30 @@
     "url": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
   },
   {
+    "source": "HuggingFace",
+    "title": "AssetOpsBench: Bridging the Gap Between AI Agent Benchmarks and Industrial Reality",
+    "date": "Wed, 21 Jan 2026 06:25:31 GMT",
+    "url": "https://huggingface.co/blog/ibm-research/assetopsbench-playground-on-hugging-face"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "One Year Since the “DeepSeek Moment”",
+    "date": "Tue, 20 Jan 2026 15:02:10 GMT",
+    "url": "https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "Differential Transformer V2",
+    "date": "Tue, 20 Jan 2026 03:20:57 GMT",
+    "url": "https://huggingface.co/blog/microsoft/diff-attn-v2"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "Introducing Waypoint-1: Real-time interactive video diffusion from Overworld",
+    "date": "Tue, 20 Jan 2026 00:00:00 GMT",
+    "url": "https://huggingface.co/blog/waypoint-1"
+  },
+  {
     "source": "VentureBeat",
     "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
     "date": "Mon, 19 Jan 2026 14:00:00 GMT",
@@ -376,6 +520,12 @@
     "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
     "date": "Fri, 16 Jan 2026 14:01:00 GMT",
     "url": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "Open Responses: What you need to know",
+    "date": "Thu, 15 Jan 2026 00:00:00 GMT",
+    "url": "https://huggingface.co/blog/open-responses"
   },
   {
     "source": "VentureBeat",
@@ -402,10 +552,40 @@
     "url": "https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in"
   },
   {
+    "source": "HuggingFace",
+    "title": "NVIDIA Cosmos Reason 2 Brings Advanced Reasoning To Physical AI",
+    "date": "Mon, 05 Jan 2026 22:56:51 GMT",
+    "url": "https://huggingface.co/blog/nvidia/nvidia-cosmos-reason-2-brings-advanced-reasoning"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "Introducing Falcon-H1-Arabic: Pushing the Boundaries of Arabic Language AI with Hybrid Architecture",
+    "date": "Mon, 05 Jan 2026 09:16:51 GMT",
+    "url": "https://huggingface.co/blog/tiiuae/falcon-h1-arabic"
+  },
+  {
     "source": "VentureBeat",
     "title": "The creator of Claude Code just revealed his workflow, and developers are losing their minds",
     "date": "Mon, 05 Jan 2026 07:45:00 GMT",
     "url": "https://venturebeat.com/technology/the-creator-of-claude-code-just-revealed-his-workflow-and-developers-are"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "NVIDIA brings agents to life with DGX Spark and Reachy Mini",
+    "date": "Mon, 05 Jan 2026 00:00:00 GMT",
+    "url": "https://huggingface.co/blog/nvidia-reachy-mini"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "AprielGuard: A Guardrail for Safety and Adversarial Robustness in Modern LLM Systems",
+    "date": "Tue, 23 Dec 2025 14:07:35 GMT",
+    "url": "https://huggingface.co/blog/ServiceNow-AI/aprielguard"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "Tokenization in Transformers v5: Simpler, Clearer, and More Modular",
+    "date": "Thu, 18 Dec 2025 00:00:00 GMT",
+    "url": "https://huggingface.co/blog/tokenizers"
   },
   {
     "source": "TechCrunch",
