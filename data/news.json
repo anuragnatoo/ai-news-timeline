@@ -1,0 +1,524 @@
+[
+  {
+    "source": "arXiv",
+    "title": "Multi-Sourced, Multi-Agent Evidence Retrieval for Fact-Checking",
+    "date": "Wed, 04 Mar 2026 00:00:00 -0500",
+    "url": "https://arxiv.org/abs/2603.00267"
+  },
+  {
+    "source": "arXiv",
+    "title": "TraderBench: How Robust Are AI Agents in Adversarial Capital Markets?",
+    "date": "Wed, 04 Mar 2026 00:00:00 -0500",
+    "url": "https://arxiv.org/abs/2603.00285"
+  },
+  {
+    "source": "arXiv",
+    "title": "DIG to Heal: Scaling General-purpose Agent Collaboration via Explainable Dynamic Decision Paths",
+    "date": "Wed, 04 Mar 2026 00:00:00 -0500",
+    "url": "https://arxiv.org/abs/2603.00309"
+  },
+  {
+    "source": "arXiv",
+    "title": "How Well Do Multimodal Models Reason on ECG Signals?",
+    "date": "Wed, 04 Mar 2026 00:00:00 -0500",
+    "url": "https://arxiv.org/abs/2603.00312"
+  },
+  {
+    "source": "arXiv",
+    "title": "EmCoop: A Framework and Benchmark for Embodied Cooperation Among LLM Agents",
+    "date": "Wed, 04 Mar 2026 00:00:00 -0500",
+    "url": "https://arxiv.org/abs/2603.00349"
+  },
+  {
+    "source": "arXiv",
+    "title": "Monotropic Artificial Intelligence: Toward a Cognitive Taxonomy of Domain-Specialized Language Models",
+    "date": "Wed, 04 Mar 2026 00:00:00 -0500",
+    "url": "https://arxiv.org/abs/2603.00350"
+  },
+  {
+    "source": "arXiv",
+    "title": "Conservative Equilibrium Discovery in Offline Game-Theoretic Multiagent Reinforcement Learning",
+    "date": "Wed, 04 Mar 2026 00:00:00 -0500",
+    "url": "https://arxiv.org/abs/2603.00374"
+  },
+  {
+    "source": "arXiv",
+    "title": "NeuroHex: Highly-Efficient Hex Coordinate System for Creating World Models to Enable Adaptive AI",
+    "date": "Wed, 04 Mar 2026 00:00:00 -0500",
+    "url": "https://arxiv.org/abs/2603.00376"
+  },
+  {
+    "source": "arXiv",
+    "title": "Confusion-Aware Rubric Optimization for LLM-based Automated Grading",
+    "date": "Wed, 04 Mar 2026 00:00:00 -0500",
+    "url": "https://arxiv.org/abs/2603.00451"
+  },
+  {
+    "source": "arXiv",
+    "title": "MED-COPILOT: A Medical Assistant Powered by GraphRAG and Similar Patient Case Retrieval",
+    "date": "Wed, 04 Mar 2026 00:00:00 -0500",
+    "url": "https://arxiv.org/abs/2603.00460"
+  },
+  {
+    "source": "arXiv",
+    "title": "Optimizing In-Context Demonstrations for LLM-based Automated Grading",
+    "date": "Wed, 04 Mar 2026 00:00:00 -0500",
+    "url": "https://arxiv.org/abs/2603.00465"
+  },
+  {
+    "source": "arXiv",
+    "title": "Why Not? Solver-Grounded Certificates for Explainable Mission Planning",
+    "date": "Wed, 04 Mar 2026 00:00:00 -0500",
+    "url": "https://arxiv.org/abs/2603.00469"
+  },
+  {
+    "source": "arXiv",
+    "title": "From Goals to Aspects, Revisited: An NFR Pattern Language for Agentic AI Systems",
+    "date": "Wed, 04 Mar 2026 00:00:00 -0500",
+    "url": "https://arxiv.org/abs/2603.00472"
+  },
+  {
+    "source": "arXiv",
+    "title": "LifeEval: A Multimodal Benchmark for Assistive AI in Egocentric Daily Life Tasks",
+    "date": "Wed, 04 Mar 2026 00:00:00 -0500",
+    "url": "https://arxiv.org/abs/2603.00490"
+  },
+  {
+    "source": "arXiv",
+    "title": "AI Runtime Infrastructure",
+    "date": "Wed, 04 Mar 2026 00:00:00 -0500",
+    "url": "https://arxiv.org/abs/2603.00495"
+  },
+  {
+    "source": "arXiv",
+    "title": "DenoiseFlow: Uncertainty-Aware Denoising for Reliable LLM Agentic Workflows",
+    "date": "Wed, 04 Mar 2026 00:00:00 -0500",
+    "url": "https://arxiv.org/abs/2603.00532"
+  },
+  {
+    "source": "arXiv",
+    "title": "LOGIGEN: Logic-Driven Generation of Verifiable Agentic Tasks",
+    "date": "Wed, 04 Mar 2026 00:00:00 -0500",
+    "url": "https://arxiv.org/abs/2603.00540"
+  },
+  {
+    "source": "arXiv",
+    "title": "Advancing Multimodal Judge Models through a Capability-Oriented Benchmark and MCTS-Driven Data Generation",
+    "date": "Wed, 04 Mar 2026 00:00:00 -0500",
+    "url": "https://arxiv.org/abs/2603.00546"
+  },
+  {
+    "source": "arXiv",
+    "title": "EMPA: Evaluating Persona-Aligned Empathy as a Process",
+    "date": "Wed, 04 Mar 2026 00:00:00 -0500",
+    "url": "https://arxiv.org/abs/2603.00552"
+  },
+  {
+    "source": "arXiv",
+    "title": "SWE-Hub: A Unified Production System for Scalable, Executable Software Engineering Tasks",
+    "date": "Wed, 04 Mar 2026 00:00:00 -0500",
+    "url": "https://arxiv.org/abs/2603.00575"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "PRX Part 3 — Training a Text-to-Image Model in 24h!",
+    "date": "Tue, 03 Mar 2026 16:50:49 GMT",
+    "url": "https://huggingface.co/blog/Photoroom/prx-part3"
+  },
+  {
+    "source": "OpenAI",
+    "title": "GPT-5.3 Instant System Card",
+    "date": "Tue, 03 Mar 2026 10:00:00 GMT",
+    "url": "https://openai.com/index/gpt-5-3-instant-system-card"
+  },
+  {
+    "source": "OpenAI",
+    "title": "GPT-5.3 Instant: Smoother, more useful everyday conversations",
+    "date": "Tue, 03 Mar 2026 10:00:00 GMT",
+    "url": "https://openai.com/index/gpt-5-3-instant"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Our agreement with the Department of War",
+    "date": "Sat, 28 Feb 2026 12:30:00 GMT",
+    "url": "https://openai.com/index/our-agreement-with-the-department-of-war"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Joint Statement from OpenAI and Microsoft",
+    "date": "Fri, 27 Feb 2026 05:30:00 GMT",
+    "url": "https://openai.com/index/continuing-microsoft-partnership"
+  },
+  {
+    "source": "OpenAI",
+    "title": "OpenAI and Amazon announce strategic partnership",
+    "date": "Fri, 27 Feb 2026 05:30:00 GMT",
+    "url": "https://openai.com/index/amazon-partnership"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Scaling AI for everyone",
+    "date": "Fri, 27 Feb 2026 05:30:00 GMT",
+    "url": "https://openai.com/index/scaling-ai-for-everyone"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Introducing the Stateful Runtime Environment for Agents in Amazon Bedrock",
+    "date": "Fri, 27 Feb 2026 05:30:00 GMT",
+    "url": "https://openai.com/index/introducing-the-stateful-runtime-environment-for-agents-in-amazon-bedrock"
+  },
+  {
+    "source": "OpenAI",
+    "title": "An update on our mental health-related work",
+    "date": "Fri, 27 Feb 2026 00:00:00 GMT",
+    "url": "https://openai.com/index/update-on-mental-health-related-work"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Pacific Northwest National Laboratory and OpenAI partner to accelerate federal permitting ",
+    "date": "Thu, 26 Feb 2026 10:00:00 GMT",
+    "url": "https://openai.com/index/pacific-northwest-national-laboratory"
+  },
+  {
+    "source": "OpenAI",
+    "title": "OpenAI Codex and Figma launch seamless code-to-design experience",
+    "date": "Thu, 26 Feb 2026 06:00:00 GMT",
+    "url": "https://openai.com/index/figma-partnership"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "Mixture of Experts (MoEs) in Transformers",
+    "date": "Thu, 26 Feb 2026 00:00:00 GMT",
+    "url": "https://huggingface.co/blog/moe-transformers"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Disrupting malicious uses of AI | February 2026",
+    "date": "Wed, 25 Feb 2026 00:00:00 GMT",
+    "url": "https://openai.com/index/disrupting-malicious-ai-uses"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Arvind KC appointed Chief People Officer",
+    "date": "Tue, 24 Feb 2026 13:40:00 GMT",
+    "url": "https://openai.com/index/arvind-kc-chief-people-officer"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "Deploying Open Source Vision Language Models (VLM) on Jetson",
+    "date": "Tue, 24 Feb 2026 00:00:21 GMT",
+    "url": "https://huggingface.co/blog/nvidia/cosmos-on-jetson"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Why we no longer evaluate SWE-bench Verified",
+    "date": "Mon, 23 Feb 2026 11:00:00 GMT",
+    "url": "https://openai.com/index/why-we-no-longer-evaluate-swe-bench-verified"
+  },
+  {
+    "source": "OpenAI",
+    "title": "OpenAI announces Frontier Alliance Partners",
+    "date": "Mon, 23 Feb 2026 05:30:00 GMT",
+    "url": "https://openai.com/index/frontier-alliance-partners"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Our First Proof submissions",
+    "date": "Fri, 20 Feb 2026 14:30:00 GMT",
+    "url": "https://openai.com/index/first-proof-submissions"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "GGML and llama.cpp join HF to ensure the long-term progress of Local AI",
+    "date": "Fri, 20 Feb 2026 00:00:00 GMT",
+    "url": "https://huggingface.co/blog/ggml-joins-hf"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "Train AI models with Unsloth and Hugging Face Jobs for FREE",
+    "date": "Fri, 20 Feb 2026 00:00:00 GMT",
+    "url": "https://huggingface.co/blog/unsloth-jobs"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Advancing independent research on AI alignment",
+    "date": "Thu, 19 Feb 2026 10:00:00 GMT",
+    "url": "https://openai.com/index/advancing-independent-research-ai-alignment"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Introducing OpenAI for India",
+    "date": "Wed, 18 Feb 2026 21:00:00 GMT",
+    "url": "https://openai.com/index/openai-for-india"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "IBM and UC Berkeley Diagnose Why Enterprise Agents Fail Using IT-Bench and MAST",
+    "date": "Wed, 18 Feb 2026 16:15:45 GMT",
+    "url": "https://huggingface.co/blog/ibm-research/itbenchandmast"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "One-Shot Any Web App with Gradio's gr.HTML",
+    "date": "Wed, 18 Feb 2026 00:00:00 GMT",
+    "url": "https://huggingface.co/blog/gradio-html-one-shot-apps"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Introducing EVMbench",
+    "date": "Wed, 18 Feb 2026 00:00:00 GMT",
+    "url": "https://openai.com/index/introducing-evmbench"
+  },
+  {
+    "source": "OpenAI",
+    "title": "GPT-5.2 derives a new result in theoretical physics",
+    "date": "Fri, 13 Feb 2026 11:00:00 GMT",
+    "url": "https://openai.com/index/new-result-theoretical-physics"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Introducing Lockdown Mode and Elevated Risk labels in ChatGPT",
+    "date": "Fri, 13 Feb 2026 10:00:00 GMT",
+    "url": "https://openai.com/index/introducing-lockdown-mode-and-elevated-risk-labels-in-chatgpt"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "Custom Kernels for All from Codex and Claude",
+    "date": "Fri, 13 Feb 2026 00:00:00 GMT",
+    "url": "https://huggingface.co/blog/custom-cuda-kernels-agent-skills"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "OpenEnv in Practice: Evaluating Tool-Using Agents in Real-World Environments",
+    "date": "Thu, 12 Feb 2026 00:00:00 GMT",
+    "url": "https://huggingface.co/blog/openenv-turing"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "Transformers.js v4 Preview: Now Available on NPM!",
+    "date": "Mon, 09 Feb 2026 00:00:00 GMT",
+    "url": "https://huggingface.co/blog/transformersjs-v4"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "Introducing SyGra Studio",
+    "date": "Thu, 05 Feb 2026 16:52:28 GMT",
+    "url": "https://huggingface.co/blog/ServiceNow-AI/sygra-studio"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "Community Evals: Because we're done trusting black-box leaderboards over the community",
+    "date": "Wed, 04 Feb 2026 00:00:00 GMT",
+    "url": "https://huggingface.co/blog/community-evals"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "H Company's new Holo2 model takes the lead in UI Localization",
+    "date": "Tue, 03 Feb 2026 17:40:14 GMT",
+    "url": "https://huggingface.co/blog/Hcompany/introducing-holo2-235b-a22b"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "The Future of the Global Open-Source AI Ecosystem: From DeepSeek to AI+",
+    "date": "Tue, 03 Feb 2026 15:03:19 GMT",
+    "url": "https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment-blog-3"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "Training Design for Text-to-Image Models: Lessons from Ablations",
+    "date": "Tue, 03 Feb 2026 11:25:53 GMT",
+    "url": "https://huggingface.co/blog/Photoroom/prx-part2"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "Introducing Daggr: Chain apps programmatically, inspect visually",
+    "date": "Thu, 29 Jan 2026 00:00:00 GMT",
+    "url": "https://huggingface.co/blog/daggr"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "We Got Claude to Build CUDA Kernels and teach open models!",
+    "date": "Wed, 28 Jan 2026 00:00:00 GMT",
+    "url": "https://huggingface.co/blog/upskill"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "Architectural Choices in China's Open-Source AI Ecosystem: Building Beyond DeepSeek ",
+    "date": "Tue, 27 Jan 2026 15:01:45 GMT",
+    "url": "https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment-blog-2"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "Alyah ⭐️: Toward Robust Evaluation of Emirati Dialect Capabilities in Arabic LLMs",
+    "date": "Tue, 27 Jan 2026 10:26:42 GMT",
+    "url": "https://huggingface.co/blog/tiiuae/emirati-benchmarks"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "Unlocking Agentic RL Training for GPT-OSS: A Practical Retrospective",
+    "date": "Tue, 27 Jan 2026 01:53:15 GMT",
+    "url": "https://huggingface.co/blog/LinkedIn/gpt-oss-agentic-rl"
+  },
+  {
+    "source": "VentureBeat",
+    "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
+    "date": "Thu, 22 Jan 2026 14:00:00 GMT",
+    "url": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
+  },
+  {
+    "source": "VentureBeat",
+    "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
+    "date": "Mon, 19 Jan 2026 14:00:00 GMT",
+    "url": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free"
+  },
+  {
+    "source": "VentureBeat",
+    "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
+    "date": "Fri, 16 Jan 2026 14:01:00 GMT",
+    "url": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai"
+  },
+  {
+    "source": "VentureBeat",
+    "title": "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI",
+    "date": "Tue, 13 Jan 2026 13:00:00 GMT",
+    "url": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Converge Bio raises $25M, backed by Bessemer and execs from Meta, OpenAI, Wiz",
+    "date": "Tue, 13 Jan 2026 11:30:00 +0000",
+    "url": "https://techcrunch.com/2026/01/13/ai-drug-discovery-startup-converge-bio-pulls-in-25m-from-bessemer-and-execs-from-meta-openai-and-wiz/"
+  },
+  {
+    "source": "VentureBeat",
+    "title": "Anthropic launches Cowork, a Claude Desktop agent that works in your files — no coding required",
+    "date": "Mon, 12 Jan 2026 11:30:00 GMT",
+    "url": "https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no"
+  },
+  {
+    "source": "VentureBeat",
+    "title": "Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment",
+    "date": "Wed, 07 Jan 2026 20:00:00 GMT",
+    "url": "https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in"
+  },
+  {
+    "source": "VentureBeat",
+    "title": "The creator of Claude Code just revealed his workflow, and developers are losing their minds",
+    "date": "Mon, 05 Jan 2026 07:45:00 GMT",
+    "url": "https://venturebeat.com/technology/the-creator-of-claude-code-just-revealed-his-workflow-and-developers-are"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Meta bought 1 GW of solar this week",
+    "date": "Fri, 31 Oct 2025 19:26:30 +0000",
+    "url": "https://techcrunch.com/2025/10/31/meta-bought-1-gw-of-solar-this-week/"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "How one AI startup is helping rice farmers battle climate change",
+    "date": "Tue, 26 Aug 2025 15:21:19 +0000",
+    "url": "https://techcrunch.com/2025/08/26/how-one-ai-startup-is-helping-rice-farmers-battle-climate-change/"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Harvard dropouts to launch ‘always on’ AI smart glasses that listen and record every conversation",
+    "date": "Wed, 20 Aug 2025 16:00:00 +0000",
+    "url": "https://techcrunch.com/2025/08/20/harvard-dropouts-to-launch-always-on-ai-smart-glasses-that-listen-and-record-every-conversation/"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Meta to add 100MW of solar power from US gear",
+    "date": "Wed, 20 Aug 2025 15:56:53 +0000",
+    "url": "https://techcrunch.com/2025/08/20/meta-to-add-100-mw-of-solar-power-from-u-s-gear/"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Perplexity accused of scraping websites that explicitly blocked AI scraping",
+    "date": "Mon, 04 Aug 2025 15:41:39 +0000",
+    "url": "https://techcrunch.com/2025/08/04/perplexity-accused-of-scraping-websites-that-explicitly-blocked-ai-scraping/"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Obvio’s stop sign cameras use AI to root out unsafe drivers",
+    "date": "Wed, 04 Jun 2025 14:00:00 +0000",
+    "url": "https://techcrunch.com/2025/06/04/obvios-stop-sign-cameras-use-ai-to-root-out-unsafe-drivers/"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Breakneck data center growth challenges Microsoft’s sustainability goals",
+    "date": "Mon, 02 Jun 2025 18:07:05 +0000",
+    "url": "https://techcrunch.com/2025/06/02/breakneck-data-center-growth-challenges-microsofts-sustainability-goals/"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Gridcare thinks more than 100 GW of data center capacity is hiding in the grid",
+    "date": "Tue, 27 May 2025 12:00:00 +0000",
+    "url": "https://techcrunch.com/2025/05/27/gridcare-thinks-more-than-100-gw-of-data-center-capacity-is-hiding-in-the-grid/"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Meta adds another 650 MW of solar power to its AI push",
+    "date": "Thu, 22 May 2025 16:49:53 +0000",
+    "url": "https://techcrunch.com/2025/05/22/meta-adds-another-650-mw-of-solar-power-to-its-ai-push/"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Who are climate-conscious consumers? Not who you’d expect, says Northwind Climate",
+    "date": "Tue, 01 Apr 2025 19:52:59 +0000",
+    "url": "https://techcrunch.com/2025/04/01/who-are-climate-conscious-consumers-not-who-youd-expect-says-northwind-climate/"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Data centers love solar: Here’s a comprehensive guide to deals over 100 megawatts",
+    "date": "Sun, 30 Mar 2025 14:00:00 +0000",
+    "url": "https://techcrunch.com/2025/03/30/data-centers-love-solar-heres-a-comprehensive-guide-to-deals-over-100-megawatts/"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Nvidia thinks AI can solve electrical grid problems caused by AI",
+    "date": "Thu, 20 Mar 2025 16:41:12 +0000",
+    "url": "https://techcrunch.com/2025/03/20/nvidia-thinks-ai-can-solve-electrical-grid-problems-caused-by-ai/"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Solar notches another win as Microsoft adds 475 MW to power its AI data centers",
+    "date": "Thu, 20 Mar 2025 14:57:11 +0000",
+    "url": "https://techcrunch.com/2025/03/20/solar-notches-another-win-as-microsoft-adds-475-mw-to-power-its-ai-data-centers/"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Geothermal could power nearly all new data centers through 2030",
+    "date": "Tue, 11 Mar 2025 17:43:52 +0000",
+    "url": "https://techcrunch.com/2025/03/11/geothermal-could-power-nearly-all-new-data-centers-through-2030/"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "ElevenLabs now lets authors create and publish audiobooks on its own platform",
+    "date": "Wed, 26 Feb 2025 03:45:45 +0000",
+    "url": "https://techcrunch.com/2025/02/25/elevenlabs-is-now-letting-authors-create-and-publish-audiobooks-on-its-own-platform/"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Data center tweaks could unlock 76 GW of new power capacity in the US",
+    "date": "Thu, 13 Feb 2025 14:00:00 +0000",
+    "url": "https://techcrunch.com/2025/02/13/data-center-tweaks-could-unlock-76-gw-of-new-power-capacity-in-the-u-s/"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "YouTube AI updates include auto dubbing expansion, age ID tech, and more",
+    "date": "Tue, 11 Feb 2025 14:57:22 +0000",
+    "url": "https://techcrunch.com/2025/02/11/youtube-ai-updates-to-include-expansion-of-auto-dubbing-age-identifying-tech-and-more/"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Self Inspection raises $3M for its AI-powered vehicle inspections",
+    "date": "Fri, 07 Feb 2025 18:00:44 +0000",
+    "url": "https://techcrunch.com/2025/02/07/self-inspection-raises-3m-for-its-ai-powered-vehicle-inspections/"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Meta turns to solar — again — in its data center-building boom",
+    "date": "Fri, 31 Jan 2025 19:38:51 +0000",
+    "url": "https://techcrunch.com/2025/01/31/meta-turns-to-solar-again-in-its-data-center-building-boom/"
+  }
+]

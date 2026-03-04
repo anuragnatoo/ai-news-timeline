@@ -1,0 +1,91 @@
+body {
+    font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+    background: #f5f5f5;
+    margin:0;
+}
+
+header{
+    position:sticky;
+    top:0;
+    background:white;
+    border-bottom:1px solid #eee;
+}
+
+.header-inner{
+    max-width:800px;
+    margin:auto;
+    padding:20px;
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+}
+
+#search{
+    padding:8px 12px;
+    border-radius:6px;
+    border:1px solid #ddd;
+}
+
+.container{
+    max-width:800px;
+    margin:auto;
+    padding:20px;
+}
+
+.card{
+    background:white;
+    border:1px solid #eee;
+    border-radius:10px;
+    padding:18px;
+    margin-bottom:14px;
+    transition:all .2s ease;
+}
+
+.card:hover{
+    transform:translateY(-2px);
+    box-shadow:0 6px 18px rgba(0,0,0,0.05);
+}
+
+.meta{
+    font-size:12px;
+    color:#666;
+    margin-bottom:6px;
+}
+
+.badge{
+    display:inline-block;
+    padding:2px 8px;
+    border-radius:6px;
+    font-size:11px;
+    margin-right:6px;
+}
+
+.OpenAI{background:#e7f6ff;}
+.HuggingFace{background:#fff3d6;}
+.TechCrunch{background:#e9ffe8;}
+.VentureBeat{background:#ffecec;}
+.arXiv{background:#f1e9ff;}
+
+a{
+    text-decoration:none;
+    color:black;
+    font-weight:500;
+}
+
+#filters{
+    margin-bottom:20px;
+}
+
+.filter{
+    padding:6px 10px;
+    border:1px solid #ddd;
+    border-radius:6px;
+    margin-right:6px;
+    cursor:pointer;
+    background:white;
+}
+
+.filter.active{
+    background:black;
+    color:white;
+}
