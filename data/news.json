@@ -1,5 +1,11 @@
 [
   {
+    "source": "OpenAI",
+    "title": "Extending single-minus amplitudes to gravitons",
+    "date": "Wed, 04 Mar 2026 10:00:00 GMT",
+    "url": "https://openai.com/index/extending-single-minus-amplitudes-to-gravitons"
+  },
+  {
     "source": "arXiv",
     "title": "Multi-Sourced, Multi-Agent Evidence Retrieval for Fact-Checking",
     "date": "Wed, 04 Mar 2026 00:00:00 -0500",
@@ -178,6 +184,78 @@
     "title": "MemPO: Self-Memory Policy Optimization for Long-Horizon Agents",
     "date": "Wed, 04 Mar 2026 00:00:00 -0500",
     "url": "https://arxiv.org/abs/2603.00680"
+  },
+  {
+    "source": "arXiv",
+    "title": "AIoT-based Continuous, Contextualized, and Explainable Driving Assessment for Older Adults",
+    "date": "Wed, 04 Mar 2026 00:00:00 -0500",
+    "url": "https://arxiv.org/abs/2603.00691"
+  },
+  {
+    "source": "arXiv",
+    "title": "MO-MIX: Multi-Objective Multi-Agent Cooperative Decision-Making With Deep Reinforcement Learning",
+    "date": "Wed, 04 Mar 2026 00:00:00 -0500",
+    "url": "https://arxiv.org/abs/2603.00730"
+  },
+  {
+    "source": "arXiv",
+    "title": "The Synthetic Web: Adversarially-Curated Mini-Internets for Diagnosing Epistemic Weaknesses of Language Agents",
+    "date": "Wed, 04 Mar 2026 00:00:00 -0500",
+    "url": "https://arxiv.org/abs/2603.00801"
+  },
+  {
+    "source": "arXiv",
+    "title": "MetaMind: General and Cognitive World Models in Multi-Agent Systems by Meta-Theory of Mind",
+    "date": "Wed, 04 Mar 2026 00:00:00 -0500",
+    "url": "https://arxiv.org/abs/2603.00808"
+  },
+  {
+    "source": "arXiv",
+    "title": "MC-Search: Evaluating and Enhancing Multimodal Agentic Search with Structured Long Reasoning Chains",
+    "date": "Wed, 04 Mar 2026 00:00:00 -0500",
+    "url": "https://arxiv.org/abs/2603.00873"
+  },
+  {
+    "source": "arXiv",
+    "title": "BioProAgent: Neuro-Symbolic Grounding for Constrained Scientific Planning",
+    "date": "Wed, 04 Mar 2026 00:00:00 -0500",
+    "url": "https://arxiv.org/abs/2603.00876"
+  },
+  {
+    "source": "arXiv",
+    "title": "HiMAC: Hierarchical Macro-Micro Learning for Long-Horizon LLM Agents",
+    "date": "Wed, 04 Mar 2026 00:00:00 -0500",
+    "url": "https://arxiv.org/abs/2603.00977"
+  },
+  {
+    "source": "arXiv",
+    "title": "Tracking Capabilities for Safer Agents",
+    "date": "Wed, 04 Mar 2026 00:00:00 -0500",
+    "url": "https://arxiv.org/abs/2603.00991"
+  },
+  {
+    "source": "arXiv",
+    "title": "CollabEval: Enhancing LLM-as-a-Judge via Multi-Agent Collaboration",
+    "date": "Wed, 04 Mar 2026 00:00:00 -0500",
+    "url": "https://arxiv.org/abs/2603.00993"
+  },
+  {
+    "source": "arXiv",
+    "title": "MMCOMET: A Large-Scale Multimodal Commonsense Knowledge Graph for Contextual Reasoning",
+    "date": "Wed, 04 Mar 2026 00:00:00 -0500",
+    "url": "https://arxiv.org/abs/2603.01055"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Understanding AI and learning outcomes",
+    "date": "Wed, 04 Mar 2026 00:00:00 GMT",
+    "url": "https://openai.com/index/understanding-ai-and-learning-outcomes"
+  },
+  {
+    "source": "OpenAI",
+    "title": "How Axios uses AI to help deliver high-impact local journalism ",
+    "date": "Wed, 04 Mar 2026 00:00:00 GMT",
+    "url": "https://openai.com/index/axios-allison-murphy"
   },
   {
     "source": "HuggingFace",
@@ -426,10 +504,40 @@
     "url": "https://openai.com/index/introducing-openai-frontier"
   },
   {
+    "source": "OpenAI",
+    "title": "Navigating health questions with ChatGPT",
+    "date": "Thu, 05 Feb 2026 00:00:00 GMT",
+    "url": "https://openai.com/index/navigating-health-questions"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Introducing GPT-5.3-Codex",
+    "date": "Thu, 05 Feb 2026 00:00:00 GMT",
+    "url": "https://openai.com/index/introducing-gpt-5-3-codex"
+  },
+  {
+    "source": "OpenAI",
+    "title": "GPT-5.3-Codex System Card",
+    "date": "Thu, 05 Feb 2026 00:00:00 GMT",
+    "url": "https://openai.com/index/gpt-5-3-codex-system-card"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Unlocking the Codex harness: how we built the App Server",
+    "date": "Wed, 04 Feb 2026 13:00:00 GMT",
+    "url": "https://openai.com/index/unlocking-the-codex-harness"
+  },
+  {
     "source": "HuggingFace",
     "title": "Community Evals: Because we're done trusting black-box leaderboards over the community",
     "date": "Wed, 04 Feb 2026 00:00:00 GMT",
     "url": "https://huggingface.co/blog/community-evals"
+  },
+  {
+    "source": "OpenAI",
+    "title": "VfL Wolfsburg turns ChatGPT into a club-wide capability",
+    "date": "Wed, 04 Feb 2026 00:00:00 GMT",
+    "url": "https://openai.com/index/vfl-wolfsburg"
   },
   {
     "source": "HuggingFace",
@@ -448,6 +556,18 @@
     "title": "Training Design for Text-to-Image Models: Lessons from Ablations",
     "date": "Tue, 03 Feb 2026 11:25:53 GMT",
     "url": "https://huggingface.co/blog/Photoroom/prx-part2"
+  },
+  {
+    "source": "OpenAI",
+    "title": "The Sora feed philosophy",
+    "date": "Tue, 03 Feb 2026 00:00:00 GMT",
+    "url": "https://openai.com/index/sora-feed-philosophy"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Snowflake and OpenAI partner to bring frontier intelligence to enterprise data",
+    "date": "Mon, 02 Feb 2026 06:00:00 GMT",
+    "url": "https://openai.com/index/snowflake-partnership"
   },
   {
     "source": "HuggingFace",
@@ -586,6 +706,66 @@
     "title": "Tokenization in Transformers v5: Simpler, Clearer, and More Modular",
     "date": "Thu, 18 Dec 2025 00:00:00 GMT",
     "url": "https://huggingface.co/blog/tokenizers"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "The Open Evaluation Standard: Benchmarking NVIDIA Nemotron 3 Nano with NeMo Evaluator",
+    "date": "Wed, 17 Dec 2025 13:22:18 GMT",
+    "url": "https://huggingface.co/blog/nvidia/nemotron-3-nano-evaluation-recipe"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "CUGA on Hugging Face: Democratizing Configurable AI Agents",
+    "date": "Mon, 15 Dec 2025 16:01:04 GMT",
+    "url": "https://huggingface.co/blog/ibm-research/cuga-on-hugging-face"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "New in llama.cpp: Model Management",
+    "date": "Thu, 11 Dec 2025 15:47:44 GMT",
+    "url": "https://huggingface.co/blog/ggml-org/model-management-in-llamacpp"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "Codex is Open Sourcing AI models",
+    "date": "Thu, 11 Dec 2025 00:00:00 GMT",
+    "url": "https://huggingface.co/blog/hf-skills-training-codex"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "Introducing swift-huggingface: The Complete Swift Client for Hugging Face",
+    "date": "Fri, 05 Dec 2025 00:00:00 GMT",
+    "url": "https://huggingface.co/blog/swift-huggingface"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "DeepMath: A lightweight math reasoning Agent with smolagents",
+    "date": "Thu, 04 Dec 2025 00:00:00 GMT",
+    "url": "https://huggingface.co/blog/intel-deepmath"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "We Got Claude to Fine-Tune an Open Source LLM",
+    "date": "Thu, 04 Dec 2025 00:00:00 GMT",
+    "url": "https://huggingface.co/blog/hf-skills-training"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "Transformers v5: Simple model definitions powering the AI ecosystem",
+    "date": "Mon, 01 Dec 2025 00:00:00 GMT",
+    "url": "https://huggingface.co/blog/transformers-v5"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "Diffusers welcomes FLUX-2",
+    "date": "Tue, 25 Nov 2025 00:00:00 GMT",
+    "url": "https://huggingface.co/blog/flux-2"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "Continuous batching from first principles",
+    "date": "Tue, 25 Nov 2025 00:00:00 GMT",
+    "url": "https://huggingface.co/blog/continuous_batching"
   },
   {
     "source": "TechCrunch",
