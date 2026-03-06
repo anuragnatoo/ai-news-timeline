@@ -1,5 +1,119 @@
 [
   {
+    "source": "HuggingFace",
+    "title": "Bringing Robotics AI to Embedded Platforms: Dataset Recording, VLA Fine‑Tuning, and On‑Device Optimizations",
+    "date": "Thu, 05 Mar 2026 14:16:49 GMT",
+    "url": "https://huggingface.co/blog/nxp/bringing-robotics-ai-to-embedded-platforms"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Introducing GPT-5.4",
+    "date": "Thu, 05 Mar 2026 10:00:00 GMT",
+    "url": "https://openai.com/index/introducing-gpt-5-4"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Reasoning models struggle to control their chains of thought, and that’s good",
+    "date": "Thu, 05 Mar 2026 10:00:00 GMT",
+    "url": "https://openai.com/index/reasoning-models-chain-of-thought-controllability"
+  },
+  {
+    "source": "OpenAI",
+    "title": "GPT-5.4 Thinking System Card",
+    "date": "Thu, 05 Mar 2026 10:00:00 GMT",
+    "url": "https://openai.com/index/gpt-5-4-thinking-system-card"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Ensuring AI use in education leads to opportunity",
+    "date": "Thu, 05 Mar 2026 09:00:00 GMT",
+    "url": "https://openai.com/index/ai-education-opportunity"
+  },
+  {
+    "source": "arXiv",
+    "title": "Asymmetric Goal Drift in Coding Agents Under Value Conflict",
+    "date": "Thu, 05 Mar 2026 00:00:00 -0500",
+    "url": "https://arxiv.org/abs/2603.03456"
+  },
+  {
+    "source": "arXiv",
+    "title": "Build, Judge, Optimize: A Blueprint for Continuous Improvement of Multi-Agent Consumer Assistants",
+    "date": "Thu, 05 Mar 2026 00:00:00 -0500",
+    "url": "https://arxiv.org/abs/2603.03565"
+  },
+  {
+    "source": "arXiv",
+    "title": "Mozi: Governed Autonomy for Drug Discovery LLM Agents",
+    "date": "Thu, 05 Mar 2026 00:00:00 -0500",
+    "url": "https://arxiv.org/abs/2603.03655"
+  },
+  {
+    "source": "arXiv",
+    "title": "MAGE: Meta-Reinforcement Learning for Language Agents toward Strategic Exploration and Exploitation",
+    "date": "Thu, 05 Mar 2026 00:00:00 -0500",
+    "url": "https://arxiv.org/abs/2603.03680"
+  },
+  {
+    "source": "arXiv",
+    "title": "AI4S-SDS: A Neuro-Symbolic Solvent Design System via Sparse MCTS and Differentiable Physics Alignment",
+    "date": "Thu, 05 Mar 2026 00:00:00 -0500",
+    "url": "https://arxiv.org/abs/2603.03686"
+  },
+  {
+    "source": "arXiv",
+    "title": "RAGNav: A Retrieval-Augmented Topological Reasoning Framework for Multi-Goal Visual-Language Navigation",
+    "date": "Thu, 05 Mar 2026 00:00:00 -0500",
+    "url": "https://arxiv.org/abs/2603.03745"
+  },
+  {
+    "source": "arXiv",
+    "title": "AgentSelect: Benchmark for Narrative Query-to-Agent Recommendation",
+    "date": "Thu, 05 Mar 2026 00:00:00 -0500",
+    "url": "https://arxiv.org/abs/2603.03761"
+  },
+  {
+    "source": "arXiv",
+    "title": "LifeBench: A Benchmark for Long-Horizon Multi-Source Memory",
+    "date": "Thu, 05 Mar 2026 00:00:00 -0500",
+    "url": "https://arxiv.org/abs/2603.03781"
+  },
+  {
+    "source": "arXiv",
+    "title": "Specification-Driven Generation and Evaluation of Discrete-Event World Models via the DEVS Formalism",
+    "date": "Thu, 05 Mar 2026 00:00:00 -0500",
+    "url": "https://arxiv.org/abs/2603.03784"
+  },
+  {
+    "source": "arXiv",
+    "title": "A Rubric-Supervised Critic from Sparse Real-World Outcomes",
+    "date": "Thu, 05 Mar 2026 00:00:00 -0500",
+    "url": "https://arxiv.org/abs/2603.03800"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Introducing ChatGPT for Excel and new financial data integrations",
+    "date": "Thu, 05 Mar 2026 00:00:00 GMT",
+    "url": "https://openai.com/index/chatgpt-for-excel"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Introducing the Adoption news channel",
+    "date": "Thu, 05 Mar 2026 00:00:00 GMT",
+    "url": "https://openai.com/index/introducing-the-adoption-news-channel"
+  },
+  {
+    "source": "OpenAI",
+    "title": "The five AI value models driving business reinvention",
+    "date": "Thu, 05 Mar 2026 00:00:00 GMT",
+    "url": "https://openai.com/index/the-five-ai-value-models-driving-business-reinvention"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "Introducing Modular Diffusers - Composable Building Blocks for Diffusion Pipelines",
+    "date": "Thu, 05 Mar 2026 00:00:00 GMT",
+    "url": "https://huggingface.co/blog/modular-diffusers"
+  },
+  {
     "source": "OpenAI",
     "title": "Extending single-minus amplitudes to gravitons",
     "date": "Wed, 04 Mar 2026 10:00:00 GMT",
@@ -570,10 +684,28 @@
     "url": "https://openai.com/index/snowflake-partnership"
   },
   {
+    "source": "OpenAI",
+    "title": "Introducing the Codex app",
+    "date": "Mon, 02 Feb 2026 00:00:00 GMT",
+    "url": "https://openai.com/index/introducing-the-codex-app"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Inside OpenAI’s in-house data agent",
+    "date": "Thu, 29 Jan 2026 10:00:00 GMT",
+    "url": "https://openai.com/index/inside-our-in-house-data-agent"
+  },
+  {
     "source": "HuggingFace",
     "title": "Introducing Daggr: Chain apps programmatically, inspect visually",
     "date": "Thu, 29 Jan 2026 00:00:00 GMT",
     "url": "https://huggingface.co/blog/daggr"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Retiring GPT-4o, GPT-4.1, GPT-4.1 mini, and OpenAI o4-mini in ChatGPT",
+    "date": "Thu, 29 Jan 2026 00:00:00 GMT",
+    "url": "https://openai.com/index/retiring-gpt-4o-and-older-models"
   },
   {
     "source": "HuggingFace",
@@ -766,6 +898,54 @@
     "title": "Continuous batching from first principles",
     "date": "Tue, 25 Nov 2025 00:00:00 GMT",
     "url": "https://huggingface.co/blog/continuous_batching"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "Building Deep Research: How we Achieved State of the Art",
+    "date": "Mon, 24 Nov 2025 17:40:14 GMT",
+    "url": "https://huggingface.co/blog/Tavily/tavily-deep-research"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "OVHcloud on Hugging Face Inference Providers 🔥",
+    "date": "Mon, 24 Nov 2025 16:08:47 GMT",
+    "url": "https://huggingface.co/blog/OVHcloud/inference-providers-ovhcloud"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "20x Faster TRL Fine-tuning with RapidFire AI",
+    "date": "Fri, 21 Nov 2025 00:00:00 GMT",
+    "url": "https://huggingface.co/blog/rapidfireai"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "Open ASR Leaderboard: Trends and Insights with New Multilingual & Long-Form Tracks",
+    "date": "Fri, 21 Nov 2025 00:00:00 GMT",
+    "url": "https://huggingface.co/blog/open-asr-leaderboard"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "Introducing AnyLanguageModel: One API for Local and Remote LLMs on Apple Platforms",
+    "date": "Thu, 20 Nov 2025 00:00:00 GMT",
+    "url": "https://huggingface.co/blog/anylanguagemodel"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "Apriel-H1: The Surprising Key to Distilling Efficient Reasoning Models",
+    "date": "Wed, 19 Nov 2025 05:19:07 GMT",
+    "url": "https://huggingface.co/blog/ServiceNow-AI/apriel-h1"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "Easily Build and Share ROCm Kernels with Hugging Face",
+    "date": "Mon, 17 Nov 2025 00:00:00 GMT",
+    "url": "https://huggingface.co/blog/build-rocm-kernels"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "Join the AMD Open Robotics Hackathon",
+    "date": "Thu, 13 Nov 2025 21:37:26 GMT",
+    "url": "https://huggingface.co/blog/amd/openroboticshackathon"
   },
   {
     "source": "TechCrunch",
