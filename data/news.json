@@ -1,6 +1,90 @@
 [
   {
     "source": "HuggingFace",
+    "title": "Conversational LLM Evaluations in Minutes with NVIDIA NeMo Evaluator Agent Skills ",
+    "date": "Fri, 06 Mar 2026 18:56:10 GMT",
+    "url": "https://huggingface.co/blog/nvidia/model-evaluation-skill"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Codex Security: now in research preview ",
+    "date": "Fri, 06 Mar 2026 10:00:00 GMT",
+    "url": "https://openai.com/index/codex-security-now-in-research-preview"
+  },
+  {
+    "source": "OpenAI",
+    "title": "How Descript enables multilingual video dubbing at scale",
+    "date": "Fri, 06 Mar 2026 10:00:00 GMT",
+    "url": "https://openai.com/index/descript"
+  },
+  {
+    "source": "OpenAI",
+    "title": "How Balyasny Asset Management built an AI research engine for investing",
+    "date": "Fri, 06 Mar 2026 07:00:00 GMT",
+    "url": "https://openai.com/index/balyasny-asset-management"
+  },
+  {
+    "source": "arXiv",
+    "title": "SkillNet: Create, Evaluate, and Connect AI Skills",
+    "date": "Fri, 06 Mar 2026 00:00:00 -0500",
+    "url": "https://arxiv.org/abs/2603.04448"
+  },
+  {
+    "source": "arXiv",
+    "title": "Capability Thresholds and Manufacturing Topology: How Embodied Intelligence Triggers Phase Transitions in Economic Geography",
+    "date": "Fri, 06 Mar 2026 00:00:00 -0500",
+    "url": "https://arxiv.org/abs/2603.04457"
+  },
+  {
+    "source": "arXiv",
+    "title": "Progressive Refinement Regulation for Accelerating Diffusion Language Model Decoding",
+    "date": "Fri, 06 Mar 2026 00:00:00 -0500",
+    "url": "https://arxiv.org/abs/2603.04514"
+  },
+  {
+    "source": "arXiv",
+    "title": "Discovering mathematical concepts through a multi-agent system",
+    "date": "Fri, 06 Mar 2026 00:00:00 -0500",
+    "url": "https://arxiv.org/abs/2603.04528"
+  },
+  {
+    "source": "arXiv",
+    "title": "Adaptive Memory Admission Control for LLM Agents",
+    "date": "Fri, 06 Mar 2026 00:00:00 -0500",
+    "url": "https://arxiv.org/abs/2603.04549"
+  },
+  {
+    "source": "arXiv",
+    "title": "Self-Attribution Bias: When AI Monitors Go Easy on Themselves",
+    "date": "Fri, 06 Mar 2026 00:00:00 -0500",
+    "url": "https://arxiv.org/abs/2603.04582"
+  },
+  {
+    "source": "arXiv",
+    "title": "ECG-MoE: Mixture-of-Expert Electrocardiogram Foundation Model",
+    "date": "Fri, 06 Mar 2026 00:00:00 -0500",
+    "url": "https://arxiv.org/abs/2603.04589"
+  },
+  {
+    "source": "arXiv",
+    "title": "Towards automated data analysis: A guided framework for LLM-based risk estimation",
+    "date": "Fri, 06 Mar 2026 00:00:00 -0500",
+    "url": "https://arxiv.org/abs/2603.04631"
+  },
+  {
+    "source": "arXiv",
+    "title": "When Agents Persuade: Propaganda Generation and Mitigation in LLMs",
+    "date": "Fri, 06 Mar 2026 00:00:00 -0500",
+    "url": "https://arxiv.org/abs/2603.04636"
+  },
+  {
+    "source": "arXiv",
+    "title": "Using Vision + Language Models to Predict Item Difficulty",
+    "date": "Fri, 06 Mar 2026 00:00:00 -0500",
+    "url": "https://arxiv.org/abs/2603.04670"
+  },
+  {
+    "source": "HuggingFace",
     "title": "Bringing Robotics AI to Embedded Platforms: Dataset Recording, VLA Fine‑Tuning, and On‑Device Optimizations",
     "date": "Thu, 05 Mar 2026 14:16:49 GMT",
     "url": "https://huggingface.co/blog/nxp/bringing-robotics-ai-to-embedded-platforms"
@@ -708,10 +792,34 @@
     "url": "https://openai.com/index/retiring-gpt-4o-and-older-models"
   },
   {
+    "source": "OpenAI",
+    "title": "Taisei Corporation shapes the next generation of talent with ChatGPT",
+    "date": "Thu, 29 Jan 2026 00:00:00 GMT",
+    "url": "https://openai.com/index/taisei"
+  },
+  {
+    "source": "OpenAI",
+    "title": "EMEA Youth & Wellbeing Grant",
+    "date": "Wed, 28 Jan 2026 01:00:00 GMT",
+    "url": "https://openai.com/index/emea-youth-and-wellbeing-grant"
+  },
+  {
+    "source": "OpenAI",
+    "title": "The next chapter for AI in the EU",
+    "date": "Wed, 28 Jan 2026 01:00:00 GMT",
+    "url": "https://openai.com/index/the-next-chapter-for-ai-in-the-eu"
+  },
+  {
     "source": "HuggingFace",
     "title": "We Got Claude to Build CUDA Kernels and teach open models!",
     "date": "Wed, 28 Jan 2026 00:00:00 GMT",
     "url": "https://huggingface.co/blog/upskill"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Keeping your data safe when an AI agent clicks a link",
+    "date": "Wed, 28 Jan 2026 00:00:00 GMT",
+    "url": "https://openai.com/index/ai-agent-link-safety"
   },
   {
     "source": "HuggingFace",
@@ -726,10 +834,28 @@
     "url": "https://huggingface.co/blog/tiiuae/emirati-benchmarks"
   },
   {
+    "source": "OpenAI",
+    "title": "PVH reimagines the future of fashion with OpenAI",
+    "date": "Tue, 27 Jan 2026 06:00:00 GMT",
+    "url": "https://openai.com/index/pvh-future-of-fashion"
+  },
+  {
     "source": "HuggingFace",
     "title": "Unlocking Agentic RL Training for GPT-OSS: A Practical Retrospective",
     "date": "Tue, 27 Jan 2026 01:53:15 GMT",
     "url": "https://huggingface.co/blog/LinkedIn/gpt-oss-agentic-rl"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Powering tax donations with AI powered personalized recommendations",
+    "date": "Tue, 27 Jan 2026 00:00:00 GMT",
+    "url": "https://openai.com/index/trustbank"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Introducing Prism",
+    "date": "Tue, 27 Jan 2026 00:00:00 GMT",
+    "url": "https://openai.com/index/introducing-prism"
   },
   {
     "source": "VentureBeat",
@@ -948,10 +1074,64 @@
     "url": "https://huggingface.co/blog/amd/openroboticshackathon"
   },
   {
+    "source": "HuggingFace",
+    "title": "Building for an Open Future - our new partnership with Google Cloud",
+    "date": "Thu, 13 Nov 2025 00:00:00 GMT",
+    "url": "https://huggingface.co/blog/google-cloud"
+  },
+  {
     "source": "TechCrunch",
     "title": "Meta bought 1 GW of solar this week",
     "date": "Fri, 31 Oct 2025 19:26:30 +0000",
     "url": "https://techcrunch.com/2025/10/31/meta-bought-1-gw-of-solar-this-week/"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "Aligning to What? Rethinking Agent Generalization in MiniMax M2",
+    "date": "Thu, 30 Oct 2025 10:03:45 GMT",
+    "url": "https://huggingface.co/blog/MiniMax-AI/aligning-to-what"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "On the Shifting Global Compute Landscape",
+    "date": "Wed, 29 Oct 2025 13:56:45 GMT",
+    "url": "https://huggingface.co/blog/huggingface/shifting-compute-landscape"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "Building a Healthcare Robot from Simulation to Deployment with NVIDIA Isaac",
+    "date": "Wed, 29 Oct 2025 00:00:00 GMT",
+    "url": "https://huggingface.co/blog/lerobotxnvidia-healthcare"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "How to Build a Healthcare Robot from Simulation to Deployment with NVIDIA Isaac for Healthcare",
+    "date": "Tue, 28 Oct 2025 20:42:35 GMT",
+    "url": "https://huggingface.co/blog/nvidia/nvidia-isaac-for-healthcare"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "Granite 4.0 Nano: Just how small can you go? ",
+    "date": "Tue, 28 Oct 2025 14:59:38 GMT",
+    "url": "https://huggingface.co/blog/ibm-granite/granite-4-nano"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "Voice Cloning with Consent",
+    "date": "Tue, 28 Oct 2025 00:00:00 GMT",
+    "url": "https://huggingface.co/blog/voice-consent-gate"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "Streaming datasets: 100x More Efficient",
+    "date": "Mon, 27 Oct 2025 00:00:00 GMT",
+    "url": "https://huggingface.co/blog/streaming-datasets"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "huggingface_hub v1.0: Five Years of Building the Foundation of Open Machine Learning",
+    "date": "Mon, 27 Oct 2025 00:00:00 GMT",
+    "url": "https://huggingface.co/blog/huggingface-hub-v1"
   },
   {
     "source": "TechCrunch",
@@ -1018,47 +1198,5 @@
     "title": "Nvidia thinks AI can solve electrical grid problems caused by AI",
     "date": "Thu, 20 Mar 2025 16:41:12 +0000",
     "url": "https://techcrunch.com/2025/03/20/nvidia-thinks-ai-can-solve-electrical-grid-problems-caused-by-ai/"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Solar notches another win as Microsoft adds 475 MW to power its AI data centers",
-    "date": "Thu, 20 Mar 2025 14:57:11 +0000",
-    "url": "https://techcrunch.com/2025/03/20/solar-notches-another-win-as-microsoft-adds-475-mw-to-power-its-ai-data-centers/"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Geothermal could power nearly all new data centers through 2030",
-    "date": "Tue, 11 Mar 2025 17:43:52 +0000",
-    "url": "https://techcrunch.com/2025/03/11/geothermal-could-power-nearly-all-new-data-centers-through-2030/"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "ElevenLabs now lets authors create and publish audiobooks on its own platform",
-    "date": "Wed, 26 Feb 2025 03:45:45 +0000",
-    "url": "https://techcrunch.com/2025/02/25/elevenlabs-is-now-letting-authors-create-and-publish-audiobooks-on-its-own-platform/"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Data center tweaks could unlock 76 GW of new power capacity in the US",
-    "date": "Thu, 13 Feb 2025 14:00:00 +0000",
-    "url": "https://techcrunch.com/2025/02/13/data-center-tweaks-could-unlock-76-gw-of-new-power-capacity-in-the-u-s/"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "YouTube AI updates include auto dubbing expansion, age ID tech, and more",
-    "date": "Tue, 11 Feb 2025 14:57:22 +0000",
-    "url": "https://techcrunch.com/2025/02/11/youtube-ai-updates-to-include-expansion-of-auto-dubbing-age-identifying-tech-and-more/"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Self Inspection raises $3M for its AI-powered vehicle inspections",
-    "date": "Fri, 07 Feb 2025 18:00:44 +0000",
-    "url": "https://techcrunch.com/2025/02/07/self-inspection-raises-3m-for-its-ai-powered-vehicle-inspections/"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Meta turns to solar — again — in its data center-building boom",
-    "date": "Fri, 31 Jan 2025 19:38:51 +0000",
-    "url": "https://techcrunch.com/2025/01/31/meta-turns-to-solar-again-in-its-data-center-building-boom/"
   }
 ]
