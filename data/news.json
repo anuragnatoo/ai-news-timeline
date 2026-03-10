@@ -1,6 +1,90 @@
 [
   {
     "source": "HuggingFace",
+    "title": "Granite 4.0 1B Speech: Compact, Multilingual, and Built for the Edge",
+    "date": "Mon, 09 Mar 2026 18:36:33 GMT",
+    "url": "https://huggingface.co/blog/ibm-granite/granite-4-speech"
+  },
+  {
+    "source": "OpenAI",
+    "title": "OpenAI to acquire Promptfoo",
+    "date": "Mon, 09 Mar 2026 10:00:00 GMT",
+    "url": "https://openai.com/index/openai-to-acquire-promptfoo"
+  },
+  {
+    "source": "arXiv",
+    "title": "RoboLayout: Differentiable 3D Scene Generation for Embodied Agents",
+    "date": "Mon, 09 Mar 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2603.05522"
+  },
+  {
+    "source": "arXiv",
+    "title": "Real-Time AI Service Economy: A Framework for Agentic Computing Across the Continuum",
+    "date": "Mon, 09 Mar 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2603.05614"
+  },
+  {
+    "source": "arXiv",
+    "title": "Reasoning Models Struggle to Control their Chains of Thought",
+    "date": "Mon, 09 Mar 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2603.05706"
+  },
+  {
+    "source": "arXiv",
+    "title": "Evolving Medical Imaging Agents via Experience-driven Self-skill Discovery",
+    "date": "Mon, 09 Mar 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2603.05860"
+  },
+  {
+    "source": "arXiv",
+    "title": "The World Won't Stay Still: Programmable Evolution for Agent Benchmarks",
+    "date": "Mon, 09 Mar 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2603.05910"
+  },
+  {
+    "source": "arXiv",
+    "title": "DeepFact: Co-Evolving Benchmarks and Agents for Deep Research Factuality",
+    "date": "Mon, 09 Mar 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2603.05912"
+  },
+  {
+    "source": "arXiv",
+    "title": "An Interactive Multi-Agent System for Evaluation of New Product Concepts",
+    "date": "Mon, 09 Mar 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2603.05980"
+  },
+  {
+    "source": "arXiv",
+    "title": "Agentic LLM Planning via Step-Wise PDDL Simulation: An Empirical Characterisation",
+    "date": "Mon, 09 Mar 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2603.06064"
+  },
+  {
+    "source": "arXiv",
+    "title": "Aggregative Semantics for Quantitative Bipolar Argumentation Frameworks",
+    "date": "Mon, 09 Mar 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2603.06067"
+  },
+  {
+    "source": "arXiv",
+    "title": "Offline Materials Optimization with CliqueFlowmer",
+    "date": "Mon, 09 Mar 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2603.06082"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "Ulysses Sequence Parallelism: Training with Million-Token Contexts",
+    "date": "Mon, 09 Mar 2026 00:00:00 GMT",
+    "url": "https://huggingface.co/blog/ulysses-sp"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "LeRobot v0.5.0: Scaling Every Dimension",
+    "date": "Mon, 09 Mar 2026 00:00:00 GMT",
+    "url": "https://huggingface.co/blog/lerobot-release-v050"
+  },
+  {
+    "source": "HuggingFace",
     "title": "Conversational LLM Evaluations in Minutes with NVIDIA NeMo Evaluator Agent Skills ",
     "date": "Fri, 06 Mar 2026 18:56:10 GMT",
     "url": "https://huggingface.co/blog/nvidia/model-evaluation-skill"
@@ -1026,6 +1110,18 @@
     "url": "https://openai.com/index/strengthening-the-us-ai-supply-chain"
   },
   {
+    "source": "OpenAI",
+    "title": "OpenAI partners with Cerebras  ",
+    "date": "Wed, 14 Jan 2026 14:00:00 GMT",
+    "url": "https://openai.com/index/cerebras-partnership"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Zenken boosts a lean sales team with ChatGPT Enterprise",
+    "date": "Tue, 13 Jan 2026 16:00:00 GMT",
+    "url": "https://openai.com/index/zenken"
+  },
+  {
     "source": "VentureBeat",
     "title": "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI",
     "date": "Tue, 13 Jan 2026 13:00:00 GMT",
@@ -1044,10 +1140,52 @@
     "url": "https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no"
   },
   {
+    "source": "OpenAI",
+    "title": "OpenAI’s Raising Concerns Policy",
+    "date": "Mon, 12 Jan 2026 00:00:00 GMT",
+    "url": "https://openai.com/index/openai-raising-concerns-policy"
+  },
+  {
+    "source": "OpenAI",
+    "title": "OpenAI and SoftBank Group partner with SB Energy",
+    "date": "Fri, 09 Jan 2026 11:00:00 GMT",
+    "url": "https://openai.com/index/stargate-sb-energy-partnership"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Datadog uses Codex for system-level code review",
+    "date": "Fri, 09 Jan 2026 00:00:00 GMT",
+    "url": "https://openai.com/index/datadog"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Netomi’s lessons for scaling agentic systems into the enterprise",
+    "date": "Thu, 08 Jan 2026 13:00:00 GMT",
+    "url": "https://openai.com/index/netomi"
+  },
+  {
+    "source": "OpenAI",
+    "title": "OpenAI for Healthcare",
+    "date": "Thu, 08 Jan 2026 12:00:00 GMT",
+    "url": "https://openai.com/index/openai-for-healthcare"
+  },
+  {
     "source": "VentureBeat",
     "title": "Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment",
     "date": "Wed, 07 Jan 2026 20:00:00 GMT",
     "url": "https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in"
+  },
+  {
+    "source": "OpenAI",
+    "title": "How Tolan builds voice-first AI with GPT-5.1",
+    "date": "Wed, 07 Jan 2026 10:00:00 GMT",
+    "url": "https://openai.com/index/tolan"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Introducing ChatGPT Health ",
+    "date": "Wed, 07 Jan 2026 00:00:00 GMT",
+    "url": "https://openai.com/index/introducing-chatgpt-health"
   },
   {
     "source": "HuggingFace",
@@ -1060,143 +1198,5 @@
     "title": "Introducing Falcon-H1-Arabic: Pushing the Boundaries of Arabic Language AI with Hybrid Architecture",
     "date": "Mon, 05 Jan 2026 09:16:51 GMT",
     "url": "https://huggingface.co/blog/tiiuae/falcon-h1-arabic"
-  },
-  {
-    "source": "VentureBeat",
-    "title": "The creator of Claude Code just revealed his workflow, and developers are losing their minds",
-    "date": "Mon, 05 Jan 2026 07:45:00 GMT",
-    "url": "https://venturebeat.com/technology/the-creator-of-claude-code-just-revealed-his-workflow-and-developers-are"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "NVIDIA brings agents to life with DGX Spark and Reachy Mini",
-    "date": "Mon, 05 Jan 2026 00:00:00 GMT",
-    "url": "https://huggingface.co/blog/nvidia-reachy-mini"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "AprielGuard: A Guardrail for Safety and Adversarial Robustness in Modern LLM Systems",
-    "date": "Tue, 23 Dec 2025 14:07:35 GMT",
-    "url": "https://huggingface.co/blog/ServiceNow-AI/aprielguard"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "Tokenization in Transformers v5: Simpler, Clearer, and More Modular",
-    "date": "Thu, 18 Dec 2025 00:00:00 GMT",
-    "url": "https://huggingface.co/blog/tokenizers"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "The Open Evaluation Standard: Benchmarking NVIDIA Nemotron 3 Nano with NeMo Evaluator",
-    "date": "Wed, 17 Dec 2025 13:22:18 GMT",
-    "url": "https://huggingface.co/blog/nvidia/nemotron-3-nano-evaluation-recipe"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "CUGA on Hugging Face: Democratizing Configurable AI Agents",
-    "date": "Mon, 15 Dec 2025 16:01:04 GMT",
-    "url": "https://huggingface.co/blog/ibm-research/cuga-on-hugging-face"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "New in llama.cpp: Model Management",
-    "date": "Thu, 11 Dec 2025 15:47:44 GMT",
-    "url": "https://huggingface.co/blog/ggml-org/model-management-in-llamacpp"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "Codex is Open Sourcing AI models",
-    "date": "Thu, 11 Dec 2025 00:00:00 GMT",
-    "url": "https://huggingface.co/blog/hf-skills-training-codex"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "Introducing swift-huggingface: The Complete Swift Client for Hugging Face",
-    "date": "Fri, 05 Dec 2025 00:00:00 GMT",
-    "url": "https://huggingface.co/blog/swift-huggingface"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "DeepMath: A lightweight math reasoning Agent with smolagents",
-    "date": "Thu, 04 Dec 2025 00:00:00 GMT",
-    "url": "https://huggingface.co/blog/intel-deepmath"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "We Got Claude to Fine-Tune an Open Source LLM",
-    "date": "Thu, 04 Dec 2025 00:00:00 GMT",
-    "url": "https://huggingface.co/blog/hf-skills-training"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "Transformers v5: Simple model definitions powering the AI ecosystem",
-    "date": "Mon, 01 Dec 2025 00:00:00 GMT",
-    "url": "https://huggingface.co/blog/transformers-v5"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "Diffusers welcomes FLUX-2",
-    "date": "Tue, 25 Nov 2025 00:00:00 GMT",
-    "url": "https://huggingface.co/blog/flux-2"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "Continuous batching from first principles",
-    "date": "Tue, 25 Nov 2025 00:00:00 GMT",
-    "url": "https://huggingface.co/blog/continuous_batching"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "Building Deep Research: How we Achieved State of the Art",
-    "date": "Mon, 24 Nov 2025 17:40:14 GMT",
-    "url": "https://huggingface.co/blog/Tavily/tavily-deep-research"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "OVHcloud on Hugging Face Inference Providers 🔥",
-    "date": "Mon, 24 Nov 2025 16:08:47 GMT",
-    "url": "https://huggingface.co/blog/OVHcloud/inference-providers-ovhcloud"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "20x Faster TRL Fine-tuning with RapidFire AI",
-    "date": "Fri, 21 Nov 2025 00:00:00 GMT",
-    "url": "https://huggingface.co/blog/rapidfireai"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "Open ASR Leaderboard: Trends and Insights with New Multilingual & Long-Form Tracks",
-    "date": "Fri, 21 Nov 2025 00:00:00 GMT",
-    "url": "https://huggingface.co/blog/open-asr-leaderboard"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "Introducing AnyLanguageModel: One API for Local and Remote LLMs on Apple Platforms",
-    "date": "Thu, 20 Nov 2025 00:00:00 GMT",
-    "url": "https://huggingface.co/blog/anylanguagemodel"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "Apriel-H1: The Surprising Key to Distilling Efficient Reasoning Models",
-    "date": "Wed, 19 Nov 2025 05:19:07 GMT",
-    "url": "https://huggingface.co/blog/ServiceNow-AI/apriel-h1"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "Easily Build and Share ROCm Kernels with Hugging Face",
-    "date": "Mon, 17 Nov 2025 00:00:00 GMT",
-    "url": "https://huggingface.co/blog/build-rocm-kernels"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "Join the AMD Open Robotics Hackathon",
-    "date": "Thu, 13 Nov 2025 21:37:26 GMT",
-    "url": "https://huggingface.co/blog/amd/openroboticshackathon"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "Building for an Open Future - our new partnership with Google Cloud",
-    "date": "Thu, 13 Nov 2025 00:00:00 GMT",
-    "url": "https://huggingface.co/blog/google-cloud"
   }
 ]
