@@ -1,6 +1,96 @@
 [
   {
     "source": "HuggingFace",
+    "title": "How NVIDIA Builds Open Data for AI",
+    "date": "Tue, 10 Mar 2026 19:49:28 GMT",
+    "url": "https://huggingface.co/blog/nvidia/open-data-for-ai"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Improving instruction hierarchy in frontier LLMs",
+    "date": "Tue, 10 Mar 2026 11:00:00 GMT",
+    "url": "https://openai.com/index/instruction-hierarchy-challenge"
+  },
+  {
+    "source": "OpenAI",
+    "title": "New ways to learn math and science in ChatGPT",
+    "date": "Tue, 10 Mar 2026 10:00:00 GMT",
+    "url": "https://openai.com/index/new-ways-to-learn-math-and-science-in-chatgpt"
+  },
+  {
+    "source": "arXiv",
+    "title": "Autonomous AI Agents for Option Hedging: Enhancing Financial Stability through Shortfall Aware Reinforcement Learning",
+    "date": "Tue, 10 Mar 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2603.06587"
+  },
+  {
+    "source": "arXiv",
+    "title": "Scaling Strategy, Not Compute: A Stand-Alone, Open-Source StarCraft II Benchmark for Accessible Reinforcement Learning Research",
+    "date": "Tue, 10 Mar 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2603.06608"
+  },
+  {
+    "source": "arXiv",
+    "title": "MultiGen: Level-Design for Editable Multiplayer Worlds in Diffusion Game Engines",
+    "date": "Tue, 10 Mar 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2603.06679"
+  },
+  {
+    "source": "arXiv",
+    "title": "Best-of-Tails: Bridging Optimism and Pessimism in Inference-Time Alignment",
+    "date": "Tue, 10 Mar 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2603.06797"
+  },
+  {
+    "source": "arXiv",
+    "title": "Breaking the Martingale Curse: Multi-Agent Debate via Asymmetric Cognitive Potential Energy",
+    "date": "Tue, 10 Mar 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2603.06801"
+  },
+  {
+    "source": "arXiv",
+    "title": "Making AI Evaluation Deployment Relevant Through Context Specification",
+    "date": "Tue, 10 Mar 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2603.06811"
+  },
+  {
+    "source": "arXiv",
+    "title": "Reinforcing the World's Edge: A Continual Learning Problem in the Multi-Agent-World Boundary",
+    "date": "Tue, 10 Mar 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2603.06813"
+  },
+  {
+    "source": "arXiv",
+    "title": "Symmetry-Constrained Language-Guided Program Synthesis for Discovering Governing Equations from Noisy and Partial Observations",
+    "date": "Tue, 10 Mar 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2603.06869"
+  },
+  {
+    "source": "arXiv",
+    "title": "LEAD: Breaking the No-Recovery Bottleneck in Long-Horizon Reasoning",
+    "date": "Tue, 10 Mar 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2603.06870"
+  },
+  {
+    "source": "arXiv",
+    "title": "LieCraft: A Multi-Agent Framework for Evaluating Deceptive Capabilities in Language Models",
+    "date": "Tue, 10 Mar 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2603.06874"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "Introducing Storage Buckets on the Hugging Face Hub",
+    "date": "Tue, 10 Mar 2026 00:00:00 GMT",
+    "url": "https://huggingface.co/blog/storage-buckets"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "Keep the Tokens Flowing: Lessons from 16 Open-Source RL Libraries",
+    "date": "Tue, 10 Mar 2026 00:00:00 GMT",
+    "url": "https://huggingface.co/blog/async-rl-training-landscape"
+  },
+  {
+    "source": "HuggingFace",
     "title": "Granite 4.0 1B Speech: Compact, Multilingual, and Built for the Edge",
     "date": "Mon, 09 Mar 2026 18:36:33 GMT",
     "url": "https://huggingface.co/blog/ibm-granite/granite-4-speech"
@@ -1108,95 +1198,5 @@
     "title": "Strengthening the U.S. AI supply chain through domestic manufacturing",
     "date": "Thu, 15 Jan 2026 00:00:00 GMT",
     "url": "https://openai.com/index/strengthening-the-us-ai-supply-chain"
-  },
-  {
-    "source": "OpenAI",
-    "title": "OpenAI partners with Cerebras  ",
-    "date": "Wed, 14 Jan 2026 14:00:00 GMT",
-    "url": "https://openai.com/index/cerebras-partnership"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Zenken boosts a lean sales team with ChatGPT Enterprise",
-    "date": "Tue, 13 Jan 2026 16:00:00 GMT",
-    "url": "https://openai.com/index/zenken"
-  },
-  {
-    "source": "VentureBeat",
-    "title": "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI",
-    "date": "Tue, 13 Jan 2026 13:00:00 GMT",
-    "url": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Converge Bio raises $25M, backed by Bessemer and execs from Meta, OpenAI, Wiz",
-    "date": "Tue, 13 Jan 2026 11:30:00 +0000",
-    "url": "https://techcrunch.com/2026/01/13/ai-drug-discovery-startup-converge-bio-pulls-in-25m-from-bessemer-and-execs-from-meta-openai-and-wiz/"
-  },
-  {
-    "source": "VentureBeat",
-    "title": "Anthropic launches Cowork, a Claude Desktop agent that works in your files — no coding required",
-    "date": "Mon, 12 Jan 2026 11:30:00 GMT",
-    "url": "https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no"
-  },
-  {
-    "source": "OpenAI",
-    "title": "OpenAI’s Raising Concerns Policy",
-    "date": "Mon, 12 Jan 2026 00:00:00 GMT",
-    "url": "https://openai.com/index/openai-raising-concerns-policy"
-  },
-  {
-    "source": "OpenAI",
-    "title": "OpenAI and SoftBank Group partner with SB Energy",
-    "date": "Fri, 09 Jan 2026 11:00:00 GMT",
-    "url": "https://openai.com/index/stargate-sb-energy-partnership"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Datadog uses Codex for system-level code review",
-    "date": "Fri, 09 Jan 2026 00:00:00 GMT",
-    "url": "https://openai.com/index/datadog"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Netomi’s lessons for scaling agentic systems into the enterprise",
-    "date": "Thu, 08 Jan 2026 13:00:00 GMT",
-    "url": "https://openai.com/index/netomi"
-  },
-  {
-    "source": "OpenAI",
-    "title": "OpenAI for Healthcare",
-    "date": "Thu, 08 Jan 2026 12:00:00 GMT",
-    "url": "https://openai.com/index/openai-for-healthcare"
-  },
-  {
-    "source": "VentureBeat",
-    "title": "Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment",
-    "date": "Wed, 07 Jan 2026 20:00:00 GMT",
-    "url": "https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in"
-  },
-  {
-    "source": "OpenAI",
-    "title": "How Tolan builds voice-first AI with GPT-5.1",
-    "date": "Wed, 07 Jan 2026 10:00:00 GMT",
-    "url": "https://openai.com/index/tolan"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Introducing ChatGPT Health ",
-    "date": "Wed, 07 Jan 2026 00:00:00 GMT",
-    "url": "https://openai.com/index/introducing-chatgpt-health"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "NVIDIA Cosmos Reason 2 Brings Advanced Reasoning To Physical AI",
-    "date": "Mon, 05 Jan 2026 22:56:51 GMT",
-    "url": "https://huggingface.co/blog/nvidia/nvidia-cosmos-reason-2-brings-advanced-reasoning"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "Introducing Falcon-H1-Arabic: Pushing the Boundaries of Arabic Language AI with Hybrid Architecture",
-    "date": "Mon, 05 Jan 2026 09:16:51 GMT",
-    "url": "https://huggingface.co/blog/tiiuae/falcon-h1-arabic"
   }
 ]
