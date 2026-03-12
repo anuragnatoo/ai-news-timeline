@@ -1,6 +1,96 @@
 [
   {
     "source": "HuggingFace",
+    "title": "Code Concepts: A Large-Scale Synthetic Dataset Generated from Programming Concept Seeds",
+    "date": "Wed, 11 Mar 2026 15:50:15 GMT",
+    "url": "https://huggingface.co/blog/nvidia/synthetic-code-concepts"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Rakuten fixes issues twice as fast with Codex",
+    "date": "Wed, 11 Mar 2026 13:00:00 GMT",
+    "url": "https://openai.com/index/rakuten"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Designing AI agents to resist prompt injection",
+    "date": "Wed, 11 Mar 2026 11:30:00 GMT",
+    "url": "https://openai.com/index/designing-agents-to-resist-prompt-injection"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Wayfair boosts catalog accuracy and support speed with OpenAI",
+    "date": "Wed, 11 Mar 2026 11:00:00 GMT",
+    "url": "https://openai.com/index/wayfair"
+  },
+  {
+    "source": "OpenAI",
+    "title": "From model to agent: Equipping the Responses API with a computer environment ",
+    "date": "Wed, 11 Mar 2026 11:00:00 GMT",
+    "url": "https://openai.com/index/equip-responses-api-computer-environment"
+  },
+  {
+    "source": "arXiv",
+    "title": "MASEval: Extending Multi-Agent Evaluation from Models to Systems",
+    "date": "Wed, 11 Mar 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2603.08835"
+  },
+  {
+    "source": "arXiv",
+    "title": "LDP: An Identity-Aware Protocol for Multi-Agent LLM Systems",
+    "date": "Wed, 11 Mar 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2603.08852"
+  },
+  {
+    "source": "arXiv",
+    "title": "Quantifying the Accuracy and Cost Impact of Design Decisions in Budget-Constrained Agentic LLM Search",
+    "date": "Wed, 11 Mar 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2603.08877"
+  },
+  {
+    "source": "arXiv",
+    "title": "Interpretable Markov-Based Spatiotemporal Risk Surfaces for Missing-Child Search Planning with Reinforcement Learning and LLM-Based Quality Assurance",
+    "date": "Wed, 11 Mar 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2603.08933"
+  },
+  {
+    "source": "arXiv",
+    "title": "AgentOS: From Application Silos to a Natural Language-Driven Data Ecosystem",
+    "date": "Wed, 11 Mar 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2603.08938"
+  },
+  {
+    "source": "arXiv",
+    "title": "A Consensus-Driven Multi-LLM Pipeline for Missing-Person Investigations",
+    "date": "Wed, 11 Mar 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2603.08954"
+  },
+  {
+    "source": "arXiv",
+    "title": "The FABRIC Strategy for Verifying Neural Feedback Systems",
+    "date": "Wed, 11 Mar 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2603.08964"
+  },
+  {
+    "source": "arXiv",
+    "title": "Meissa: Multi-modal Medical Agentic Intelligence",
+    "date": "Wed, 11 Mar 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2603.09018"
+  },
+  {
+    "source": "arXiv",
+    "title": "MEMO: Memory-Augmented Model Context Optimization for Robust Multi-Turn Multi-Agent LLM Games",
+    "date": "Wed, 11 Mar 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2603.09022"
+  },
+  {
+    "source": "arXiv",
+    "title": "Time, Identity and Consciousness in Language Model Agents",
+    "date": "Wed, 11 Mar 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2603.09043"
+  },
+  {
+    "source": "HuggingFace",
     "title": "How NVIDIA Builds Open Data for AI",
     "date": "Tue, 10 Mar 2026 19:49:28 GMT",
     "url": "https://huggingface.co/blog/nvidia/open-data-for-ai"
@@ -1108,95 +1198,5 @@
     "title": "One Year Since the “DeepSeek Moment”",
     "date": "Tue, 20 Jan 2026 15:02:10 GMT",
     "url": "https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Cisco and OpenAI redefine enterprise engineering with AI agents",
-    "date": "Tue, 20 Jan 2026 11:00:00 GMT",
-    "url": "https://openai.com/index/cisco"
-  },
-  {
-    "source": "OpenAI",
-    "title": "ServiceNow powers actionable enterprise AI with OpenAI",
-    "date": "Tue, 20 Jan 2026 05:45:00 GMT",
-    "url": "https://openai.com/index/servicenow-powers-actionable-enterprise-ai-with-openai"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "Differential Transformer V2",
-    "date": "Tue, 20 Jan 2026 03:20:57 GMT",
-    "url": "https://huggingface.co/blog/microsoft/diff-attn-v2"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "Introducing Waypoint-1: Real-time interactive video diffusion from Overworld",
-    "date": "Tue, 20 Jan 2026 00:00:00 GMT",
-    "url": "https://huggingface.co/blog/waypoint-1"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Our approach to age prediction",
-    "date": "Tue, 20 Jan 2026 00:00:00 GMT",
-    "url": "https://openai.com/index/our-approach-to-age-prediction"
-  },
-  {
-    "source": "VentureBeat",
-    "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
-    "date": "Mon, 19 Jan 2026 14:00:00 GMT",
-    "url": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free"
-  },
-  {
-    "source": "OpenAI",
-    "title": "AI for self empowerment",
-    "date": "Sun, 18 Jan 2026 12:00:00 GMT",
-    "url": "https://openai.com/index/ai-for-self-empowerment"
-  },
-  {
-    "source": "OpenAI",
-    "title": "A business that scales with the value of intelligence",
-    "date": "Sun, 18 Jan 2026 10:00:00 GMT",
-    "url": "https://openai.com/index/a-business-that-scales-with-the-value-of-intelligence"
-  },
-  {
-    "source": "VentureBeat",
-    "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
-    "date": "Fri, 16 Jan 2026 14:01:00 GMT",
-    "url": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai"
-  },
-  {
-    "source": "OpenAI",
-    "title": "The truth left out from Elon Musk’s recent court filing",
-    "date": "Fri, 16 Jan 2026 12:00:00 GMT",
-    "url": "https://openai.com/index/the-truth-elon-left-out"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Introducing ChatGPT Go, now available worldwide",
-    "date": "Fri, 16 Jan 2026 00:00:00 GMT",
-    "url": "https://openai.com/index/introducing-chatgpt-go"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Our approach to advertising and expanding access to ChatGPT",
-    "date": "Fri, 16 Jan 2026 00:00:00 GMT",
-    "url": "https://openai.com/index/our-approach-to-advertising-and-expanding-access"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Investing in Merge Labs",
-    "date": "Thu, 15 Jan 2026 07:00:00 GMT",
-    "url": "https://openai.com/index/investing-in-merge-labs"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "Open Responses: What you need to know",
-    "date": "Thu, 15 Jan 2026 00:00:00 GMT",
-    "url": "https://huggingface.co/blog/open-responses"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Strengthening the U.S. AI supply chain through domestic manufacturing",
-    "date": "Thu, 15 Jan 2026 00:00:00 GMT",
-    "url": "https://openai.com/index/strengthening-the-us-ai-supply-chain"
   }
 ]
