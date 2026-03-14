@@ -1,6 +1,72 @@
 [
   {
     "source": "HuggingFace",
+    "title": "Beyond Semantic Similarity: Introducing NVIDIA NeMo Retriever’s Generalizable Agentic Retrieval Pipeline",
+    "date": "Fri, 13 Mar 2026 20:00:00 GMT",
+    "url": "https://huggingface.co/blog/nvidia/nemo-retriever-agentic-retrieval"
+  },
+  {
+    "source": "arXiv",
+    "title": "DIVE: Scaling Diversity in Agentic Task Synthesis for Generalizable Tool Use",
+    "date": "Fri, 13 Mar 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2603.11076"
+  },
+  {
+    "source": "arXiv",
+    "title": "A Survey of Reasoning in Autonomous Driving Systems: Open Challenges and Emerging Paradigms",
+    "date": "Fri, 13 Mar 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2603.11093"
+  },
+  {
+    "source": "arXiv",
+    "title": "PACED: Distillation at the Frontier of Student Competence",
+    "date": "Fri, 13 Mar 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2603.11178"
+  },
+  {
+    "source": "arXiv",
+    "title": "Measuring AI Agents' Progress on Multi-Step Cyber Attack Scenarios",
+    "date": "Fri, 13 Mar 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2603.11214"
+  },
+  {
+    "source": "arXiv",
+    "title": "Reversible Lifelong Model Editing via Semantic Routing-Based LoRA",
+    "date": "Fri, 13 Mar 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2603.11239"
+  },
+  {
+    "source": "arXiv",
+    "title": "Mind the Sim2Real Gap in User Simulation for Agentic Tasks",
+    "date": "Fri, 13 Mar 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2603.11245"
+  },
+  {
+    "source": "arXiv",
+    "title": "The Unlearning Mirage: A Dynamic Framework for Evaluating LLM Unlearning",
+    "date": "Fri, 13 Mar 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2603.11266"
+  },
+  {
+    "source": "arXiv",
+    "title": "COMPASS: The explainable agentic framework for Sovereignty, Sustainability, Compliance, and Ethics",
+    "date": "Fri, 13 Mar 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2603.11277"
+  },
+  {
+    "source": "arXiv",
+    "title": "AI Psychometrics: Evaluating the Psychological Reasoning of Large Language Models with Psychometric Validities",
+    "date": "Fri, 13 Mar 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2603.11279"
+  },
+  {
+    "source": "arXiv",
+    "title": "Counterweights and Complementarities: The Convergence of AI and Blockchain Powering a Decentralized Future",
+    "date": "Fri, 13 Mar 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2603.11299"
+  },
+  {
+    "source": "HuggingFace",
     "title": "Build an Agent That Thinks Like a Data Scientist: How We Hit #1 on DABStep with Reusable Tool Generation",
     "date": "Fri, 13 Mar 2026 01:02:47 GMT",
     "url": "https://huggingface.co/blog/nvidia/nemo-agent-toolkit-data-explorer-dabstep-1st-place"
@@ -1132,71 +1198,5 @@
     "title": "EMEA Youth & Wellbeing Grant",
     "date": "Wed, 28 Jan 2026 01:00:00 GMT",
     "url": "https://openai.com/index/emea-youth-and-wellbeing-grant"
-  },
-  {
-    "source": "OpenAI",
-    "title": "The next chapter for AI in the EU",
-    "date": "Wed, 28 Jan 2026 01:00:00 GMT",
-    "url": "https://openai.com/index/the-next-chapter-for-ai-in-the-eu"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "We Got Claude to Build CUDA Kernels and teach open models!",
-    "date": "Wed, 28 Jan 2026 00:00:00 GMT",
-    "url": "https://huggingface.co/blog/upskill"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Keeping your data safe when an AI agent clicks a link",
-    "date": "Wed, 28 Jan 2026 00:00:00 GMT",
-    "url": "https://openai.com/index/ai-agent-link-safety"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "Architectural Choices in China's Open-Source AI Ecosystem: Building Beyond DeepSeek ",
-    "date": "Tue, 27 Jan 2026 15:01:45 GMT",
-    "url": "https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment-blog-2"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "Alyah ⭐️: Toward Robust Evaluation of Emirati Dialect Capabilities in Arabic LLMs",
-    "date": "Tue, 27 Jan 2026 10:26:42 GMT",
-    "url": "https://huggingface.co/blog/tiiuae/emirati-benchmarks"
-  },
-  {
-    "source": "OpenAI",
-    "title": "PVH reimagines the future of fashion with OpenAI",
-    "date": "Tue, 27 Jan 2026 06:00:00 GMT",
-    "url": "https://openai.com/index/pvh-future-of-fashion"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "Unlocking Agentic RL Training for GPT-OSS: A Practical Retrospective",
-    "date": "Tue, 27 Jan 2026 01:53:15 GMT",
-    "url": "https://huggingface.co/blog/LinkedIn/gpt-oss-agentic-rl"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Powering tax donations with AI powered personalized recommendations",
-    "date": "Tue, 27 Jan 2026 00:00:00 GMT",
-    "url": "https://openai.com/index/trustbank"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Introducing Prism",
-    "date": "Tue, 27 Jan 2026 00:00:00 GMT",
-    "url": "https://openai.com/index/introducing-prism"
-  },
-  {
-    "source": "OpenAI",
-    "title": "How Indeed uses AI to help evolve the job search",
-    "date": "Mon, 26 Jan 2026 00:00:00 GMT",
-    "url": "https://openai.com/index/indeed-maggie-hulce"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Unrolling the Codex agent loop",
-    "date": "Fri, 23 Jan 2026 12:00:00 GMT",
-    "url": "https://openai.com/index/unrolling-the-codex-agent-loop"
   }
 ]
