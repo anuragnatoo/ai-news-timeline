@@ -1,6 +1,78 @@
 [
   {
     "source": "HuggingFace",
+    "title": "The First Healthcare Robotics Dataset and Foundational Physical AI Models for Healthcare Robotics",
+    "date": "Mon, 16 Mar 2026 21:58:40 GMT",
+    "url": "https://huggingface.co/blog/nvidia/physical-ai-for-healthcare-robotics"
+  },
+  {
+    "source": "arXiv",
+    "title": "Context-Enriched Natural Language Descriptions of Vessel Trajectories",
+    "date": "Mon, 16 Mar 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2603.12287"
+  },
+  {
+    "source": "arXiv",
+    "title": "Efficient Reasoning with Balanced Thinking",
+    "date": "Mon, 16 Mar 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2603.12372"
+  },
+  {
+    "source": "arXiv",
+    "title": "Generating Expressive and Customizable Evals for Timeseries Data Analysis Agents with AgentFuel",
+    "date": "Mon, 16 Mar 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2603.12483"
+  },
+  {
+    "source": "arXiv",
+    "title": "AI Planning Framework for LLM-Based Web Agents",
+    "date": "Mon, 16 Mar 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2603.12710"
+  },
+  {
+    "source": "arXiv",
+    "title": "On Using Machine Learning to Early Detect Catastrophic Failures in Marine Diesel Engines",
+    "date": "Mon, 16 Mar 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2603.12733"
+  },
+  {
+    "source": "arXiv",
+    "title": "ToolTree: Efficient LLM Agent Tool Planning via Dual-Feedback Monte Carlo Tree Search and Bidirectional Pruning",
+    "date": "Mon, 16 Mar 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2603.12740"
+  },
+  {
+    "source": "arXiv",
+    "title": "AI Model Modulation with Logits Redistribution",
+    "date": "Mon, 16 Mar 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2603.12755"
+  },
+  {
+    "source": "arXiv",
+    "title": "Context is all you need: Towards autonomous model-based process design using agentic AI in flowsheet simulations",
+    "date": "Mon, 16 Mar 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2603.12813"
+  },
+  {
+    "source": "arXiv",
+    "title": "ODRL Policy Comparison Through Normalisation",
+    "date": "Mon, 16 Mar 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2603.12926"
+  },
+  {
+    "source": "arXiv",
+    "title": "Efficient and Interpretable Multi-Agent LLM Routing via Ant Colony Optimization",
+    "date": "Mon, 16 Mar 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2603.12933"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Why Codex Security Doesn’t Include a SAST Report",
+    "date": "Mon, 16 Mar 2026 00:00:00 GMT",
+    "url": "https://openai.com/index/why-codex-security-doesnt-include-sast"
+  },
+  {
+    "source": "HuggingFace",
     "title": "Beyond Semantic Similarity: Introducing NVIDIA NeMo Retriever’s Generalizable Agentic Retrieval Pipeline",
     "date": "Fri, 13 Mar 2026 20:00:00 GMT",
     "url": "https://huggingface.co/blog/nvidia/nemo-retriever-agentic-retrieval"
@@ -1126,77 +1198,5 @@
     "title": "Community Evals: Because we're done trusting black-box leaderboards over the community",
     "date": "Wed, 04 Feb 2026 00:00:00 GMT",
     "url": "https://huggingface.co/blog/community-evals"
-  },
-  {
-    "source": "OpenAI",
-    "title": "VfL Wolfsburg turns ChatGPT into a club-wide capability",
-    "date": "Wed, 04 Feb 2026 00:00:00 GMT",
-    "url": "https://openai.com/index/vfl-wolfsburg"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "H Company's new Holo2 model takes the lead in UI Localization",
-    "date": "Tue, 03 Feb 2026 17:40:14 GMT",
-    "url": "https://huggingface.co/blog/Hcompany/introducing-holo2-235b-a22b"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "The Future of the Global Open-Source AI Ecosystem: From DeepSeek to AI+",
-    "date": "Tue, 03 Feb 2026 15:03:19 GMT",
-    "url": "https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment-blog-3"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "Training Design for Text-to-Image Models: Lessons from Ablations",
-    "date": "Tue, 03 Feb 2026 11:25:53 GMT",
-    "url": "https://huggingface.co/blog/Photoroom/prx-part2"
-  },
-  {
-    "source": "OpenAI",
-    "title": "The Sora feed philosophy",
-    "date": "Tue, 03 Feb 2026 00:00:00 GMT",
-    "url": "https://openai.com/index/sora-feed-philosophy"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Snowflake and OpenAI partner to bring frontier intelligence to enterprise data",
-    "date": "Mon, 02 Feb 2026 06:00:00 GMT",
-    "url": "https://openai.com/index/snowflake-partnership"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Introducing the Codex app",
-    "date": "Mon, 02 Feb 2026 00:00:00 GMT",
-    "url": "https://openai.com/index/introducing-the-codex-app"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Inside OpenAI’s in-house data agent",
-    "date": "Thu, 29 Jan 2026 10:00:00 GMT",
-    "url": "https://openai.com/index/inside-our-in-house-data-agent"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "Introducing Daggr: Chain apps programmatically, inspect visually",
-    "date": "Thu, 29 Jan 2026 00:00:00 GMT",
-    "url": "https://huggingface.co/blog/daggr"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Retiring GPT-4o, GPT-4.1, GPT-4.1 mini, and OpenAI o4-mini in ChatGPT",
-    "date": "Thu, 29 Jan 2026 00:00:00 GMT",
-    "url": "https://openai.com/index/retiring-gpt-4o-and-older-models"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Taisei Corporation shapes the next generation of talent with ChatGPT",
-    "date": "Thu, 29 Jan 2026 00:00:00 GMT",
-    "url": "https://openai.com/index/taisei"
-  },
-  {
-    "source": "OpenAI",
-    "title": "EMEA Youth & Wellbeing Grant",
-    "date": "Wed, 28 Jan 2026 01:00:00 GMT",
-    "url": "https://openai.com/index/emea-youth-and-wellbeing-grant"
   }
 ]
