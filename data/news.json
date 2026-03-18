@@ -1,6 +1,96 @@
 [
   {
     "source": "HuggingFace",
+    "title": "Nemotron 3 Nano 4B: A Compact Hybrid Model for Efficient Local AI",
+    "date": "Tue, 17 Mar 2026 23:17:07 GMT",
+    "url": "https://huggingface.co/blog/nvidia/nemotron-3-nano-4b"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "State of Open Source on Hugging Face: Spring 2026",
+    "date": "Tue, 17 Mar 2026 16:37:55 GMT",
+    "url": "https://huggingface.co/blog/huggingface/state-of-os-hf-spring-2026"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "Holotron-12B - High Throughput Computer Use Agent",
+    "date": "Tue, 17 Mar 2026 12:33:39 GMT",
+    "url": "https://huggingface.co/blog/Hcompany/holotron-12b"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Introducing GPT-5.4 mini and nano",
+    "date": "Tue, 17 Mar 2026 10:00:00 GMT",
+    "url": "https://openai.com/index/introducing-gpt-5-4-mini-and-nano"
+  },
+  {
+    "source": "arXiv",
+    "title": "Human Attribution of Causality to AI Across Agency, Misuse, and Misalignment",
+    "date": "Tue, 17 Mar 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2603.13236"
+  },
+  {
+    "source": "arXiv",
+    "title": "A Dual-Path Generative Framework for Zero-Day Fraud Detection in Banking Systems",
+    "date": "Tue, 17 Mar 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2603.13237"
+  },
+  {
+    "source": "arXiv",
+    "title": "Benchmarking Zero-Shot Reasoning Approaches for Error Detection in Solidity Smart Contracts",
+    "date": "Tue, 17 Mar 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2603.13239"
+  },
+  {
+    "source": "arXiv",
+    "title": "Think First, Diffuse Fast: Improving Diffusion Language Model Reasoning via Autoregressive Plan Conditioning",
+    "date": "Tue, 17 Mar 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2603.13243"
+  },
+  {
+    "source": "arXiv",
+    "title": "Automating Document Intelligence in Statutory City Planning",
+    "date": "Tue, 17 Mar 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2603.13245"
+  },
+  {
+    "source": "arXiv",
+    "title": "Multi-Axis Trust Modeling for Interpretable Account Hijacking Detection",
+    "date": "Tue, 17 Mar 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2603.13246"
+  },
+  {
+    "source": "arXiv",
+    "title": "ILION: Deterministic Pre-Execution Safety Gates for Agentic AI Systems",
+    "date": "Tue, 17 Mar 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2603.13247"
+  },
+  {
+    "source": "arXiv",
+    "title": "ManiBench: A Benchmark for Testing Visual-Logic Drift and Syntactic Hallucinations in Manim Code Generation",
+    "date": "Tue, 17 Mar 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2603.13251"
+  },
+  {
+    "source": "arXiv",
+    "title": "When Alpha Breaks: Two-Level Uncertainty for Safe Deployment of Cross-Sectional Stock Rankers",
+    "date": "Tue, 17 Mar 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2603.13252"
+  },
+  {
+    "source": "arXiv",
+    "title": "Distilling Deep Reinforcement Learning into Interpretable Fuzzy Rules: An Explainable AI Framework",
+    "date": "Tue, 17 Mar 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2603.13257"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Equipping workers with insights about compensation",
+    "date": "Tue, 17 Mar 2026 00:00:00 GMT",
+    "url": "https://openai.com/index/equipping-workers-with-insights-about-compensation"
+  },
+  {
+    "source": "HuggingFace",
     "title": "The First Healthcare Robotics Dataset and Foundational Physical AI Models for Healthcare Robotics",
     "date": "Mon, 16 Mar 2026 21:58:40 GMT",
     "url": "https://huggingface.co/blog/nvidia/physical-ai-for-healthcare-robotics"
@@ -1108,95 +1198,5 @@
     "title": "Introducing GPT-5.3-Codex-Spark",
     "date": "Thu, 12 Feb 2026 10:00:00 GMT",
     "url": "https://openai.com/index/introducing-gpt-5-3-codex-spark"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "OpenEnv in Practice: Evaluating Tool-Using Agents in Real-World Environments",
-    "date": "Thu, 12 Feb 2026 00:00:00 GMT",
-    "url": "https://huggingface.co/blog/openenv-turing"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Harness engineering: leveraging Codex in an agent-first world",
-    "date": "Wed, 11 Feb 2026 09:00:00 GMT",
-    "url": "https://openai.com/index/harness-engineering"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Testing ads in ChatGPT",
-    "date": "Mon, 09 Feb 2026 11:00:00 GMT",
-    "url": "https://openai.com/index/testing-ads-in-chatgpt"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Bringing ChatGPT to GenAI.mil",
-    "date": "Mon, 09 Feb 2026 11:00:00 GMT",
-    "url": "https://openai.com/index/bringing-chatgpt-to-genaimil"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "Transformers.js v4 Preview: Now Available on NPM!",
-    "date": "Mon, 09 Feb 2026 00:00:00 GMT",
-    "url": "https://huggingface.co/blog/transformersjs-v4"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Making AI work for everyone, everywhere: our approach to localization",
-    "date": "Fri, 06 Feb 2026 10:00:00 GMT",
-    "url": "https://openai.com/index/our-approach-to-localization"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "Introducing SyGra Studio",
-    "date": "Thu, 05 Feb 2026 16:52:28 GMT",
-    "url": "https://huggingface.co/blog/ServiceNow-AI/sygra-studio"
-  },
-  {
-    "source": "OpenAI",
-    "title": "GPT-5 lowers the cost of cell-free protein synthesis",
-    "date": "Thu, 05 Feb 2026 11:00:00 GMT",
-    "url": "https://openai.com/index/gpt-5-lowers-protein-synthesis-cost"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Introducing Trusted Access for Cyber",
-    "date": "Thu, 05 Feb 2026 10:00:00 GMT",
-    "url": "https://openai.com/index/trusted-access-for-cyber"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Introducing OpenAI Frontier",
-    "date": "Thu, 05 Feb 2026 06:00:00 GMT",
-    "url": "https://openai.com/index/introducing-openai-frontier"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Navigating health questions with ChatGPT",
-    "date": "Thu, 05 Feb 2026 00:00:00 GMT",
-    "url": "https://openai.com/index/navigating-health-questions"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Introducing GPT-5.3-Codex",
-    "date": "Thu, 05 Feb 2026 00:00:00 GMT",
-    "url": "https://openai.com/index/introducing-gpt-5-3-codex"
-  },
-  {
-    "source": "OpenAI",
-    "title": "GPT-5.3-Codex System Card",
-    "date": "Thu, 05 Feb 2026 00:00:00 GMT",
-    "url": "https://openai.com/index/gpt-5-3-codex-system-card"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Unlocking the Codex harness: how we built the App Server",
-    "date": "Wed, 04 Feb 2026 13:00:00 GMT",
-    "url": "https://openai.com/index/unlocking-the-codex-harness"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "Community Evals: Because we're done trusting black-box leaderboards over the community",
-    "date": "Wed, 04 Feb 2026 00:00:00 GMT",
-    "url": "https://huggingface.co/blog/community-evals"
   }
 ]
