@@ -1,5 +1,65 @@
 [
   {
+    "source": "arXiv",
+    "title": "Neural-Symbolic Logic Query Answering in Non-Euclidean Space",
+    "date": "Wed, 18 Mar 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2603.15633"
+  },
+  {
+    "source": "arXiv",
+    "title": "NextMem: Towards Latent Factual Memory for LLM-based Agents",
+    "date": "Wed, 18 Mar 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2603.15634"
+  },
+  {
+    "source": "arXiv",
+    "title": "AIDABench: AI Data Analytics Benchmark",
+    "date": "Wed, 18 Mar 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2603.15636"
+  },
+  {
+    "source": "arXiv",
+    "title": "The Comprehension-Gated Agent Economy: A Robustness-First Architecture for AI Economic Agency",
+    "date": "Wed, 18 Mar 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2603.15639"
+  },
+  {
+    "source": "arXiv",
+    "title": "Form Follows Function: Recursive Stem Model",
+    "date": "Wed, 18 Mar 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2603.15641"
+  },
+  {
+    "source": "arXiv",
+    "title": "CraniMem: Cranial Inspired Gated and Bounded Memory for Agentic Systems",
+    "date": "Wed, 18 Mar 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2603.15642"
+  },
+  {
+    "source": "arXiv",
+    "title": "GSI Agent: Domain Knowledge Enhancement for Large Language Models in Green Stormwater Infrastructure",
+    "date": "Wed, 18 Mar 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2603.15643"
+  },
+  {
+    "source": "arXiv",
+    "title": "Did You Check the Right Pocket? Cost-Sensitive Store Routing for Memory-Augmented Agents",
+    "date": "Wed, 18 Mar 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2603.15658"
+  },
+  {
+    "source": "arXiv",
+    "title": "DynaTrust: Defending Multi-Agent Systems Against Sleeper Agents via Dynamic Trust Graphs",
+    "date": "Wed, 18 Mar 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2603.15661"
+  },
+  {
+    "source": "arXiv",
+    "title": "QV May Be Enough: Toward the Essence of Attention in LLMs",
+    "date": "Wed, 18 Mar 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2603.15665"
+  },
+  {
     "source": "HuggingFace",
     "title": "Nemotron 3 Nano 4B: A Compact Hybrid Model for Efficient Local AI",
     "date": "Tue, 17 Mar 2026 23:17:07 GMT",
@@ -22,6 +82,12 @@
     "title": "Introducing GPT-5.4 mini and nano",
     "date": "Tue, 17 Mar 2026 10:00:00 GMT",
     "url": "https://openai.com/index/introducing-gpt-5-4-mini-and-nano"
+  },
+  {
+    "source": "OpenAI",
+    "title": "OpenAI Japan announces Japan Teen Safety Blueprint to put teen safety first",
+    "date": "Tue, 17 Mar 2026 10:00:00 GMT",
+    "url": "https://openai.com/index/japan-teen-safety-blueprint"
   },
   {
     "source": "arXiv",
@@ -1132,71 +1198,5 @@
     "title": "Train AI models with Unsloth and Hugging Face Jobs for FREE",
     "date": "Fri, 20 Feb 2026 00:00:00 GMT",
     "url": "https://huggingface.co/blog/unsloth-jobs"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Advancing independent research on AI alignment",
-    "date": "Thu, 19 Feb 2026 10:00:00 GMT",
-    "url": "https://openai.com/index/advancing-independent-research-ai-alignment"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Introducing OpenAI for India",
-    "date": "Wed, 18 Feb 2026 21:00:00 GMT",
-    "url": "https://openai.com/index/openai-for-india"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "IBM and UC Berkeley Diagnose Why Enterprise Agents Fail Using IT-Bench and MAST",
-    "date": "Wed, 18 Feb 2026 16:15:45 GMT",
-    "url": "https://huggingface.co/blog/ibm-research/itbenchandmast"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "One-Shot Any Web App with Gradio's gr.HTML",
-    "date": "Wed, 18 Feb 2026 00:00:00 GMT",
-    "url": "https://huggingface.co/blog/gradio-html-one-shot-apps"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Introducing EVMbench",
-    "date": "Wed, 18 Feb 2026 00:00:00 GMT",
-    "url": "https://openai.com/index/introducing-evmbench"
-  },
-  {
-    "source": "OpenAI",
-    "title": "GPT-5.2 derives a new result in theoretical physics",
-    "date": "Fri, 13 Feb 2026 11:00:00 GMT",
-    "url": "https://openai.com/index/new-result-theoretical-physics"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Introducing Lockdown Mode and Elevated Risk labels in ChatGPT",
-    "date": "Fri, 13 Feb 2026 10:00:00 GMT",
-    "url": "https://openai.com/index/introducing-lockdown-mode-and-elevated-risk-labels-in-chatgpt"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Scaling social science research",
-    "date": "Fri, 13 Feb 2026 09:00:00 GMT",
-    "url": "https://openai.com/index/scaling-social-science-research"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Beyond rate limits: scaling access to Codex and Sora",
-    "date": "Fri, 13 Feb 2026 09:00:00 GMT",
-    "url": "https://openai.com/index/beyond-rate-limits"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "Custom Kernels for All from Codex and Claude",
-    "date": "Fri, 13 Feb 2026 00:00:00 GMT",
-    "url": "https://huggingface.co/blog/custom-cuda-kernels-agent-skills"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Introducing GPT-5.3-Codex-Spark",
-    "date": "Thu, 12 Feb 2026 10:00:00 GMT",
-    "url": "https://openai.com/index/introducing-gpt-5-3-codex-spark"
   }
 ]
