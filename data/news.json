@@ -1,5 +1,83 @@
 [
   {
+    "source": "HuggingFace",
+    "title": "**Introducing SPEED-Bench: A Unified and Diverse Benchmark for Speculative Decoding**",
+    "date": "Thu, 19 Mar 2026 14:04:54 GMT",
+    "url": "https://huggingface.co/blog/nvidia/speed-bench"
+  },
+  {
+    "source": "OpenAI",
+    "title": "How we monitor internal coding agents for misalignment",
+    "date": "Thu, 19 Mar 2026 10:00:00 GMT",
+    "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment"
+  },
+  {
+    "source": "arXiv",
+    "title": "Generative AI-assisted Participatory Modeling in Socio-Environmental Planning under Deep Uncertainty",
+    "date": "Thu, 19 Mar 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2603.17021"
+  },
+  {
+    "source": "arXiv",
+    "title": "Transformers are Bayesian Networks",
+    "date": "Thu, 19 Mar 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2603.17063"
+  },
+  {
+    "source": "arXiv",
+    "title": "Cascade-Aware Multi-Agent Routing: Spatio-Temporal Sidecars and Geometry-Switching",
+    "date": "Thu, 19 Mar 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2603.17112"
+  },
+  {
+    "source": "arXiv",
+    "title": "How Clued up are LLMs? Evaluating Multi-Step Deductive Reasoning in a Text-Based Game Environment",
+    "date": "Thu, 19 Mar 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2603.17169"
+  },
+  {
+    "source": "arXiv",
+    "title": "AI Scientist via Synthetic Task Scaling",
+    "date": "Thu, 19 Mar 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2603.17216"
+  },
+  {
+    "source": "arXiv",
+    "title": "Draft-and-Prune: Improving the Reliability of Auto-formalization for Logical Reasoning",
+    "date": "Thu, 19 Mar 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2603.17233"
+  },
+  {
+    "source": "arXiv",
+    "title": "Graph-Native Cognitive Memory for AI Agents: Formal Belief Revision Semantics for Versioned Memory Architectures",
+    "date": "Thu, 19 Mar 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2603.17244"
+  },
+  {
+    "source": "arXiv",
+    "title": "Contrastive Reasoning Alignment: Reinforcement Learning from Hidden Representations",
+    "date": "Thu, 19 Mar 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2603.17305"
+  },
+  {
+    "source": "arXiv",
+    "title": "InfoDensity: Rewarding Information-Dense Traces for Efficient Reasoning",
+    "date": "Thu, 19 Mar 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2603.17310"
+  },
+  {
+    "source": "arXiv",
+    "title": "Physics-informed offline reinforcement learning eliminates catastrophic fuel waste in maritime routing",
+    "date": "Thu, 19 Mar 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2603.17319"
+  },
+  {
+    "source": "OpenAI",
+    "title": "OpenAI to acquire Astral",
+    "date": "Thu, 19 Mar 2026 00:00:00 GMT",
+    "url": "https://openai.com/index/openai-to-acquire-astral"
+  },
+  {
     "source": "arXiv",
     "title": "Neural-Symbolic Logic Query Answering in Non-Euclidean Space",
     "date": "Wed, 18 Mar 2026 00:00:00 -0400",
@@ -1120,83 +1198,5 @@
     "title": "Scaling AI for everyone",
     "date": "Fri, 27 Feb 2026 05:30:00 GMT",
     "url": "https://openai.com/index/scaling-ai-for-everyone"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Introducing the Stateful Runtime Environment for Agents in Amazon Bedrock",
-    "date": "Fri, 27 Feb 2026 05:30:00 GMT",
-    "url": "https://openai.com/index/introducing-the-stateful-runtime-environment-for-agents-in-amazon-bedrock"
-  },
-  {
-    "source": "OpenAI",
-    "title": "An update on our mental health-related work",
-    "date": "Fri, 27 Feb 2026 00:00:00 GMT",
-    "url": "https://openai.com/index/update-on-mental-health-related-work"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Pacific Northwest National Laboratory and OpenAI partner to accelerate federal permitting ",
-    "date": "Thu, 26 Feb 2026 10:00:00 GMT",
-    "url": "https://openai.com/index/pacific-northwest-national-laboratory"
-  },
-  {
-    "source": "OpenAI",
-    "title": "OpenAI Codex and Figma launch seamless code-to-design experience",
-    "date": "Thu, 26 Feb 2026 06:00:00 GMT",
-    "url": "https://openai.com/index/figma-partnership"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "Mixture of Experts (MoEs) in Transformers",
-    "date": "Thu, 26 Feb 2026 00:00:00 GMT",
-    "url": "https://huggingface.co/blog/moe-transformers"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Disrupting malicious uses of AI | February 2026",
-    "date": "Wed, 25 Feb 2026 00:00:00 GMT",
-    "url": "https://openai.com/index/disrupting-malicious-ai-uses"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Arvind KC appointed Chief People Officer",
-    "date": "Tue, 24 Feb 2026 13:40:00 GMT",
-    "url": "https://openai.com/index/arvind-kc-chief-people-officer"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "Deploying Open Source Vision Language Models (VLM) on Jetson",
-    "date": "Tue, 24 Feb 2026 00:00:21 GMT",
-    "url": "https://huggingface.co/blog/nvidia/cosmos-on-jetson"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Why we no longer evaluate SWE-bench Verified",
-    "date": "Mon, 23 Feb 2026 11:00:00 GMT",
-    "url": "https://openai.com/index/why-we-no-longer-evaluate-swe-bench-verified"
-  },
-  {
-    "source": "OpenAI",
-    "title": "OpenAI announces Frontier Alliance Partners",
-    "date": "Mon, 23 Feb 2026 05:30:00 GMT",
-    "url": "https://openai.com/index/frontier-alliance-partners"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Our First Proof submissions",
-    "date": "Fri, 20 Feb 2026 14:30:00 GMT",
-    "url": "https://openai.com/index/first-proof-submissions"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "GGML and llama.cpp join HF to ensure the long-term progress of Local AI",
-    "date": "Fri, 20 Feb 2026 00:00:00 GMT",
-    "url": "https://huggingface.co/blog/ggml-joins-hf"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "Train AI models with Unsloth and Hugging Face Jobs for FREE",
-    "date": "Fri, 20 Feb 2026 00:00:00 GMT",
-    "url": "https://huggingface.co/blog/unsloth-jobs"
   }
 ]
