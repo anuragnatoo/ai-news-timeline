@@ -1,6 +1,78 @@
 [
   {
     "source": "HuggingFace",
+    "title": "Build a Domain-Specific Embedding Model in Under a Day",
+    "date": "Fri, 20 Mar 2026 19:38:16 GMT",
+    "url": "https://huggingface.co/blog/nvidia/domain-specific-embedding-finetune"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "What's New in Mellea 0.4.0 + Granite Libraries Release",
+    "date": "Fri, 20 Mar 2026 14:14:46 GMT",
+    "url": "https://huggingface.co/blog/ibm-granite/granite-libraries"
+  },
+  {
+    "source": "arXiv",
+    "title": "DEAF: A Benchmark for Diagnostic Evaluation of Acoustic Faithfulness in Audio Language Models",
+    "date": "Fri, 20 Mar 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2603.18048"
+  },
+  {
+    "source": "arXiv",
+    "title": "Continually self-improving AI",
+    "date": "Fri, 20 Mar 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2603.18073"
+  },
+  {
+    "source": "arXiv",
+    "title": "Multi-Trait Subspace Steering to Reveal the Dark Side of Human-AI Interaction",
+    "date": "Fri, 20 Mar 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2603.18085"
+  },
+  {
+    "source": "arXiv",
+    "title": "Adaptive Domain Models: Bayesian Evolution, Warm Rotation, and Principled Training for Geometric and Neuromorphic AI",
+    "date": "Fri, 20 Mar 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2603.18104"
+  },
+  {
+    "source": "arXiv",
+    "title": "Don't Vibe Code, Do Skele-Code: Interactive No-Code Notebooks for Subject Matter Experts to Build Lower-Cost Agentic Workflows",
+    "date": "Fri, 20 Mar 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2603.18122"
+  },
+  {
+    "source": "arXiv",
+    "title": "Efficient Dense Crowd Trajectory Prediction Via Dynamic Clustering",
+    "date": "Fri, 20 Mar 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2603.18166"
+  },
+  {
+    "source": "arXiv",
+    "title": "TeachingCoach: A Fine-Tuned Scaffolding Chatbot for Instructional Guidance to Instructors",
+    "date": "Fri, 20 Mar 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2603.18189"
+  },
+  {
+    "source": "arXiv",
+    "title": "Access Controlled Website Interaction for Agentic AI with Delegated Critical Tasks",
+    "date": "Fri, 20 Mar 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2603.18197"
+  },
+  {
+    "source": "arXiv",
+    "title": "A Computationally Efficient Learning of Artificial Intelligence System Reliability Considering Error Propagation",
+    "date": "Fri, 20 Mar 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2603.18201"
+  },
+  {
+    "source": "arXiv",
+    "title": "Retrieval-Augmented LLM Agents: Learning to Learn from Experience",
+    "date": "Fri, 20 Mar 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2603.18272"
+  },
+  {
+    "source": "HuggingFace",
     "title": "**Introducing SPEED-Bench: A Unified and Diverse Benchmark for Speculative Decoding**",
     "date": "Thu, 19 Mar 2026 14:04:54 GMT",
     "url": "https://huggingface.co/blog/nvidia/speed-bench"
@@ -1126,77 +1198,5 @@
     "title": "HiMAC: Hierarchical Macro-Micro Learning for Long-Horizon LLM Agents",
     "date": "Wed, 04 Mar 2026 00:00:00 -0500",
     "url": "https://arxiv.org/abs/2603.00977"
-  },
-  {
-    "source": "arXiv",
-    "title": "Tracking Capabilities for Safer Agents",
-    "date": "Wed, 04 Mar 2026 00:00:00 -0500",
-    "url": "https://arxiv.org/abs/2603.00991"
-  },
-  {
-    "source": "arXiv",
-    "title": "CollabEval: Enhancing LLM-as-a-Judge via Multi-Agent Collaboration",
-    "date": "Wed, 04 Mar 2026 00:00:00 -0500",
-    "url": "https://arxiv.org/abs/2603.00993"
-  },
-  {
-    "source": "arXiv",
-    "title": "MMCOMET: A Large-Scale Multimodal Commonsense Knowledge Graph for Contextual Reasoning",
-    "date": "Wed, 04 Mar 2026 00:00:00 -0500",
-    "url": "https://arxiv.org/abs/2603.01055"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Understanding AI and learning outcomes",
-    "date": "Wed, 04 Mar 2026 00:00:00 GMT",
-    "url": "https://openai.com/index/understanding-ai-and-learning-outcomes"
-  },
-  {
-    "source": "OpenAI",
-    "title": "How Axios uses AI to help deliver high-impact local journalism ",
-    "date": "Wed, 04 Mar 2026 00:00:00 GMT",
-    "url": "https://openai.com/index/axios-allison-murphy"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "PRX Part 3 — Training a Text-to-Image Model in 24h!",
-    "date": "Tue, 03 Mar 2026 16:50:49 GMT",
-    "url": "https://huggingface.co/blog/Photoroom/prx-part3"
-  },
-  {
-    "source": "OpenAI",
-    "title": "GPT-5.3 Instant System Card",
-    "date": "Tue, 03 Mar 2026 10:00:00 GMT",
-    "url": "https://openai.com/index/gpt-5-3-instant-system-card"
-  },
-  {
-    "source": "OpenAI",
-    "title": "GPT-5.3 Instant: Smoother, more useful everyday conversations",
-    "date": "Tue, 03 Mar 2026 10:00:00 GMT",
-    "url": "https://openai.com/index/gpt-5-3-instant"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Our agreement with the Department of War",
-    "date": "Sat, 28 Feb 2026 12:30:00 GMT",
-    "url": "https://openai.com/index/our-agreement-with-the-department-of-war"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Joint Statement from OpenAI and Microsoft",
-    "date": "Fri, 27 Feb 2026 05:30:00 GMT",
-    "url": "https://openai.com/index/continuing-microsoft-partnership"
-  },
-  {
-    "source": "OpenAI",
-    "title": "OpenAI and Amazon announce strategic partnership",
-    "date": "Fri, 27 Feb 2026 05:30:00 GMT",
-    "url": "https://openai.com/index/amazon-partnership"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Scaling AI for everyone",
-    "date": "Fri, 27 Feb 2026 05:30:00 GMT",
-    "url": "https://openai.com/index/scaling-ai-for-everyone"
   }
 ]
