@@ -1,5 +1,71 @@
 [
   {
+    "source": "arXiv",
+    "title": "When both Grounding and not Grounding are Bad -- A Partially Grounded Encoding of Planning into SAT (Extended Version)",
+    "date": "Mon, 23 Mar 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2603.19429"
+  },
+  {
+    "source": "arXiv",
+    "title": "Hyperagents",
+    "date": "Mon, 23 Mar 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2603.19461"
+  },
+  {
+    "source": "arXiv",
+    "title": "Teaching an Agent to Sketch One Part at a Time",
+    "date": "Mon, 23 Mar 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2603.19500"
+  },
+  {
+    "source": "arXiv",
+    "title": "Learning to Disprove: Formal Counterexample Generation with Large Language Models",
+    "date": "Mon, 23 Mar 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2603.19514"
+  },
+  {
+    "source": "arXiv",
+    "title": "ItinBench: Benchmarking Planning Across Multiple Cognitive Dimensions with Large Language Models",
+    "date": "Mon, 23 Mar 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2603.19515"
+  },
+  {
+    "source": "arXiv",
+    "title": "PA2D-MORL: Pareto Ascent Directional Decomposition based Multi-Objective Reinforcement Learning",
+    "date": "Mon, 23 Mar 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2603.19579"
+  },
+  {
+    "source": "arXiv",
+    "title": "PowerLens: Taming LLM Agents for Safe and Personalized Mobile Power Management",
+    "date": "Mon, 23 Mar 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2603.19584"
+  },
+  {
+    "source": "arXiv",
+    "title": "HyEvo: Self-Evolving Hybrid Agentic Workflows for Efficient Reasoning",
+    "date": "Mon, 23 Mar 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2603.19639"
+  },
+  {
+    "source": "arXiv",
+    "title": "A Subgoal-driven Framework for Improving Long-Horizon LLM Agents",
+    "date": "Mon, 23 Mar 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2603.19685"
+  },
+  {
+    "source": "arXiv",
+    "title": "Stepwise: Neuro-Symbolic Proof Search for Automated Systems Verification",
+    "date": "Mon, 23 Mar 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2603.19715"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Creating with Sora Safely",
+    "date": "Mon, 23 Mar 2026 00:00:00 GMT",
+    "url": "https://openai.com/index/creating-with-sora-safely"
+  },
+  {
     "source": "HuggingFace",
     "title": "Build a Domain-Specific Embedding Model in Under a Day",
     "date": "Fri, 20 Mar 2026 19:38:16 GMT",
@@ -1132,71 +1198,5 @@
     "title": "TraceSIR: A Multi-Agent Framework for Structured Analysis and Reporting of Agentic Execution Traces",
     "date": "Wed, 04 Mar 2026 00:00:00 -0500",
     "url": "https://arxiv.org/abs/2603.00623"
-  },
-  {
-    "source": "arXiv",
-    "title": "LiTS: A Modular Framework for LLM Tree Search",
-    "date": "Wed, 04 Mar 2026 00:00:00 -0500",
-    "url": "https://arxiv.org/abs/2603.00631"
-  },
-  {
-    "source": "arXiv",
-    "title": "InfoPO: Information-Driven Policy Optimization for User-Centric Agents",
-    "date": "Wed, 04 Mar 2026 00:00:00 -0500",
-    "url": "https://arxiv.org/abs/2603.00656"
-  },
-  {
-    "source": "arXiv",
-    "title": "K^2-Agent: Co-Evolving Know-What and Know-How for Hierarchical Mobile Device Control",
-    "date": "Wed, 04 Mar 2026 00:00:00 -0500",
-    "url": "https://arxiv.org/abs/2603.00676"
-  },
-  {
-    "source": "arXiv",
-    "title": "MemPO: Self-Memory Policy Optimization for Long-Horizon Agents",
-    "date": "Wed, 04 Mar 2026 00:00:00 -0500",
-    "url": "https://arxiv.org/abs/2603.00680"
-  },
-  {
-    "source": "arXiv",
-    "title": "AIoT-based Continuous, Contextualized, and Explainable Driving Assessment for Older Adults",
-    "date": "Wed, 04 Mar 2026 00:00:00 -0500",
-    "url": "https://arxiv.org/abs/2603.00691"
-  },
-  {
-    "source": "arXiv",
-    "title": "MO-MIX: Multi-Objective Multi-Agent Cooperative Decision-Making With Deep Reinforcement Learning",
-    "date": "Wed, 04 Mar 2026 00:00:00 -0500",
-    "url": "https://arxiv.org/abs/2603.00730"
-  },
-  {
-    "source": "arXiv",
-    "title": "The Synthetic Web: Adversarially-Curated Mini-Internets for Diagnosing Epistemic Weaknesses of Language Agents",
-    "date": "Wed, 04 Mar 2026 00:00:00 -0500",
-    "url": "https://arxiv.org/abs/2603.00801"
-  },
-  {
-    "source": "arXiv",
-    "title": "MetaMind: General and Cognitive World Models in Multi-Agent Systems by Meta-Theory of Mind",
-    "date": "Wed, 04 Mar 2026 00:00:00 -0500",
-    "url": "https://arxiv.org/abs/2603.00808"
-  },
-  {
-    "source": "arXiv",
-    "title": "MC-Search: Evaluating and Enhancing Multimodal Agentic Search with Structured Long Reasoning Chains",
-    "date": "Wed, 04 Mar 2026 00:00:00 -0500",
-    "url": "https://arxiv.org/abs/2603.00873"
-  },
-  {
-    "source": "arXiv",
-    "title": "BioProAgent: Neuro-Symbolic Grounding for Constrained Scientific Planning",
-    "date": "Wed, 04 Mar 2026 00:00:00 -0500",
-    "url": "https://arxiv.org/abs/2603.00876"
-  },
-  {
-    "source": "arXiv",
-    "title": "HiMAC: Hierarchical Macro-Micro Learning for Long-Horizon LLM Agents",
-    "date": "Wed, 04 Mar 2026 00:00:00 -0500",
-    "url": "https://arxiv.org/abs/2603.00977"
   }
 ]
