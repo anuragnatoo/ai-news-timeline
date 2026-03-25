@@ -1,5 +1,89 @@
 [
   {
+    "source": "OpenAI",
+    "title": "Helping developers build safer AI experiences for teens",
+    "date": "Tue, 24 Mar 2026 11:00:00 GMT",
+    "url": "https://openai.com/index/teen-safety-policies-gpt-oss-safeguard"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Update on the OpenAI Foundation",
+    "date": "Tue, 24 Mar 2026 09:00:00 GMT",
+    "url": "https://openai.com/index/update-on-the-openai-foundation"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Powering product discovery in ChatGPT",
+    "date": "Tue, 24 Mar 2026 09:00:00 GMT",
+    "url": "https://openai.com/index/powering-product-discovery-in-chatgpt"
+  },
+  {
+    "source": "arXiv",
+    "title": "AgenticGEO: A Self-Evolving Agentic System for Generative Engine Optimization",
+    "date": "Tue, 24 Mar 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2603.20213"
+  },
+  {
+    "source": "arXiv",
+    "title": "ProMAS: Proactive Error Forecasting for Multi-Agent Systems Using Markov Transition Dynamics",
+    "date": "Tue, 24 Mar 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2603.20260"
+  },
+  {
+    "source": "arXiv",
+    "title": "Domain-Specialized Tree of Thought through Plug-and-Play Predictors",
+    "date": "Tue, 24 Mar 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2603.20267"
+  },
+  {
+    "source": "arXiv",
+    "title": "FactorSmith: Agentic Simulation Generation via Markov Decision Process Decomposition with Planner-Designer-Critic Refinement",
+    "date": "Tue, 24 Mar 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2603.20270"
+  },
+  {
+    "source": "arXiv",
+    "title": "Me, Myself, and $\\pi$ : Evaluating and Explaining LLM Introspection",
+    "date": "Tue, 24 Mar 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2603.20276"
+  },
+  {
+    "source": "arXiv",
+    "title": "AgentComm-Bench: Stress-Testing Cooperative Embodied AI Under Latency, Packet Loss, and Bandwidth Collapse",
+    "date": "Tue, 24 Mar 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2603.20285"
+  },
+  {
+    "source": "arXiv",
+    "title": "LLM-Enhanced Energy Contrastive Learning for Out-of-Distribution Detection in Text-Attributed Graphs",
+    "date": "Tue, 24 Mar 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2603.20293"
+  },
+  {
+    "source": "arXiv",
+    "title": "Compression is all you need: Modeling Mathematics",
+    "date": "Tue, 24 Mar 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2603.20396"
+  },
+  {
+    "source": "arXiv",
+    "title": "Leveraging Natural Language Processing and Machine Learning for Evidence-Based Food Security Policy Decision-Making in Data-Scarce Making",
+    "date": "Tue, 24 Mar 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2603.20425"
+  },
+  {
+    "source": "arXiv",
+    "title": "Deep reflective reasoning in interdependence constrained structured data extraction from clinical notes for digital health",
+    "date": "Tue, 24 Mar 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2603.20435"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "A New Framework for Evaluating Voice Agents (EVA)",
+    "date": "Tue, 24 Mar 2026 02:01:52 GMT",
+    "url": "https://huggingface.co/blog/ServiceNow-AI/eva"
+  },
+  {
     "source": "arXiv",
     "title": "When both Grounding and not Grounding are Bad -- A Partially Grounded Encoding of Planning into SAT (Extended Version)",
     "date": "Mon, 23 Mar 2026 00:00:00 -0400",
@@ -1114,89 +1198,5 @@
     "title": "Why Not? Solver-Grounded Certificates for Explainable Mission Planning",
     "date": "Wed, 04 Mar 2026 00:00:00 -0500",
     "url": "https://arxiv.org/abs/2603.00469"
-  },
-  {
-    "source": "arXiv",
-    "title": "From Goals to Aspects, Revisited: An NFR Pattern Language for Agentic AI Systems",
-    "date": "Wed, 04 Mar 2026 00:00:00 -0500",
-    "url": "https://arxiv.org/abs/2603.00472"
-  },
-  {
-    "source": "arXiv",
-    "title": "LifeEval: A Multimodal Benchmark for Assistive AI in Egocentric Daily Life Tasks",
-    "date": "Wed, 04 Mar 2026 00:00:00 -0500",
-    "url": "https://arxiv.org/abs/2603.00490"
-  },
-  {
-    "source": "arXiv",
-    "title": "AI Runtime Infrastructure",
-    "date": "Wed, 04 Mar 2026 00:00:00 -0500",
-    "url": "https://arxiv.org/abs/2603.00495"
-  },
-  {
-    "source": "arXiv",
-    "title": "DenoiseFlow: Uncertainty-Aware Denoising for Reliable LLM Agentic Workflows",
-    "date": "Wed, 04 Mar 2026 00:00:00 -0500",
-    "url": "https://arxiv.org/abs/2603.00532"
-  },
-  {
-    "source": "arXiv",
-    "title": "LOGIGEN: Logic-Driven Generation of Verifiable Agentic Tasks",
-    "date": "Wed, 04 Mar 2026 00:00:00 -0500",
-    "url": "https://arxiv.org/abs/2603.00540"
-  },
-  {
-    "source": "arXiv",
-    "title": "Advancing Multimodal Judge Models through a Capability-Oriented Benchmark and MCTS-Driven Data Generation",
-    "date": "Wed, 04 Mar 2026 00:00:00 -0500",
-    "url": "https://arxiv.org/abs/2603.00546"
-  },
-  {
-    "source": "arXiv",
-    "title": "EMPA: Evaluating Persona-Aligned Empathy as a Process",
-    "date": "Wed, 04 Mar 2026 00:00:00 -0500",
-    "url": "https://arxiv.org/abs/2603.00552"
-  },
-  {
-    "source": "arXiv",
-    "title": "SWE-Hub: A Unified Production System for Scalable, Executable Software Engineering Tasks",
-    "date": "Wed, 04 Mar 2026 00:00:00 -0500",
-    "url": "https://arxiv.org/abs/2603.00575"
-  },
-  {
-    "source": "arXiv",
-    "title": "Draft-Thinking: Learning Efficient Reasoning in Long Chain-of-Thought LLMs",
-    "date": "Wed, 04 Mar 2026 00:00:00 -0500",
-    "url": "https://arxiv.org/abs/2603.00578"
-  },
-  {
-    "source": "arXiv",
-    "title": "MicroVerse: A Preliminary Exploration Toward a Micro-World Simulation",
-    "date": "Wed, 04 Mar 2026 00:00:00 -0500",
-    "url": "https://arxiv.org/abs/2603.00585"
-  },
-  {
-    "source": "arXiv",
-    "title": "Fair in Mind, Fair in Action? A Synchronous Benchmark for Understanding and Generation in UMLLMs",
-    "date": "Wed, 04 Mar 2026 00:00:00 -0500",
-    "url": "https://arxiv.org/abs/2603.00590"
-  },
-  {
-    "source": "arXiv",
-    "title": "Heterophily-Agnostic Hypergraph Neural Networks with Riemannian Local Exchanger",
-    "date": "Wed, 04 Mar 2026 00:00:00 -0500",
-    "url": "https://arxiv.org/abs/2603.00599"
-  },
-  {
-    "source": "arXiv",
-    "title": "Machine Learning Grade Prediction Using Students' Grades and Demographics",
-    "date": "Wed, 04 Mar 2026 00:00:00 -0500",
-    "url": "https://arxiv.org/abs/2603.00608"
-  },
-  {
-    "source": "arXiv",
-    "title": "TraceSIR: A Multi-Agent Framework for Structured Analysis and Reporting of Agentic Execution Traces",
-    "date": "Wed, 04 Mar 2026 00:00:00 -0500",
-    "url": "https://arxiv.org/abs/2603.00623"
   }
 ]
