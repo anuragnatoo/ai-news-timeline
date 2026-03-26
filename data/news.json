@@ -1,6 +1,78 @@
 [
   {
     "source": "OpenAI",
+    "title": "Inside our approach to the Model Spec",
+    "date": "Wed, 25 Mar 2026 10:00:00 GMT",
+    "url": "https://openai.com/index/our-approach-to-the-model-spec"
+  },
+  {
+    "source": "arXiv",
+    "title": "Memory Bear AI Memory Science Engine for Multimodal Affective Intelligence: A Technical Report",
+    "date": "Wed, 25 Mar 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2603.22306"
+  },
+  {
+    "source": "arXiv",
+    "title": "The Efficiency Attenuation Phenomenon: A Computational Challenge to the Language of Thought Hypothesis",
+    "date": "Wed, 25 Mar 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2603.22312"
+  },
+  {
+    "source": "arXiv",
+    "title": "Dynamic Fusion-Aware Graph Convolutional Neural Network for Multimodal Emotion Recognition in Conversations",
+    "date": "Wed, 25 Mar 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2603.22345"
+  },
+  {
+    "source": "arXiv",
+    "title": "Intelligence Inertia: Physical Principles and Applications",
+    "date": "Wed, 25 Mar 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2603.22347"
+  },
+  {
+    "source": "arXiv",
+    "title": "Session Risk Memory (SRM): Temporal Authorization for Deterministic Pre-Execution Safety Gates",
+    "date": "Wed, 25 Mar 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2603.22350"
+  },
+  {
+    "source": "arXiv",
+    "title": "STEM Agent: A Self-Adapting, Tool-Enabled, Extensible Architecture for Multi-Protocol AI Agent Systems",
+    "date": "Wed, 25 Mar 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2603.22359"
+  },
+  {
+    "source": "arXiv",
+    "title": "From Static Templates to Dynamic Runtime Graphs: A Survey of Workflow Optimization for LLM Agents",
+    "date": "Wed, 25 Mar 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2603.22386"
+  },
+  {
+    "source": "arXiv",
+    "title": "Computational Arbitrage in AI Model Markets",
+    "date": "Wed, 25 Mar 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2603.22404"
+  },
+  {
+    "source": "arXiv",
+    "title": "Maximum Entropy Relaxation of Multi-Way Cardinality Constraints for Synthetic Population Generation",
+    "date": "Wed, 25 Mar 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2603.22558"
+  },
+  {
+    "source": "arXiv",
+    "title": "AI Mental Models: Learned Intuition and Deliberation in a Bounded Neural Architecture",
+    "date": "Wed, 25 Mar 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2603.22561"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Introducing the OpenAI Safety Bug Bounty program",
+    "date": "Wed, 25 Mar 2026 00:00:00 GMT",
+    "url": "https://openai.com/index/safety-bug-bounty"
+  },
+  {
+    "source": "OpenAI",
     "title": "Helping developers build safer AI experiences for teens",
     "date": "Tue, 24 Mar 2026 11:00:00 GMT",
     "url": "https://openai.com/index/teen-safety-policies-gpt-oss-safeguard"
@@ -1126,77 +1198,5 @@
     "title": "Extending single-minus amplitudes to gravitons",
     "date": "Wed, 04 Mar 2026 10:00:00 GMT",
     "url": "https://openai.com/index/extending-single-minus-amplitudes-to-gravitons"
-  },
-  {
-    "source": "arXiv",
-    "title": "Multi-Sourced, Multi-Agent Evidence Retrieval for Fact-Checking",
-    "date": "Wed, 04 Mar 2026 00:00:00 -0500",
-    "url": "https://arxiv.org/abs/2603.00267"
-  },
-  {
-    "source": "arXiv",
-    "title": "TraderBench: How Robust Are AI Agents in Adversarial Capital Markets?",
-    "date": "Wed, 04 Mar 2026 00:00:00 -0500",
-    "url": "https://arxiv.org/abs/2603.00285"
-  },
-  {
-    "source": "arXiv",
-    "title": "DIG to Heal: Scaling General-purpose Agent Collaboration via Explainable Dynamic Decision Paths",
-    "date": "Wed, 04 Mar 2026 00:00:00 -0500",
-    "url": "https://arxiv.org/abs/2603.00309"
-  },
-  {
-    "source": "arXiv",
-    "title": "How Well Do Multimodal Models Reason on ECG Signals?",
-    "date": "Wed, 04 Mar 2026 00:00:00 -0500",
-    "url": "https://arxiv.org/abs/2603.00312"
-  },
-  {
-    "source": "arXiv",
-    "title": "EmCoop: A Framework and Benchmark for Embodied Cooperation Among LLM Agents",
-    "date": "Wed, 04 Mar 2026 00:00:00 -0500",
-    "url": "https://arxiv.org/abs/2603.00349"
-  },
-  {
-    "source": "arXiv",
-    "title": "Monotropic Artificial Intelligence: Toward a Cognitive Taxonomy of Domain-Specialized Language Models",
-    "date": "Wed, 04 Mar 2026 00:00:00 -0500",
-    "url": "https://arxiv.org/abs/2603.00350"
-  },
-  {
-    "source": "arXiv",
-    "title": "Conservative Equilibrium Discovery in Offline Game-Theoretic Multiagent Reinforcement Learning",
-    "date": "Wed, 04 Mar 2026 00:00:00 -0500",
-    "url": "https://arxiv.org/abs/2603.00374"
-  },
-  {
-    "source": "arXiv",
-    "title": "NeuroHex: Highly-Efficient Hex Coordinate System for Creating World Models to Enable Adaptive AI",
-    "date": "Wed, 04 Mar 2026 00:00:00 -0500",
-    "url": "https://arxiv.org/abs/2603.00376"
-  },
-  {
-    "source": "arXiv",
-    "title": "Confusion-Aware Rubric Optimization for LLM-based Automated Grading",
-    "date": "Wed, 04 Mar 2026 00:00:00 -0500",
-    "url": "https://arxiv.org/abs/2603.00451"
-  },
-  {
-    "source": "arXiv",
-    "title": "MED-COPILOT: A Medical Assistant Powered by GraphRAG and Similar Patient Case Retrieval",
-    "date": "Wed, 04 Mar 2026 00:00:00 -0500",
-    "url": "https://arxiv.org/abs/2603.00460"
-  },
-  {
-    "source": "arXiv",
-    "title": "Optimizing In-Context Demonstrations for LLM-based Automated Grading",
-    "date": "Wed, 04 Mar 2026 00:00:00 -0500",
-    "url": "https://arxiv.org/abs/2603.00465"
-  },
-  {
-    "source": "arXiv",
-    "title": "Why Not? Solver-Grounded Certificates for Explainable Mission Planning",
-    "date": "Wed, 04 Mar 2026 00:00:00 -0500",
-    "url": "https://arxiv.org/abs/2603.00469"
   }
 ]
