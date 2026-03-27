@@ -1,5 +1,65 @@
 [
   {
+    "source": "arXiv",
+    "title": "PLDR-LLMs Reason At Self-Organized Criticality",
+    "date": "Thu, 26 Mar 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2603.23539"
+  },
+  {
+    "source": "arXiv",
+    "title": "Environment Maps: Structured Environmental Representations for Long-Horizon Agents",
+    "date": "Thu, 26 Mar 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2603.23610"
+  },
+  {
+    "source": "arXiv",
+    "title": "Evaluating a Multi-Agent Voice-Enabled Smart Speaker for Care Homes: A Safety-Focused Framework",
+    "date": "Thu, 26 Mar 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2603.23625"
+  },
+  {
+    "source": "arXiv",
+    "title": "Can LLM Agents Be CFOs? A Benchmark for Resource Allocation in Dynamic Enterprise Environments",
+    "date": "Thu, 26 Mar 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2603.23638"
+  },
+  {
+    "source": "arXiv",
+    "title": "GTO Wizard Benchmark",
+    "date": "Thu, 26 Mar 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2603.23660"
+  },
+  {
+    "source": "arXiv",
+    "title": "Grounding Vision and Language to 3D Masks for Long-Horizon Box Rearrangement",
+    "date": "Thu, 26 Mar 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2603.23676"
+  },
+  {
+    "source": "arXiv",
+    "title": "LLMs Do Not Grade Essays Like Humans",
+    "date": "Thu, 26 Mar 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2603.23714"
+  },
+  {
+    "source": "arXiv",
+    "title": "Efficient Benchmarking of AI Agents",
+    "date": "Thu, 26 Mar 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2603.23749"
+  },
+  {
+    "source": "arXiv",
+    "title": "Learning-guided Prioritized Planning for Lifelong Multi-Agent Path Finding in Warehouse Automation",
+    "date": "Thu, 26 Mar 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2603.23838"
+  },
+  {
+    "source": "arXiv",
+    "title": "VehicleMemBench: An Executable Benchmark for Multi-User Long-Term Memory in In-Vehicle Agents",
+    "date": "Thu, 26 Mar 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2603.23840"
+  },
+  {
     "source": "OpenAI",
     "title": "Inside our approach to the Model Spec",
     "date": "Wed, 25 Mar 2026 10:00:00 GMT",
@@ -1138,65 +1198,5 @@
     "title": "AI4S-SDS: A Neuro-Symbolic Solvent Design System via Sparse MCTS and Differentiable Physics Alignment",
     "date": "Thu, 05 Mar 2026 00:00:00 -0500",
     "url": "https://arxiv.org/abs/2603.03686"
-  },
-  {
-    "source": "arXiv",
-    "title": "RAGNav: A Retrieval-Augmented Topological Reasoning Framework for Multi-Goal Visual-Language Navigation",
-    "date": "Thu, 05 Mar 2026 00:00:00 -0500",
-    "url": "https://arxiv.org/abs/2603.03745"
-  },
-  {
-    "source": "arXiv",
-    "title": "AgentSelect: Benchmark for Narrative Query-to-Agent Recommendation",
-    "date": "Thu, 05 Mar 2026 00:00:00 -0500",
-    "url": "https://arxiv.org/abs/2603.03761"
-  },
-  {
-    "source": "arXiv",
-    "title": "LifeBench: A Benchmark for Long-Horizon Multi-Source Memory",
-    "date": "Thu, 05 Mar 2026 00:00:00 -0500",
-    "url": "https://arxiv.org/abs/2603.03781"
-  },
-  {
-    "source": "arXiv",
-    "title": "Specification-Driven Generation and Evaluation of Discrete-Event World Models via the DEVS Formalism",
-    "date": "Thu, 05 Mar 2026 00:00:00 -0500",
-    "url": "https://arxiv.org/abs/2603.03784"
-  },
-  {
-    "source": "arXiv",
-    "title": "A Rubric-Supervised Critic from Sparse Real-World Outcomes",
-    "date": "Thu, 05 Mar 2026 00:00:00 -0500",
-    "url": "https://arxiv.org/abs/2603.03800"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Introducing ChatGPT for Excel and new financial data integrations",
-    "date": "Thu, 05 Mar 2026 00:00:00 GMT",
-    "url": "https://openai.com/index/chatgpt-for-excel"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Introducing the Adoption news channel",
-    "date": "Thu, 05 Mar 2026 00:00:00 GMT",
-    "url": "https://openai.com/index/introducing-the-adoption-news-channel"
-  },
-  {
-    "source": "OpenAI",
-    "title": "The five AI value models driving business reinvention",
-    "date": "Thu, 05 Mar 2026 00:00:00 GMT",
-    "url": "https://openai.com/index/the-five-ai-value-models-driving-business-reinvention"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "Introducing Modular Diffusers - Composable Building Blocks for Diffusion Pipelines",
-    "date": "Thu, 05 Mar 2026 00:00:00 GMT",
-    "url": "https://huggingface.co/blog/modular-diffusers"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Extending single-minus amplitudes to gravitons",
-    "date": "Wed, 04 Mar 2026 10:00:00 GMT",
-    "url": "https://openai.com/index/extending-single-minus-amplitudes-to-gravitons"
   }
 ]
