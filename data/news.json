@@ -1,5 +1,71 @@
 [
   {
+    "source": "OpenAI",
+    "title": "STADLER reshapes knowledge work at a 230-year-old company",
+    "date": "Fri, 27 Mar 2026 22:00:00 GMT",
+    "url": "https://openai.com/index/stadler"
+  },
+  {
+    "source": "arXiv",
+    "title": "SCoOP: Semantic Consistent Opinion Pooling for Uncertainty Quantification in Multiple Vision-Language Model Systems",
+    "date": "Fri, 27 Mar 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2603.23853"
+  },
+  {
+    "source": "arXiv",
+    "title": "When AI output tips to bad but nobody notices: Legal implications of AI's mistakes",
+    "date": "Fri, 27 Mar 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2603.23857"
+  },
+  {
+    "source": "arXiv",
+    "title": "The DeepXube Software Package for Solving Pathfinding Problems with Learned Heuristic Functions and Search",
+    "date": "Fri, 27 Mar 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2603.23873"
+  },
+  {
+    "source": "arXiv",
+    "title": "DUPLEX: Agentic Dual-System Planning via LLM-Driven Information Extraction",
+    "date": "Fri, 27 Mar 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2603.23909"
+  },
+  {
+    "source": "arXiv",
+    "title": "AnalogAgent: Self-Improving Analog Circuit Design Automation with LLM Agents",
+    "date": "Fri, 27 Mar 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2603.23910"
+  },
+  {
+    "source": "arXiv",
+    "title": "From Pixels to Digital Agents: An Empirical Study on the Taxonomy and Technological Trends of Reinforcement Learning Environments",
+    "date": "Fri, 27 Mar 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2603.23964"
+  },
+  {
+    "source": "arXiv",
+    "title": "Language-Grounded Multi-Agent Planning for Personalized and Fair Participatory Urban Sensing",
+    "date": "Fri, 27 Mar 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2603.24014"
+  },
+  {
+    "source": "arXiv",
+    "title": "ELITE: Experiential Learning and Intent-Aware Transfer for Self-improving Embodied Agents",
+    "date": "Fri, 27 Mar 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2603.24018"
+  },
+  {
+    "source": "arXiv",
+    "title": "Enhanced Mycelium of Thought (EMoT): A Bio-Inspired Hierarchical Reasoning Architecture with Strategic Dormancy and Mnemonic Encoding",
+    "date": "Fri, 27 Mar 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2603.24065"
+  },
+  {
+    "source": "arXiv",
+    "title": "Bridging the Evaluation Gap: Standardized Benchmarks for Multi-Objective Search",
+    "date": "Fri, 27 Mar 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2603.24084"
+  },
+  {
     "source": "arXiv",
     "title": "PLDR-LLMs Reason At Self-Organized Criticality",
     "date": "Thu, 26 Mar 2026 00:00:00 -0400",
@@ -1132,71 +1198,5 @@
     "title": "When Agents Persuade: Propaganda Generation and Mitigation in LLMs",
     "date": "Fri, 06 Mar 2026 00:00:00 -0500",
     "url": "https://arxiv.org/abs/2603.04636"
-  },
-  {
-    "source": "arXiv",
-    "title": "Using Vision + Language Models to Predict Item Difficulty",
-    "date": "Fri, 06 Mar 2026 00:00:00 -0500",
-    "url": "https://arxiv.org/abs/2603.04670"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "Bringing Robotics AI to Embedded Platforms: Dataset Recording, VLA Fine‑Tuning, and On‑Device Optimizations",
-    "date": "Thu, 05 Mar 2026 14:16:49 GMT",
-    "url": "https://huggingface.co/blog/nxp/bringing-robotics-ai-to-embedded-platforms"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Introducing GPT-5.4",
-    "date": "Thu, 05 Mar 2026 10:00:00 GMT",
-    "url": "https://openai.com/index/introducing-gpt-5-4"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Reasoning models struggle to control their chains of thought, and that’s good",
-    "date": "Thu, 05 Mar 2026 10:00:00 GMT",
-    "url": "https://openai.com/index/reasoning-models-chain-of-thought-controllability"
-  },
-  {
-    "source": "OpenAI",
-    "title": "GPT-5.4 Thinking System Card",
-    "date": "Thu, 05 Mar 2026 10:00:00 GMT",
-    "url": "https://openai.com/index/gpt-5-4-thinking-system-card"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Ensuring AI use in education leads to opportunity",
-    "date": "Thu, 05 Mar 2026 09:00:00 GMT",
-    "url": "https://openai.com/index/ai-education-opportunity"
-  },
-  {
-    "source": "arXiv",
-    "title": "Asymmetric Goal Drift in Coding Agents Under Value Conflict",
-    "date": "Thu, 05 Mar 2026 00:00:00 -0500",
-    "url": "https://arxiv.org/abs/2603.03456"
-  },
-  {
-    "source": "arXiv",
-    "title": "Build, Judge, Optimize: A Blueprint for Continuous Improvement of Multi-Agent Consumer Assistants",
-    "date": "Thu, 05 Mar 2026 00:00:00 -0500",
-    "url": "https://arxiv.org/abs/2603.03565"
-  },
-  {
-    "source": "arXiv",
-    "title": "Mozi: Governed Autonomy for Drug Discovery LLM Agents",
-    "date": "Thu, 05 Mar 2026 00:00:00 -0500",
-    "url": "https://arxiv.org/abs/2603.03655"
-  },
-  {
-    "source": "arXiv",
-    "title": "MAGE: Meta-Reinforcement Learning for Language Agents toward Strategic Exploration and Exploitation",
-    "date": "Thu, 05 Mar 2026 00:00:00 -0500",
-    "url": "https://arxiv.org/abs/2603.03680"
-  },
-  {
-    "source": "arXiv",
-    "title": "AI4S-SDS: A Neuro-Symbolic Solvent Design System via Sparse MCTS and Differentiable Physics Alignment",
-    "date": "Thu, 05 Mar 2026 00:00:00 -0500",
-    "url": "https://arxiv.org/abs/2603.03686"
   }
 ]
