@@ -66,6 +66,12 @@
     "url": "https://arxiv.org/abs/2603.24084"
   },
   {
+    "source": "HuggingFace",
+    "title": "Liberate your OpenClaw",
+    "date": "Fri, 27 Mar 2026 00:00:00 GMT",
+    "url": "https://huggingface.co/blog/liberate-your-openclaw"
+  },
+  {
     "source": "arXiv",
     "title": "PLDR-LLMs Reason At Self-Organized Criticality",
     "date": "Thu, 26 Mar 2026 00:00:00 -0400",
@@ -1192,11 +1198,5 @@
     "title": "Towards automated data analysis: A guided framework for LLM-based risk estimation",
     "date": "Fri, 06 Mar 2026 00:00:00 -0500",
     "url": "https://arxiv.org/abs/2603.04631"
-  },
-  {
-    "source": "arXiv",
-    "title": "When Agents Persuade: Propaganda Generation and Mitigation in LLMs",
-    "date": "Fri, 06 Mar 2026 00:00:00 -0500",
-    "url": "https://arxiv.org/abs/2603.04636"
   }
 ]
