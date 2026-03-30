@@ -36,7 +36,6 @@ jobs:
           git add data/news.json
           git commit -m "update ai news" || echo "No changes"
           git push origin main
-          git push origin gh-pages
       
       - name: Switch to gh-pages
         run: |
