@@ -1,5 +1,71 @@
 [
   {
+    "source": "arXiv",
+    "title": "BeSafe-Bench: Unveiling Behavioral Safety Risks of Situated Agents in Functional Environments",
+    "date": "Mon, 30 Mar 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2603.25747"
+  },
+  {
+    "source": "arXiv",
+    "title": "AutoB2G: A Large Language Model-Driven Agentic Framework For Automated Building-Grid Co-Simulation",
+    "date": "Mon, 30 Mar 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2603.26005"
+  },
+  {
+    "source": "arXiv",
+    "title": "Semi-Automated Knowledge Engineering and Process Mapping for Total Airport Management",
+    "date": "Mon, 30 Mar 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2603.26076"
+  },
+  {
+    "source": "arXiv",
+    "title": "GUIDE: Resolving Domain Bias in GUI Agents through Real-Time Web Video Retrieval and Plug-and-Play Annotation",
+    "date": "Mon, 30 Mar 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2603.26266"
+  },
+  {
+    "source": "arXiv",
+    "title": "AIRA_2: Overcoming Bottlenecks in AI Research Agents",
+    "date": "Mon, 30 Mar 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2603.26499"
+  },
+  {
+    "source": "arXiv",
+    "title": "CADSmith: Multi-Agent CAD Generation with Programmatic Geometric Validation",
+    "date": "Mon, 30 Mar 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2603.26512"
+  },
+  {
+    "source": "arXiv",
+    "title": "Stabilizing Rubric Integration Training via Decoupled Advantage Normalization",
+    "date": "Mon, 30 Mar 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2603.26535"
+  },
+  {
+    "source": "arXiv",
+    "title": "DesignWeaver: Dimensional Scaffolding for Text-to-Image Product Design",
+    "date": "Mon, 30 Mar 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2502.09867"
+  },
+  {
+    "source": "arXiv",
+    "title": "A Lightweight, Transferable, and Self-Adaptive Framework for Intelligent DC Arc-Fault Detection in Photovoltaic Systems",
+    "date": "Mon, 30 Mar 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2603.25749"
+  },
+  {
+    "source": "arXiv",
+    "title": "Sommelier: Scalable Open Multi-turn Audio Pre-processing for Full-duplex Speech Language Models",
+    "date": "Mon, 30 Mar 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2603.25750"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Helping disaster response teams turn AI into action across Asia",
+    "date": "Sun, 29 Mar 2026 22:15:00 GMT",
+    "url": "https://openai.com/index/helping-disaster-response-teams-asia"
+  },
+  {
     "source": "OpenAI",
     "title": "STADLER reshapes knowledge work at a 230-year-old company",
     "date": "Fri, 27 Mar 2026 22:00:00 GMT",
@@ -1132,71 +1198,5 @@
     "title": "Conversational LLM Evaluations in Minutes with NVIDIA NeMo Evaluator Agent Skills ",
     "date": "Fri, 06 Mar 2026 18:56:10 GMT",
     "url": "https://huggingface.co/blog/nvidia/model-evaluation-skill"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Codex Security: now in research preview ",
-    "date": "Fri, 06 Mar 2026 10:00:00 GMT",
-    "url": "https://openai.com/index/codex-security-now-in-research-preview"
-  },
-  {
-    "source": "OpenAI",
-    "title": "How Descript enables multilingual video dubbing at scale",
-    "date": "Fri, 06 Mar 2026 10:00:00 GMT",
-    "url": "https://openai.com/index/descript"
-  },
-  {
-    "source": "OpenAI",
-    "title": "How Balyasny Asset Management built an AI research engine for investing",
-    "date": "Fri, 06 Mar 2026 07:00:00 GMT",
-    "url": "https://openai.com/index/balyasny-asset-management"
-  },
-  {
-    "source": "arXiv",
-    "title": "SkillNet: Create, Evaluate, and Connect AI Skills",
-    "date": "Fri, 06 Mar 2026 00:00:00 -0500",
-    "url": "https://arxiv.org/abs/2603.04448"
-  },
-  {
-    "source": "arXiv",
-    "title": "Capability Thresholds and Manufacturing Topology: How Embodied Intelligence Triggers Phase Transitions in Economic Geography",
-    "date": "Fri, 06 Mar 2026 00:00:00 -0500",
-    "url": "https://arxiv.org/abs/2603.04457"
-  },
-  {
-    "source": "arXiv",
-    "title": "Progressive Refinement Regulation for Accelerating Diffusion Language Model Decoding",
-    "date": "Fri, 06 Mar 2026 00:00:00 -0500",
-    "url": "https://arxiv.org/abs/2603.04514"
-  },
-  {
-    "source": "arXiv",
-    "title": "Discovering mathematical concepts through a multi-agent system",
-    "date": "Fri, 06 Mar 2026 00:00:00 -0500",
-    "url": "https://arxiv.org/abs/2603.04528"
-  },
-  {
-    "source": "arXiv",
-    "title": "Adaptive Memory Admission Control for LLM Agents",
-    "date": "Fri, 06 Mar 2026 00:00:00 -0500",
-    "url": "https://arxiv.org/abs/2603.04549"
-  },
-  {
-    "source": "arXiv",
-    "title": "Self-Attribution Bias: When AI Monitors Go Easy on Themselves",
-    "date": "Fri, 06 Mar 2026 00:00:00 -0500",
-    "url": "https://arxiv.org/abs/2603.04582"
-  },
-  {
-    "source": "arXiv",
-    "title": "ECG-MoE: Mixture-of-Expert Electrocardiogram Foundation Model",
-    "date": "Fri, 06 Mar 2026 00:00:00 -0500",
-    "url": "https://arxiv.org/abs/2603.04589"
-  },
-  {
-    "source": "arXiv",
-    "title": "Towards automated data analysis: A guided framework for LLM-based risk estimation",
-    "date": "Fri, 06 Mar 2026 00:00:00 -0500",
-    "url": "https://arxiv.org/abs/2603.04631"
   }
 ]
