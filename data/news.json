@@ -1,5 +1,83 @@
 [
   {
+    "source": "HuggingFace",
+    "title": "Granite 4.0 3B Vision: Compact Multimodal Intelligence for Enterprise Documents",
+    "date": "Tue, 31 Mar 2026 15:10:41 GMT",
+    "url": "https://huggingface.co/blog/ibm-granite/granite-4-vision"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Accelerating the next phase of AI",
+    "date": "Tue, 31 Mar 2026 13:00:00 GMT",
+    "url": "https://openai.com/index/accelerating-the-next-phase-ai"
+  },
+  {
+    "source": "arXiv",
+    "title": "Bitboard version of Tetris AI",
+    "date": "Tue, 31 Mar 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2603.26765"
+  },
+  {
+    "source": "arXiv",
+    "title": "Multiverse: Language-Conditioned Multi-Game Level Blending via Shared Representation",
+    "date": "Tue, 31 Mar 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2603.26782"
+  },
+  {
+    "source": "arXiv",
+    "title": "Concerning Uncertainty -- A Systematic Survey of Uncertainty-Aware XAI",
+    "date": "Tue, 31 Mar 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2603.26838"
+  },
+  {
+    "source": "arXiv",
+    "title": "Neuro-Symbolic Learning for Predictive Process Monitoring via Two-Stage Logic Tensor Networks with Rule Pruning",
+    "date": "Tue, 31 Mar 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2603.26944"
+  },
+  {
+    "source": "arXiv",
+    "title": "Compliance-Aware Predictive Process Monitoring: A Neuro-Symbolic Approach",
+    "date": "Tue, 31 Mar 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2603.26948"
+  },
+  {
+    "source": "arXiv",
+    "title": "Transparency as Architecture: Structural Compliance Gaps in EU AI Act Article 50 II",
+    "date": "Tue, 31 Mar 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2603.26983"
+  },
+  {
+    "source": "arXiv",
+    "title": "FormalProofBench: Can Models Write Graduate Level Math Proofs That Are Formally Verified?",
+    "date": "Tue, 31 Mar 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2603.26996"
+  },
+  {
+    "source": "arXiv",
+    "title": "When Verification Hurts: Asymmetric Effects of Multi-Agent Feedback in Logic Proof Tutoring",
+    "date": "Tue, 31 Mar 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2603.27076"
+  },
+  {
+    "source": "arXiv",
+    "title": "The Price of Meaning: Why Every Semantic Memory System Forgets",
+    "date": "Tue, 31 Mar 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2603.27116"
+  },
+  {
+    "source": "arXiv",
+    "title": "MediHive: A Decentralized Agent Collective for Medical Reasoning",
+    "date": "Tue, 31 Mar 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2603.27150"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "TRL v1.0: Post-Training Library Built to Move with the Field",
+    "date": "Tue, 31 Mar 2026 00:00:00 GMT",
+    "url": "https://huggingface.co/blog/trl-v1"
+  },
+  {
     "source": "arXiv",
     "title": "BeSafe-Bench: Unveiling Behavioral Safety Risks of Situated Agents in Functional Environments",
     "date": "Mon, 30 Mar 2026 00:00:00 -0400",
@@ -1120,83 +1198,5 @@
     "title": "OpenAI to acquire Promptfoo",
     "date": "Mon, 09 Mar 2026 10:00:00 GMT",
     "url": "https://openai.com/index/openai-to-acquire-promptfoo"
-  },
-  {
-    "source": "arXiv",
-    "title": "RoboLayout: Differentiable 3D Scene Generation for Embodied Agents",
-    "date": "Mon, 09 Mar 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2603.05522"
-  },
-  {
-    "source": "arXiv",
-    "title": "Real-Time AI Service Economy: A Framework for Agentic Computing Across the Continuum",
-    "date": "Mon, 09 Mar 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2603.05614"
-  },
-  {
-    "source": "arXiv",
-    "title": "Reasoning Models Struggle to Control their Chains of Thought",
-    "date": "Mon, 09 Mar 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2603.05706"
-  },
-  {
-    "source": "arXiv",
-    "title": "Evolving Medical Imaging Agents via Experience-driven Self-skill Discovery",
-    "date": "Mon, 09 Mar 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2603.05860"
-  },
-  {
-    "source": "arXiv",
-    "title": "The World Won't Stay Still: Programmable Evolution for Agent Benchmarks",
-    "date": "Mon, 09 Mar 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2603.05910"
-  },
-  {
-    "source": "arXiv",
-    "title": "DeepFact: Co-Evolving Benchmarks and Agents for Deep Research Factuality",
-    "date": "Mon, 09 Mar 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2603.05912"
-  },
-  {
-    "source": "arXiv",
-    "title": "An Interactive Multi-Agent System for Evaluation of New Product Concepts",
-    "date": "Mon, 09 Mar 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2603.05980"
-  },
-  {
-    "source": "arXiv",
-    "title": "Agentic LLM Planning via Step-Wise PDDL Simulation: An Empirical Characterisation",
-    "date": "Mon, 09 Mar 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2603.06064"
-  },
-  {
-    "source": "arXiv",
-    "title": "Aggregative Semantics for Quantitative Bipolar Argumentation Frameworks",
-    "date": "Mon, 09 Mar 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2603.06067"
-  },
-  {
-    "source": "arXiv",
-    "title": "Offline Materials Optimization with CliqueFlowmer",
-    "date": "Mon, 09 Mar 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2603.06082"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "Ulysses Sequence Parallelism: Training with Million-Token Contexts",
-    "date": "Mon, 09 Mar 2026 00:00:00 GMT",
-    "url": "https://huggingface.co/blog/ulysses-sp"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "LeRobot v0.5.0: Scaling Every Dimension",
-    "date": "Mon, 09 Mar 2026 00:00:00 GMT",
-    "url": "https://huggingface.co/blog/lerobot-release-v050"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "Conversational LLM Evaluations in Minutes with NVIDIA NeMo Evaluator Agent Skills ",
-    "date": "Fri, 06 Mar 2026 18:56:10 GMT",
-    "url": "https://huggingface.co/blog/nvidia/model-evaluation-skill"
   }
 ]
