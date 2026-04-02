@@ -1,6 +1,84 @@
 [
   {
     "source": "HuggingFace",
+    "title": "Holo3: Breaking the Computer Use Frontier",
+    "date": "Wed, 01 Apr 2026 16:36:15 GMT",
+    "url": "https://huggingface.co/blog/Hcompany/holo3"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "Falcon Perception",
+    "date": "Wed, 01 Apr 2026 07:13:20 GMT",
+    "url": "https://huggingface.co/blog/tiiuae/falcon-perception"
+  },
+  {
+    "source": "arXiv",
+    "title": "ChartDiff: A Large-Scale Benchmark for Comprehending Pairs of Charts",
+    "date": "Wed, 01 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2603.28902"
+  },
+  {
+    "source": "arXiv",
+    "title": "Working Paper: Towards a Category-theoretic Comparative Framework for Artificial General Intelligence",
+    "date": "Wed, 01 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2603.28906"
+  },
+  {
+    "source": "arXiv",
+    "title": "Towards Computational Social Dynamics of Semi-Autonomous AI Agents",
+    "date": "Wed, 01 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2603.28928"
+  },
+  {
+    "source": "arXiv",
+    "title": "Enhancing Policy Learning with World-Action Model",
+    "date": "Wed, 01 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2603.28955"
+  },
+  {
+    "source": "arXiv",
+    "title": "Mimosa Framework: Toward Evolving Multi-Agent Systems for Scientific Research",
+    "date": "Wed, 01 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2603.28986"
+  },
+  {
+    "source": "arXiv",
+    "title": "Drop the Hierarchy and Roles: How Self-Organizing LLM Agents Outperform Designed Structures",
+    "date": "Wed, 01 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2603.28990"
+  },
+  {
+    "source": "arXiv",
+    "title": "Emergence WebVoyager: Toward Consistent and Transparent Evaluation of (Web) Agents in The Wild",
+    "date": "Wed, 01 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2603.29020"
+  },
+  {
+    "source": "arXiv",
+    "title": "The Future of AI is Many, Not One",
+    "date": "Wed, 01 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2603.29075"
+  },
+  {
+    "source": "arXiv",
+    "title": "PAR$^2$-RAG: Planned Active Retrieval and Reasoning for Multi-Hop Question Answering",
+    "date": "Wed, 01 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2603.29085"
+  },
+  {
+    "source": "arXiv",
+    "title": "GISTBench: Evaluating LLM User Understanding via Evidence-Based Interest Verification",
+    "date": "Wed, 01 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2603.29112"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Gradient Labs gives every bank customer an AI account manager",
+    "date": "Wed, 01 Apr 2026 02:00:00 GMT",
+    "url": "https://openai.com/index/gradient-labs"
+  },
+  {
+    "source": "HuggingFace",
     "title": "Granite 4.0 3B Vision: Compact Multimodal Intelligence for Enterprise Documents",
     "date": "Tue, 31 Mar 2026 15:10:41 GMT",
     "url": "https://huggingface.co/blog/ibm-granite/granite-4-vision"
@@ -1120,83 +1198,5 @@
     "title": "Autonomous AI Agents for Option Hedging: Enhancing Financial Stability through Shortfall Aware Reinforcement Learning",
     "date": "Tue, 10 Mar 2026 00:00:00 -0400",
     "url": "https://arxiv.org/abs/2603.06587"
-  },
-  {
-    "source": "arXiv",
-    "title": "Scaling Strategy, Not Compute: A Stand-Alone, Open-Source StarCraft II Benchmark for Accessible Reinforcement Learning Research",
-    "date": "Tue, 10 Mar 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2603.06608"
-  },
-  {
-    "source": "arXiv",
-    "title": "MultiGen: Level-Design for Editable Multiplayer Worlds in Diffusion Game Engines",
-    "date": "Tue, 10 Mar 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2603.06679"
-  },
-  {
-    "source": "arXiv",
-    "title": "Best-of-Tails: Bridging Optimism and Pessimism in Inference-Time Alignment",
-    "date": "Tue, 10 Mar 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2603.06797"
-  },
-  {
-    "source": "arXiv",
-    "title": "Breaking the Martingale Curse: Multi-Agent Debate via Asymmetric Cognitive Potential Energy",
-    "date": "Tue, 10 Mar 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2603.06801"
-  },
-  {
-    "source": "arXiv",
-    "title": "Making AI Evaluation Deployment Relevant Through Context Specification",
-    "date": "Tue, 10 Mar 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2603.06811"
-  },
-  {
-    "source": "arXiv",
-    "title": "Reinforcing the World's Edge: A Continual Learning Problem in the Multi-Agent-World Boundary",
-    "date": "Tue, 10 Mar 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2603.06813"
-  },
-  {
-    "source": "arXiv",
-    "title": "Symmetry-Constrained Language-Guided Program Synthesis for Discovering Governing Equations from Noisy and Partial Observations",
-    "date": "Tue, 10 Mar 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2603.06869"
-  },
-  {
-    "source": "arXiv",
-    "title": "LEAD: Breaking the No-Recovery Bottleneck in Long-Horizon Reasoning",
-    "date": "Tue, 10 Mar 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2603.06870"
-  },
-  {
-    "source": "arXiv",
-    "title": "LieCraft: A Multi-Agent Framework for Evaluating Deceptive Capabilities in Language Models",
-    "date": "Tue, 10 Mar 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2603.06874"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "Introducing Storage Buckets on the Hugging Face Hub",
-    "date": "Tue, 10 Mar 2026 00:00:00 GMT",
-    "url": "https://huggingface.co/blog/storage-buckets"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "Keep the Tokens Flowing: Lessons from 16 Open-Source RL Libraries",
-    "date": "Tue, 10 Mar 2026 00:00:00 GMT",
-    "url": "https://huggingface.co/blog/async-rl-training-landscape"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "Granite 4.0 1B Speech: Compact, Multilingual, and Built for the Edge",
-    "date": "Mon, 09 Mar 2026 18:36:33 GMT",
-    "url": "https://huggingface.co/blog/ibm-granite/granite-4-speech"
-  },
-  {
-    "source": "OpenAI",
-    "title": "OpenAI to acquire Promptfoo",
-    "date": "Mon, 09 Mar 2026 10:00:00 GMT",
-    "url": "https://openai.com/index/openai-to-acquire-promptfoo"
   }
 ]
