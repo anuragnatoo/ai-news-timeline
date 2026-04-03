@@ -1,5 +1,83 @@
 [
   {
+    "source": "OpenAI",
+    "title": "OpenAI acquires TBPN",
+    "date": "Thu, 02 Apr 2026 10:30:00 GMT",
+    "url": "https://openai.com/index/openai-acquires-tbpn"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Codex now offers more flexible pricing for teams",
+    "date": "Thu, 02 Apr 2026 10:00:00 GMT",
+    "url": "https://openai.com/index/codex-flexible-pricing-for-teams"
+  },
+  {
+    "source": "arXiv",
+    "title": "How Emotion Shapes the Behavior of LLMs and Agents: A Mechanistic Study",
+    "date": "Thu, 02 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.00005"
+  },
+  {
+    "source": "arXiv",
+    "title": "One Panel Does Not Fit All: Case-Adaptive Multi-Agent Deliberation for Clinical Prediction",
+    "date": "Thu, 02 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.00085"
+  },
+  {
+    "source": "arXiv",
+    "title": "Open, Reliable, and Collective: A Community-Driven Framework for Tool-Using AI Agents",
+    "date": "Thu, 02 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.00137"
+  },
+  {
+    "source": "arXiv",
+    "title": "A Safety-Aware Role-Orchestrated Multi-Agent LLM Framework for Behavioral Health Communication Simulation",
+    "date": "Thu, 02 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.00249"
+  },
+  {
+    "source": "arXiv",
+    "title": "Human-in-the-Loop Control of Objective Drift in LLM-Assisted Computer Science Education",
+    "date": "Thu, 02 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.00281"
+  },
+  {
+    "source": "arXiv",
+    "title": "Improvisational Games as a Benchmark for Social Intelligence of AI Agents: The Case of Connections",
+    "date": "Thu, 02 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.00284"
+  },
+  {
+    "source": "arXiv",
+    "title": "Collaborative AI Agents and Critics for Fault Detection and Cause Analysis in Network Telemetry",
+    "date": "Thu, 02 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.00319"
+  },
+  {
+    "source": "arXiv",
+    "title": "Signals: Trajectory Sampling and Triage for Agentic Interactions",
+    "date": "Thu, 02 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.00356"
+  },
+  {
+    "source": "arXiv",
+    "title": "In harmony with gpt-oss",
+    "date": "Thu, 02 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.00362"
+  },
+  {
+    "source": "arXiv",
+    "title": "Decision-Centric Design for LLM Systems",
+    "date": "Thu, 02 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.00414"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "Welcome Gemma 4: Frontier multimodal intelligence on device",
+    "date": "Thu, 02 Apr 2026 00:00:00 GMT",
+    "url": "https://huggingface.co/blog/gemma4"
+  },
+  {
     "source": "HuggingFace",
     "title": "Holo3: Breaking the Computer Use Frontier",
     "date": "Wed, 01 Apr 2026 16:36:15 GMT",
@@ -1120,83 +1198,5 @@
     "title": "MASEval: Extending Multi-Agent Evaluation from Models to Systems",
     "date": "Wed, 11 Mar 2026 00:00:00 -0400",
     "url": "https://arxiv.org/abs/2603.08835"
-  },
-  {
-    "source": "arXiv",
-    "title": "LDP: An Identity-Aware Protocol for Multi-Agent LLM Systems",
-    "date": "Wed, 11 Mar 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2603.08852"
-  },
-  {
-    "source": "arXiv",
-    "title": "Quantifying the Accuracy and Cost Impact of Design Decisions in Budget-Constrained Agentic LLM Search",
-    "date": "Wed, 11 Mar 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2603.08877"
-  },
-  {
-    "source": "arXiv",
-    "title": "Interpretable Markov-Based Spatiotemporal Risk Surfaces for Missing-Child Search Planning with Reinforcement Learning and LLM-Based Quality Assurance",
-    "date": "Wed, 11 Mar 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2603.08933"
-  },
-  {
-    "source": "arXiv",
-    "title": "AgentOS: From Application Silos to a Natural Language-Driven Data Ecosystem",
-    "date": "Wed, 11 Mar 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2603.08938"
-  },
-  {
-    "source": "arXiv",
-    "title": "A Consensus-Driven Multi-LLM Pipeline for Missing-Person Investigations",
-    "date": "Wed, 11 Mar 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2603.08954"
-  },
-  {
-    "source": "arXiv",
-    "title": "The FABRIC Strategy for Verifying Neural Feedback Systems",
-    "date": "Wed, 11 Mar 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2603.08964"
-  },
-  {
-    "source": "arXiv",
-    "title": "Meissa: Multi-modal Medical Agentic Intelligence",
-    "date": "Wed, 11 Mar 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2603.09018"
-  },
-  {
-    "source": "arXiv",
-    "title": "MEMO: Memory-Augmented Model Context Optimization for Robust Multi-Turn Multi-Agent LLM Games",
-    "date": "Wed, 11 Mar 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2603.09022"
-  },
-  {
-    "source": "arXiv",
-    "title": "Time, Identity and Consciousness in Language Model Agents",
-    "date": "Wed, 11 Mar 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2603.09043"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "How NVIDIA Builds Open Data for AI",
-    "date": "Tue, 10 Mar 2026 19:49:28 GMT",
-    "url": "https://huggingface.co/blog/nvidia/open-data-for-ai"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Improving instruction hierarchy in frontier LLMs",
-    "date": "Tue, 10 Mar 2026 11:00:00 GMT",
-    "url": "https://openai.com/index/instruction-hierarchy-challenge"
-  },
-  {
-    "source": "OpenAI",
-    "title": "New ways to learn math and science in ChatGPT",
-    "date": "Tue, 10 Mar 2026 10:00:00 GMT",
-    "url": "https://openai.com/index/new-ways-to-learn-math-and-science-in-chatgpt"
-  },
-  {
-    "source": "arXiv",
-    "title": "Autonomous AI Agents for Option Hedging: Enhancing Financial Stability through Shortfall Aware Reinforcement Learning",
-    "date": "Tue, 10 Mar 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2603.06587"
   }
 ]
