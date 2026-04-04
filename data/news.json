@@ -1,5 +1,65 @@
 [
   {
+    "source": "arXiv",
+    "title": "Self-Routing: Parameter-Free Expert Routing from Hidden States",
+    "date": "Fri, 03 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.00421"
+  },
+  {
+    "source": "arXiv",
+    "title": "Execution-Verified Reinforcement Learning for Optimization Modeling",
+    "date": "Fri, 03 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.00442"
+  },
+  {
+    "source": "arXiv",
+    "title": "Towards Reliable Truth-Aligned Uncertainty Estimation in Large Language Models",
+    "date": "Fri, 03 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.00445"
+  },
+  {
+    "source": "arXiv",
+    "title": "Logarithmic Scores, Power-Law Discoveries: Disentangling Measurement from Coverage in Agent-Based Evaluation",
+    "date": "Fri, 03 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.00477"
+  },
+  {
+    "source": "arXiv",
+    "title": "The Silicon Mirror: Dynamic Behavioral Gating for Anti-Sycophancy in LLM Agents",
+    "date": "Fri, 03 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.00478"
+  },
+  {
+    "source": "arXiv",
+    "title": "Adaptive Parallel Monte Carlo Tree Search for Efficient Test-time Compute Scaling",
+    "date": "Fri, 03 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.00510"
+  },
+  {
+    "source": "arXiv",
+    "title": "Does Unification Come at a Cost? Uni-SafeBench: A Safety Benchmark for Unified Multimodal Large Models",
+    "date": "Fri, 03 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.00547"
+  },
+  {
+    "source": "arXiv",
+    "title": "BloClaw: An Omniscient, Multi-Modal Agentic Workspace for Next-Generation Scientific Discovery",
+    "date": "Fri, 03 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.00550"
+  },
+  {
+    "source": "arXiv",
+    "title": "Ontology-Constrained Neural Reasoning in Enterprise Agentic Systems: A Neurosymbolic Architecture for Domain-Grounded AI Agents",
+    "date": "Fri, 03 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.00555"
+  },
+  {
+    "source": "arXiv",
+    "title": "Agent psychometrics: Task-level performance prediction in agentic coding benchmarks",
+    "date": "Fri, 03 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.00594"
+  },
+  {
     "source": "OpenAI",
     "title": "OpenAI acquires TBPN",
     "date": "Thu, 02 Apr 2026 10:30:00 GMT",
@@ -1138,65 +1198,5 @@
     "title": "Resource-constrained Amazons chess decision framework integrating large language models and graph attention",
     "date": "Thu, 12 Mar 2026 00:00:00 -0400",
     "url": "https://arxiv.org/abs/2603.10512"
-  },
-  {
-    "source": "arXiv",
-    "title": "IH-Challenge: A Training Dataset to Improve Instruction Hierarchy on Frontier LLMs",
-    "date": "Thu, 12 Mar 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2603.10521"
-  },
-  {
-    "source": "arXiv",
-    "title": "Adaptive RAN Slicing Control via Reward-Free Self-Finetuning Agents",
-    "date": "Thu, 12 Mar 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2603.10564"
-  },
-  {
-    "source": "arXiv",
-    "title": "CUAAudit: Meta-Evaluation of Vision-Language Models as Auditors of Autonomous Computer-Use Agents",
-    "date": "Thu, 12 Mar 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2603.10577"
-  },
-  {
-    "source": "arXiv",
-    "title": "Does LLM Alignment Really Need Diversity? An Empirical Study of Adapting RLVR Methods for Moral Reasoning",
-    "date": "Thu, 12 Mar 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2603.10588"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "Code Concepts: A Large-Scale Synthetic Dataset Generated from Programming Concept Seeds",
-    "date": "Wed, 11 Mar 2026 15:50:15 GMT",
-    "url": "https://huggingface.co/blog/nvidia/synthetic-code-concepts"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Rakuten fixes issues twice as fast with Codex",
-    "date": "Wed, 11 Mar 2026 13:00:00 GMT",
-    "url": "https://openai.com/index/rakuten"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Designing AI agents to resist prompt injection",
-    "date": "Wed, 11 Mar 2026 11:30:00 GMT",
-    "url": "https://openai.com/index/designing-agents-to-resist-prompt-injection"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Wayfair boosts catalog accuracy and support speed with OpenAI",
-    "date": "Wed, 11 Mar 2026 11:00:00 GMT",
-    "url": "https://openai.com/index/wayfair"
-  },
-  {
-    "source": "OpenAI",
-    "title": "From model to agent: Equipping the Responses API with a computer environment ",
-    "date": "Wed, 11 Mar 2026 11:00:00 GMT",
-    "url": "https://openai.com/index/equip-responses-api-computer-environment"
-  },
-  {
-    "source": "arXiv",
-    "title": "MASEval: Extending Multi-Agent Evaluation from Models to Systems",
-    "date": "Wed, 11 Mar 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2603.08835"
   }
 ]
