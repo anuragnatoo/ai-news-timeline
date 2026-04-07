@@ -1,5 +1,77 @@
 [
   {
+    "source": "OpenAI",
+    "title": "Announcing the OpenAI Safety Fellowship",
+    "date": "Mon, 06 Apr 2026 10:00:00 GMT",
+    "url": "https://openai.com/index/introducing-openai-safety-fellowship"
+  },
+  {
+    "source": "arXiv",
+    "title": "Holos: A Web-Scale LLM-Based Multi-Agent System for the Agentic Web",
+    "date": "Mon, 06 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.02334"
+  },
+  {
+    "source": "arXiv",
+    "title": "Xpertbench: Expert Level Tasks with Rubrics-Based Evaluation",
+    "date": "Mon, 06 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.02368"
+  },
+  {
+    "source": "arXiv",
+    "title": "Compositional Neuro-Symbolic Reasoning",
+    "date": "Mon, 06 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.02434"
+  },
+  {
+    "source": "arXiv",
+    "title": "Understanding the Nature of Generative AI as Threshold Logic in High-Dimensional Space",
+    "date": "Mon, 06 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.02476"
+  },
+  {
+    "source": "arXiv",
+    "title": "AIVV: Neuro-Symbolic LLM Agent-Integrated Verification and Validation for Trustworthy Autonomous Systems",
+    "date": "Mon, 06 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.02478"
+  },
+  {
+    "source": "arXiv",
+    "title": "I must delete the evidence: AI Agents Explicitly Cover up Fraud and Violent Crime",
+    "date": "Mon, 06 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.02500"
+  },
+  {
+    "source": "arXiv",
+    "title": "A Comprehensive Framework for Long-Term Resiliency Investment Planning under Extreme Weather Uncertainty for Electric Utilities",
+    "date": "Mon, 06 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.02504"
+  },
+  {
+    "source": "arXiv",
+    "title": "Interpretable Deep Reinforcement Learning for Element-level Bridge Life-cycle Optimization",
+    "date": "Mon, 06 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.02528"
+  },
+  {
+    "source": "arXiv",
+    "title": "Competency Questions as Executable Plans: a Controlled RAG Architecture for Cultural Heritage Storytelling",
+    "date": "Mon, 06 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.02545"
+  },
+  {
+    "source": "arXiv",
+    "title": "Mitigating LLM biases toward spurious social contexts using direct preference optimization",
+    "date": "Mon, 06 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.02585"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Industrial policy for the Intelligence Age",
+    "date": "Mon, 06 Apr 2026 02:30:00 GMT",
+    "url": "https://openai.com/index/industrial-policy-for-the-intelligence-age"
+  },
+  {
     "source": "arXiv",
     "title": "Self-Routing: Parameter-Free Expert Routing from Hidden States",
     "date": "Fri, 03 Apr 2026 00:00:00 -0400",
@@ -214,6 +286,12 @@
     "title": "Gradient Labs gives every bank customer an AI account manager",
     "date": "Wed, 01 Apr 2026 02:00:00 GMT",
     "url": "https://openai.com/index/gradient-labs"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "Any Custom Frontend with Gradio's Backend",
+    "date": "Wed, 01 Apr 2026 00:00:00 GMT",
+    "url": "https://huggingface.co/blog/introducing-gradio-server"
   },
   {
     "source": "HuggingFace",
@@ -1120,83 +1198,5 @@
     "title": "Measuring AI Agents' Progress on Multi-Step Cyber Attack Scenarios",
     "date": "Fri, 13 Mar 2026 00:00:00 -0400",
     "url": "https://arxiv.org/abs/2603.11214"
-  },
-  {
-    "source": "arXiv",
-    "title": "Reversible Lifelong Model Editing via Semantic Routing-Based LoRA",
-    "date": "Fri, 13 Mar 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2603.11239"
-  },
-  {
-    "source": "arXiv",
-    "title": "Mind the Sim2Real Gap in User Simulation for Agentic Tasks",
-    "date": "Fri, 13 Mar 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2603.11245"
-  },
-  {
-    "source": "arXiv",
-    "title": "The Unlearning Mirage: A Dynamic Framework for Evaluating LLM Unlearning",
-    "date": "Fri, 13 Mar 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2603.11266"
-  },
-  {
-    "source": "arXiv",
-    "title": "COMPASS: The explainable agentic framework for Sovereignty, Sustainability, Compliance, and Ethics",
-    "date": "Fri, 13 Mar 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2603.11277"
-  },
-  {
-    "source": "arXiv",
-    "title": "AI Psychometrics: Evaluating the Psychological Reasoning of Large Language Models with Psychometric Validities",
-    "date": "Fri, 13 Mar 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2603.11279"
-  },
-  {
-    "source": "arXiv",
-    "title": "Counterweights and Complementarities: The Convergence of AI and Blockchain Powering a Decentralized Future",
-    "date": "Fri, 13 Mar 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2603.11299"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "Build an Agent That Thinks Like a Data Scientist: How We Hit #1 on DABStep with Reusable Tool Generation",
-    "date": "Fri, 13 Mar 2026 01:02:47 GMT",
-    "url": "https://huggingface.co/blog/nvidia/nemo-agent-toolkit-data-explorer-dabstep-1st-place"
-  },
-  {
-    "source": "arXiv",
-    "title": "Agentic Control Center for Data Product Optimization",
-    "date": "Thu, 12 Mar 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2603.10133"
-  },
-  {
-    "source": "arXiv",
-    "title": "Hybrid Self-evolving Structured Memory for GUI Agents",
-    "date": "Thu, 12 Mar 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2603.10291"
-  },
-  {
-    "source": "arXiv",
-    "title": "HEAL: Hindsight Entropy-Assisted Learning for Reasoning Distillation",
-    "date": "Thu, 12 Mar 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2603.10359"
-  },
-  {
-    "source": "arXiv",
-    "title": "Beyond Scalars: Evaluating and Understanding LLM Reasoning via Geometric Progress and Stability",
-    "date": "Thu, 12 Mar 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2603.10384"
-  },
-  {
-    "source": "arXiv",
-    "title": "Verbalizing LLM's Higher-order Uncertainty via Imprecise Probabilities",
-    "date": "Thu, 12 Mar 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2603.10396"
-  },
-  {
-    "source": "arXiv",
-    "title": "Resource-constrained Amazons chess decision framework integrating large language models and graph attention",
-    "date": "Thu, 12 Mar 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2603.10512"
   }
 ]
