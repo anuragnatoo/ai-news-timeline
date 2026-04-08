@@ -1,5 +1,65 @@
 [
   {
+    "source": "arXiv",
+    "title": "IC3-Evolve: Proof-/Witness-Gated Offline LLM-Driven Heuristic Evolution for IC3 Hardware Model Checking",
+    "date": "Tue, 07 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.03232"
+  },
+  {
+    "source": "arXiv",
+    "title": "Structural Segmentation of the Minimum Set Cover Problem: Exploiting Universe Decomposability for Metaheuristic Optimization",
+    "date": "Tue, 07 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.03234"
+  },
+  {
+    "source": "arXiv",
+    "title": "To Throw a Stone with Six Birds: On Agents and Agenthood",
+    "date": "Tue, 07 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.03239"
+  },
+  {
+    "source": "arXiv",
+    "title": "Position: Science of AI Evaluation Requires Item-level Benchmark Data",
+    "date": "Tue, 07 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.03244"
+  },
+  {
+    "source": "arXiv",
+    "title": "Toward Full Autonomous Laboratory Instrumentation Control with Large Language Models",
+    "date": "Tue, 07 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.03286"
+  },
+  {
+    "source": "arXiv",
+    "title": "Evaluating Artificial Intelligence Through a Christian Understanding of Human Flourishing",
+    "date": "Tue, 07 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.03356"
+  },
+  {
+    "source": "arXiv",
+    "title": "VERT: Reliable LLM Judges for Radiology Report Evaluation",
+    "date": "Tue, 07 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.03376"
+  },
+  {
+    "source": "arXiv",
+    "title": "Hume's Representational Conditions for Causal Judgment: What Bayesian Formalization Abstracted Away",
+    "date": "Tue, 07 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.03387"
+  },
+  {
+    "source": "arXiv",
+    "title": "TABQAWORLD: Optimizing Multimodal Reasoning for Multi-Turn Table Question Answering",
+    "date": "Tue, 07 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.03393"
+  },
+  {
+    "source": "arXiv",
+    "title": "Contextual Control without Memory Growth in a Context-Switching Task",
+    "date": "Tue, 07 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.03479"
+  },
+  {
     "source": "OpenAI",
     "title": "Announcing the OpenAI Safety Fellowship",
     "date": "Mon, 06 Apr 2026 10:00:00 GMT",
@@ -1138,65 +1198,5 @@
     "title": "ToolTree: Efficient LLM Agent Tool Planning via Dual-Feedback Monte Carlo Tree Search and Bidirectional Pruning",
     "date": "Mon, 16 Mar 2026 00:00:00 -0400",
     "url": "https://arxiv.org/abs/2603.12740"
-  },
-  {
-    "source": "arXiv",
-    "title": "AI Model Modulation with Logits Redistribution",
-    "date": "Mon, 16 Mar 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2603.12755"
-  },
-  {
-    "source": "arXiv",
-    "title": "Context is all you need: Towards autonomous model-based process design using agentic AI in flowsheet simulations",
-    "date": "Mon, 16 Mar 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2603.12813"
-  },
-  {
-    "source": "arXiv",
-    "title": "ODRL Policy Comparison Through Normalisation",
-    "date": "Mon, 16 Mar 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2603.12926"
-  },
-  {
-    "source": "arXiv",
-    "title": "Efficient and Interpretable Multi-Agent LLM Routing via Ant Colony Optimization",
-    "date": "Mon, 16 Mar 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2603.12933"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Why Codex Security Doesn’t Include a SAST Report",
-    "date": "Mon, 16 Mar 2026 00:00:00 GMT",
-    "url": "https://openai.com/index/why-codex-security-doesnt-include-sast"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "Beyond Semantic Similarity: Introducing NVIDIA NeMo Retriever’s Generalizable Agentic Retrieval Pipeline",
-    "date": "Fri, 13 Mar 2026 20:00:00 GMT",
-    "url": "https://huggingface.co/blog/nvidia/nemo-retriever-agentic-retrieval"
-  },
-  {
-    "source": "arXiv",
-    "title": "DIVE: Scaling Diversity in Agentic Task Synthesis for Generalizable Tool Use",
-    "date": "Fri, 13 Mar 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2603.11076"
-  },
-  {
-    "source": "arXiv",
-    "title": "A Survey of Reasoning in Autonomous Driving Systems: Open Challenges and Emerging Paradigms",
-    "date": "Fri, 13 Mar 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2603.11093"
-  },
-  {
-    "source": "arXiv",
-    "title": "PACED: Distillation at the Frontier of Student Competence",
-    "date": "Fri, 13 Mar 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2603.11178"
-  },
-  {
-    "source": "arXiv",
-    "title": "Measuring AI Agents' Progress on Multi-Step Cyber Attack Scenarios",
-    "date": "Fri, 13 Mar 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2603.11214"
   }
 ]
