@@ -1,5 +1,89 @@
 [
   {
+    "source": "HuggingFace",
+    "title": "ALTK‑Evolve: On‑the‑Job Learning for AI Agents",
+    "date": "Wed, 08 Apr 2026 14:27:42 GMT",
+    "url": "https://huggingface.co/blog/ibm-research/altk-evolve"
+  },
+  {
+    "source": "OpenAI",
+    "title": "The next phase of enterprise AI",
+    "date": "Wed, 08 Apr 2026 14:00:00 GMT",
+    "url": "https://openai.com/index/next-phase-of-enterprise-ai"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Introducing the Child Safety Blueprint",
+    "date": "Wed, 08 Apr 2026 05:00:00 GMT",
+    "url": "https://openai.com/index/introducing-child-safety-blueprint"
+  },
+  {
+    "source": "arXiv",
+    "title": "Pramana: Fine-Tuning Large Language Models for Epistemic Reasoning through Navya-Nyaya",
+    "date": "Wed, 08 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.04937"
+  },
+  {
+    "source": "arXiv",
+    "title": "Operational Noncommutativity in Sequential Metacognitive Judgments",
+    "date": "Wed, 08 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.04938"
+  },
+  {
+    "source": "arXiv",
+    "title": "Proximity Measure of Information Object Features for Solving the Problem of Their Identification in Information Systems",
+    "date": "Wed, 08 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.04939"
+  },
+  {
+    "source": "arXiv",
+    "title": "ReVEL: Multi-Turn Reflective LLM-Guided Heuristic Evolution via Structured Performance Feedback",
+    "date": "Wed, 08 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.04940"
+  },
+  {
+    "source": "arXiv",
+    "title": "Algebraic Structure Discovery for Real World Combinatorial Optimisation Problems: A General Framework from Abstract Algebra to Quotient Space Learning",
+    "date": "Wed, 08 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.04941"
+  },
+  {
+    "source": "arXiv",
+    "title": "PaperOrchestra: A Multi-Agent Framework for Automated AI Research Paper Writing",
+    "date": "Wed, 08 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.05018"
+  },
+  {
+    "source": "arXiv",
+    "title": "Part-Level 3D Gaussian Vehicle Generation with Joint and Hinge Axis Estimation",
+    "date": "Wed, 08 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.05070"
+  },
+  {
+    "source": "arXiv",
+    "title": "MMORF: A Multi-agent Framework for Designing Multi-objective Retrosynthesis Planning Systems",
+    "date": "Wed, 08 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.05075"
+  },
+  {
+    "source": "arXiv",
+    "title": "MedGemma 1.5 Technical Report",
+    "date": "Wed, 08 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.05081"
+  },
+  {
+    "source": "arXiv",
+    "title": "Uncertainty-Guided Latent Diagnostic Trajectory Learning for Sequential Clinical Diagnosis",
+    "date": "Wed, 08 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.05116"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "Safetensors is Joining the PyTorch Foundation",
+    "date": "Wed, 08 Apr 2026 00:00:00 GMT",
+    "url": "https://huggingface.co/blog/safetensors-joins-pytorch-foundation"
+  },
+  {
     "source": "arXiv",
     "title": "IC3-Evolve: Proof-/Witness-Gated Offline LLM-Driven Heuristic Evolution for IC3 Hardware Model Checking",
     "date": "Tue, 07 Apr 2026 00:00:00 -0400",
@@ -364,6 +448,12 @@
     "title": "Accelerating the next phase of AI",
     "date": "Tue, 31 Mar 2026 13:00:00 GMT",
     "url": "https://openai.com/index/accelerating-the-next-phase-ai"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "Training mRNA Language Models Across 25 Species for $165",
+    "date": "Tue, 31 Mar 2026 08:23:44 GMT",
+    "url": "https://huggingface.co/blog/OpenMed/training-mrna-models-25-species"
   },
   {
     "source": "arXiv",
@@ -1108,95 +1198,5 @@
     "title": "Benchmarking Zero-Shot Reasoning Approaches for Error Detection in Solidity Smart Contracts",
     "date": "Tue, 17 Mar 2026 00:00:00 -0400",
     "url": "https://arxiv.org/abs/2603.13239"
-  },
-  {
-    "source": "arXiv",
-    "title": "Think First, Diffuse Fast: Improving Diffusion Language Model Reasoning via Autoregressive Plan Conditioning",
-    "date": "Tue, 17 Mar 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2603.13243"
-  },
-  {
-    "source": "arXiv",
-    "title": "Automating Document Intelligence in Statutory City Planning",
-    "date": "Tue, 17 Mar 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2603.13245"
-  },
-  {
-    "source": "arXiv",
-    "title": "Multi-Axis Trust Modeling for Interpretable Account Hijacking Detection",
-    "date": "Tue, 17 Mar 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2603.13246"
-  },
-  {
-    "source": "arXiv",
-    "title": "ILION: Deterministic Pre-Execution Safety Gates for Agentic AI Systems",
-    "date": "Tue, 17 Mar 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2603.13247"
-  },
-  {
-    "source": "arXiv",
-    "title": "ManiBench: A Benchmark for Testing Visual-Logic Drift and Syntactic Hallucinations in Manim Code Generation",
-    "date": "Tue, 17 Mar 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2603.13251"
-  },
-  {
-    "source": "arXiv",
-    "title": "When Alpha Breaks: Two-Level Uncertainty for Safe Deployment of Cross-Sectional Stock Rankers",
-    "date": "Tue, 17 Mar 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2603.13252"
-  },
-  {
-    "source": "arXiv",
-    "title": "Distilling Deep Reinforcement Learning into Interpretable Fuzzy Rules: An Explainable AI Framework",
-    "date": "Tue, 17 Mar 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2603.13257"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Equipping workers with insights about compensation",
-    "date": "Tue, 17 Mar 2026 00:00:00 GMT",
-    "url": "https://openai.com/index/equipping-workers-with-insights-about-compensation"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "The First Healthcare Robotics Dataset and Foundational Physical AI Models for Healthcare Robotics",
-    "date": "Mon, 16 Mar 2026 21:58:40 GMT",
-    "url": "https://huggingface.co/blog/nvidia/physical-ai-for-healthcare-robotics"
-  },
-  {
-    "source": "arXiv",
-    "title": "Context-Enriched Natural Language Descriptions of Vessel Trajectories",
-    "date": "Mon, 16 Mar 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2603.12287"
-  },
-  {
-    "source": "arXiv",
-    "title": "Efficient Reasoning with Balanced Thinking",
-    "date": "Mon, 16 Mar 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2603.12372"
-  },
-  {
-    "source": "arXiv",
-    "title": "Generating Expressive and Customizable Evals for Timeseries Data Analysis Agents with AgentFuel",
-    "date": "Mon, 16 Mar 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2603.12483"
-  },
-  {
-    "source": "arXiv",
-    "title": "AI Planning Framework for LLM-Based Web Agents",
-    "date": "Mon, 16 Mar 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2603.12710"
-  },
-  {
-    "source": "arXiv",
-    "title": "On Using Machine Learning to Early Detect Catastrophic Failures in Marine Diesel Engines",
-    "date": "Mon, 16 Mar 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2603.12733"
-  },
-  {
-    "source": "arXiv",
-    "title": "ToolTree: Efficient LLM Agent Tool Planning via Dual-Feedback Monte Carlo Tree Search and Bidirectional Pruning",
-    "date": "Mon, 16 Mar 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2603.12740"
   }
 ]
