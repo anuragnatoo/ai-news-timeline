@@ -1,5 +1,89 @@
 [
   {
+    "source": "arXiv",
+    "title": "High-Precision Estimation of the State-Space Complexity of Shogi via the Monte Carlo Method",
+    "date": "Thu, 09 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.06189"
+  },
+  {
+    "source": "arXiv",
+    "title": "Blind Refusal: Language Models Refuse to Help Users Evade Unjust, Absurd, and Illegitimate Rules",
+    "date": "Thu, 09 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.06233"
+  },
+  {
+    "source": "arXiv",
+    "title": "Toward Reducing Unproductive Container Moves: Predicting Service Requirements and Dwell Times",
+    "date": "Thu, 09 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.06251"
+  },
+  {
+    "source": "arXiv",
+    "title": "Weakly Supervised Distillation of Hallucination Signals into Transformer Representations",
+    "date": "Thu, 09 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.06277"
+  },
+  {
+    "source": "arXiv",
+    "title": "SymptomWise: A Deterministic Reasoning Layer for Reliable and Efficient AI Systems",
+    "date": "Thu, 09 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.06375"
+  },
+  {
+    "source": "arXiv",
+    "title": "SELFDOUBT: Uncertainty Quantification for Reasoning LLMs via the Hedge-to-Verify Ratio",
+    "date": "Thu, 09 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.06389"
+  },
+  {
+    "source": "arXiv",
+    "title": "Qualixar OS: A Universal Operating System for AI Agent Orchestration",
+    "date": "Thu, 09 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.06392"
+  },
+  {
+    "source": "arXiv",
+    "title": "ProofSketcher: Hybrid LLM + Lightweight Proof Checker for Reliable Math/Logic Reasoning",
+    "date": "Thu, 09 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.06401"
+  },
+  {
+    "source": "arXiv",
+    "title": "BDI-Kit Demo: A Toolkit for Programmable and Conversational Data Harmonization",
+    "date": "Thu, 09 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.06405"
+  },
+  {
+    "source": "arXiv",
+    "title": "On Emotion-Sensitive Decision Making of Small Language Model Agents",
+    "date": "Thu, 09 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.06562"
+  },
+  {
+    "source": "OpenAI",
+    "title": "CyberAgent moves faster with ChatGPT Enterprise and Codex",
+    "date": "Thu, 09 Apr 2026 00:00:00 GMT",
+    "url": "https://openai.com/index/cyberagent"
+  },
+  {
+    "source": "OpenAI",
+    "title": "OpenAI Full Fan Mode Contest: Terms & Conditions",
+    "date": "Thu, 09 Apr 2026 00:00:00 GMT",
+    "url": "https://openai.com/index/full-fan-mode-contest-terms-conditions"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "Waypoint-1.5: Higher-Fidelity Interactive Worlds for Everyday GPUs",
+    "date": "Thu, 09 Apr 2026 00:00:00 GMT",
+    "url": "https://huggingface.co/blog/waypoint-1-5"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "Multimodal Embedding & Reranker Models with Sentence Transformers",
+    "date": "Thu, 09 Apr 2026 00:00:00 GMT",
+    "url": "https://huggingface.co/blog/multimodal-sentence-transformers"
+  },
+  {
     "source": "HuggingFace",
     "title": "ALTK‑Evolve: On‑the‑Job Learning for AI Agents",
     "date": "Wed, 08 Apr 2026 14:27:42 GMT",
@@ -1114,89 +1198,5 @@
     "title": "The Comprehension-Gated Agent Economy: A Robustness-First Architecture for AI Economic Agency",
     "date": "Wed, 18 Mar 2026 00:00:00 -0400",
     "url": "https://arxiv.org/abs/2603.15639"
-  },
-  {
-    "source": "arXiv",
-    "title": "Form Follows Function: Recursive Stem Model",
-    "date": "Wed, 18 Mar 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2603.15641"
-  },
-  {
-    "source": "arXiv",
-    "title": "CraniMem: Cranial Inspired Gated and Bounded Memory for Agentic Systems",
-    "date": "Wed, 18 Mar 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2603.15642"
-  },
-  {
-    "source": "arXiv",
-    "title": "GSI Agent: Domain Knowledge Enhancement for Large Language Models in Green Stormwater Infrastructure",
-    "date": "Wed, 18 Mar 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2603.15643"
-  },
-  {
-    "source": "arXiv",
-    "title": "Did You Check the Right Pocket? Cost-Sensitive Store Routing for Memory-Augmented Agents",
-    "date": "Wed, 18 Mar 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2603.15658"
-  },
-  {
-    "source": "arXiv",
-    "title": "DynaTrust: Defending Multi-Agent Systems Against Sleeper Agents via Dynamic Trust Graphs",
-    "date": "Wed, 18 Mar 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2603.15661"
-  },
-  {
-    "source": "arXiv",
-    "title": "QV May Be Enough: Toward the Essence of Attention in LLMs",
-    "date": "Wed, 18 Mar 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2603.15665"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "Nemotron 3 Nano 4B: A Compact Hybrid Model for Efficient Local AI",
-    "date": "Tue, 17 Mar 2026 23:17:07 GMT",
-    "url": "https://huggingface.co/blog/nvidia/nemotron-3-nano-4b"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "State of Open Source on Hugging Face: Spring 2026",
-    "date": "Tue, 17 Mar 2026 16:37:55 GMT",
-    "url": "https://huggingface.co/blog/huggingface/state-of-os-hf-spring-2026"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "Holotron-12B - High Throughput Computer Use Agent",
-    "date": "Tue, 17 Mar 2026 12:33:39 GMT",
-    "url": "https://huggingface.co/blog/Hcompany/holotron-12b"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Introducing GPT-5.4 mini and nano",
-    "date": "Tue, 17 Mar 2026 10:00:00 GMT",
-    "url": "https://openai.com/index/introducing-gpt-5-4-mini-and-nano"
-  },
-  {
-    "source": "OpenAI",
-    "title": "OpenAI Japan announces Japan Teen Safety Blueprint to put teen safety first",
-    "date": "Tue, 17 Mar 2026 10:00:00 GMT",
-    "url": "https://openai.com/index/japan-teen-safety-blueprint"
-  },
-  {
-    "source": "arXiv",
-    "title": "Human Attribution of Causality to AI Across Agency, Misuse, and Misalignment",
-    "date": "Tue, 17 Mar 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2603.13236"
-  },
-  {
-    "source": "arXiv",
-    "title": "A Dual-Path Generative Framework for Zero-Day Fraud Detection in Banking Systems",
-    "date": "Tue, 17 Mar 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2603.13237"
-  },
-  {
-    "source": "arXiv",
-    "title": "Benchmarking Zero-Shot Reasoning Approaches for Error Detection in Solidity Smart Contracts",
-    "date": "Tue, 17 Mar 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2603.13239"
   }
 ]
