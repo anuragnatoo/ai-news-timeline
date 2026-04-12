@@ -120,6 +120,66 @@
     "url": "https://openai.com/academy/getting-started"
   },
   {
+    "source": "OpenAI",
+    "title": "Healthcare",
+    "date": "Fri, 10 Apr 2026 00:00:00 GMT",
+    "url": "https://openai.com/academy/healthcare"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Analyzing data with ChatGPT",
+    "date": "Fri, 10 Apr 2026 00:00:00 GMT",
+    "url": "https://openai.com/academy/data-analysis"
+  },
+  {
+    "source": "OpenAI",
+    "title": "ChatGPT for marketing teams",
+    "date": "Fri, 10 Apr 2026 00:00:00 GMT",
+    "url": "https://openai.com/academy/marketing"
+  },
+  {
+    "source": "OpenAI",
+    "title": "ChatGPT for operations teams",
+    "date": "Fri, 10 Apr 2026 00:00:00 GMT",
+    "url": "https://openai.com/academy/operations"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Creating images with ChatGPT",
+    "date": "Fri, 10 Apr 2026 00:00:00 GMT",
+    "url": "https://openai.com/academy/image-generation"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Our response to the Axios developer tool compromise",
+    "date": "Fri, 10 Apr 2026 00:00:00 GMT",
+    "url": "https://openai.com/index/axios-developer-tool-compromise"
+  },
+  {
+    "source": "OpenAI",
+    "title": "ChatGPT for finance teams",
+    "date": "Fri, 10 Apr 2026 00:00:00 GMT",
+    "url": "https://openai.com/academy/finance"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Personalizing ChatGPT",
+    "date": "Fri, 10 Apr 2026 00:00:00 GMT",
+    "url": "https://openai.com/academy/personalization"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Financial services",
+    "date": "Fri, 10 Apr 2026 00:00:00 GMT",
+    "url": "https://openai.com/academy/financial-services"
+  },
+  {
+    "source": "OpenAI",
+    "title": "AI fundamentals",
+    "date": "Fri, 10 Apr 2026 00:00:00 GMT",
+    "url": "https://openai.com/academy/what-is-ai"
+  },
+  {
     "source": "arXiv",
     "title": "High-Precision Estimation of the State-Space Complexity of Shogi via the Monte Carlo Method",
     "date": "Thu, 09 Apr 2026 00:00:00 -0400",
@@ -1138,65 +1198,5 @@
     "title": "Stepwise: Neuro-Symbolic Proof Search for Automated Systems Verification",
     "date": "Mon, 23 Mar 2026 00:00:00 -0400",
     "url": "https://arxiv.org/abs/2603.19715"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Creating with Sora Safely",
-    "date": "Mon, 23 Mar 2026 00:00:00 GMT",
-    "url": "https://openai.com/index/creating-with-sora-safely"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "Build a Domain-Specific Embedding Model in Under a Day",
-    "date": "Fri, 20 Mar 2026 19:38:16 GMT",
-    "url": "https://huggingface.co/blog/nvidia/domain-specific-embedding-finetune"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "What's New in Mellea 0.4.0 + Granite Libraries Release",
-    "date": "Fri, 20 Mar 2026 14:14:46 GMT",
-    "url": "https://huggingface.co/blog/ibm-granite/granite-libraries"
-  },
-  {
-    "source": "arXiv",
-    "title": "DEAF: A Benchmark for Diagnostic Evaluation of Acoustic Faithfulness in Audio Language Models",
-    "date": "Fri, 20 Mar 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2603.18048"
-  },
-  {
-    "source": "arXiv",
-    "title": "Continually self-improving AI",
-    "date": "Fri, 20 Mar 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2603.18073"
-  },
-  {
-    "source": "arXiv",
-    "title": "Multi-Trait Subspace Steering to Reveal the Dark Side of Human-AI Interaction",
-    "date": "Fri, 20 Mar 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2603.18085"
-  },
-  {
-    "source": "arXiv",
-    "title": "Adaptive Domain Models: Bayesian Evolution, Warm Rotation, and Principled Training for Geometric and Neuromorphic AI",
-    "date": "Fri, 20 Mar 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2603.18104"
-  },
-  {
-    "source": "arXiv",
-    "title": "Don't Vibe Code, Do Skele-Code: Interactive No-Code Notebooks for Subject Matter Experts to Build Lower-Cost Agentic Workflows",
-    "date": "Fri, 20 Mar 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2603.18122"
-  },
-  {
-    "source": "arXiv",
-    "title": "Efficient Dense Crowd Trajectory Prediction Via Dynamic Clustering",
-    "date": "Fri, 20 Mar 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2603.18166"
-  },
-  {
-    "source": "arXiv",
-    "title": "TeachingCoach: A Fine-Tuned Scaffolding Chatbot for Instructional Guidance to Instructors",
-    "date": "Fri, 20 Mar 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2603.18189"
   }
 ]
