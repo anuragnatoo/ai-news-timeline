@@ -180,6 +180,36 @@
     "url": "https://openai.com/academy/what-is-ai"
   },
   {
+    "source": "OpenAI",
+    "title": "Using projects in ChatGPT",
+    "date": "Fri, 10 Apr 2026 00:00:00 GMT",
+    "url": "https://openai.com/academy/projects"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Responsible and safe use of AI ",
+    "date": "Fri, 10 Apr 2026 00:00:00 GMT",
+    "url": "https://openai.com/academy/responsible-and-safe-use"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Prompting fundamentals",
+    "date": "Fri, 10 Apr 2026 00:00:00 GMT",
+    "url": "https://openai.com/academy/prompting"
+  },
+  {
+    "source": "OpenAI",
+    "title": "ChatGPT for customer success teams",
+    "date": "Fri, 10 Apr 2026 00:00:00 GMT",
+    "url": "https://openai.com/academy/customer-success"
+  },
+  {
+    "source": "OpenAI",
+    "title": "ChatGPT for managers",
+    "date": "Fri, 10 Apr 2026 00:00:00 GMT",
+    "url": "https://openai.com/academy/managers"
+  },
+  {
     "source": "arXiv",
     "title": "High-Precision Estimation of the State-Space Complexity of Shogi via the Monte Carlo Method",
     "date": "Thu, 09 Apr 2026 00:00:00 -0400",
@@ -1168,35 +1198,5 @@
     "title": "ItinBench: Benchmarking Planning Across Multiple Cognitive Dimensions with Large Language Models",
     "date": "Mon, 23 Mar 2026 00:00:00 -0400",
     "url": "https://arxiv.org/abs/2603.19515"
-  },
-  {
-    "source": "arXiv",
-    "title": "PA2D-MORL: Pareto Ascent Directional Decomposition based Multi-Objective Reinforcement Learning",
-    "date": "Mon, 23 Mar 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2603.19579"
-  },
-  {
-    "source": "arXiv",
-    "title": "PowerLens: Taming LLM Agents for Safe and Personalized Mobile Power Management",
-    "date": "Mon, 23 Mar 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2603.19584"
-  },
-  {
-    "source": "arXiv",
-    "title": "HyEvo: Self-Evolving Hybrid Agentic Workflows for Efficient Reasoning",
-    "date": "Mon, 23 Mar 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2603.19639"
-  },
-  {
-    "source": "arXiv",
-    "title": "A Subgoal-driven Framework for Improving Long-Horizon LLM Agents",
-    "date": "Mon, 23 Mar 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2603.19685"
-  },
-  {
-    "source": "arXiv",
-    "title": "Stepwise: Neuro-Symbolic Proof Search for Automated Systems Verification",
-    "date": "Mon, 23 Mar 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2603.19715"
   }
 ]
