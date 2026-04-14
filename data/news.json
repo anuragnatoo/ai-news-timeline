@@ -1,5 +1,71 @@
 [
   {
+    "source": "OpenAI",
+    "title": "Enterprises power agentic workflows in Cloudflare Agent Cloud with OpenAI",
+    "date": "Mon, 13 Apr 2026 06:00:00 GMT",
+    "url": "https://openai.com/index/cloudflare-openai-agent-cloud"
+  },
+  {
+    "source": "arXiv",
+    "title": "OpenKedge: Governing Agentic Mutation with Execution-Bound Safety and Evidence Chains",
+    "date": "Mon, 13 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.08601"
+  },
+  {
+    "source": "arXiv",
+    "title": "From Business Events to Auditable Decisions: Ontology-Governed Graph Simulation for Enterprise AI",
+    "date": "Mon, 13 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.08603"
+  },
+  {
+    "source": "arXiv",
+    "title": "Sustained Impact of Agentic Personalisation in Marketing: A Longitudinal Case Study",
+    "date": "Mon, 13 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.08621"
+  },
+  {
+    "source": "arXiv",
+    "title": "RAMP: Hybrid DRL for Online Learning of Numeric Action Models",
+    "date": "Mon, 13 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.08685"
+  },
+  {
+    "source": "arXiv",
+    "title": "Parameterized Complexity Of Representing Models Of MSO Formulas",
+    "date": "Mon, 13 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.08707"
+  },
+  {
+    "source": "arXiv",
+    "title": "Model Space Reasoning as Search in Feedback Space for Planning Domain Generation",
+    "date": "Mon, 13 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.08712"
+  },
+  {
+    "source": "arXiv",
+    "title": "Artifacts as Memory Beyond the Agent Boundary",
+    "date": "Mon, 13 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.08756"
+  },
+  {
+    "source": "arXiv",
+    "title": "Hidden in Plain Sight: Visual-to-Symbolic Analytical Solution Inference from Field Visualizations",
+    "date": "Mon, 13 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.08863"
+  },
+  {
+    "source": "arXiv",
+    "title": "SPPO: Sequence-Level PPO for Long-Horizon Reasoning Tasks",
+    "date": "Mon, 13 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.08865"
+  },
+  {
+    "source": "arXiv",
+    "title": "StaRPO: Stability-Augmented Reinforcement Policy Optimization",
+    "date": "Mon, 13 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.08905"
+  },
+  {
     "source": "arXiv",
     "title": "Rethinking Generalization in Reasoning SFT: A Conditional Analysis on Optimization, Data, and Model Capability",
     "date": "Fri, 10 Apr 2026 00:00:00 -0400",
@@ -1132,71 +1198,5 @@
     "title": "Me, Myself, and $\\pi$ : Evaluating and Explaining LLM Introspection",
     "date": "Tue, 24 Mar 2026 00:00:00 -0400",
     "url": "https://arxiv.org/abs/2603.20276"
-  },
-  {
-    "source": "arXiv",
-    "title": "AgentComm-Bench: Stress-Testing Cooperative Embodied AI Under Latency, Packet Loss, and Bandwidth Collapse",
-    "date": "Tue, 24 Mar 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2603.20285"
-  },
-  {
-    "source": "arXiv",
-    "title": "LLM-Enhanced Energy Contrastive Learning for Out-of-Distribution Detection in Text-Attributed Graphs",
-    "date": "Tue, 24 Mar 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2603.20293"
-  },
-  {
-    "source": "arXiv",
-    "title": "Compression is all you need: Modeling Mathematics",
-    "date": "Tue, 24 Mar 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2603.20396"
-  },
-  {
-    "source": "arXiv",
-    "title": "Leveraging Natural Language Processing and Machine Learning for Evidence-Based Food Security Policy Decision-Making in Data-Scarce Making",
-    "date": "Tue, 24 Mar 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2603.20425"
-  },
-  {
-    "source": "arXiv",
-    "title": "Deep reflective reasoning in interdependence constrained structured data extraction from clinical notes for digital health",
-    "date": "Tue, 24 Mar 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2603.20435"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "A New Framework for Evaluating Voice Agents (EVA)",
-    "date": "Tue, 24 Mar 2026 02:01:52 GMT",
-    "url": "https://huggingface.co/blog/ServiceNow-AI/eva"
-  },
-  {
-    "source": "arXiv",
-    "title": "When both Grounding and not Grounding are Bad -- A Partially Grounded Encoding of Planning into SAT (Extended Version)",
-    "date": "Mon, 23 Mar 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2603.19429"
-  },
-  {
-    "source": "arXiv",
-    "title": "Hyperagents",
-    "date": "Mon, 23 Mar 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2603.19461"
-  },
-  {
-    "source": "arXiv",
-    "title": "Teaching an Agent to Sketch One Part at a Time",
-    "date": "Mon, 23 Mar 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2603.19500"
-  },
-  {
-    "source": "arXiv",
-    "title": "Learning to Disprove: Formal Counterexample Generation with Large Language Models",
-    "date": "Mon, 23 Mar 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2603.19514"
-  },
-  {
-    "source": "arXiv",
-    "title": "ItinBench: Benchmarking Planning Across Multiple Cognitive Dimensions with Large Language Models",
-    "date": "Mon, 23 Mar 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2603.19515"
   }
 ]
