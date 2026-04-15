@@ -1,5 +1,71 @@
 [
   {
+    "source": "arXiv",
+    "title": "LABBench2: An Improved Benchmark for AI Systems Performing Biology Research",
+    "date": "Tue, 14 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.09554"
+  },
+  {
+    "source": "arXiv",
+    "title": "Linear Programming for Multi-Criteria Assessment with Cardinal and Ordinal Data: A Pessimistic Virtual Gap Analysis",
+    "date": "Tue, 14 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.09555"
+  },
+  {
+    "source": "arXiv",
+    "title": "Seven simple steps for log analysis in AI systems",
+    "date": "Tue, 14 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.09563"
+  },
+  {
+    "source": "arXiv",
+    "title": "Turing Test on Screen: A Benchmark for Mobile GUI Agent Humanization",
+    "date": "Tue, 14 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.09574"
+  },
+  {
+    "source": "arXiv",
+    "title": "AHC: Meta-Learned Adaptive Compression for Continual Object Detection on Memory-Constrained Microcontrollers",
+    "date": "Tue, 14 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.09576"
+  },
+  {
+    "source": "arXiv",
+    "title": "Explainable Planning for Hybrid Systems",
+    "date": "Tue, 14 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.09578"
+  },
+  {
+    "source": "arXiv",
+    "title": "Help Without Being Asked: A Deployed Proactive Agent System for On-Call Support with Continuous Self-Improvement",
+    "date": "Tue, 14 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.09579"
+  },
+  {
+    "source": "arXiv",
+    "title": "OOWM: Structuring Embodied Reasoning and Planning via Object-Oriented Programmatic World Modeling",
+    "date": "Tue, 14 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.09580"
+  },
+  {
+    "source": "arXiv",
+    "title": "OpeFlo: Automated UX Evaluation via Simulated Human Web Interaction with GUI Grounding",
+    "date": "Tue, 14 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.09581"
+  },
+  {
+    "source": "arXiv",
+    "title": "Factorizing formal contexts from closures of necessity operators",
+    "date": "Tue, 14 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.09582"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Trusted access for the next era of cyber defense",
+    "date": "Tue, 14 Apr 2026 00:00:00 GMT",
+    "url": "https://openai.com/index/scaling-trusted-access-for-cyber-defense"
+  },
+  {
     "source": "OpenAI",
     "title": "Enterprises power agentic workflows in Cloudflare Agent Cloud with OpenAI",
     "date": "Mon, 13 Apr 2026 06:00:00 GMT",
@@ -1132,71 +1198,5 @@
     "title": "Computational Arbitrage in AI Model Markets",
     "date": "Wed, 25 Mar 2026 00:00:00 -0400",
     "url": "https://arxiv.org/abs/2603.22404"
-  },
-  {
-    "source": "arXiv",
-    "title": "Maximum Entropy Relaxation of Multi-Way Cardinality Constraints for Synthetic Population Generation",
-    "date": "Wed, 25 Mar 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2603.22558"
-  },
-  {
-    "source": "arXiv",
-    "title": "AI Mental Models: Learned Intuition and Deliberation in a Bounded Neural Architecture",
-    "date": "Wed, 25 Mar 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2603.22561"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Introducing the OpenAI Safety Bug Bounty program",
-    "date": "Wed, 25 Mar 2026 00:00:00 GMT",
-    "url": "https://openai.com/index/safety-bug-bounty"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Helping developers build safer AI experiences for teens",
-    "date": "Tue, 24 Mar 2026 11:00:00 GMT",
-    "url": "https://openai.com/index/teen-safety-policies-gpt-oss-safeguard"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Update on the OpenAI Foundation",
-    "date": "Tue, 24 Mar 2026 09:00:00 GMT",
-    "url": "https://openai.com/index/update-on-the-openai-foundation"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Powering product discovery in ChatGPT",
-    "date": "Tue, 24 Mar 2026 09:00:00 GMT",
-    "url": "https://openai.com/index/powering-product-discovery-in-chatgpt"
-  },
-  {
-    "source": "arXiv",
-    "title": "AgenticGEO: A Self-Evolving Agentic System for Generative Engine Optimization",
-    "date": "Tue, 24 Mar 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2603.20213"
-  },
-  {
-    "source": "arXiv",
-    "title": "ProMAS: Proactive Error Forecasting for Multi-Agent Systems Using Markov Transition Dynamics",
-    "date": "Tue, 24 Mar 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2603.20260"
-  },
-  {
-    "source": "arXiv",
-    "title": "Domain-Specialized Tree of Thought through Plug-and-Play Predictors",
-    "date": "Tue, 24 Mar 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2603.20267"
-  },
-  {
-    "source": "arXiv",
-    "title": "FactorSmith: Agentic Simulation Generation via Markov Decision Process Decomposition with Planner-Designer-Critic Refinement",
-    "date": "Tue, 24 Mar 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2603.20270"
-  },
-  {
-    "source": "arXiv",
-    "title": "Me, Myself, and $\\pi$ : Evaluating and Explaining LLM Introspection",
-    "date": "Tue, 24 Mar 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2603.20276"
   }
 ]
