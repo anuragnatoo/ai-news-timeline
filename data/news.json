@@ -1,5 +1,83 @@
 [
   {
+    "source": "HuggingFace",
+    "title": "Inside VAKRA: Reasoning, Tool Use, and Failure Modes of Agents",
+    "date": "Wed, 15 Apr 2026 12:07:25 GMT",
+    "url": "https://huggingface.co/blog/ibm-research/vakra-benchmark-analysis"
+  },
+  {
+    "source": "OpenAI",
+    "title": "The next evolution of the Agents SDK",
+    "date": "Wed, 15 Apr 2026 10:00:00 GMT",
+    "url": "https://openai.com/index/the-next-evolution-of-the-agents-sdk"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "Meet HoloTab by HCompany. Your AI browser companion. ",
+    "date": "Wed, 15 Apr 2026 09:25:20 GMT",
+    "url": "https://huggingface.co/blog/Hcompany/holotab"
+  },
+  {
+    "source": "arXiv",
+    "title": "The Non-Optimality of Scientific Knowledge: Path Dependence, Lock-In, and The Local Minimum Trap",
+    "date": "Wed, 15 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.11828"
+  },
+  {
+    "source": "arXiv",
+    "title": "Self-Monitoring Benefits from Structural Integration: Lessons from Metacognition in Continuous-Time Multi-Timescale Agents",
+    "date": "Wed, 15 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.11914"
+  },
+  {
+    "source": "arXiv",
+    "title": "GoodPoint: Learning Constructive Scientific Paper Feedback from Author Responses",
+    "date": "Wed, 15 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.11924"
+  },
+  {
+    "source": "arXiv",
+    "title": "Narrative-Driven Paper-to-Slide Generation via ArcDeck",
+    "date": "Wed, 15 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.11969"
+  },
+  {
+    "source": "arXiv",
+    "title": "The Long-Horizon Task Mirage? Diagnosing Where and Why Agentic Systems Break",
+    "date": "Wed, 15 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.11978"
+  },
+  {
+    "source": "arXiv",
+    "title": "When to Forget: A Memory Governance Primitive",
+    "date": "Wed, 15 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.12007"
+  },
+  {
+    "source": "arXiv",
+    "title": "Identity as Attractor: Geometric Evidence for Persistent Agent Architecture in LLM Activation Space",
+    "date": "Wed, 15 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.12016"
+  },
+  {
+    "source": "arXiv",
+    "title": "A longitudinal health agent framework",
+    "date": "Wed, 15 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.12019"
+  },
+  {
+    "source": "arXiv",
+    "title": "WiseOWL: A Methodology for Evaluating Ontological Descriptiveness and Semantic Correctness for Ontology Reuse and Ontology Recommendations",
+    "date": "Wed, 15 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.12025"
+  },
+  {
+    "source": "arXiv",
+    "title": "Memory as Metabolism: A Design for Companion Knowledge Systems",
+    "date": "Wed, 15 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.12034"
+  },
+  {
     "source": "arXiv",
     "title": "LABBench2: An Improved Benchmark for AI Systems Performing Biology Research",
     "date": "Tue, 14 Apr 2026 00:00:00 -0400",
@@ -1120,83 +1198,5 @@
     "title": "Grounding Vision and Language to 3D Masks for Long-Horizon Box Rearrangement",
     "date": "Thu, 26 Mar 2026 00:00:00 -0400",
     "url": "https://arxiv.org/abs/2603.23676"
-  },
-  {
-    "source": "arXiv",
-    "title": "LLMs Do Not Grade Essays Like Humans",
-    "date": "Thu, 26 Mar 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2603.23714"
-  },
-  {
-    "source": "arXiv",
-    "title": "Efficient Benchmarking of AI Agents",
-    "date": "Thu, 26 Mar 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2603.23749"
-  },
-  {
-    "source": "arXiv",
-    "title": "Learning-guided Prioritized Planning for Lifelong Multi-Agent Path Finding in Warehouse Automation",
-    "date": "Thu, 26 Mar 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2603.23838"
-  },
-  {
-    "source": "arXiv",
-    "title": "VehicleMemBench: An Executable Benchmark for Multi-User Long-Term Memory in In-Vehicle Agents",
-    "date": "Thu, 26 Mar 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2603.23840"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Inside our approach to the Model Spec",
-    "date": "Wed, 25 Mar 2026 10:00:00 GMT",
-    "url": "https://openai.com/index/our-approach-to-the-model-spec"
-  },
-  {
-    "source": "arXiv",
-    "title": "Memory Bear AI Memory Science Engine for Multimodal Affective Intelligence: A Technical Report",
-    "date": "Wed, 25 Mar 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2603.22306"
-  },
-  {
-    "source": "arXiv",
-    "title": "The Efficiency Attenuation Phenomenon: A Computational Challenge to the Language of Thought Hypothesis",
-    "date": "Wed, 25 Mar 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2603.22312"
-  },
-  {
-    "source": "arXiv",
-    "title": "Dynamic Fusion-Aware Graph Convolutional Neural Network for Multimodal Emotion Recognition in Conversations",
-    "date": "Wed, 25 Mar 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2603.22345"
-  },
-  {
-    "source": "arXiv",
-    "title": "Intelligence Inertia: Physical Principles and Applications",
-    "date": "Wed, 25 Mar 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2603.22347"
-  },
-  {
-    "source": "arXiv",
-    "title": "Session Risk Memory (SRM): Temporal Authorization for Deterministic Pre-Execution Safety Gates",
-    "date": "Wed, 25 Mar 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2603.22350"
-  },
-  {
-    "source": "arXiv",
-    "title": "STEM Agent: A Self-Adapting, Tool-Enabled, Extensible Architecture for Multi-Protocol AI Agent Systems",
-    "date": "Wed, 25 Mar 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2603.22359"
-  },
-  {
-    "source": "arXiv",
-    "title": "From Static Templates to Dynamic Runtime Graphs: A Survey of Workflow Optimization for LLM Agents",
-    "date": "Wed, 25 Mar 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2603.22386"
-  },
-  {
-    "source": "arXiv",
-    "title": "Computational Arbitrage in AI Model Markets",
-    "date": "Wed, 25 Mar 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2603.22404"
   }
 ]
