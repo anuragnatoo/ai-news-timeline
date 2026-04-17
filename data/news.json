@@ -1,5 +1,95 @@
 [
   {
+    "source": "OpenAI",
+    "title": "Codex for (almost) everything",
+    "date": "Thu, 16 Apr 2026 10:00:00 GMT",
+    "url": "https://openai.com/index/codex-for-almost-everything"
+  },
+  {
+    "source": "arXiv",
+    "title": "Mathematics Teachers Interactions with a Multi-Agent System for Personalized Problem Generation",
+    "date": "Thu, 16 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.12066"
+  },
+  {
+    "source": "arXiv",
+    "title": "Human-Inspired Context-Selective Multimodal Memory for Social Robots",
+    "date": "Thu, 16 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.12081"
+  },
+  {
+    "source": "arXiv",
+    "title": "LLM-HYPER: Generative CTR Modeling for Cold-Start Ad Personalization via LLM-Based Hypernetworks",
+    "date": "Thu, 16 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.12096"
+  },
+  {
+    "source": "arXiv",
+    "title": "Spatial Atlas: Compute-Grounded Reasoning for Spatial-Aware Research Agent Benchmarks",
+    "date": "Thu, 16 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.12102"
+  },
+  {
+    "source": "arXiv",
+    "title": "The A-R Behavioral Space: Execution-Level Profiling of Tool-Using Language Model Agents in Organizational Deployment",
+    "date": "Thu, 16 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.12116"
+  },
+  {
+    "source": "arXiv",
+    "title": "Long-Horizon Plan Execution in Large Tool Spaces through Entropy-Guided Branching",
+    "date": "Thu, 16 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.12126"
+  },
+  {
+    "source": "arXiv",
+    "title": "Aethon: A Reference-Based Replication Primitive for Constant-Time Instantiation of Stateful AI Agents",
+    "date": "Thu, 16 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.12129"
+  },
+  {
+    "source": "arXiv",
+    "title": "Towards Platonic Representation for Table Reasoning: A Foundation for Permutation-Invariant Retrieval",
+    "date": "Thu, 16 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.12133"
+  },
+  {
+    "source": "arXiv",
+    "title": "Beyond Factual Grounding: The Case for Opinion-Aware Retrieval-Augmented Generation",
+    "date": "Thu, 16 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.12138"
+  },
+  {
+    "source": "arXiv",
+    "title": "Development, Evaluation, and Deployment of a Multi-Agent System for Thoracic Tumor Board",
+    "date": "Thu, 16 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.12161"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Introducing GPT-Rosalind for life sciences research",
+    "date": "Thu, 16 Apr 2026 01:00:00 GMT",
+    "url": "https://openai.com/index/introducing-gpt-rosalind"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Accelerating the cyber defense ecosystem that protects us all",
+    "date": "Thu, 16 Apr 2026 00:00:00 GMT",
+    "url": "https://openai.com/index/accelerating-cyber-defense-ecosystem"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "The PR you would have opened yourself",
+    "date": "Thu, 16 Apr 2026 00:00:00 GMT",
+    "url": "https://huggingface.co/blog/transformers-to-mlx"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "Training and Finetuning Multimodal Embedding & Reranker Models with Sentence Transformers",
+    "date": "Thu, 16 Apr 2026 00:00:00 GMT",
+    "url": "https://huggingface.co/blog/train-multimodal-sentence-transformers"
+  },
+  {
     "source": "HuggingFace",
     "title": "Inside VAKRA: Reasoning, Tool Use, and Failure Modes of Agents",
     "date": "Wed, 15 Apr 2026 12:07:25 GMT",
@@ -1108,95 +1198,5 @@
     "title": "When AI output tips to bad but nobody notices: Legal implications of AI's mistakes",
     "date": "Fri, 27 Mar 2026 00:00:00 -0400",
     "url": "https://arxiv.org/abs/2603.23857"
-  },
-  {
-    "source": "arXiv",
-    "title": "The DeepXube Software Package for Solving Pathfinding Problems with Learned Heuristic Functions and Search",
-    "date": "Fri, 27 Mar 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2603.23873"
-  },
-  {
-    "source": "arXiv",
-    "title": "DUPLEX: Agentic Dual-System Planning via LLM-Driven Information Extraction",
-    "date": "Fri, 27 Mar 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2603.23909"
-  },
-  {
-    "source": "arXiv",
-    "title": "AnalogAgent: Self-Improving Analog Circuit Design Automation with LLM Agents",
-    "date": "Fri, 27 Mar 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2603.23910"
-  },
-  {
-    "source": "arXiv",
-    "title": "From Pixels to Digital Agents: An Empirical Study on the Taxonomy and Technological Trends of Reinforcement Learning Environments",
-    "date": "Fri, 27 Mar 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2603.23964"
-  },
-  {
-    "source": "arXiv",
-    "title": "Language-Grounded Multi-Agent Planning for Personalized and Fair Participatory Urban Sensing",
-    "date": "Fri, 27 Mar 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2603.24014"
-  },
-  {
-    "source": "arXiv",
-    "title": "ELITE: Experiential Learning and Intent-Aware Transfer for Self-improving Embodied Agents",
-    "date": "Fri, 27 Mar 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2603.24018"
-  },
-  {
-    "source": "arXiv",
-    "title": "Enhanced Mycelium of Thought (EMoT): A Bio-Inspired Hierarchical Reasoning Architecture with Strategic Dormancy and Mnemonic Encoding",
-    "date": "Fri, 27 Mar 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2603.24065"
-  },
-  {
-    "source": "arXiv",
-    "title": "Bridging the Evaluation Gap: Standardized Benchmarks for Multi-Objective Search",
-    "date": "Fri, 27 Mar 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2603.24084"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "Liberate your OpenClaw",
-    "date": "Fri, 27 Mar 2026 00:00:00 GMT",
-    "url": "https://huggingface.co/blog/liberate-your-openclaw"
-  },
-  {
-    "source": "arXiv",
-    "title": "PLDR-LLMs Reason At Self-Organized Criticality",
-    "date": "Thu, 26 Mar 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2603.23539"
-  },
-  {
-    "source": "arXiv",
-    "title": "Environment Maps: Structured Environmental Representations for Long-Horizon Agents",
-    "date": "Thu, 26 Mar 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2603.23610"
-  },
-  {
-    "source": "arXiv",
-    "title": "Evaluating a Multi-Agent Voice-Enabled Smart Speaker for Care Homes: A Safety-Focused Framework",
-    "date": "Thu, 26 Mar 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2603.23625"
-  },
-  {
-    "source": "arXiv",
-    "title": "Can LLM Agents Be CFOs? A Benchmark for Resource Allocation in Dynamic Enterprise Environments",
-    "date": "Thu, 26 Mar 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2603.23638"
-  },
-  {
-    "source": "arXiv",
-    "title": "GTO Wizard Benchmark",
-    "date": "Thu, 26 Mar 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2603.23660"
-  },
-  {
-    "source": "arXiv",
-    "title": "Grounding Vision and Language to 3D Masks for Long-Horizon Box Rearrangement",
-    "date": "Thu, 26 Mar 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2603.23676"
   }
 ]
