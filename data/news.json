@@ -1,5 +1,71 @@
 [
   {
+    "source": "HuggingFace",
+    "title": "Building a Fast Multilingual OCR Model with Synthetic Data",
+    "date": "Fri, 17 Apr 2026 16:17:55 GMT",
+    "url": "https://huggingface.co/blog/nvidia/nemotron-ocr-v2"
+  },
+  {
+    "source": "arXiv",
+    "title": "Exploration and Exploitation Errors Are Measurable for Language Model Agents",
+    "date": "Fri, 17 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.13151"
+  },
+  {
+    "source": "arXiv",
+    "title": "SciFi: A Safe, Lightweight, User-Friendly, and Fully Autonomous Agentic AI Workflow for Scientific Applications",
+    "date": "Fri, 17 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.13180"
+  },
+  {
+    "source": "arXiv",
+    "title": "Numerical Instability and Chaos: Quantifying the Unpredictability of Large Language Models",
+    "date": "Fri, 17 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.13206"
+  },
+  {
+    "source": "arXiv",
+    "title": "Optimizing Earth Observation Satellite Schedules under Unknown Operational Constraints: An Active Constraint Acquisition Approach",
+    "date": "Fri, 17 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.13283"
+  },
+  {
+    "source": "arXiv",
+    "title": "WebXSkill: Skill Learning for Autonomous Web Agents",
+    "date": "Fri, 17 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.13318"
+  },
+  {
+    "source": "arXiv",
+    "title": "Listening Alone, Understanding Together: Collaborative Context Recovery for Privacy-Aware AI",
+    "date": "Fri, 17 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.13348"
+  },
+  {
+    "source": "arXiv",
+    "title": "ReSS: Learning Reasoning Models for Tabular Data Prediction via Symbolic Scaffold",
+    "date": "Fri, 17 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.13392"
+  },
+  {
+    "source": "arXiv",
+    "title": "Quantifying and Understanding Uncertainty in Large Reasoning Models",
+    "date": "Fri, 17 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.13395"
+  },
+  {
+    "source": "arXiv",
+    "title": "Towards Scalable Lightweight GUI Agents via Multi-role Orchestration",
+    "date": "Fri, 17 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.13488"
+  },
+  {
+    "source": "arXiv",
+    "title": "RiskWebWorld: A Realistic Interactive Benchmark for GUI Agents in E-commerce Risk Management",
+    "date": "Fri, 17 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.13531"
+  },
+  {
     "source": "OpenAI",
     "title": "Codex for (almost) everything",
     "date": "Thu, 16 Apr 2026 10:00:00 GMT",
@@ -88,6 +154,12 @@
     "title": "Training and Finetuning Multimodal Embedding & Reranker Models with Sentence Transformers",
     "date": "Thu, 16 Apr 2026 00:00:00 GMT",
     "url": "https://huggingface.co/blog/train-multimodal-sentence-transformers"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "Ecom-RLVE: Adaptive Verifiable Environments for E-Commerce Conversational Agents",
+    "date": "Thu, 16 Apr 2026 00:00:00 GMT",
+    "url": "https://huggingface.co/blog/ecom-rlve"
   },
   {
     "source": "HuggingFace",
@@ -1126,77 +1198,5 @@
     "title": "AutoB2G: A Large Language Model-Driven Agentic Framework For Automated Building-Grid Co-Simulation",
     "date": "Mon, 30 Mar 2026 00:00:00 -0400",
     "url": "https://arxiv.org/abs/2603.26005"
-  },
-  {
-    "source": "arXiv",
-    "title": "Semi-Automated Knowledge Engineering and Process Mapping for Total Airport Management",
-    "date": "Mon, 30 Mar 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2603.26076"
-  },
-  {
-    "source": "arXiv",
-    "title": "GUIDE: Resolving Domain Bias in GUI Agents through Real-Time Web Video Retrieval and Plug-and-Play Annotation",
-    "date": "Mon, 30 Mar 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2603.26266"
-  },
-  {
-    "source": "arXiv",
-    "title": "AIRA_2: Overcoming Bottlenecks in AI Research Agents",
-    "date": "Mon, 30 Mar 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2603.26499"
-  },
-  {
-    "source": "arXiv",
-    "title": "CADSmith: Multi-Agent CAD Generation with Programmatic Geometric Validation",
-    "date": "Mon, 30 Mar 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2603.26512"
-  },
-  {
-    "source": "arXiv",
-    "title": "Stabilizing Rubric Integration Training via Decoupled Advantage Normalization",
-    "date": "Mon, 30 Mar 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2603.26535"
-  },
-  {
-    "source": "arXiv",
-    "title": "DesignWeaver: Dimensional Scaffolding for Text-to-Image Product Design",
-    "date": "Mon, 30 Mar 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2502.09867"
-  },
-  {
-    "source": "arXiv",
-    "title": "A Lightweight, Transferable, and Self-Adaptive Framework for Intelligent DC Arc-Fault Detection in Photovoltaic Systems",
-    "date": "Mon, 30 Mar 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2603.25749"
-  },
-  {
-    "source": "arXiv",
-    "title": "Sommelier: Scalable Open Multi-turn Audio Pre-processing for Full-duplex Speech Language Models",
-    "date": "Mon, 30 Mar 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2603.25750"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Helping disaster response teams turn AI into action across Asia",
-    "date": "Sun, 29 Mar 2026 22:15:00 GMT",
-    "url": "https://openai.com/index/helping-disaster-response-teams-asia"
-  },
-  {
-    "source": "OpenAI",
-    "title": "STADLER reshapes knowledge work at a 230-year-old company",
-    "date": "Fri, 27 Mar 2026 22:00:00 GMT",
-    "url": "https://openai.com/index/stadler"
-  },
-  {
-    "source": "arXiv",
-    "title": "SCoOP: Semantic Consistent Opinion Pooling for Uncertainty Quantification in Multiple Vision-Language Model Systems",
-    "date": "Fri, 27 Mar 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2603.23853"
-  },
-  {
-    "source": "arXiv",
-    "title": "When AI output tips to bad but nobody notices: Legal implications of AI's mistakes",
-    "date": "Fri, 27 Mar 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2603.23857"
   }
 ]
