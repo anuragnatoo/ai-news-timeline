@@ -1,6 +1,78 @@
 [
   {
     "source": "HuggingFace",
+    "title": "How to Ground a Korean AI Agent in Real Demographics with Synthetic Personas",
+    "date": "Tue, 21 Apr 2026 00:40:10 GMT",
+    "url": "https://huggingface.co/blog/nvidia/build-korean-agents-with-nemotron-personas"
+  },
+  {
+    "source": "arXiv",
+    "title": "DeepER-Med: Advancing Deep Evidence-Based Research in Medicine Through Agentic AI",
+    "date": "Mon, 20 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.15456"
+  },
+  {
+    "source": "arXiv",
+    "title": "GIST: Multimodal Knowledge Extraction and Spatial Grounding via Intelligent Semantic Topology",
+    "date": "Mon, 20 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.15495"
+  },
+  {
+    "source": "arXiv",
+    "title": "Bureaucratic Silences: What the Canadian AI Register Reveals, Omits, and Obscures",
+    "date": "Mon, 20 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.15514"
+  },
+  {
+    "source": "arXiv",
+    "title": "LACE: Lattice Attention for Cross-thread Exploration",
+    "date": "Mon, 20 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.15529"
+  },
+  {
+    "source": "arXiv",
+    "title": "Preregistered Belief Revision Contracts",
+    "date": "Mon, 20 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.15558"
+  },
+  {
+    "source": "arXiv",
+    "title": "Subliminal Transfer of Unsafe Behaviors in AI Agent Distillation",
+    "date": "Mon, 20 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.15559"
+  },
+  {
+    "source": "arXiv",
+    "title": "Bilevel Optimization of Agent Skills via Monte Carlo Tree Search",
+    "date": "Mon, 20 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.15709"
+  },
+  {
+    "source": "arXiv",
+    "title": "The World Leaks the Future: Harness Evolution for Future Prediction Agents",
+    "date": "Mon, 20 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.15719"
+  },
+  {
+    "source": "arXiv",
+    "title": "LLM Reasoning Is Latent, Not the Chain of Thought",
+    "date": "Mon, 20 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.15726"
+  },
+  {
+    "source": "arXiv",
+    "title": "Structured Abductive-Deductive-Inductive Reasoning for LLMs via Algebraic Invariants",
+    "date": "Mon, 20 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.15727"
+  },
+  {
+    "source": "OpenAI",
+    "title": "OpenAI helps Hyatt advance AI among colleagues ",
+    "date": "Mon, 20 Apr 2026 00:00:00 GMT",
+    "url": "https://openai.com/index/hyatt-advances-ai-with-chatgpt-enterprise"
+  },
+  {
+    "source": "HuggingFace",
     "title": "Building a Fast Multilingual OCR Model with Synthetic Data",
     "date": "Fri, 17 Apr 2026 16:17:55 GMT",
     "url": "https://huggingface.co/blog/nvidia/nemotron-ocr-v2"
@@ -1126,77 +1198,5 @@
     "title": "Bitboard version of Tetris AI",
     "date": "Tue, 31 Mar 2026 00:00:00 -0400",
     "url": "https://arxiv.org/abs/2603.26765"
-  },
-  {
-    "source": "arXiv",
-    "title": "Multiverse: Language-Conditioned Multi-Game Level Blending via Shared Representation",
-    "date": "Tue, 31 Mar 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2603.26782"
-  },
-  {
-    "source": "arXiv",
-    "title": "Concerning Uncertainty -- A Systematic Survey of Uncertainty-Aware XAI",
-    "date": "Tue, 31 Mar 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2603.26838"
-  },
-  {
-    "source": "arXiv",
-    "title": "Neuro-Symbolic Learning for Predictive Process Monitoring via Two-Stage Logic Tensor Networks with Rule Pruning",
-    "date": "Tue, 31 Mar 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2603.26944"
-  },
-  {
-    "source": "arXiv",
-    "title": "Compliance-Aware Predictive Process Monitoring: A Neuro-Symbolic Approach",
-    "date": "Tue, 31 Mar 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2603.26948"
-  },
-  {
-    "source": "arXiv",
-    "title": "Transparency as Architecture: Structural Compliance Gaps in EU AI Act Article 50 II",
-    "date": "Tue, 31 Mar 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2603.26983"
-  },
-  {
-    "source": "arXiv",
-    "title": "FormalProofBench: Can Models Write Graduate Level Math Proofs That Are Formally Verified?",
-    "date": "Tue, 31 Mar 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2603.26996"
-  },
-  {
-    "source": "arXiv",
-    "title": "When Verification Hurts: Asymmetric Effects of Multi-Agent Feedback in Logic Proof Tutoring",
-    "date": "Tue, 31 Mar 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2603.27076"
-  },
-  {
-    "source": "arXiv",
-    "title": "The Price of Meaning: Why Every Semantic Memory System Forgets",
-    "date": "Tue, 31 Mar 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2603.27116"
-  },
-  {
-    "source": "arXiv",
-    "title": "MediHive: A Decentralized Agent Collective for Medical Reasoning",
-    "date": "Tue, 31 Mar 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2603.27150"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "TRL v1.0: Post-Training Library Built to Move with the Field",
-    "date": "Tue, 31 Mar 2026 00:00:00 GMT",
-    "url": "https://huggingface.co/blog/trl-v1"
-  },
-  {
-    "source": "arXiv",
-    "title": "BeSafe-Bench: Unveiling Behavioral Safety Risks of Situated Agents in Functional Environments",
-    "date": "Mon, 30 Mar 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2603.25747"
-  },
-  {
-    "source": "arXiv",
-    "title": "AutoB2G: A Large Language Model-Driven Agentic Framework For Automated Building-Grid Co-Simulation",
-    "date": "Mon, 30 Mar 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2603.26005"
   }
 ]
