@@ -1,9 +1,87 @@
 [
   {
     "source": "HuggingFace",
+    "title": "QIMMA قِمّة ⛰: A Quality-First Arabic LLM Leaderboard",
+    "date": "Tue, 21 Apr 2026 10:09:58 GMT",
+    "url": "https://huggingface.co/blog/tiiuae/qimma-arabic-leaderboard"
+  },
+  {
+    "source": "arXiv",
+    "title": "KWBench: Measuring Unprompted Problem Recognition in Knowledge Work",
+    "date": "Tue, 21 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.15760"
+  },
+  {
+    "source": "arXiv",
+    "title": "Stein Variational Black-Box Combinatorial Optimization",
+    "date": "Tue, 21 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.15837"
+  },
+  {
+    "source": "arXiv",
+    "title": "Discover and Prove: An Open-source Agentic Framework for Hard Mode Automated Theorem Proving in Lean 4",
+    "date": "Tue, 21 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.15839"
+  },
+  {
+    "source": "arXiv",
+    "title": "Experience Compression Spectrum: Unifying Memory, Skills, and Rules in LLM Agents",
+    "date": "Tue, 21 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.15877"
+  },
+  {
+    "source": "arXiv",
+    "title": "Towards Rigorous Explainability by Feature Attribution",
+    "date": "Tue, 21 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.15898"
+  },
+  {
+    "source": "arXiv",
+    "title": "Integrating Graphs, Large Language Models, and Agents: Reasoning and Retrieval",
+    "date": "Tue, 21 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.15951"
+  },
+  {
+    "source": "arXiv",
+    "title": "Weak-Link Optimization for Multi-Agent Reasoning and Collaboration",
+    "date": "Tue, 21 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.15972"
+  },
+  {
+    "source": "arXiv",
+    "title": "ReactBench: A Benchmark for Topological Reasoning in MLLMs on Chemical Reaction Diagrams",
+    "date": "Tue, 21 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.15994"
+  },
+  {
+    "source": "arXiv",
+    "title": "MEDLEY-BENCH: Scale Buys Evaluation but Not Control in AI Metacognition",
+    "date": "Tue, 21 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.16009"
+  },
+  {
+    "source": "arXiv",
+    "title": "SocialGrid: A Benchmark for Planning and Social Reasoning in Embodied Multi-Agent Systems",
+    "date": "Tue, 21 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.16022"
+  },
+  {
+    "source": "HuggingFace",
     "title": "How to Ground a Korean AI Agent in Real Demographics with Synthetic Personas",
     "date": "Tue, 21 Apr 2026 00:40:10 GMT",
     "url": "https://huggingface.co/blog/nvidia/build-korean-agents-with-nemotron-personas"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Scaling Codex to enterprises worldwide",
+    "date": "Tue, 21 Apr 2026 00:00:00 GMT",
+    "url": "https://openai.com/index/scaling-codex-to-enterprises-worldwide"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "AI and the Future of Cybersecurity: Why Openness Matters",
+    "date": "Tue, 21 Apr 2026 00:00:00 GMT",
+    "url": "https://huggingface.co/blog/cybersecurity-openness"
   },
   {
     "source": "arXiv",
@@ -1120,83 +1198,5 @@
     "title": "Towards Computational Social Dynamics of Semi-Autonomous AI Agents",
     "date": "Wed, 01 Apr 2026 00:00:00 -0400",
     "url": "https://arxiv.org/abs/2603.28928"
-  },
-  {
-    "source": "arXiv",
-    "title": "Enhancing Policy Learning with World-Action Model",
-    "date": "Wed, 01 Apr 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2603.28955"
-  },
-  {
-    "source": "arXiv",
-    "title": "Mimosa Framework: Toward Evolving Multi-Agent Systems for Scientific Research",
-    "date": "Wed, 01 Apr 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2603.28986"
-  },
-  {
-    "source": "arXiv",
-    "title": "Drop the Hierarchy and Roles: How Self-Organizing LLM Agents Outperform Designed Structures",
-    "date": "Wed, 01 Apr 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2603.28990"
-  },
-  {
-    "source": "arXiv",
-    "title": "Emergence WebVoyager: Toward Consistent and Transparent Evaluation of (Web) Agents in The Wild",
-    "date": "Wed, 01 Apr 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2603.29020"
-  },
-  {
-    "source": "arXiv",
-    "title": "The Future of AI is Many, Not One",
-    "date": "Wed, 01 Apr 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2603.29075"
-  },
-  {
-    "source": "arXiv",
-    "title": "PAR$^2$-RAG: Planned Active Retrieval and Reasoning for Multi-Hop Question Answering",
-    "date": "Wed, 01 Apr 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2603.29085"
-  },
-  {
-    "source": "arXiv",
-    "title": "GISTBench: Evaluating LLM User Understanding via Evidence-Based Interest Verification",
-    "date": "Wed, 01 Apr 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2603.29112"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Gradient Labs gives every bank customer an AI account manager",
-    "date": "Wed, 01 Apr 2026 02:00:00 GMT",
-    "url": "https://openai.com/index/gradient-labs"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "Any Custom Frontend with Gradio's Backend",
-    "date": "Wed, 01 Apr 2026 00:00:00 GMT",
-    "url": "https://huggingface.co/blog/introducing-gradio-server"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "Granite 4.0 3B Vision: Compact Multimodal Intelligence for Enterprise Documents",
-    "date": "Tue, 31 Mar 2026 15:10:41 GMT",
-    "url": "https://huggingface.co/blog/ibm-granite/granite-4-vision"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Accelerating the next phase of AI",
-    "date": "Tue, 31 Mar 2026 13:00:00 GMT",
-    "url": "https://openai.com/index/accelerating-the-next-phase-ai"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "Training mRNA Language Models Across 25 Species for $165",
-    "date": "Tue, 31 Mar 2026 08:23:44 GMT",
-    "url": "https://huggingface.co/blog/OpenMed/training-mrna-models-25-species"
-  },
-  {
-    "source": "arXiv",
-    "title": "Bitboard version of Tetris AI",
-    "date": "Tue, 31 Mar 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2603.26765"
   }
 ]
