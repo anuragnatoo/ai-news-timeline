@@ -1,6 +1,108 @@
 [
   {
     "source": "HuggingFace",
+    "title": "Gemma 4 VLA Demo on Jetson Orin Nano Super",
+    "date": "Wed, 22 Apr 2026 15:40:50 GMT",
+    "url": "https://huggingface.co/blog/nvidia/gemma4"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Making ChatGPT better for clinicians",
+    "date": "Wed, 22 Apr 2026 15:00:00 GMT",
+    "url": "https://openai.com/index/making-chatgpt-better-for-clinicians"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Speeding up agentic workflows with WebSockets in the Responses API",
+    "date": "Wed, 22 Apr 2026 10:00:00 GMT",
+    "url": "https://openai.com/index/speeding-up-agentic-workflows-with-websockets"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Workspace agents",
+    "date": "Wed, 22 Apr 2026 10:00:00 GMT",
+    "url": "https://openai.com/academy/workspace-agents"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Introducing workspace agents in ChatGPT",
+    "date": "Wed, 22 Apr 2026 10:00:00 GMT",
+    "url": "https://openai.com/index/introducing-workspace-agents-in-chatgpt"
+  },
+  {
+    "source": "arXiv",
+    "title": "On Solving the Multiple Variable Gapped Longest Common Subsequence Problem",
+    "date": "Wed, 22 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.18645"
+  },
+  {
+    "source": "arXiv",
+    "title": "Beyond One Output: Visualizing and Comparing Distributions of Language Model Generations",
+    "date": "Wed, 22 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.18724"
+  },
+  {
+    "source": "arXiv",
+    "title": "ARES: Adaptive Red-Teaming and End-to-End Repair of Policy-Reward System",
+    "date": "Wed, 22 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.18789"
+  },
+  {
+    "source": "arXiv",
+    "title": "AI scientists produce results without reasoning scientifically",
+    "date": "Wed, 22 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.18805"
+  },
+  {
+    "source": "arXiv",
+    "title": "Quantum inspired qubit qutrit neural networks for real time financial forecasting",
+    "date": "Wed, 22 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.18838"
+  },
+  {
+    "source": "arXiv",
+    "title": "Human-Guided Harm Recovery for Computer Use Agents",
+    "date": "Wed, 22 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.18847"
+  },
+  {
+    "source": "arXiv",
+    "title": "From Natural Language to Executable Narsese: A Neuro-Symbolic Benchmark and Pipeline for Reasoning with NARS",
+    "date": "Wed, 22 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.18873"
+  },
+  {
+    "source": "arXiv",
+    "title": "How Adversarial Environments Mislead Agentic AI?",
+    "date": "Wed, 22 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.18874"
+  },
+  {
+    "source": "arXiv",
+    "title": "Formally Verified Patent Analysis via Dependent Type Theory: Machine-Checkable Certificates from a Hybrid AI + Lean 4 Pipeline",
+    "date": "Wed, 22 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.18882"
+  },
+  {
+    "source": "arXiv",
+    "title": "Error-free Training for MedMNIST Datasets",
+    "date": "Wed, 22 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.18916"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Introducing OpenAI Privacy Filter",
+    "date": "Wed, 22 Apr 2026 00:00:00 GMT",
+    "url": "https://openai.com/index/introducing-openai-privacy-filter"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Introducing ChatGPT Images 2.0",
+    "date": "Tue, 21 Apr 2026 12:00:00 GMT",
+    "url": "https://openai.com/index/introducing-chatgpt-images-2-0"
+  },
+  {
+    "source": "HuggingFace",
     "title": "QIMMA قِمّة ⛰: A Quality-First Arabic LLM Leaderboard",
     "date": "Tue, 21 Apr 2026 10:09:58 GMT",
     "url": "https://huggingface.co/blog/tiiuae/qimma-arabic-leaderboard"
@@ -1096,107 +1198,5 @@
     "title": "OpenAI acquires TBPN",
     "date": "Thu, 02 Apr 2026 10:30:00 GMT",
     "url": "https://openai.com/index/openai-acquires-tbpn"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Codex now offers more flexible pricing for teams",
-    "date": "Thu, 02 Apr 2026 10:00:00 GMT",
-    "url": "https://openai.com/index/codex-flexible-pricing-for-teams"
-  },
-  {
-    "source": "arXiv",
-    "title": "How Emotion Shapes the Behavior of LLMs and Agents: A Mechanistic Study",
-    "date": "Thu, 02 Apr 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2604.00005"
-  },
-  {
-    "source": "arXiv",
-    "title": "One Panel Does Not Fit All: Case-Adaptive Multi-Agent Deliberation for Clinical Prediction",
-    "date": "Thu, 02 Apr 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2604.00085"
-  },
-  {
-    "source": "arXiv",
-    "title": "Open, Reliable, and Collective: A Community-Driven Framework for Tool-Using AI Agents",
-    "date": "Thu, 02 Apr 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2604.00137"
-  },
-  {
-    "source": "arXiv",
-    "title": "A Safety-Aware Role-Orchestrated Multi-Agent LLM Framework for Behavioral Health Communication Simulation",
-    "date": "Thu, 02 Apr 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2604.00249"
-  },
-  {
-    "source": "arXiv",
-    "title": "Human-in-the-Loop Control of Objective Drift in LLM-Assisted Computer Science Education",
-    "date": "Thu, 02 Apr 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2604.00281"
-  },
-  {
-    "source": "arXiv",
-    "title": "Improvisational Games as a Benchmark for Social Intelligence of AI Agents: The Case of Connections",
-    "date": "Thu, 02 Apr 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2604.00284"
-  },
-  {
-    "source": "arXiv",
-    "title": "Collaborative AI Agents and Critics for Fault Detection and Cause Analysis in Network Telemetry",
-    "date": "Thu, 02 Apr 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2604.00319"
-  },
-  {
-    "source": "arXiv",
-    "title": "Signals: Trajectory Sampling and Triage for Agentic Interactions",
-    "date": "Thu, 02 Apr 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2604.00356"
-  },
-  {
-    "source": "arXiv",
-    "title": "In harmony with gpt-oss",
-    "date": "Thu, 02 Apr 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2604.00362"
-  },
-  {
-    "source": "arXiv",
-    "title": "Decision-Centric Design for LLM Systems",
-    "date": "Thu, 02 Apr 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2604.00414"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "Welcome Gemma 4: Frontier multimodal intelligence on device",
-    "date": "Thu, 02 Apr 2026 00:00:00 GMT",
-    "url": "https://huggingface.co/blog/gemma4"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "Holo3: Breaking the Computer Use Frontier",
-    "date": "Wed, 01 Apr 2026 16:36:15 GMT",
-    "url": "https://huggingface.co/blog/Hcompany/holo3"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "Falcon Perception",
-    "date": "Wed, 01 Apr 2026 07:13:20 GMT",
-    "url": "https://huggingface.co/blog/tiiuae/falcon-perception"
-  },
-  {
-    "source": "arXiv",
-    "title": "ChartDiff: A Large-Scale Benchmark for Comprehending Pairs of Charts",
-    "date": "Wed, 01 Apr 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2603.28902"
-  },
-  {
-    "source": "arXiv",
-    "title": "Working Paper: Towards a Category-theoretic Comparative Framework for Artificial General Intelligence",
-    "date": "Wed, 01 Apr 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2603.28906"
-  },
-  {
-    "source": "arXiv",
-    "title": "Towards Computational Social Dynamics of Semi-Autonomous AI Agents",
-    "date": "Wed, 01 Apr 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2603.28928"
   }
 ]
