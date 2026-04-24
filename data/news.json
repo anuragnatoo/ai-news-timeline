@@ -1,5 +1,125 @@
 [
   {
+    "source": "OpenAI",
+    "title": "Introducing GPT-5.5",
+    "date": "Thu, 23 Apr 2026 11:00:00 GMT",
+    "url": "https://openai.com/index/introducing-gpt-5-5"
+  },
+  {
+    "source": "OpenAI",
+    "title": "GPT-5.5 System Card",
+    "date": "Thu, 23 Apr 2026 11:00:00 GMT",
+    "url": "https://openai.com/index/gpt-5-5-system-card"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Automations",
+    "date": "Thu, 23 Apr 2026 10:00:00 GMT",
+    "url": "https://openai.com/academy/codex-automations"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Top 10 uses for Codex at work",
+    "date": "Thu, 23 Apr 2026 10:00:00 GMT",
+    "url": "https://openai.com/academy/top-10-use-cases-codex-for-work"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Plugins and skills",
+    "date": "Thu, 23 Apr 2026 10:00:00 GMT",
+    "url": "https://openai.com/academy/codex-plugins-and-skills"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Working with Codex",
+    "date": "Thu, 23 Apr 2026 10:00:00 GMT",
+    "url": "https://openai.com/academy/working-with-codex"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Codex settings",
+    "date": "Thu, 23 Apr 2026 10:00:00 GMT",
+    "url": "https://openai.com/academy/codex-settings"
+  },
+  {
+    "source": "OpenAI",
+    "title": "What is Codex?",
+    "date": "Thu, 23 Apr 2026 10:00:00 GMT",
+    "url": "https://openai.com/academy/what-is-codex"
+  },
+  {
+    "source": "OpenAI",
+    "title": "How to get started with Codex",
+    "date": "Thu, 23 Apr 2026 10:00:00 GMT",
+    "url": "https://openai.com/academy/codex-how-to-start"
+  },
+  {
+    "source": "arXiv",
+    "title": "The Tool-Overuse Illusion: Why Does LLM Prefer External Tools over Internal Knowledge?",
+    "date": "Thu, 23 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.19749"
+  },
+  {
+    "source": "arXiv",
+    "title": "AI to Learn 2.0: A Deliverable-Oriented Governance Framework and Maturity Rubric for Opaque AI in Learning-Intensive Domains",
+    "date": "Thu, 23 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.19751"
+  },
+  {
+    "source": "arXiv",
+    "title": "Algorithm Selection with Zero Domain Knowledge via Text Embeddings",
+    "date": "Thu, 23 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.19753"
+  },
+  {
+    "source": "arXiv",
+    "title": "Exploring Data Augmentation and Resampling Strategies for Transformer-Based Models to Address Class Imbalance in AI Scoring of Scientific Explanations in NGSS Classroom",
+    "date": "Thu, 23 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.19754"
+  },
+  {
+    "source": "arXiv",
+    "title": "Explainable AML Triage with LLMs: Evidence Retrieval and Counterfactual Checks",
+    "date": "Thu, 23 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.19755"
+  },
+  {
+    "source": "arXiv",
+    "title": "ThermoQA: A Three-Tier Benchmark for Evaluating Thermodynamic Reasoning in Large Language Models",
+    "date": "Thu, 23 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.19758"
+  },
+  {
+    "source": "arXiv",
+    "title": "Automated Detection of Dosing Errors in Clinical Trial Narratives: A Multi-Modal Feature Engineering Approach with LightGBM",
+    "date": "Thu, 23 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.19759"
+  },
+  {
+    "source": "arXiv",
+    "title": "Inference Headroom Ratio: A Diagnostic and Control Framework for Inference Stability Under Constraint",
+    "date": "Thu, 23 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.19760"
+  },
+  {
+    "source": "arXiv",
+    "title": "EvoForest: A Novel Machine-Learning Paradigm via Open-Ended Evolution of Computational Graphs",
+    "date": "Thu, 23 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.19761"
+  },
+  {
+    "source": "arXiv",
+    "title": "From Actions to Understanding: Conformal Interpretability of Temporal Concepts in LLM Agents",
+    "date": "Thu, 23 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.19775"
+  },
+  {
+    "source": "OpenAI",
+    "title": "GPT-5.5 Bio Bug Bounty",
+    "date": "Thu, 23 Apr 2026 00:00:00 GMT",
+    "url": "https://openai.com/index/gpt-5-5-bio-bug-bounty"
+  },
+  {
     "source": "HuggingFace",
     "title": "Gemma 4 VLA Demo on Jetson Orin Nano Super",
     "date": "Wed, 22 Apr 2026 15:40:50 GMT",
@@ -1078,125 +1198,5 @@
     "title": "Xpertbench: Expert Level Tasks with Rubrics-Based Evaluation",
     "date": "Mon, 06 Apr 2026 00:00:00 -0400",
     "url": "https://arxiv.org/abs/2604.02368"
-  },
-  {
-    "source": "arXiv",
-    "title": "Compositional Neuro-Symbolic Reasoning",
-    "date": "Mon, 06 Apr 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2604.02434"
-  },
-  {
-    "source": "arXiv",
-    "title": "Understanding the Nature of Generative AI as Threshold Logic in High-Dimensional Space",
-    "date": "Mon, 06 Apr 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2604.02476"
-  },
-  {
-    "source": "arXiv",
-    "title": "AIVV: Neuro-Symbolic LLM Agent-Integrated Verification and Validation for Trustworthy Autonomous Systems",
-    "date": "Mon, 06 Apr 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2604.02478"
-  },
-  {
-    "source": "arXiv",
-    "title": "I must delete the evidence: AI Agents Explicitly Cover up Fraud and Violent Crime",
-    "date": "Mon, 06 Apr 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2604.02500"
-  },
-  {
-    "source": "arXiv",
-    "title": "A Comprehensive Framework for Long-Term Resiliency Investment Planning under Extreme Weather Uncertainty for Electric Utilities",
-    "date": "Mon, 06 Apr 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2604.02504"
-  },
-  {
-    "source": "arXiv",
-    "title": "Interpretable Deep Reinforcement Learning for Element-level Bridge Life-cycle Optimization",
-    "date": "Mon, 06 Apr 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2604.02528"
-  },
-  {
-    "source": "arXiv",
-    "title": "Competency Questions as Executable Plans: a Controlled RAG Architecture for Cultural Heritage Storytelling",
-    "date": "Mon, 06 Apr 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2604.02545"
-  },
-  {
-    "source": "arXiv",
-    "title": "Mitigating LLM biases toward spurious social contexts using direct preference optimization",
-    "date": "Mon, 06 Apr 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2604.02585"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Industrial policy for the Intelligence Age",
-    "date": "Mon, 06 Apr 2026 02:30:00 GMT",
-    "url": "https://openai.com/index/industrial-policy-for-the-intelligence-age"
-  },
-  {
-    "source": "arXiv",
-    "title": "Self-Routing: Parameter-Free Expert Routing from Hidden States",
-    "date": "Fri, 03 Apr 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2604.00421"
-  },
-  {
-    "source": "arXiv",
-    "title": "Execution-Verified Reinforcement Learning for Optimization Modeling",
-    "date": "Fri, 03 Apr 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2604.00442"
-  },
-  {
-    "source": "arXiv",
-    "title": "Towards Reliable Truth-Aligned Uncertainty Estimation in Large Language Models",
-    "date": "Fri, 03 Apr 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2604.00445"
-  },
-  {
-    "source": "arXiv",
-    "title": "Logarithmic Scores, Power-Law Discoveries: Disentangling Measurement from Coverage in Agent-Based Evaluation",
-    "date": "Fri, 03 Apr 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2604.00477"
-  },
-  {
-    "source": "arXiv",
-    "title": "The Silicon Mirror: Dynamic Behavioral Gating for Anti-Sycophancy in LLM Agents",
-    "date": "Fri, 03 Apr 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2604.00478"
-  },
-  {
-    "source": "arXiv",
-    "title": "Adaptive Parallel Monte Carlo Tree Search for Efficient Test-time Compute Scaling",
-    "date": "Fri, 03 Apr 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2604.00510"
-  },
-  {
-    "source": "arXiv",
-    "title": "Does Unification Come at a Cost? Uni-SafeBench: A Safety Benchmark for Unified Multimodal Large Models",
-    "date": "Fri, 03 Apr 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2604.00547"
-  },
-  {
-    "source": "arXiv",
-    "title": "BloClaw: An Omniscient, Multi-Modal Agentic Workspace for Next-Generation Scientific Discovery",
-    "date": "Fri, 03 Apr 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2604.00550"
-  },
-  {
-    "source": "arXiv",
-    "title": "Ontology-Constrained Neural Reasoning in Enterprise Agentic Systems: A Neurosymbolic Architecture for Domain-Grounded AI Agents",
-    "date": "Fri, 03 Apr 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2604.00555"
-  },
-  {
-    "source": "arXiv",
-    "title": "Agent psychometrics: Task-level performance prediction in agentic coding benchmarks",
-    "date": "Fri, 03 Apr 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2604.00594"
-  },
-  {
-    "source": "OpenAI",
-    "title": "OpenAI acquires TBPN",
-    "date": "Thu, 02 Apr 2026 10:30:00 GMT",
-    "url": "https://openai.com/index/openai-acquires-tbpn"
   }
 ]
