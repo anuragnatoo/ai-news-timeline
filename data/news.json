@@ -1,5 +1,71 @@
 [
   {
+    "source": "arXiv",
+    "title": "Architecture of an AI-Based Automated Course of Action Generation System for Military Operations",
+    "date": "Fri, 24 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.20862"
+  },
+  {
+    "source": "arXiv",
+    "title": "Escaping the Agreement Trap: Defensibility Signals for Evaluating Rule-Governed AI",
+    "date": "Fri, 24 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.20972"
+  },
+  {
+    "source": "arXiv",
+    "title": "Co-Evolving LLM Decision and Skill Bank Agents for Long-Horizon Tasks",
+    "date": "Fri, 24 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.20987"
+  },
+  {
+    "source": "arXiv",
+    "title": "Value-Conflict Diagnostics Reveal Widespread Alignment Faking in Language Models",
+    "date": "Fri, 24 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.20995"
+  },
+  {
+    "source": "arXiv",
+    "title": "The Last Harness You'll Ever Build",
+    "date": "Fri, 24 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.21003"
+  },
+  {
+    "source": "arXiv",
+    "title": "Deep FinResearch Bench: Evaluating AI's Ability to Conduct Professional Financial Investment Research",
+    "date": "Fri, 24 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.21006"
+  },
+  {
+    "source": "arXiv",
+    "title": "Adaptive Test-Time Compute Allocation with Evolving In-Context Demonstrations",
+    "date": "Fri, 24 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.21018"
+  },
+  {
+    "source": "arXiv",
+    "title": "HypEHR: Hyperbolic Modeling of Electronic Health Records for Efficient Question Answering",
+    "date": "Fri, 24 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.21027"
+  },
+  {
+    "source": "arXiv",
+    "title": "Who Defines Fairness? Target-Based Prompting for Demographic Representation in Generative Models",
+    "date": "Fri, 24 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.21036"
+  },
+  {
+    "source": "arXiv",
+    "title": "Active Data",
+    "date": "Fri, 24 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.21044"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "DeepSeek-V4: a million-token context that agents can actually use",
+    "date": "Fri, 24 Apr 2026 00:00:00 GMT",
+    "url": "https://huggingface.co/blog/deepseekv4"
+  },
+  {
     "source": "OpenAI",
     "title": "Introducing GPT-5.5",
     "date": "Thu, 23 Apr 2026 11:00:00 GMT",
@@ -118,6 +184,12 @@
     "title": "GPT-5.5 Bio Bug Bounty",
     "date": "Thu, 23 Apr 2026 00:00:00 GMT",
     "url": "https://openai.com/index/gpt-5-5-bio-bug-bounty"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "How to Use Transformers.js in a Chrome Extension",
+    "date": "Thu, 23 Apr 2026 00:00:00 GMT",
+    "url": "https://huggingface.co/blog/transformersjs-chrome-extension"
   },
   {
     "source": "HuggingFace",
@@ -1126,77 +1198,5 @@
     "title": "IC3-Evolve: Proof-/Witness-Gated Offline LLM-Driven Heuristic Evolution for IC3 Hardware Model Checking",
     "date": "Tue, 07 Apr 2026 00:00:00 -0400",
     "url": "https://arxiv.org/abs/2604.03232"
-  },
-  {
-    "source": "arXiv",
-    "title": "Structural Segmentation of the Minimum Set Cover Problem: Exploiting Universe Decomposability for Metaheuristic Optimization",
-    "date": "Tue, 07 Apr 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2604.03234"
-  },
-  {
-    "source": "arXiv",
-    "title": "To Throw a Stone with Six Birds: On Agents and Agenthood",
-    "date": "Tue, 07 Apr 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2604.03239"
-  },
-  {
-    "source": "arXiv",
-    "title": "Position: Science of AI Evaluation Requires Item-level Benchmark Data",
-    "date": "Tue, 07 Apr 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2604.03244"
-  },
-  {
-    "source": "arXiv",
-    "title": "Toward Full Autonomous Laboratory Instrumentation Control with Large Language Models",
-    "date": "Tue, 07 Apr 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2604.03286"
-  },
-  {
-    "source": "arXiv",
-    "title": "Evaluating Artificial Intelligence Through a Christian Understanding of Human Flourishing",
-    "date": "Tue, 07 Apr 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2604.03356"
-  },
-  {
-    "source": "arXiv",
-    "title": "VERT: Reliable LLM Judges for Radiology Report Evaluation",
-    "date": "Tue, 07 Apr 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2604.03376"
-  },
-  {
-    "source": "arXiv",
-    "title": "Hume's Representational Conditions for Causal Judgment: What Bayesian Formalization Abstracted Away",
-    "date": "Tue, 07 Apr 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2604.03387"
-  },
-  {
-    "source": "arXiv",
-    "title": "TABQAWORLD: Optimizing Multimodal Reasoning for Multi-Turn Table Question Answering",
-    "date": "Tue, 07 Apr 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2604.03393"
-  },
-  {
-    "source": "arXiv",
-    "title": "Contextual Control without Memory Growth in a Context-Switching Task",
-    "date": "Tue, 07 Apr 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2604.03479"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Announcing the OpenAI Safety Fellowship",
-    "date": "Mon, 06 Apr 2026 10:00:00 GMT",
-    "url": "https://openai.com/index/introducing-openai-safety-fellowship"
-  },
-  {
-    "source": "arXiv",
-    "title": "Holos: A Web-Scale LLM-Based Multi-Agent System for the Agentic Web",
-    "date": "Mon, 06 Apr 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2604.02334"
-  },
-  {
-    "source": "arXiv",
-    "title": "Xpertbench: Expert Level Tasks with Rubrics-Based Evaluation",
-    "date": "Mon, 06 Apr 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2604.02368"
   }
 ]
