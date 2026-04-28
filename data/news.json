@@ -1,5 +1,107 @@
 [
   {
+    "source": "HuggingFace",
+    "title": "Adaptive Ultrasound Imaging with Physics-Informed NV-Raw2Insights-US AI",
+    "date": "Tue, 28 Apr 2026 00:28:13 GMT",
+    "url": "https://huggingface.co/blog/nvidia/raw2insights-adaptive-ultrasound-imaging"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Data center demand drives 66% surge in natural gas power plant costs",
+    "date": "Mon, 27 Apr 2026 15:27:52 +0000",
+    "url": "https://techcrunch.com/2026/04/27/data-center-demand-drives-66-surge-in-natural-gas-power-plant-costs/"
+  },
+  {
+    "source": "OpenAI",
+    "title": "OpenAI available at FedRAMP Moderate",
+    "date": "Mon, 27 Apr 2026 14:00:00 GMT",
+    "url": "https://openai.com/index/openai-available-at-fedramp-moderate"
+  },
+  {
+    "source": "OpenAI",
+    "title": "The next phase of the Microsoft OpenAI partnership",
+    "date": "Mon, 27 Apr 2026 06:00:00 GMT",
+    "url": "https://openai.com/index/next-phase-of-microsoft-partnership"
+  },
+  {
+    "source": "arXiv",
+    "title": "Math Takes Two: A test for emergent mathematical reasoning in communication",
+    "date": "Mon, 27 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.21935"
+  },
+  {
+    "source": "arXiv",
+    "title": "An Artifact-based Agent Framework for Adaptive and Reproducible Medical Image Processing",
+    "date": "Mon, 27 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.21936"
+  },
+  {
+    "source": "arXiv",
+    "title": "MolClaw: An Autonomous Agent with Hierarchical Skills for Drug Molecule Evaluation, Screening, and Optimization",
+    "date": "Mon, 27 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.21937"
+  },
+  {
+    "source": "arXiv",
+    "title": "Read the Paper, Write the Code: Agentic Reproduction of Social-Science Results",
+    "date": "Mon, 27 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.21965"
+  },
+  {
+    "source": "arXiv",
+    "title": "Rethinking Publication: A Certification Framework for AI-Enabled Research",
+    "date": "Mon, 27 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.22026"
+  },
+  {
+    "source": "arXiv",
+    "title": "Sound Agentic Science Requires Adversarial Experiments",
+    "date": "Mon, 27 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.22080"
+  },
+  {
+    "source": "arXiv",
+    "title": "Memanto: Typed Semantic Memory with Information-Theoretic Retrieval for Long-Horizon Agents",
+    "date": "Mon, 27 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.22085"
+  },
+  {
+    "source": "arXiv",
+    "title": "Emergent Strategic Reasoning Risks in AI: A Taxonomy-Driven Evaluation Framework",
+    "date": "Mon, 27 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.22119"
+  },
+  {
+    "source": "arXiv",
+    "title": "When Does LLM Self-Correction Help? A Control-Theoretic Markov Diagnostic and Verify-First Intervention",
+    "date": "Mon, 27 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.22273"
+  },
+  {
+    "source": "arXiv",
+    "title": "Introducing Background Temperature to Characterise Hidden Randomness in Large Language Models",
+    "date": "Mon, 27 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.22411"
+  },
+  {
+    "source": "OpenAI",
+    "title": "An open-source spec for orchestration: Symphony",
+    "date": "Mon, 27 Apr 2026 00:00:00 GMT",
+    "url": "https://openai.com/index/open-source-codex-orchestration-symphony"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Choco automates food distribution with AI agents",
+    "date": "Mon, 27 Apr 2026 00:00:00 GMT",
+    "url": "https://openai.com/index/choco"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "How to build scalable web apps with OpenAI's Privacy Filter",
+    "date": "Mon, 27 Apr 2026 00:00:00 GMT",
+    "url": "https://huggingface.co/blog/openai-privacy-filter-web-apps"
+  },
+  {
     "source": "OpenAI",
     "title": "Our principles",
     "date": "Sun, 26 Apr 2026 16:00:00 GMT",
@@ -1096,107 +1198,5 @@
     "title": "CyberAgent moves faster with ChatGPT Enterprise and Codex",
     "date": "Thu, 09 Apr 2026 00:00:00 GMT",
     "url": "https://openai.com/index/cyberagent"
-  },
-  {
-    "source": "OpenAI",
-    "title": "OpenAI Full Fan Mode Contest: Terms & Conditions",
-    "date": "Thu, 09 Apr 2026 00:00:00 GMT",
-    "url": "https://openai.com/index/full-fan-mode-contest-terms-conditions"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "Waypoint-1.5: Higher-Fidelity Interactive Worlds for Everyday GPUs",
-    "date": "Thu, 09 Apr 2026 00:00:00 GMT",
-    "url": "https://huggingface.co/blog/waypoint-1-5"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "Multimodal Embedding & Reranker Models with Sentence Transformers",
-    "date": "Thu, 09 Apr 2026 00:00:00 GMT",
-    "url": "https://huggingface.co/blog/multimodal-sentence-transformers"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "ALTK‑Evolve: On‑the‑Job Learning for AI Agents",
-    "date": "Wed, 08 Apr 2026 14:27:42 GMT",
-    "url": "https://huggingface.co/blog/ibm-research/altk-evolve"
-  },
-  {
-    "source": "OpenAI",
-    "title": "The next phase of enterprise AI",
-    "date": "Wed, 08 Apr 2026 14:00:00 GMT",
-    "url": "https://openai.com/index/next-phase-of-enterprise-ai"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Introducing the Child Safety Blueprint",
-    "date": "Wed, 08 Apr 2026 05:00:00 GMT",
-    "url": "https://openai.com/index/introducing-child-safety-blueprint"
-  },
-  {
-    "source": "arXiv",
-    "title": "Pramana: Fine-Tuning Large Language Models for Epistemic Reasoning through Navya-Nyaya",
-    "date": "Wed, 08 Apr 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2604.04937"
-  },
-  {
-    "source": "arXiv",
-    "title": "Operational Noncommutativity in Sequential Metacognitive Judgments",
-    "date": "Wed, 08 Apr 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2604.04938"
-  },
-  {
-    "source": "arXiv",
-    "title": "Proximity Measure of Information Object Features for Solving the Problem of Their Identification in Information Systems",
-    "date": "Wed, 08 Apr 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2604.04939"
-  },
-  {
-    "source": "arXiv",
-    "title": "ReVEL: Multi-Turn Reflective LLM-Guided Heuristic Evolution via Structured Performance Feedback",
-    "date": "Wed, 08 Apr 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2604.04940"
-  },
-  {
-    "source": "arXiv",
-    "title": "Algebraic Structure Discovery for Real World Combinatorial Optimisation Problems: A General Framework from Abstract Algebra to Quotient Space Learning",
-    "date": "Wed, 08 Apr 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2604.04941"
-  },
-  {
-    "source": "arXiv",
-    "title": "PaperOrchestra: A Multi-Agent Framework for Automated AI Research Paper Writing",
-    "date": "Wed, 08 Apr 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2604.05018"
-  },
-  {
-    "source": "arXiv",
-    "title": "Part-Level 3D Gaussian Vehicle Generation with Joint and Hinge Axis Estimation",
-    "date": "Wed, 08 Apr 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2604.05070"
-  },
-  {
-    "source": "arXiv",
-    "title": "MMORF: A Multi-agent Framework for Designing Multi-objective Retrosynthesis Planning Systems",
-    "date": "Wed, 08 Apr 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2604.05075"
-  },
-  {
-    "source": "arXiv",
-    "title": "MedGemma 1.5 Technical Report",
-    "date": "Wed, 08 Apr 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2604.05081"
-  },
-  {
-    "source": "arXiv",
-    "title": "Uncertainty-Guided Latent Diagnostic Trajectory Learning for Sequential Clinical Diagnosis",
-    "date": "Wed, 08 Apr 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2604.05116"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "Safetensors is Joining the PyTorch Foundation",
-    "date": "Wed, 08 Apr 2026 00:00:00 GMT",
-    "url": "https://huggingface.co/blog/safetensors-joins-pytorch-foundation"
   }
 ]
