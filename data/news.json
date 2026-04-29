@@ -1,9 +1,87 @@
 [
   {
     "source": "HuggingFace",
+    "title": "Introducing NVIDIA Nemotron 3 Nano Omni: Long-Context Multimodal Intelligence for Documents, Audio and Video Agents",
+    "date": "Tue, 28 Apr 2026 15:58:57 GMT",
+    "url": "https://huggingface.co/blog/nvidia/nemotron-3-nano-omni-multimodal-intelligence"
+  },
+  {
+    "source": "arXiv",
+    "title": "An Intelligent Fault Diagnosis Method for General Aviation Aircraft Based on Multi-Fidelity Digital Twin and FMEA Knowledge Enhancement",
+    "date": "Tue, 28 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.22777"
+  },
+  {
+    "source": "arXiv",
+    "title": "PExA: Parallel Exploration Agent for Complex Text-to-SQL",
+    "date": "Tue, 28 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.22934"
+  },
+  {
+    "source": "arXiv",
+    "title": "The Power of Power Law: Asymmetry Enables Compositional Reasoning",
+    "date": "Tue, 28 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.22951"
+  },
+  {
+    "source": "arXiv",
+    "title": "On the Existence of an Inverse Solution for Preference-Based Reductions in Argumentation",
+    "date": "Tue, 28 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.22958"
+  },
+  {
+    "source": "arXiv",
+    "title": "Towards Causally Interpretable Wi-Fi CSI-Based Human Activity Recognition with Discrete Latent Compression and LTL Rule Extraction",
+    "date": "Tue, 28 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.22979"
+  },
+  {
+    "source": "arXiv",
+    "title": "FormalScience: Scalable Human-in-the-Loop Autoformalisation of Science with Agentic Code Generation in Lean",
+    "date": "Tue, 28 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.23002"
+  },
+  {
+    "source": "arXiv",
+    "title": "A Systematic Approach for Large Language Models Debugging",
+    "date": "Tue, 28 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.23027"
+  },
+  {
+    "source": "arXiv",
+    "title": "A Decoupled Human-in-the-Loop System for Controlled Autonomy in Agentic Workflows",
+    "date": "Tue, 28 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.23049"
+  },
+  {
+    "source": "arXiv",
+    "title": "Don't Make the LLM Read the Graph: Make the Graph Think",
+    "date": "Tue, 28 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.23057"
+  },
+  {
+    "source": "arXiv",
+    "title": "Analytica: Soft Propositional Reasoning for Robust and Scalable LLM-Driven Analysis",
+    "date": "Tue, 28 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.23072"
+  },
+  {
+    "source": "HuggingFace",
     "title": "Adaptive Ultrasound Imaging with Physics-Informed NV-Raw2Insights-US AI",
     "date": "Tue, 28 Apr 2026 00:28:13 GMT",
     "url": "https://huggingface.co/blog/nvidia/raw2insights-adaptive-ultrasound-imaging"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Our commitment to community safety",
+    "date": "Tue, 28 Apr 2026 00:00:00 GMT",
+    "url": "https://openai.com/index/our-commitment-to-community-safety"
+  },
+  {
+    "source": "OpenAI",
+    "title": "OpenAI models, Codex, and Managed Agents come to AWS",
+    "date": "Tue, 28 Apr 2026 00:00:00 GMT",
+    "url": "https://openai.com/index/openai-on-aws"
   },
   {
     "source": "TechCrunch",
@@ -1120,83 +1198,5 @@
     "title": "Prompting fundamentals",
     "date": "Fri, 10 Apr 2026 00:00:00 GMT",
     "url": "https://openai.com/academy/prompting"
-  },
-  {
-    "source": "OpenAI",
-    "title": "ChatGPT for customer success teams",
-    "date": "Fri, 10 Apr 2026 00:00:00 GMT",
-    "url": "https://openai.com/academy/customer-success"
-  },
-  {
-    "source": "OpenAI",
-    "title": "ChatGPT for managers",
-    "date": "Fri, 10 Apr 2026 00:00:00 GMT",
-    "url": "https://openai.com/academy/managers"
-  },
-  {
-    "source": "arXiv",
-    "title": "High-Precision Estimation of the State-Space Complexity of Shogi via the Monte Carlo Method",
-    "date": "Thu, 09 Apr 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2604.06189"
-  },
-  {
-    "source": "arXiv",
-    "title": "Blind Refusal: Language Models Refuse to Help Users Evade Unjust, Absurd, and Illegitimate Rules",
-    "date": "Thu, 09 Apr 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2604.06233"
-  },
-  {
-    "source": "arXiv",
-    "title": "Toward Reducing Unproductive Container Moves: Predicting Service Requirements and Dwell Times",
-    "date": "Thu, 09 Apr 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2604.06251"
-  },
-  {
-    "source": "arXiv",
-    "title": "Weakly Supervised Distillation of Hallucination Signals into Transformer Representations",
-    "date": "Thu, 09 Apr 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2604.06277"
-  },
-  {
-    "source": "arXiv",
-    "title": "SymptomWise: A Deterministic Reasoning Layer for Reliable and Efficient AI Systems",
-    "date": "Thu, 09 Apr 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2604.06375"
-  },
-  {
-    "source": "arXiv",
-    "title": "SELFDOUBT: Uncertainty Quantification for Reasoning LLMs via the Hedge-to-Verify Ratio",
-    "date": "Thu, 09 Apr 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2604.06389"
-  },
-  {
-    "source": "arXiv",
-    "title": "Qualixar OS: A Universal Operating System for AI Agent Orchestration",
-    "date": "Thu, 09 Apr 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2604.06392"
-  },
-  {
-    "source": "arXiv",
-    "title": "ProofSketcher: Hybrid LLM + Lightweight Proof Checker for Reliable Math/Logic Reasoning",
-    "date": "Thu, 09 Apr 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2604.06401"
-  },
-  {
-    "source": "arXiv",
-    "title": "BDI-Kit Demo: A Toolkit for Programmable and Conversational Data Harmonization",
-    "date": "Thu, 09 Apr 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2604.06405"
-  },
-  {
-    "source": "arXiv",
-    "title": "On Emotion-Sensitive Decision Making of Small Language Model Agents",
-    "date": "Thu, 09 Apr 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2604.06562"
-  },
-  {
-    "source": "OpenAI",
-    "title": "CyberAgent moves faster with ChatGPT Enterprise and Codex",
-    "date": "Thu, 09 Apr 2026 00:00:00 GMT",
-    "url": "https://openai.com/index/cyberagent"
   }
 ]
