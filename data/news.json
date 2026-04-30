@@ -1,6 +1,96 @@
 [
   {
     "source": "HuggingFace",
+    "title": "AI evals are becoming the new compute bottleneck",
+    "date": "Wed, 29 Apr 2026 16:45:09 GMT",
+    "url": "https://huggingface.co/blog/evaleval/eval-costs-bottleneck"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "Granite 4.1 LLMs: How They’re Built",
+    "date": "Wed, 29 Apr 2026 15:01:48 GMT",
+    "url": "https://huggingface.co/blog/ibm-granite/granite-4-1"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Building the compute infrastructure for the Intelligence Age",
+    "date": "Wed, 29 Apr 2026 15:00:00 GMT",
+    "url": "https://openai.com/index/building-the-compute-infrastructure-for-the-intelligence-age"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Cybersecurity in the Intelligence Age",
+    "date": "Wed, 29 Apr 2026 04:00:00 GMT",
+    "url": "https://openai.com/index/cybersecurity-in-the-intelligence-age"
+  },
+  {
+    "source": "arXiv",
+    "title": "Towards Automated Ontology Generation from Unstructured Text: A Multi-Agent LLM Approach",
+    "date": "Wed, 29 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.23090"
+  },
+  {
+    "source": "arXiv",
+    "title": "PhySE: A Psychological Framework for Real-Time AR-LLM Social Engineering Attacks",
+    "date": "Wed, 29 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.23148"
+  },
+  {
+    "source": "arXiv",
+    "title": "Judging the Judges: A Systematic Evaluation of Bias Mitigation Strategies in LLM-as-a-Judge Pipelines",
+    "date": "Wed, 29 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.23178"
+  },
+  {
+    "source": "arXiv",
+    "title": "From Coarse to Fine: Self-Adaptive Hierarchical Planning for LLM Agents",
+    "date": "Wed, 29 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.23194"
+  },
+  {
+    "source": "arXiv",
+    "title": "StoryTR: Narrative-Centric Video Temporal Retrieval with Theory of Mind Reasoning",
+    "date": "Wed, 29 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.23198"
+  },
+  {
+    "source": "arXiv",
+    "title": "Discovering Agentic Safety Specifications from 1-Bit Danger Signals",
+    "date": "Wed, 29 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.23210"
+  },
+  {
+    "source": "arXiv",
+    "title": "AdaMamba: Adaptive Frequency-Gated Mamba for Long-Term Time Series Forecasting",
+    "date": "Wed, 29 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.23239"
+  },
+  {
+    "source": "arXiv",
+    "title": "CAP-CoT: Cycle Adversarial Prompt for Improving Chain of Thoughts in LLM Reasoning",
+    "date": "Wed, 29 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.23270"
+  },
+  {
+    "source": "arXiv",
+    "title": "Active Inference: A method for Phenotyping Agency in AI systems?",
+    "date": "Wed, 29 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.23278"
+  },
+  {
+    "source": "arXiv",
+    "title": "AI Identity: Standards, Gaps, and Research Directions for AI Agents",
+    "date": "Wed, 29 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.23280"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "DeepInfra on Hugging Face Inference Providers 🔥",
+    "date": "Wed, 29 Apr 2026 00:00:00 GMT",
+    "url": "https://huggingface.co/blog/inference-providers-deepinfra"
+  },
+  {
+    "source": "HuggingFace",
     "title": "Introducing NVIDIA Nemotron 3 Nano Omni: Long-Context Multimodal Intelligence for Documents, Audio and Video Agents",
     "date": "Tue, 28 Apr 2026 15:58:57 GMT",
     "url": "https://huggingface.co/blog/nvidia/nemotron-3-nano-omni-multimodal-intelligence"
@@ -1108,95 +1198,5 @@
     "title": "Brainstorming with ChatGPT",
     "date": "Fri, 10 Apr 2026 00:00:00 GMT",
     "url": "https://openai.com/academy/brainstorming"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Writing with ChatGPT",
-    "date": "Fri, 10 Apr 2026 00:00:00 GMT",
-    "url": "https://openai.com/academy/writing"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Getting started with ChatGPT",
-    "date": "Fri, 10 Apr 2026 00:00:00 GMT",
-    "url": "https://openai.com/academy/getting-started"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Healthcare",
-    "date": "Fri, 10 Apr 2026 00:00:00 GMT",
-    "url": "https://openai.com/academy/healthcare"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Analyzing data with ChatGPT",
-    "date": "Fri, 10 Apr 2026 00:00:00 GMT",
-    "url": "https://openai.com/academy/data-analysis"
-  },
-  {
-    "source": "OpenAI",
-    "title": "ChatGPT for marketing teams",
-    "date": "Fri, 10 Apr 2026 00:00:00 GMT",
-    "url": "https://openai.com/academy/marketing"
-  },
-  {
-    "source": "OpenAI",
-    "title": "ChatGPT for operations teams",
-    "date": "Fri, 10 Apr 2026 00:00:00 GMT",
-    "url": "https://openai.com/academy/operations"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Creating images with ChatGPT",
-    "date": "Fri, 10 Apr 2026 00:00:00 GMT",
-    "url": "https://openai.com/academy/image-generation"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Our response to the Axios developer tool compromise",
-    "date": "Fri, 10 Apr 2026 00:00:00 GMT",
-    "url": "https://openai.com/index/axios-developer-tool-compromise"
-  },
-  {
-    "source": "OpenAI",
-    "title": "ChatGPT for finance teams",
-    "date": "Fri, 10 Apr 2026 00:00:00 GMT",
-    "url": "https://openai.com/academy/finance"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Personalizing ChatGPT",
-    "date": "Fri, 10 Apr 2026 00:00:00 GMT",
-    "url": "https://openai.com/academy/personalization"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Financial services",
-    "date": "Fri, 10 Apr 2026 00:00:00 GMT",
-    "url": "https://openai.com/academy/financial-services"
-  },
-  {
-    "source": "OpenAI",
-    "title": "AI fundamentals",
-    "date": "Fri, 10 Apr 2026 00:00:00 GMT",
-    "url": "https://openai.com/academy/what-is-ai"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Using projects in ChatGPT",
-    "date": "Fri, 10 Apr 2026 00:00:00 GMT",
-    "url": "https://openai.com/academy/projects"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Responsible and safe use of AI ",
-    "date": "Fri, 10 Apr 2026 00:00:00 GMT",
-    "url": "https://openai.com/academy/responsible-and-safe-use"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Prompting fundamentals",
-    "date": "Fri, 10 Apr 2026 00:00:00 GMT",
-    "url": "https://openai.com/academy/prompting"
   }
 ]
