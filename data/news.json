@@ -1,5 +1,77 @@
 [
   {
+    "source": "arXiv",
+    "title": "Operating-Layer Controls for Onchain Language-Model Agents Under Real Capital",
+    "date": "Thu, 30 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.26091"
+  },
+  {
+    "source": "arXiv",
+    "title": "Distill-Belief: Closed-Loop Inverse Source Localization and Characterization in Physical Fields",
+    "date": "Thu, 30 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.26095"
+  },
+  {
+    "source": "arXiv",
+    "title": "Evaluating Strategic Reasoning in Forecasting Agents",
+    "date": "Thu, 30 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.26106"
+  },
+  {
+    "source": "arXiv",
+    "title": "Hierarchical Multi-Persona Induction from User Behavioral Logs: Learning Evidence-Grounded and Truthful Personas",
+    "date": "Thu, 30 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.26120"
+  },
+  {
+    "source": "arXiv",
+    "title": "OMEGA: Optimizing Machine Learning by Evaluating Generated Algorithms",
+    "date": "Thu, 30 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.26211"
+  },
+  {
+    "source": "arXiv",
+    "title": "Persuadability and LLMs as Legal Decision Tools",
+    "date": "Thu, 30 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.26233"
+  },
+  {
+    "source": "arXiv",
+    "title": "Apriori-based Analysis of Learned Helplessness in Mathematics Tutoring: Behavioral Patterns by Level, Intervention, and Outcome",
+    "date": "Thu, 30 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.26237"
+  },
+  {
+    "source": "arXiv",
+    "title": "DreamProver: Evolving Transferable Lemma Libraries via a Wake-Sleep Theorem-Proving Agent",
+    "date": "Thu, 30 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.26311"
+  },
+  {
+    "source": "arXiv",
+    "title": "Auto-Relational Reasoning",
+    "date": "Thu, 30 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.26507"
+  },
+  {
+    "source": "arXiv",
+    "title": "Grounding vs. Compositionality: On the Non-Complementarity of Reasoning in Neuro-Symbolic Systems",
+    "date": "Thu, 30 Apr 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2604.26521"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Introducing Advanced Account Security",
+    "date": "Thu, 30 Apr 2026 00:00:00 GMT",
+    "url": "https://openai.com/index/advanced-account-security"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Where the goblins came from",
+    "date": "Wed, 29 Apr 2026 20:00:00 GMT",
+    "url": "https://openai.com/index/where-the-goblins-came-from"
+  },
+  {
     "source": "HuggingFace",
     "title": "AI evals are becoming the new compute bottleneck",
     "date": "Wed, 29 Apr 2026 16:45:09 GMT",
@@ -1126,77 +1198,5 @@
     "title": "Steering the Verifiability of Multimodal AI Hallucinations",
     "date": "Fri, 10 Apr 2026 00:00:00 -0400",
     "url": "https://arxiv.org/abs/2604.06714"
-  },
-  {
-    "source": "arXiv",
-    "title": "TurboAgent: An LLM-Driven Autonomous Multi-Agent Framework for Turbomachinery Aerodynamic Design",
-    "date": "Fri, 10 Apr 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2604.06747"
-  },
-  {
-    "source": "arXiv",
-    "title": "FVD: Inference-Time Alignment of Diffusion Models via Fleming-Viot Resampling",
-    "date": "Fri, 10 Apr 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2604.06779"
-  },
-  {
-    "source": "arXiv",
-    "title": "Riemann-Bench: A Benchmark for Moonshot Mathematics",
-    "date": "Fri, 10 Apr 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2604.06802"
-  },
-  {
-    "source": "arXiv",
-    "title": "Beyond Surface Judgments: Human-Grounded Risk Evaluation of LLM-Generated Disinformation",
-    "date": "Fri, 10 Apr 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2604.06820"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Research with ChatGPT",
-    "date": "Fri, 10 Apr 2026 00:00:00 GMT",
-    "url": "https://openai.com/academy/search-and-deep-research"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Working with files in ChatGPT",
-    "date": "Fri, 10 Apr 2026 00:00:00 GMT",
-    "url": "https://openai.com/academy/working-with-files"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Using custom GPTs",
-    "date": "Fri, 10 Apr 2026 00:00:00 GMT",
-    "url": "https://openai.com/academy/custom-gpts"
-  },
-  {
-    "source": "OpenAI",
-    "title": "ChatGPT for research",
-    "date": "Fri, 10 Apr 2026 00:00:00 GMT",
-    "url": "https://openai.com/academy/research"
-  },
-  {
-    "source": "OpenAI",
-    "title": "ChatGPT for sales teams",
-    "date": "Fri, 10 Apr 2026 00:00:00 GMT",
-    "url": "https://openai.com/academy/sales"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Using skills",
-    "date": "Fri, 10 Apr 2026 00:00:00 GMT",
-    "url": "https://openai.com/academy/skills"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Applications of AI at OpenAI",
-    "date": "Fri, 10 Apr 2026 00:00:00 GMT",
-    "url": "https://openai.com/academy/applications-of-ai"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Brainstorming with ChatGPT",
-    "date": "Fri, 10 Apr 2026 00:00:00 GMT",
-    "url": "https://openai.com/academy/brainstorming"
   }
 ]
