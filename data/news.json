@@ -1,5 +1,11 @@
 [
   {
+    "source": "OpenAI",
+    "title": "How OpenAI delivers low-latency voice AI at scale",
+    "date": "Mon, 04 May 2026 00:00:00 GMT",
+    "url": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale"
+  },
+  {
     "source": "arXiv",
     "title": "Compositional Meta-Learning for Mitigating Task Heterogeneity in Physics-Informed Neural Networks",
     "date": "Fri, 01 May 2026 00:00:00 -0400",
@@ -1192,11 +1198,5 @@
     "title": "Parameterized Complexity Of Representing Models Of MSO Formulas",
     "date": "Mon, 13 Apr 2026 00:00:00 -0400",
     "url": "https://arxiv.org/abs/2604.08707"
-  },
-  {
-    "source": "arXiv",
-    "title": "Model Space Reasoning as Search in Feedback Space for Planning Domain Generation",
-    "date": "Mon, 13 Apr 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2604.08712"
   }
 ]
