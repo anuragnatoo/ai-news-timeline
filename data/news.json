@@ -1,6 +1,90 @@
 [
   {
     "source": "OpenAI",
+    "title": "GPT-5.5 Instant System Card",
+    "date": "Tue, 05 May 2026 10:00:00 GMT",
+    "url": "https://openai.com/index/gpt-5-5-instant-system-card"
+  },
+  {
+    "source": "OpenAI",
+    "title": "GPT-5.5 Instant: smarter, clearer, and more personalized",
+    "date": "Tue, 05 May 2026 10:00:00 GMT",
+    "url": "https://openai.com/index/gpt-5-5-instant"
+  },
+  {
+    "source": "arXiv",
+    "title": "TADI: Tool-Augmented Drilling Intelligence via Agentic LLM Orchestration over Heterogeneous Wellsite Data",
+    "date": "Tue, 05 May 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.00060"
+  },
+  {
+    "source": "arXiv",
+    "title": "AgentReputation: A Decentralized Agentic AI Reputation Framework",
+    "date": "Tue, 05 May 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.00073"
+  },
+  {
+    "source": "arXiv",
+    "title": "Minimal, Local, Causal Explanations for Jailbreak Success in Large Language Models",
+    "date": "Tue, 05 May 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.00123"
+  },
+  {
+    "source": "arXiv",
+    "title": "Are Tools All We Need? Unveiling the Tool-Use Tax in LLM Agents",
+    "date": "Tue, 05 May 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.00136"
+  },
+  {
+    "source": "arXiv",
+    "title": "TUR-DPO: Topology- and Uncertainty-Aware Direct Preference Optimization",
+    "date": "Tue, 05 May 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.00224"
+  },
+  {
+    "source": "arXiv",
+    "title": "ARMOR 2025: A Military-Aligned Benchmark for Evaluating Large Language Model Safety Beyond Civilian Contexts",
+    "date": "Tue, 05 May 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.00245"
+  },
+  {
+    "source": "arXiv",
+    "title": "Causal Foundations of Collective Agency",
+    "date": "Tue, 05 May 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.00248"
+  },
+  {
+    "source": "arXiv",
+    "title": "Agentic AI for Trip Planning Optimization Application",
+    "date": "Tue, 05 May 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.00276"
+  },
+  {
+    "source": "arXiv",
+    "title": "Token Arena: A Continuous Benchmark Unifying Energy and Cognition in AI Inference",
+    "date": "Tue, 05 May 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.00300"
+  },
+  {
+    "source": "arXiv",
+    "title": "AgentFloor: How Far Up the tool use Ladder Can Small Open-Weight Models Go?",
+    "date": "Tue, 05 May 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.00334"
+  },
+  {
+    "source": "OpenAI",
+    "title": "New ways to buy ChatGPT ads",
+    "date": "Tue, 05 May 2026 00:00:00 GMT",
+    "url": "https://openai.com/index/new-ways-to-buy-chatgpt-ads"
+  },
+  {
+    "source": "OpenAI",
+    "title": "OpenAI and PwC collaborate to reimagine the office of the CFO",
+    "date": "Mon, 04 May 2026 21:00:00 GMT",
+    "url": "https://openai.com/index/openai-pwc-finance-collaboration"
+  },
+  {
+    "source": "OpenAI",
     "title": "How OpenAI delivers low-latency voice AI at scale",
     "date": "Mon, 04 May 2026 00:00:00 GMT",
     "url": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale"
@@ -1114,89 +1198,5 @@
     "title": "Seven simple steps for log analysis in AI systems",
     "date": "Tue, 14 Apr 2026 00:00:00 -0400",
     "url": "https://arxiv.org/abs/2604.09563"
-  },
-  {
-    "source": "arXiv",
-    "title": "Turing Test on Screen: A Benchmark for Mobile GUI Agent Humanization",
-    "date": "Tue, 14 Apr 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2604.09574"
-  },
-  {
-    "source": "arXiv",
-    "title": "AHC: Meta-Learned Adaptive Compression for Continual Object Detection on Memory-Constrained Microcontrollers",
-    "date": "Tue, 14 Apr 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2604.09576"
-  },
-  {
-    "source": "arXiv",
-    "title": "Explainable Planning for Hybrid Systems",
-    "date": "Tue, 14 Apr 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2604.09578"
-  },
-  {
-    "source": "arXiv",
-    "title": "Help Without Being Asked: A Deployed Proactive Agent System for On-Call Support with Continuous Self-Improvement",
-    "date": "Tue, 14 Apr 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2604.09579"
-  },
-  {
-    "source": "arXiv",
-    "title": "OOWM: Structuring Embodied Reasoning and Planning via Object-Oriented Programmatic World Modeling",
-    "date": "Tue, 14 Apr 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2604.09580"
-  },
-  {
-    "source": "arXiv",
-    "title": "OpeFlo: Automated UX Evaluation via Simulated Human Web Interaction with GUI Grounding",
-    "date": "Tue, 14 Apr 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2604.09581"
-  },
-  {
-    "source": "arXiv",
-    "title": "Factorizing formal contexts from closures of necessity operators",
-    "date": "Tue, 14 Apr 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2604.09582"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Trusted access for the next era of cyber defense",
-    "date": "Tue, 14 Apr 2026 00:00:00 GMT",
-    "url": "https://openai.com/index/scaling-trusted-access-for-cyber-defense"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Enterprises power agentic workflows in Cloudflare Agent Cloud with OpenAI",
-    "date": "Mon, 13 Apr 2026 06:00:00 GMT",
-    "url": "https://openai.com/index/cloudflare-openai-agent-cloud"
-  },
-  {
-    "source": "arXiv",
-    "title": "OpenKedge: Governing Agentic Mutation with Execution-Bound Safety and Evidence Chains",
-    "date": "Mon, 13 Apr 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2604.08601"
-  },
-  {
-    "source": "arXiv",
-    "title": "From Business Events to Auditable Decisions: Ontology-Governed Graph Simulation for Enterprise AI",
-    "date": "Mon, 13 Apr 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2604.08603"
-  },
-  {
-    "source": "arXiv",
-    "title": "Sustained Impact of Agentic Personalisation in Marketing: A Longitudinal Case Study",
-    "date": "Mon, 13 Apr 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2604.08621"
-  },
-  {
-    "source": "arXiv",
-    "title": "RAMP: Hybrid DRL for Online Learning of Numeric Action Models",
-    "date": "Mon, 13 Apr 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2604.08685"
-  },
-  {
-    "source": "arXiv",
-    "title": "Parameterized Complexity Of Representing Models Of MSO Formulas",
-    "date": "Mon, 13 Apr 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2604.08707"
   }
 ]
