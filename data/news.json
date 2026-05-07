@@ -1,5 +1,101 @@
 [
   {
+    "source": "HuggingFace",
+    "title": "vLLM V0 to V1: Correctness Before Corrections in RL",
+    "date": "Wed, 06 May 2026 19:06:55 GMT",
+    "url": "https://huggingface.co/blog/ServiceNow-AI/correctness-before-corrections"
+  },
+  {
+    "source": "arXiv",
+    "title": "2026 Roadmap on Artificial Intelligence and Machine Learning for Smart Manufacturing",
+    "date": "Wed, 06 May 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.00839"
+  },
+  {
+    "source": "arXiv",
+    "title": "AI Agents for Sustainable SMEs: A Green ESG Assessment Framework",
+    "date": "Wed, 06 May 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.00841"
+  },
+  {
+    "source": "arXiv",
+    "title": "Understanding Emergent Misalignment via Feature Superposition Geometry",
+    "date": "Wed, 06 May 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.00842"
+  },
+  {
+    "source": "arXiv",
+    "title": "ClinicBot: A Guideline-Grounded Clinical Chatbot with Prioritized Evidence RAG and Verifiable Citations",
+    "date": "Wed, 06 May 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.00846"
+  },
+  {
+    "source": "arXiv",
+    "title": "Accelerating battery research with an AI interface between FINALES and Kadi4Mat",
+    "date": "Wed, 06 May 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.00909"
+  },
+  {
+    "source": "arXiv",
+    "title": "Effect-Transparent Governance for AI Workflow Architectures: Semantic Preservation, Expressive Minimality, and Decidability Boundaries",
+    "date": "Wed, 06 May 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.01030"
+  },
+  {
+    "source": "arXiv",
+    "title": "Algebraic Semantics of Governed Execution: Monoidal Categories, Effect Algebras, and Coterminous Boundaries",
+    "date": "Wed, 06 May 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.01032"
+  },
+  {
+    "source": "arXiv",
+    "title": "A Knowledge-Driven LLM-Based Decision-Support System for Explainable Defect Analysis and Mitigation Guidance in Laser Powder Bed Fusion",
+    "date": "Wed, 06 May 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.01100"
+  },
+  {
+    "source": "arXiv",
+    "title": "Virtual Speech Therapist: A Clinician-in-the-Loop AI Speech Therapy Agent for Personalized and Supervised Therapy",
+    "date": "Wed, 06 May 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.01101"
+  },
+  {
+    "source": "arXiv",
+    "title": "Towards Multi-Agent Autonomous Reasoning in Hydrodynamics",
+    "date": "Wed, 06 May 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.01102"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Introducing ChatGPT Futures: Class of 2026",
+    "date": "Wed, 06 May 2026 00:00:00 GMT",
+    "url": "https://openai.com/index/introducing-chatgpt-futures-class-of-2026"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Singular Bank helps bankers move fast with ChatGPT and Codex",
+    "date": "Wed, 06 May 2026 00:00:00 GMT",
+    "url": "https://openai.com/index/singular-bank"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Uber uses OpenAI to help people earn smarter and book faster",
+    "date": "Wed, 06 May 2026 00:00:00 GMT",
+    "url": "https://openai.com/index/uber"
+  },
+  {
+    "source": "OpenAI",
+    "title": "How frontier enterprises are building an AI advantage",
+    "date": "Wed, 06 May 2026 00:00:00 GMT",
+    "url": "https://openai.com/index/introducing-b2b-signals"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "Adding Benchmaxxer Repellant to the Open ASR Leaderboard",
+    "date": "Wed, 06 May 2026 00:00:00 GMT",
+    "url": "https://huggingface.co/blog/open-asr-leaderboard-private-data"
+  },
+  {
     "source": "OpenAI",
     "title": "GPT-5.5 Instant System Card",
     "date": "Tue, 05 May 2026 10:00:00 GMT",
@@ -10,6 +106,12 @@
     "title": "GPT-5.5 Instant: smarter, clearer, and more personalized",
     "date": "Tue, 05 May 2026 10:00:00 GMT",
     "url": "https://openai.com/index/gpt-5-5-instant"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Unlocking large scale AI training networks with MRC (Multipath Reliable Connection)",
+    "date": "Tue, 05 May 2026 10:00:00 GMT",
+    "url": "https://openai.com/index/mrc-supercomputer-networking"
   },
   {
     "source": "arXiv",
@@ -1096,107 +1198,5 @@
     "title": "Training and Finetuning Multimodal Embedding & Reranker Models with Sentence Transformers",
     "date": "Thu, 16 Apr 2026 00:00:00 GMT",
     "url": "https://huggingface.co/blog/train-multimodal-sentence-transformers"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "Ecom-RLVE: Adaptive Verifiable Environments for E-Commerce Conversational Agents",
-    "date": "Thu, 16 Apr 2026 00:00:00 GMT",
-    "url": "https://huggingface.co/blog/ecom-rlve"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "Inside VAKRA: Reasoning, Tool Use, and Failure Modes of Agents",
-    "date": "Wed, 15 Apr 2026 12:07:25 GMT",
-    "url": "https://huggingface.co/blog/ibm-research/vakra-benchmark-analysis"
-  },
-  {
-    "source": "OpenAI",
-    "title": "The next evolution of the Agents SDK",
-    "date": "Wed, 15 Apr 2026 10:00:00 GMT",
-    "url": "https://openai.com/index/the-next-evolution-of-the-agents-sdk"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "Meet HoloTab by HCompany. Your AI browser companion. ",
-    "date": "Wed, 15 Apr 2026 09:25:20 GMT",
-    "url": "https://huggingface.co/blog/Hcompany/holotab"
-  },
-  {
-    "source": "arXiv",
-    "title": "The Non-Optimality of Scientific Knowledge: Path Dependence, Lock-In, and The Local Minimum Trap",
-    "date": "Wed, 15 Apr 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2604.11828"
-  },
-  {
-    "source": "arXiv",
-    "title": "Self-Monitoring Benefits from Structural Integration: Lessons from Metacognition in Continuous-Time Multi-Timescale Agents",
-    "date": "Wed, 15 Apr 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2604.11914"
-  },
-  {
-    "source": "arXiv",
-    "title": "GoodPoint: Learning Constructive Scientific Paper Feedback from Author Responses",
-    "date": "Wed, 15 Apr 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2604.11924"
-  },
-  {
-    "source": "arXiv",
-    "title": "Narrative-Driven Paper-to-Slide Generation via ArcDeck",
-    "date": "Wed, 15 Apr 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2604.11969"
-  },
-  {
-    "source": "arXiv",
-    "title": "The Long-Horizon Task Mirage? Diagnosing Where and Why Agentic Systems Break",
-    "date": "Wed, 15 Apr 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2604.11978"
-  },
-  {
-    "source": "arXiv",
-    "title": "When to Forget: A Memory Governance Primitive",
-    "date": "Wed, 15 Apr 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2604.12007"
-  },
-  {
-    "source": "arXiv",
-    "title": "Identity as Attractor: Geometric Evidence for Persistent Agent Architecture in LLM Activation Space",
-    "date": "Wed, 15 Apr 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2604.12016"
-  },
-  {
-    "source": "arXiv",
-    "title": "A longitudinal health agent framework",
-    "date": "Wed, 15 Apr 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2604.12019"
-  },
-  {
-    "source": "arXiv",
-    "title": "WiseOWL: A Methodology for Evaluating Ontological Descriptiveness and Semantic Correctness for Ontology Reuse and Ontology Recommendations",
-    "date": "Wed, 15 Apr 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2604.12025"
-  },
-  {
-    "source": "arXiv",
-    "title": "Memory as Metabolism: A Design for Companion Knowledge Systems",
-    "date": "Wed, 15 Apr 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2604.12034"
-  },
-  {
-    "source": "arXiv",
-    "title": "LABBench2: An Improved Benchmark for AI Systems Performing Biology Research",
-    "date": "Tue, 14 Apr 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2604.09554"
-  },
-  {
-    "source": "arXiv",
-    "title": "Linear Programming for Multi-Criteria Assessment with Cardinal and Ordinal Data: A Pessimistic Virtual Gap Analysis",
-    "date": "Tue, 14 Apr 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2604.09555"
-  },
-  {
-    "source": "arXiv",
-    "title": "Seven simple steps for log analysis in AI systems",
-    "date": "Tue, 14 Apr 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2604.09563"
   }
 ]
