@@ -1,5 +1,101 @@
 [
   {
+    "source": "OpenAI",
+    "title": "Scaling Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber",
+    "date": "Thu, 07 May 2026 13:00:00 GMT",
+    "url": "https://openai.com/index/gpt-5-5-with-trusted-access-for-cyber"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Parloa builds service agents customers want to talk to",
+    "date": "Thu, 07 May 2026 11:00:00 GMT",
+    "url": "https://openai.com/index/parloa"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Advancing voice intelligence with new models in the API",
+    "date": "Thu, 07 May 2026 10:00:00 GMT",
+    "url": "https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api"
+  },
+  {
+    "source": "arXiv",
+    "title": "CreativityBench: Evaluating Agent Creative Reasoning via Affordance-Based Tool Repurposing",
+    "date": "Thu, 07 May 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.02910"
+  },
+  {
+    "source": "arXiv",
+    "title": "Stable Agentic Control: Tool-Mediated LLM Architecture for Autonomous Cyber Defense",
+    "date": "Thu, 07 May 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.03034"
+  },
+  {
+    "source": "arXiv",
+    "title": "Computing Thiele Rules on Interval Elections and their Generalizations",
+    "date": "Thu, 07 May 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.03067"
+  },
+  {
+    "source": "arXiv",
+    "title": "Making the Invisible Visible: Understanding the Mismatch Between Organizational Goals and Worker Experiences in AI Adoption",
+    "date": "Thu, 07 May 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.03078"
+  },
+  {
+    "source": "arXiv",
+    "title": "Programmatic Context Augmentation for LLM-based Symbolic Regression",
+    "date": "Thu, 07 May 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.03101"
+  },
+  {
+    "source": "arXiv",
+    "title": "Are you with me? A Framework for Detecting Mental Model Discrepancies in Task-Based Team Dialogues",
+    "date": "Thu, 07 May 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.03149"
+  },
+  {
+    "source": "arXiv",
+    "title": "Learning Correct Behavior from Examples: Validating Sequential Execution in Autonomous Agents",
+    "date": "Thu, 07 May 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.03159"
+  },
+  {
+    "source": "arXiv",
+    "title": "Terminus-4B: Can a Smaller Model Replace Frontier LLMs at Agentic Execution Tasks?",
+    "date": "Thu, 07 May 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.03195"
+  },
+  {
+    "source": "arXiv",
+    "title": "Stop Automating Peer Review Without Rigorous Evaluation",
+    "date": "Thu, 07 May 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.03202"
+  },
+  {
+    "source": "arXiv",
+    "title": "ADAPTS: Agentic Decomposition for Automated Protocol-agnostic Tracking of Symptoms",
+    "date": "Thu, 07 May 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.03212"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Introducing Trusted Contact in ChatGPT",
+    "date": "Thu, 07 May 2026 00:00:00 GMT",
+    "url": "https://openai.com/index/introducing-trusted-contact-in-chatgpt"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Testing ads in ChatGPT",
+    "date": "Thu, 07 May 2026 00:00:00 GMT",
+    "url": "https://openai.com/index/testing-ads-in-chatgpt"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Simplex rethinks software development with Codex",
+    "date": "Thu, 07 May 2026 00:00:00 GMT",
+    "url": "https://openai.com/index/simplex"
+  },
+  {
     "source": "HuggingFace",
     "title": "vLLM V0 to V1: Correctness Before Corrections in RL",
     "date": "Wed, 06 May 2026 19:06:55 GMT",
@@ -1102,101 +1198,5 @@
     "title": "Towards Scalable Lightweight GUI Agents via Multi-role Orchestration",
     "date": "Fri, 17 Apr 2026 00:00:00 -0400",
     "url": "https://arxiv.org/abs/2604.13488"
-  },
-  {
-    "source": "arXiv",
-    "title": "RiskWebWorld: A Realistic Interactive Benchmark for GUI Agents in E-commerce Risk Management",
-    "date": "Fri, 17 Apr 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2604.13531"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Codex for (almost) everything",
-    "date": "Thu, 16 Apr 2026 10:00:00 GMT",
-    "url": "https://openai.com/index/codex-for-almost-everything"
-  },
-  {
-    "source": "arXiv",
-    "title": "Mathematics Teachers Interactions with a Multi-Agent System for Personalized Problem Generation",
-    "date": "Thu, 16 Apr 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2604.12066"
-  },
-  {
-    "source": "arXiv",
-    "title": "Human-Inspired Context-Selective Multimodal Memory for Social Robots",
-    "date": "Thu, 16 Apr 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2604.12081"
-  },
-  {
-    "source": "arXiv",
-    "title": "LLM-HYPER: Generative CTR Modeling for Cold-Start Ad Personalization via LLM-Based Hypernetworks",
-    "date": "Thu, 16 Apr 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2604.12096"
-  },
-  {
-    "source": "arXiv",
-    "title": "Spatial Atlas: Compute-Grounded Reasoning for Spatial-Aware Research Agent Benchmarks",
-    "date": "Thu, 16 Apr 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2604.12102"
-  },
-  {
-    "source": "arXiv",
-    "title": "The A-R Behavioral Space: Execution-Level Profiling of Tool-Using Language Model Agents in Organizational Deployment",
-    "date": "Thu, 16 Apr 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2604.12116"
-  },
-  {
-    "source": "arXiv",
-    "title": "Long-Horizon Plan Execution in Large Tool Spaces through Entropy-Guided Branching",
-    "date": "Thu, 16 Apr 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2604.12126"
-  },
-  {
-    "source": "arXiv",
-    "title": "Aethon: A Reference-Based Replication Primitive for Constant-Time Instantiation of Stateful AI Agents",
-    "date": "Thu, 16 Apr 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2604.12129"
-  },
-  {
-    "source": "arXiv",
-    "title": "Towards Platonic Representation for Table Reasoning: A Foundation for Permutation-Invariant Retrieval",
-    "date": "Thu, 16 Apr 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2604.12133"
-  },
-  {
-    "source": "arXiv",
-    "title": "Beyond Factual Grounding: The Case for Opinion-Aware Retrieval-Augmented Generation",
-    "date": "Thu, 16 Apr 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2604.12138"
-  },
-  {
-    "source": "arXiv",
-    "title": "Development, Evaluation, and Deployment of a Multi-Agent System for Thoracic Tumor Board",
-    "date": "Thu, 16 Apr 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2604.12161"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Introducing GPT-Rosalind for life sciences research",
-    "date": "Thu, 16 Apr 2026 01:00:00 GMT",
-    "url": "https://openai.com/index/introducing-gpt-rosalind"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Accelerating the cyber defense ecosystem that protects us all",
-    "date": "Thu, 16 Apr 2026 00:00:00 GMT",
-    "url": "https://openai.com/index/accelerating-cyber-defense-ecosystem"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "The PR you would have opened yourself",
-    "date": "Thu, 16 Apr 2026 00:00:00 GMT",
-    "url": "https://huggingface.co/blog/transformers-to-mlx"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "Training and Finetuning Multimodal Embedding & Reranker Models with Sentence Transformers",
-    "date": "Thu, 16 Apr 2026 00:00:00 GMT",
-    "url": "https://huggingface.co/blog/train-multimodal-sentence-transformers"
   }
 ]
