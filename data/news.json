@@ -1,5 +1,83 @@
 [
   {
+    "source": "HuggingFace",
+    "title": "CyberSecQwen-4B: Why Defensive Cyber Needs Small, Specialized, Locally-Runnable Models",
+    "date": "Fri, 08 May 2026 17:41:05 GMT",
+    "url": "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/cybersecqwen-4b"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "EMO: Pretraining mixture of experts for emergent modularity",
+    "date": "Fri, 08 May 2026 16:03:50 GMT",
+    "url": "https://huggingface.co/blog/allenai/emo"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Running Codex safely at OpenAI",
+    "date": "Fri, 08 May 2026 12:30:00 GMT",
+    "url": "https://openai.com/index/running-codex-safely"
+  },
+  {
+    "source": "arXiv",
+    "title": "Understanding Annotator Safety Policy with Interpretability",
+    "date": "Fri, 08 May 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.05329"
+  },
+  {
+    "source": "arXiv",
+    "title": "ZAYA1-8B Technical Report",
+    "date": "Fri, 08 May 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.05365"
+  },
+  {
+    "source": "arXiv",
+    "title": "Partial Evidence Bench: Benchmarking Authorization-Limited Evidence in Agentic Systems",
+    "date": "Fri, 08 May 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.05379"
+  },
+  {
+    "source": "arXiv",
+    "title": "BALAR : A Bayesian Agentic Loop for Active Reasoning",
+    "date": "Fri, 08 May 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.05386"
+  },
+  {
+    "source": "arXiv",
+    "title": "Intelligent CCTV for Urban Design: AI-Based Analysis of Soft Infrastructure at Intersections",
+    "date": "Fri, 08 May 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.05402"
+  },
+  {
+    "source": "arXiv",
+    "title": "When Helpfulness Becomes Sycophancy: Sycophancy is a Boundary Failure Between Social Alignment and Epistemic Integrity in Large Language Models",
+    "date": "Fri, 08 May 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.05403"
+  },
+  {
+    "source": "arXiv",
+    "title": "PRISM: Perception Reasoning Interleaved for Sequential Decision Making",
+    "date": "Fri, 08 May 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.05407"
+  },
+  {
+    "source": "arXiv",
+    "title": "Agentic Retrieval-Augmented Generation for Financial Document Question Answering",
+    "date": "Fri, 08 May 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.05409"
+  },
+  {
+    "source": "arXiv",
+    "title": "LaTA: A Drop-in, FERPA-Compliant Local-LLM Autograder for Upper-Division STEM Coursework",
+    "date": "Fri, 08 May 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.05410"
+  },
+  {
+    "source": "arXiv",
+    "title": "From History to State: Constant-Context Skill Learning for LLM Agents",
+    "date": "Fri, 08 May 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.05413"
+  },
+  {
     "source": "OpenAI",
     "title": "Scaling Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber",
     "date": "Thu, 07 May 2026 13:00:00 GMT",
@@ -100,6 +178,12 @@
     "title": "vLLM V0 to V1: Correctness Before Corrections in RL",
     "date": "Wed, 06 May 2026 19:06:55 GMT",
     "url": "https://huggingface.co/blog/ServiceNow-AI/correctness-before-corrections"
+  },
+  {
+    "source": "OpenAI",
+    "title": "How ChatGPT learns about the world while protecting privacy ",
+    "date": "Wed, 06 May 2026 08:00:00 GMT",
+    "url": "https://openai.com/index/how-chatgpt-protects-privacy"
   },
   {
     "source": "arXiv",
@@ -274,6 +358,12 @@
     "title": "New ways to buy ChatGPT ads",
     "date": "Tue, 05 May 2026 00:00:00 GMT",
     "url": "https://openai.com/index/new-ways-to-buy-chatgpt-ads"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Advancing youth safety and wellbeing in EMEA",
+    "date": "Tue, 05 May 2026 00:00:00 GMT",
+    "url": "https://openai.com/index/advancing-youth-safety-in-emea"
   },
   {
     "source": "OpenAI",
@@ -1108,95 +1198,5 @@
     "title": "Subliminal Transfer of Unsafe Behaviors in AI Agent Distillation",
     "date": "Mon, 20 Apr 2026 00:00:00 -0400",
     "url": "https://arxiv.org/abs/2604.15559"
-  },
-  {
-    "source": "arXiv",
-    "title": "Bilevel Optimization of Agent Skills via Monte Carlo Tree Search",
-    "date": "Mon, 20 Apr 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2604.15709"
-  },
-  {
-    "source": "arXiv",
-    "title": "The World Leaks the Future: Harness Evolution for Future Prediction Agents",
-    "date": "Mon, 20 Apr 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2604.15719"
-  },
-  {
-    "source": "arXiv",
-    "title": "LLM Reasoning Is Latent, Not the Chain of Thought",
-    "date": "Mon, 20 Apr 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2604.15726"
-  },
-  {
-    "source": "arXiv",
-    "title": "Structured Abductive-Deductive-Inductive Reasoning for LLMs via Algebraic Invariants",
-    "date": "Mon, 20 Apr 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2604.15727"
-  },
-  {
-    "source": "OpenAI",
-    "title": "OpenAI helps Hyatt advance AI among colleagues ",
-    "date": "Mon, 20 Apr 2026 00:00:00 GMT",
-    "url": "https://openai.com/index/hyatt-advances-ai-with-chatgpt-enterprise"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "Building a Fast Multilingual OCR Model with Synthetic Data",
-    "date": "Fri, 17 Apr 2026 16:17:55 GMT",
-    "url": "https://huggingface.co/blog/nvidia/nemotron-ocr-v2"
-  },
-  {
-    "source": "arXiv",
-    "title": "Exploration and Exploitation Errors Are Measurable for Language Model Agents",
-    "date": "Fri, 17 Apr 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2604.13151"
-  },
-  {
-    "source": "arXiv",
-    "title": "SciFi: A Safe, Lightweight, User-Friendly, and Fully Autonomous Agentic AI Workflow for Scientific Applications",
-    "date": "Fri, 17 Apr 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2604.13180"
-  },
-  {
-    "source": "arXiv",
-    "title": "Numerical Instability and Chaos: Quantifying the Unpredictability of Large Language Models",
-    "date": "Fri, 17 Apr 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2604.13206"
-  },
-  {
-    "source": "arXiv",
-    "title": "Optimizing Earth Observation Satellite Schedules under Unknown Operational Constraints: An Active Constraint Acquisition Approach",
-    "date": "Fri, 17 Apr 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2604.13283"
-  },
-  {
-    "source": "arXiv",
-    "title": "WebXSkill: Skill Learning for Autonomous Web Agents",
-    "date": "Fri, 17 Apr 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2604.13318"
-  },
-  {
-    "source": "arXiv",
-    "title": "Listening Alone, Understanding Together: Collaborative Context Recovery for Privacy-Aware AI",
-    "date": "Fri, 17 Apr 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2604.13348"
-  },
-  {
-    "source": "arXiv",
-    "title": "ReSS: Learning Reasoning Models for Tabular Data Prediction via Symbolic Scaffold",
-    "date": "Fri, 17 Apr 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2604.13392"
-  },
-  {
-    "source": "arXiv",
-    "title": "Quantifying and Understanding Uncertainty in Large Reasoning Models",
-    "date": "Fri, 17 Apr 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2604.13395"
-  },
-  {
-    "source": "arXiv",
-    "title": "Towards Scalable Lightweight GUI Agents via Multi-role Orchestration",
-    "date": "Fri, 17 Apr 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2604.13488"
   }
 ]
