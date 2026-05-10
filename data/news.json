@@ -1,6 +1,12 @@
 [
   {
     "source": "HuggingFace",
+    "title": "\"OncoAgent: A Dual-Tier Multi-Agent Framework for Privacy-Preserving Oncology Clinical Decision Support\"",
+    "date": "Sat, 09 May 2026 18:09:28 GMT",
+    "url": "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/oncoagent-official-paper"
+  },
+  {
+    "source": "HuggingFace",
     "title": "CyberSecQwen-4B: Why Defensive Cyber Needs Small, Specialized, Locally-Runnable Models",
     "date": "Fri, 08 May 2026 17:41:05 GMT",
     "url": "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/cybersecqwen-4b"
@@ -1192,11 +1198,5 @@
     "title": "Preregistered Belief Revision Contracts",
     "date": "Mon, 20 Apr 2026 00:00:00 -0400",
     "url": "https://arxiv.org/abs/2604.15558"
-  },
-  {
-    "source": "arXiv",
-    "title": "Subliminal Transfer of Unsafe Behaviors in AI Agent Distillation",
-    "date": "Mon, 20 Apr 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2604.15559"
   }
 ]
