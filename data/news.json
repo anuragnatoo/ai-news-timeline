@@ -1,6 +1,96 @@
 [
   {
     "source": "HuggingFace",
+    "title": "Building Blocks for Foundation Model Training and Inference on AWS",
+    "date": "Mon, 11 May 2026 23:18:26 GMT",
+    "url": "https://huggingface.co/blog/amazon/foundation-model-building-blocks"
+  },
+  {
+    "source": "OpenAI",
+    "title": "How ChatGPT adoption broadened in early 2026",
+    "date": "Mon, 11 May 2026 15:00:00 GMT",
+    "url": "https://openai.com/signals/research/2026q1-update"
+  },
+  {
+    "source": "OpenAI",
+    "title": "How enterprises are scaling AI",
+    "date": "Mon, 11 May 2026 10:00:00 GMT",
+    "url": "https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai"
+  },
+  {
+    "source": "OpenAI",
+    "title": "OpenAI Campus Network: Student club interest form",
+    "date": "Mon, 11 May 2026 10:00:00 GMT",
+    "url": "https://openai.com/index/openai-campus-network-student-club-interest-form"
+  },
+  {
+    "source": "OpenAI",
+    "title": "OpenAI launches DeployCo to help businesses build around intelligence",
+    "date": "Mon, 11 May 2026 06:00:00 GMT",
+    "url": "https://openai.com/index/openai-launches-the-deployment-company"
+  },
+  {
+    "source": "arXiv",
+    "title": "GraphDC: A Divide-and-Conquer Multi-Agent System for Scalable Graph Algorithm Reasoning",
+    "date": "Mon, 11 May 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.06671"
+  },
+  {
+    "source": "arXiv",
+    "title": "More Thinking, More Bias: Length-Driven Position Bias in Reasoning Models",
+    "date": "Mon, 11 May 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.06672"
+  },
+  {
+    "source": "arXiv",
+    "title": "Fast and Effective Redistricting Optimization via Composite-Move Tabu Search",
+    "date": "Mon, 11 May 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.06682"
+  },
+  {
+    "source": "arXiv",
+    "title": "State Representation and Termination for Recursive Reasoning Systems",
+    "date": "Mon, 11 May 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.06690"
+  },
+  {
+    "source": "arXiv",
+    "title": "Hidden Coalitions in Multi-Agent AI: A Spectral Diagnostic from Internal Representations",
+    "date": "Mon, 11 May 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.06696"
+  },
+  {
+    "source": "arXiv",
+    "title": "CASCADE: Case-Based Continual Adaptation for Large Language Models During Deployment",
+    "date": "Mon, 11 May 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.06702"
+  },
+  {
+    "source": "arXiv",
+    "title": "From Storage to Experience: A Survey on the Evolution of LLM Agent Memory Mechanisms",
+    "date": "Mon, 11 May 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.06716"
+  },
+  {
+    "source": "arXiv",
+    "title": "When Does a Language Model Commit? A Finite-Answer Theory of Pre-Verbalization Commitment",
+    "date": "Mon, 11 May 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.06723"
+  },
+  {
+    "source": "arXiv",
+    "title": "Weblica: Scalable and Reproducible Training Environments for Visual Web Agents",
+    "date": "Mon, 11 May 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.06761"
+  },
+  {
+    "source": "arXiv",
+    "title": "When Does Critique Improve AI-Assisted Theoretical Physics? SCALAR: Structured Critic--Actor Loop for Agentic Reasoning",
+    "date": "Mon, 11 May 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.06772"
+  },
+  {
+    "source": "HuggingFace",
     "title": "MachinaCheck: Building a Multi-Agent CNC Manufacturability System on AMD MI300X",
     "date": "Sun, 10 May 2026 18:44:11 GMT",
     "url": "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/machinacheck"
@@ -1108,95 +1198,5 @@
     "title": "Stein Variational Black-Box Combinatorial Optimization",
     "date": "Tue, 21 Apr 2026 00:00:00 -0400",
     "url": "https://arxiv.org/abs/2604.15837"
-  },
-  {
-    "source": "arXiv",
-    "title": "Discover and Prove: An Open-source Agentic Framework for Hard Mode Automated Theorem Proving in Lean 4",
-    "date": "Tue, 21 Apr 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2604.15839"
-  },
-  {
-    "source": "arXiv",
-    "title": "Experience Compression Spectrum: Unifying Memory, Skills, and Rules in LLM Agents",
-    "date": "Tue, 21 Apr 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2604.15877"
-  },
-  {
-    "source": "arXiv",
-    "title": "Towards Rigorous Explainability by Feature Attribution",
-    "date": "Tue, 21 Apr 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2604.15898"
-  },
-  {
-    "source": "arXiv",
-    "title": "Integrating Graphs, Large Language Models, and Agents: Reasoning and Retrieval",
-    "date": "Tue, 21 Apr 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2604.15951"
-  },
-  {
-    "source": "arXiv",
-    "title": "Weak-Link Optimization for Multi-Agent Reasoning and Collaboration",
-    "date": "Tue, 21 Apr 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2604.15972"
-  },
-  {
-    "source": "arXiv",
-    "title": "ReactBench: A Benchmark for Topological Reasoning in MLLMs on Chemical Reaction Diagrams",
-    "date": "Tue, 21 Apr 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2604.15994"
-  },
-  {
-    "source": "arXiv",
-    "title": "MEDLEY-BENCH: Scale Buys Evaluation but Not Control in AI Metacognition",
-    "date": "Tue, 21 Apr 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2604.16009"
-  },
-  {
-    "source": "arXiv",
-    "title": "SocialGrid: A Benchmark for Planning and Social Reasoning in Embodied Multi-Agent Systems",
-    "date": "Tue, 21 Apr 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2604.16022"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "How to Ground a Korean AI Agent in Real Demographics with Synthetic Personas",
-    "date": "Tue, 21 Apr 2026 00:40:10 GMT",
-    "url": "https://huggingface.co/blog/nvidia/build-korean-agents-with-nemotron-personas"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Scaling Codex to enterprises worldwide",
-    "date": "Tue, 21 Apr 2026 00:00:00 GMT",
-    "url": "https://openai.com/index/scaling-codex-to-enterprises-worldwide"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "AI and the Future of Cybersecurity: Why Openness Matters",
-    "date": "Tue, 21 Apr 2026 00:00:00 GMT",
-    "url": "https://huggingface.co/blog/cybersecurity-openness"
-  },
-  {
-    "source": "arXiv",
-    "title": "DeepER-Med: Advancing Deep Evidence-Based Research in Medicine Through Agentic AI",
-    "date": "Mon, 20 Apr 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2604.15456"
-  },
-  {
-    "source": "arXiv",
-    "title": "GIST: Multimodal Knowledge Extraction and Spatial Grounding via Intelligent Semantic Topology",
-    "date": "Mon, 20 Apr 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2604.15495"
-  },
-  {
-    "source": "arXiv",
-    "title": "Bureaucratic Silences: What the Canadian AI Register Reveals, Omits, and Obscures",
-    "date": "Mon, 20 Apr 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2604.15514"
-  },
-  {
-    "source": "arXiv",
-    "title": "LACE: Lattice Attention for Cross-thread Exploration",
-    "date": "Mon, 20 Apr 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2604.15529"
   }
 ]
