@@ -1,5 +1,89 @@
 [
   {
+    "source": "OpenAI",
+    "title": "How finance teams use Codex",
+    "date": "Tue, 12 May 2026 15:00:00 GMT",
+    "url": "https://openai.com/academy/how-finance-teams-use-codex"
+  },
+  {
+    "source": "arXiv",
+    "title": "Where Reliability Lives in Vision-Language Models: A Mechanistic Study of Attention, Hidden States, and Causal Circuits",
+    "date": "Tue, 12 May 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.08200"
+  },
+  {
+    "source": "arXiv",
+    "title": "Spatial Priming Outperforms Semantic Prompting: A Grid-Based Approach to Improving LLM Accuracy on Chart Data Extraction",
+    "date": "Tue, 12 May 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.08220"
+  },
+  {
+    "source": "arXiv",
+    "title": "Auto-Rubric as Reward: From Implicit Preferences to Explicit Multimodal Generative Criteria",
+    "date": "Tue, 12 May 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.08354"
+  },
+  {
+    "source": "arXiv",
+    "title": "Embeddings for Preferences, Not Semantics",
+    "date": "Tue, 12 May 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.08360"
+  },
+  {
+    "source": "arXiv",
+    "title": "On Distinguishing Capability Elicitation from Capability Creation in Post-Training: A Free-Energy Perspective",
+    "date": "Tue, 12 May 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.08368"
+  },
+  {
+    "source": "arXiv",
+    "title": "MemQ: Integrating Q-Learning into Self-Evolving Memory Agents over Provenance DAGs",
+    "date": "Tue, 12 May 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.08374"
+  },
+  {
+    "source": "arXiv",
+    "title": "SkillLens: Adaptive Multi-Granularity Skill Reuse for Cost-Efficient LLM Agents",
+    "date": "Tue, 12 May 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.08386"
+  },
+  {
+    "source": "arXiv",
+    "title": "PLACO: A Multi-Stage Framework for Cost-Effective Performance in Human-AI Teams",
+    "date": "Tue, 12 May 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.08388"
+  },
+  {
+    "source": "arXiv",
+    "title": "CoCoDA: Co-evolving Compositional DAG for Tool-Augmented Agents",
+    "date": "Tue, 12 May 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.08399"
+  },
+  {
+    "source": "arXiv",
+    "title": "Belief or Circuitry? Causal Evidence for In-Context Graph Learning",
+    "date": "Tue, 12 May 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.08405"
+  },
+  {
+    "source": "OpenAI",
+    "title": "How NVIDIA engineers and researchers build with Codex",
+    "date": "Tue, 12 May 2026 00:00:00 GMT",
+    "url": "https://openai.com/index/nvidia"
+  },
+  {
+    "source": "OpenAI",
+    "title": "What Parameter Golf taught us about AI-assisted research",
+    "date": "Tue, 12 May 2026 00:00:00 GMT",
+    "url": "https://openai.com/index/what-parameter-golf-taught-us"
+  },
+  {
+    "source": "OpenAI",
+    "title": "AutoScout24 scales engineering with AI-powered workflows",
+    "date": "Tue, 12 May 2026 00:00:00 GMT",
+    "url": "https://openai.com/index/autoscout24"
+  },
+  {
     "source": "HuggingFace",
     "title": "Building Blocks for Foundation Model Training and Inference on AWS",
     "date": "Mon, 11 May 2026 23:18:26 GMT",
@@ -1114,89 +1198,5 @@
     "title": "On Solving the Multiple Variable Gapped Longest Common Subsequence Problem",
     "date": "Wed, 22 Apr 2026 00:00:00 -0400",
     "url": "https://arxiv.org/abs/2604.18645"
-  },
-  {
-    "source": "arXiv",
-    "title": "Beyond One Output: Visualizing and Comparing Distributions of Language Model Generations",
-    "date": "Wed, 22 Apr 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2604.18724"
-  },
-  {
-    "source": "arXiv",
-    "title": "ARES: Adaptive Red-Teaming and End-to-End Repair of Policy-Reward System",
-    "date": "Wed, 22 Apr 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2604.18789"
-  },
-  {
-    "source": "arXiv",
-    "title": "AI scientists produce results without reasoning scientifically",
-    "date": "Wed, 22 Apr 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2604.18805"
-  },
-  {
-    "source": "arXiv",
-    "title": "Quantum inspired qubit qutrit neural networks for real time financial forecasting",
-    "date": "Wed, 22 Apr 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2604.18838"
-  },
-  {
-    "source": "arXiv",
-    "title": "Human-Guided Harm Recovery for Computer Use Agents",
-    "date": "Wed, 22 Apr 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2604.18847"
-  },
-  {
-    "source": "arXiv",
-    "title": "From Natural Language to Executable Narsese: A Neuro-Symbolic Benchmark and Pipeline for Reasoning with NARS",
-    "date": "Wed, 22 Apr 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2604.18873"
-  },
-  {
-    "source": "arXiv",
-    "title": "How Adversarial Environments Mislead Agentic AI?",
-    "date": "Wed, 22 Apr 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2604.18874"
-  },
-  {
-    "source": "arXiv",
-    "title": "Formally Verified Patent Analysis via Dependent Type Theory: Machine-Checkable Certificates from a Hybrid AI + Lean 4 Pipeline",
-    "date": "Wed, 22 Apr 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2604.18882"
-  },
-  {
-    "source": "arXiv",
-    "title": "Error-free Training for MedMNIST Datasets",
-    "date": "Wed, 22 Apr 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2604.18916"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Introducing OpenAI Privacy Filter",
-    "date": "Wed, 22 Apr 2026 00:00:00 GMT",
-    "url": "https://openai.com/index/introducing-openai-privacy-filter"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Introducing ChatGPT Images 2.0",
-    "date": "Tue, 21 Apr 2026 12:00:00 GMT",
-    "url": "https://openai.com/index/introducing-chatgpt-images-2-0"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "QIMMA قِمّة ⛰: A Quality-First Arabic LLM Leaderboard",
-    "date": "Tue, 21 Apr 2026 10:09:58 GMT",
-    "url": "https://huggingface.co/blog/tiiuae/qimma-arabic-leaderboard"
-  },
-  {
-    "source": "arXiv",
-    "title": "KWBench: Measuring Unprompted Problem Recognition in Knowledge Work",
-    "date": "Tue, 21 Apr 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2604.15760"
-  },
-  {
-    "source": "arXiv",
-    "title": "Stein Variational Black-Box Combinatorial Optimization",
-    "date": "Tue, 21 Apr 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2604.15837"
   }
 ]
