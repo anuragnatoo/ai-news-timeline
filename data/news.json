@@ -1,6 +1,72 @@
 [
   {
     "source": "OpenAI",
+    "title": "Building a safe, effective sandbox to enable Codex on Windows",
+    "date": "Wed, 13 May 2026 11:00:00 GMT",
+    "url": "https://openai.com/index/building-codex-windows-sandbox"
+  },
+  {
+    "source": "arXiv",
+    "title": "Playing games with knowledge: AI-Induced delusions need game theoretic interventions",
+    "date": "Wed, 13 May 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.08409"
+  },
+  {
+    "source": "arXiv",
+    "title": "Political Plasticity: An Analysis of Ideological Adaptability in Large Language Models",
+    "date": "Wed, 13 May 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.08415"
+  },
+  {
+    "source": "arXiv",
+    "title": "Alignment as Jurisprudence",
+    "date": "Wed, 13 May 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.08416"
+  },
+  {
+    "source": "arXiv",
+    "title": "The Attacker in the Mirror: Breaking Self-Consistency in Safety via Anchored Bipolicy Self-Play",
+    "date": "Wed, 13 May 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.08427"
+  },
+  {
+    "source": "arXiv",
+    "title": "Measuring What Matters: Benchmarking Generative, Multimodal, and Agentic AI in Healthcare",
+    "date": "Wed, 13 May 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.08445"
+  },
+  {
+    "source": "arXiv",
+    "title": "LLM-guided Semi-Supervised Approaches for Social Media Crisis Data Classification",
+    "date": "Wed, 13 May 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.08448"
+  },
+  {
+    "source": "arXiv",
+    "title": "Behavioral Determinants of Deployed AI Agents in Social Networks: A Multi-Factor Study of Personality, Model, and Guardrail Specification",
+    "date": "Wed, 13 May 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.08463"
+  },
+  {
+    "source": "arXiv",
+    "title": "Mid-Training with Self-Generated Data Improves Reinforcement Learning in Language Models",
+    "date": "Wed, 13 May 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.08472"
+  },
+  {
+    "source": "arXiv",
+    "title": "AI-Care: A Conversational Agentic System for Task Coordination in Alzheimer's Disease Care",
+    "date": "Wed, 13 May 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.08480"
+  },
+  {
+    "source": "arXiv",
+    "title": "Latent Personality Alignment: Improving Harmlessness Without Mentioning Harms",
+    "date": "Wed, 13 May 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.08496"
+  },
+  {
+    "source": "OpenAI",
     "title": "How finance teams use Codex",
     "date": "Tue, 12 May 2026 15:00:00 GMT",
     "url": "https://openai.com/academy/how-finance-teams-use-codex"
@@ -1132,71 +1198,5 @@
     "title": "Automated Detection of Dosing Errors in Clinical Trial Narratives: A Multi-Modal Feature Engineering Approach with LightGBM",
     "date": "Thu, 23 Apr 2026 00:00:00 -0400",
     "url": "https://arxiv.org/abs/2604.19759"
-  },
-  {
-    "source": "arXiv",
-    "title": "Inference Headroom Ratio: A Diagnostic and Control Framework for Inference Stability Under Constraint",
-    "date": "Thu, 23 Apr 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2604.19760"
-  },
-  {
-    "source": "arXiv",
-    "title": "EvoForest: A Novel Machine-Learning Paradigm via Open-Ended Evolution of Computational Graphs",
-    "date": "Thu, 23 Apr 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2604.19761"
-  },
-  {
-    "source": "arXiv",
-    "title": "From Actions to Understanding: Conformal Interpretability of Temporal Concepts in LLM Agents",
-    "date": "Thu, 23 Apr 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2604.19775"
-  },
-  {
-    "source": "OpenAI",
-    "title": "GPT-5.5 Bio Bug Bounty",
-    "date": "Thu, 23 Apr 2026 00:00:00 GMT",
-    "url": "https://openai.com/index/gpt-5-5-bio-bug-bounty"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "How to Use Transformers.js in a Chrome Extension",
-    "date": "Thu, 23 Apr 2026 00:00:00 GMT",
-    "url": "https://huggingface.co/blog/transformersjs-chrome-extension"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "Gemma 4 VLA Demo on Jetson Orin Nano Super",
-    "date": "Wed, 22 Apr 2026 15:40:50 GMT",
-    "url": "https://huggingface.co/blog/nvidia/gemma4"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Making ChatGPT better for clinicians",
-    "date": "Wed, 22 Apr 2026 15:00:00 GMT",
-    "url": "https://openai.com/index/making-chatgpt-better-for-clinicians"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Speeding up agentic workflows with WebSockets in the Responses API",
-    "date": "Wed, 22 Apr 2026 10:00:00 GMT",
-    "url": "https://openai.com/index/speeding-up-agentic-workflows-with-websockets"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Workspace agents",
-    "date": "Wed, 22 Apr 2026 10:00:00 GMT",
-    "url": "https://openai.com/academy/workspace-agents"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Introducing workspace agents in ChatGPT",
-    "date": "Wed, 22 Apr 2026 10:00:00 GMT",
-    "url": "https://openai.com/index/introducing-workspace-agents-in-chatgpt"
-  },
-  {
-    "source": "arXiv",
-    "title": "On Solving the Multiple Variable Gapped Longest Common Subsequence Problem",
-    "date": "Wed, 22 Apr 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2604.18645"
   }
 ]
