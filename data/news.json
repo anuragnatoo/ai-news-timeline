@@ -1,5 +1,89 @@
 [
   {
+    "source": "HuggingFace",
+    "title": "Granite Embedding Multilingual R2: Open Apache 2.0 Multilingual Embeddings with 32K Context — Best Sub-100M Retrieval Quality",
+    "date": "Thu, 14 May 2026 18:55:01 GMT",
+    "url": "https://huggingface.co/blog/ibm-granite/granite-embedding-multilingual-r2"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Work with Codex from anywhere",
+    "date": "Thu, 14 May 2026 13:00:00 GMT",
+    "url": "https://openai.com/index/work-with-codex-from-anywhere"
+  },
+  {
+    "source": "arXiv",
+    "title": "Think Twice, Act Once: Verifier-Guided Action Selection For Embodied Agents",
+    "date": "Thu, 14 May 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.12620"
+  },
+  {
+    "source": "arXiv",
+    "title": "Macro-Action Based Multi-Agent Instruction Following through Value Cancellation",
+    "date": "Thu, 14 May 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.12655"
+  },
+  {
+    "source": "arXiv",
+    "title": "Do Androids Dream of Breaking the Game? Systematically Auditing AI Agent Benchmarks with BenchJack",
+    "date": "Thu, 14 May 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.12673"
+  },
+  {
+    "source": "arXiv",
+    "title": "Revealing Interpretable Failure Modes of VLMs",
+    "date": "Thu, 14 May 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.12674"
+  },
+  {
+    "source": "arXiv",
+    "title": "Learning Transferable Latent User Preferences for Human-Aligned Decision Making",
+    "date": "Thu, 14 May 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.12682"
+  },
+  {
+    "source": "arXiv",
+    "title": "On the Size Complexity and Decidability of First-Order Progression",
+    "date": "Thu, 14 May 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.12691"
+  },
+  {
+    "source": "arXiv",
+    "title": "DisaBench: A Participatory Evaluation Framework for Disability Harms in Language Models",
+    "date": "Thu, 14 May 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.12702"
+  },
+  {
+    "source": "arXiv",
+    "title": "CHAL: Council of Hierarchical Agentic Language",
+    "date": "Thu, 14 May 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.12718"
+  },
+  {
+    "source": "arXiv",
+    "title": "BEHAVE: A Hybrid AI Framework for Real-Time Modeling of Collective Human Dynamics",
+    "date": "Thu, 14 May 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.12730"
+  },
+  {
+    "source": "arXiv",
+    "title": "State-Centric Decision Process",
+    "date": "Thu, 14 May 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.12755"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Helping ChatGPT better recognize context in sensitive conversations",
+    "date": "Thu, 14 May 2026 00:00:00 GMT",
+    "url": "https://openai.com/index/chatgpt-recognize-context-in-sensitive-conversations"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "Unlocking asynchronicity in continuous batching",
+    "date": "Thu, 14 May 2026 00:00:00 GMT",
+    "url": "https://huggingface.co/blog/continuous_async"
+  },
+  {
     "source": "OpenAI",
     "title": "Building a safe, effective sandbox to enable Codex on Windows",
     "date": "Wed, 13 May 2026 11:00:00 GMT",
@@ -64,6 +148,12 @@
     "title": "Latent Personality Alignment: Improving Harmlessness Without Mentioning Harms",
     "date": "Wed, 13 May 2026 00:00:00 -0400",
     "url": "https://arxiv.org/abs/2605.08496"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Our response to the TanStack npm supply chain attack",
+    "date": "Wed, 13 May 2026 00:00:00 GMT",
+    "url": "https://openai.com/index/our-response-to-the-tanstack-npm-supply-chain-attack"
   },
   {
     "source": "OpenAI",
@@ -1108,95 +1198,5 @@
     "title": "Introducing GPT-5.5",
     "date": "Thu, 23 Apr 2026 11:00:00 GMT",
     "url": "https://openai.com/index/introducing-gpt-5-5"
-  },
-  {
-    "source": "OpenAI",
-    "title": "GPT-5.5 System Card",
-    "date": "Thu, 23 Apr 2026 11:00:00 GMT",
-    "url": "https://openai.com/index/gpt-5-5-system-card"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Automations",
-    "date": "Thu, 23 Apr 2026 10:00:00 GMT",
-    "url": "https://openai.com/academy/codex-automations"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Top 10 uses for Codex at work",
-    "date": "Thu, 23 Apr 2026 10:00:00 GMT",
-    "url": "https://openai.com/academy/top-10-use-cases-codex-for-work"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Plugins and skills",
-    "date": "Thu, 23 Apr 2026 10:00:00 GMT",
-    "url": "https://openai.com/academy/codex-plugins-and-skills"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Working with Codex",
-    "date": "Thu, 23 Apr 2026 10:00:00 GMT",
-    "url": "https://openai.com/academy/working-with-codex"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Codex settings",
-    "date": "Thu, 23 Apr 2026 10:00:00 GMT",
-    "url": "https://openai.com/academy/codex-settings"
-  },
-  {
-    "source": "OpenAI",
-    "title": "What is Codex?",
-    "date": "Thu, 23 Apr 2026 10:00:00 GMT",
-    "url": "https://openai.com/academy/what-is-codex"
-  },
-  {
-    "source": "OpenAI",
-    "title": "How to get started with Codex",
-    "date": "Thu, 23 Apr 2026 10:00:00 GMT",
-    "url": "https://openai.com/academy/codex-how-to-start"
-  },
-  {
-    "source": "arXiv",
-    "title": "The Tool-Overuse Illusion: Why Does LLM Prefer External Tools over Internal Knowledge?",
-    "date": "Thu, 23 Apr 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2604.19749"
-  },
-  {
-    "source": "arXiv",
-    "title": "AI to Learn 2.0: A Deliverable-Oriented Governance Framework and Maturity Rubric for Opaque AI in Learning-Intensive Domains",
-    "date": "Thu, 23 Apr 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2604.19751"
-  },
-  {
-    "source": "arXiv",
-    "title": "Algorithm Selection with Zero Domain Knowledge via Text Embeddings",
-    "date": "Thu, 23 Apr 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2604.19753"
-  },
-  {
-    "source": "arXiv",
-    "title": "Exploring Data Augmentation and Resampling Strategies for Transformer-Based Models to Address Class Imbalance in AI Scoring of Scientific Explanations in NGSS Classroom",
-    "date": "Thu, 23 Apr 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2604.19754"
-  },
-  {
-    "source": "arXiv",
-    "title": "Explainable AML Triage with LLMs: Evidence Retrieval and Counterfactual Checks",
-    "date": "Thu, 23 Apr 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2604.19755"
-  },
-  {
-    "source": "arXiv",
-    "title": "ThermoQA: A Three-Tier Benchmark for Evaluating Thermodynamic Reasoning in Large Language Models",
-    "date": "Thu, 23 Apr 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2604.19758"
-  },
-  {
-    "source": "arXiv",
-    "title": "Automated Detection of Dosing Errors in Clinical Trial Narratives: A Multi-Modal Feature Engineering Approach with LightGBM",
-    "date": "Thu, 23 Apr 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2604.19759"
   }
 ]
