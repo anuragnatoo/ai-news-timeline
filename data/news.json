@@ -1,5 +1,83 @@
 [
   {
+    "source": "arXiv",
+    "title": "GraphBit: A Graph-based Agentic Framework for Non-Linear Agent Orchestration",
+    "date": "Fri, 15 May 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.13848"
+  },
+  {
+    "source": "arXiv",
+    "title": "Mixed Integer Goal Programming for Personalized Meal Optimization with User-Defined Serving Granularity",
+    "date": "Fri, 15 May 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.13849"
+  },
+  {
+    "source": "arXiv",
+    "title": "A Two-Dimensional Framework for AI Agent Design Patterns: Cognitive Function and Execution Topology",
+    "date": "Fri, 15 May 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.13850"
+  },
+  {
+    "source": "arXiv",
+    "title": "Invisible Orchestrators Suppress Protective Behavior and Dissociate Power-Holders: Safety Risks in Multi-Agent LLM Systems",
+    "date": "Fri, 15 May 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.13851"
+  },
+  {
+    "source": "arXiv",
+    "title": "PREPING: Building Agent Memory without Tasks",
+    "date": "Fri, 15 May 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.13880"
+  },
+  {
+    "source": "arXiv",
+    "title": "PolitNuggets: Benchmarking Agentic Discovery of Long-Tail Political Facts",
+    "date": "Fri, 15 May 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.14002"
+  },
+  {
+    "source": "arXiv",
+    "title": "Conditional Attribute Estimation with Autoregressive Sequence Models",
+    "date": "Fri, 15 May 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.14004"
+  },
+  {
+    "source": "arXiv",
+    "title": "Sheaf-Theoretic Transport and Obstruction for Detecting Scientific Theory Shift in AI Agents",
+    "date": "Fri, 15 May 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.14033"
+  },
+  {
+    "source": "arXiv",
+    "title": "From Descriptive to Prescriptive: Uncover the Social Value Alignment of LLM-based Agents",
+    "date": "Fri, 15 May 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.14034"
+  },
+  {
+    "source": "arXiv",
+    "title": "Enhanced and Efficient Reasoning in Large Learning Models",
+    "date": "Fri, 15 May 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.14036"
+  },
+  {
+    "source": "OpenAI",
+    "title": "A new personal finance experience in ChatGPT",
+    "date": "Fri, 15 May 2026 00:00:00 GMT",
+    "url": "https://openai.com/index/personal-finance-chatgpt"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Databricks brings GPT-5.5 to enterprise agent workflows",
+    "date": "Fri, 15 May 2026 00:00:00 GMT",
+    "url": "https://openai.com/index/databricks"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Sea's View on the Future of Agentic Software Development with Codex",
+    "date": "Thu, 14 May 2026 20:30:00 GMT",
+    "url": "https://openai.com/index/sea-david-chen"
+  },
+  {
     "source": "HuggingFace",
     "title": "Granite Embedding Multilingual R2: Open Apache 2.0 Multilingual Embeddings with 32K Context — Best Sub-100M Retrieval Quality",
     "date": "Thu, 14 May 2026 18:55:01 GMT",
@@ -1120,83 +1198,5 @@
     "title": "How to build scalable web apps with OpenAI's Privacy Filter",
     "date": "Mon, 27 Apr 2026 00:00:00 GMT",
     "url": "https://huggingface.co/blog/openai-privacy-filter-web-apps"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Our principles",
-    "date": "Sun, 26 Apr 2026 16:00:00 GMT",
-    "url": "https://openai.com/index/our-principles"
-  },
-  {
-    "source": "arXiv",
-    "title": "Architecture of an AI-Based Automated Course of Action Generation System for Military Operations",
-    "date": "Fri, 24 Apr 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2604.20862"
-  },
-  {
-    "source": "arXiv",
-    "title": "Escaping the Agreement Trap: Defensibility Signals for Evaluating Rule-Governed AI",
-    "date": "Fri, 24 Apr 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2604.20972"
-  },
-  {
-    "source": "arXiv",
-    "title": "Co-Evolving LLM Decision and Skill Bank Agents for Long-Horizon Tasks",
-    "date": "Fri, 24 Apr 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2604.20987"
-  },
-  {
-    "source": "arXiv",
-    "title": "Value-Conflict Diagnostics Reveal Widespread Alignment Faking in Language Models",
-    "date": "Fri, 24 Apr 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2604.20995"
-  },
-  {
-    "source": "arXiv",
-    "title": "The Last Harness You'll Ever Build",
-    "date": "Fri, 24 Apr 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2604.21003"
-  },
-  {
-    "source": "arXiv",
-    "title": "Deep FinResearch Bench: Evaluating AI's Ability to Conduct Professional Financial Investment Research",
-    "date": "Fri, 24 Apr 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2604.21006"
-  },
-  {
-    "source": "arXiv",
-    "title": "Adaptive Test-Time Compute Allocation with Evolving In-Context Demonstrations",
-    "date": "Fri, 24 Apr 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2604.21018"
-  },
-  {
-    "source": "arXiv",
-    "title": "HypEHR: Hyperbolic Modeling of Electronic Health Records for Efficient Question Answering",
-    "date": "Fri, 24 Apr 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2604.21027"
-  },
-  {
-    "source": "arXiv",
-    "title": "Who Defines Fairness? Target-Based Prompting for Demographic Representation in Generative Models",
-    "date": "Fri, 24 Apr 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2604.21036"
-  },
-  {
-    "source": "arXiv",
-    "title": "Active Data",
-    "date": "Fri, 24 Apr 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2604.21044"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "DeepSeek-V4: a million-token context that agents can actually use",
-    "date": "Fri, 24 Apr 2026 00:00:00 GMT",
-    "url": "https://huggingface.co/blog/deepseekv4"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Introducing GPT-5.5",
-    "date": "Thu, 23 Apr 2026 11:00:00 GMT",
-    "url": "https://openai.com/index/introducing-gpt-5-5"
   }
 ]
