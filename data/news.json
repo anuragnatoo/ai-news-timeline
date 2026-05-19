@@ -1,5 +1,89 @@
 [
   {
+    "source": "HuggingFace",
+    "title": "Fine-Tuning NVIDIA Cosmos Predict 2.5 with LoRA/DoRA for Robot Video Generation",
+    "date": "Mon, 18 May 2026 16:00:21 GMT",
+    "url": "https://huggingface.co/blog/nvidia/cosmos-fine-tuning-for-robot-video-generation"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "PaddleOCR 3.5: Running OCR and Document Parsing Tasks with a Transformers Backend",
+    "date": "Mon, 18 May 2026 15:12:46 GMT",
+    "url": "https://huggingface.co/blog/PaddlePaddle/paddleocr-transformers"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "The Open Agent Leaderboard",
+    "date": "Mon, 18 May 2026 14:12:58 GMT",
+    "url": "https://huggingface.co/blog/ibm-research/open-agent-leaderboard"
+  },
+  {
+    "source": "OpenAI",
+    "title": "OpenAI and Dell partner to bring Codex to hybrid and on-premise enterprise environments",
+    "date": "Mon, 18 May 2026 10:00:00 GMT",
+    "url": "https://openai.com/index/dell-codex-enterprise-partnership"
+  },
+  {
+    "source": "arXiv",
+    "title": "DeepSlide: From Artifacts to Presentation Delivery",
+    "date": "Mon, 18 May 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.15202"
+  },
+  {
+    "source": "arXiv",
+    "title": "SDOF: Taming the Alignment Tax in Multi-Agent Orchestration with State-Constrained Dispatch",
+    "date": "Mon, 18 May 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.15204"
+  },
+  {
+    "source": "arXiv",
+    "title": "Does Theory of Mind Improvement Really Benefit Human-AI Interactions? Empirical Findings from Interactive Evaluations",
+    "date": "Mon, 18 May 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.15205"
+  },
+  {
+    "source": "arXiv",
+    "title": "SkillSmith: Compiling Agent Skills into Boundary-Guided Runtime Interfaces",
+    "date": "Mon, 18 May 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.15215"
+  },
+  {
+    "source": "arXiv",
+    "title": "Fair outputs, Biased Internals: Causal Potency and Asymmetry of Latent Bias in LLMs for High-Stakes Decisions",
+    "date": "Mon, 18 May 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.15217"
+  },
+  {
+    "source": "arXiv",
+    "title": "CAX-Agent: A Lightweight Agent Harness for Reliable APDL Automation",
+    "date": "Mon, 18 May 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.15218"
+  },
+  {
+    "source": "arXiv",
+    "title": "NOVA: Fundamental Limits of Knowledge Discovery Through AI",
+    "date": "Mon, 18 May 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.15219"
+  },
+  {
+    "source": "arXiv",
+    "title": "ICRL: Learning to Internalize Self-Critique with Reinforcement Learning",
+    "date": "Mon, 18 May 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.15224"
+  },
+  {
+    "source": "arXiv",
+    "title": "NIMO Controller: a self-driving laboratory orchestrator based on the Model Context Protocol",
+    "date": "Mon, 18 May 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.15227"
+  },
+  {
+    "source": "arXiv",
+    "title": "Verifiable Agentic Infrastructure: Proof-Derived Authorization for Sovereign AI Systems",
+    "date": "Mon, 18 May 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.15228"
+  },
+  {
     "source": "arXiv",
     "title": "Model-Adaptive Tool Necessity Reveals the Knowing-Doing Gap in LLM Tool Use",
     "date": "Sat, 16 May 2026 00:00:00 -0400",
@@ -1114,89 +1198,5 @@
     "title": "An Intelligent Fault Diagnosis Method for General Aviation Aircraft Based on Multi-Fidelity Digital Twin and FMEA Knowledge Enhancement",
     "date": "Tue, 28 Apr 2026 00:00:00 -0400",
     "url": "https://arxiv.org/abs/2604.22777"
-  },
-  {
-    "source": "arXiv",
-    "title": "PExA: Parallel Exploration Agent for Complex Text-to-SQL",
-    "date": "Tue, 28 Apr 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2604.22934"
-  },
-  {
-    "source": "arXiv",
-    "title": "The Power of Power Law: Asymmetry Enables Compositional Reasoning",
-    "date": "Tue, 28 Apr 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2604.22951"
-  },
-  {
-    "source": "arXiv",
-    "title": "On the Existence of an Inverse Solution for Preference-Based Reductions in Argumentation",
-    "date": "Tue, 28 Apr 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2604.22958"
-  },
-  {
-    "source": "arXiv",
-    "title": "Towards Causally Interpretable Wi-Fi CSI-Based Human Activity Recognition with Discrete Latent Compression and LTL Rule Extraction",
-    "date": "Tue, 28 Apr 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2604.22979"
-  },
-  {
-    "source": "arXiv",
-    "title": "FormalScience: Scalable Human-in-the-Loop Autoformalisation of Science with Agentic Code Generation in Lean",
-    "date": "Tue, 28 Apr 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2604.23002"
-  },
-  {
-    "source": "arXiv",
-    "title": "A Systematic Approach for Large Language Models Debugging",
-    "date": "Tue, 28 Apr 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2604.23027"
-  },
-  {
-    "source": "arXiv",
-    "title": "A Decoupled Human-in-the-Loop System for Controlled Autonomy in Agentic Workflows",
-    "date": "Tue, 28 Apr 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2604.23049"
-  },
-  {
-    "source": "arXiv",
-    "title": "Don't Make the LLM Read the Graph: Make the Graph Think",
-    "date": "Tue, 28 Apr 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2604.23057"
-  },
-  {
-    "source": "arXiv",
-    "title": "Analytica: Soft Propositional Reasoning for Robust and Scalable LLM-Driven Analysis",
-    "date": "Tue, 28 Apr 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2604.23072"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "Adaptive Ultrasound Imaging with Physics-Informed NV-Raw2Insights-US AI",
-    "date": "Tue, 28 Apr 2026 00:28:13 GMT",
-    "url": "https://huggingface.co/blog/nvidia/raw2insights-adaptive-ultrasound-imaging"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Our commitment to community safety",
-    "date": "Tue, 28 Apr 2026 00:00:00 GMT",
-    "url": "https://openai.com/index/our-commitment-to-community-safety"
-  },
-  {
-    "source": "OpenAI",
-    "title": "OpenAI models, Codex, and Managed Agents come to AWS",
-    "date": "Tue, 28 Apr 2026 00:00:00 GMT",
-    "url": "https://openai.com/index/openai-on-aws"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Data center demand drives 66% surge in natural gas power plant costs",
-    "date": "Mon, 27 Apr 2026 15:27:52 +0000",
-    "url": "https://techcrunch.com/2026/04/27/data-center-demand-drives-66-surge-in-natural-gas-power-plant-costs/"
-  },
-  {
-    "source": "OpenAI",
-    "title": "OpenAI available at FedRAMP Moderate",
-    "date": "Mon, 27 Apr 2026 14:00:00 GMT",
-    "url": "https://openai.com/index/openai-available-at-fedramp-moderate"
   }
 ]
