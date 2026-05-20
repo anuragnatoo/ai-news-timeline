@@ -1,5 +1,95 @@
 [
   {
+    "source": "OpenAI",
+    "title": "Introducing OpenAI for Singapore",
+    "date": "Wed, 20 May 2026 11:30:00 GMT",
+    "url": "https://openai.com/index/introducing-openai-for-singapore"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "OlmoEarth v1.1: A more efficient family of models",
+    "date": "Tue, 19 May 2026 18:38:09 GMT",
+    "url": "https://huggingface.co/blog/allenai/olmoearth-v1-1"
+  },
+  {
+    "source": "VentureBeat",
+    "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
+    "date": "Tue, 19 May 2026 17:45:00 GMT",
+    "url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Advancing content provenance for a safer, more transparent AI ecosystem",
+    "date": "Tue, 19 May 2026 10:45:00 GMT",
+    "url": "https://openai.com/index/advancing-content-provenance"
+  },
+  {
+    "source": "arXiv",
+    "title": "AgentWall: A Runtime Safety Layer for Local AI Agents",
+    "date": "Tue, 19 May 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.16265"
+  },
+  {
+    "source": "arXiv",
+    "title": "ANNEAL: Adapting LLM Agents via Governed Symbolic Patch Learning",
+    "date": "Tue, 19 May 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.16309"
+  },
+  {
+    "source": "arXiv",
+    "title": "From Prompts to Protocols: An AI Agent for Laboratory Automation",
+    "date": "Tue, 19 May 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.16552"
+  },
+  {
+    "source": "arXiv",
+    "title": "Skim: Speculative Execution for Fast and Efficient Web Agents",
+    "date": "Tue, 19 May 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.16565"
+  },
+  {
+    "source": "arXiv",
+    "title": "Scalable Uncertainty Reasoning in Knowledge Graphs",
+    "date": "Tue, 19 May 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.16568"
+  },
+  {
+    "source": "arXiv",
+    "title": "Counterparty Modeling is Not Strategy: The Limits of LLM Negotiators",
+    "date": "Tue, 19 May 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.16575"
+  },
+  {
+    "source": "arXiv",
+    "title": "PRISMat: Policy-Driven, Permutation-Invariant Autoregressive Material Generation",
+    "date": "Tue, 19 May 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.16612"
+  },
+  {
+    "source": "arXiv",
+    "title": "TTE-Flash: Accelerating Reasoning-based Multimodal Representations via Think-Then-Embed Tokens",
+    "date": "Tue, 19 May 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.16638"
+  },
+  {
+    "source": "arXiv",
+    "title": "Sustainable Intelligence for the Wild: Democratizing Ecological Monitoring via Knowledge-Adaptive Edge Expert Agents",
+    "date": "Tue, 19 May 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.16671"
+  },
+  {
+    "source": "arXiv",
+    "title": "LinAlg-Bench: A Forensic Benchmark Revealing Structural Failure Modes in LLM Mathematical Reasoning",
+    "date": "Tue, 19 May 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.16675"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "Introducing the Ettin Reranker Family",
+    "date": "Tue, 19 May 2026 00:00:00 GMT",
+    "url": "https://huggingface.co/blog/ettin-reranker"
+  },
+  {
     "source": "HuggingFace",
     "title": "Fine-Tuning NVIDIA Cosmos Predict 2.5 with LoRA/DoRA for Robot Video Generation",
     "date": "Mon, 18 May 2026 16:00:21 GMT",
@@ -1108,95 +1198,5 @@
     "title": "Granite 4.1 LLMs: How They’re Built",
     "date": "Wed, 29 Apr 2026 15:01:48 GMT",
     "url": "https://huggingface.co/blog/ibm-granite/granite-4-1"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Building the compute infrastructure for the Intelligence Age",
-    "date": "Wed, 29 Apr 2026 15:00:00 GMT",
-    "url": "https://openai.com/index/building-the-compute-infrastructure-for-the-intelligence-age"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Cybersecurity in the Intelligence Age",
-    "date": "Wed, 29 Apr 2026 04:00:00 GMT",
-    "url": "https://openai.com/index/cybersecurity-in-the-intelligence-age"
-  },
-  {
-    "source": "arXiv",
-    "title": "Towards Automated Ontology Generation from Unstructured Text: A Multi-Agent LLM Approach",
-    "date": "Wed, 29 Apr 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2604.23090"
-  },
-  {
-    "source": "arXiv",
-    "title": "PhySE: A Psychological Framework for Real-Time AR-LLM Social Engineering Attacks",
-    "date": "Wed, 29 Apr 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2604.23148"
-  },
-  {
-    "source": "arXiv",
-    "title": "Judging the Judges: A Systematic Evaluation of Bias Mitigation Strategies in LLM-as-a-Judge Pipelines",
-    "date": "Wed, 29 Apr 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2604.23178"
-  },
-  {
-    "source": "arXiv",
-    "title": "From Coarse to Fine: Self-Adaptive Hierarchical Planning for LLM Agents",
-    "date": "Wed, 29 Apr 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2604.23194"
-  },
-  {
-    "source": "arXiv",
-    "title": "StoryTR: Narrative-Centric Video Temporal Retrieval with Theory of Mind Reasoning",
-    "date": "Wed, 29 Apr 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2604.23198"
-  },
-  {
-    "source": "arXiv",
-    "title": "Discovering Agentic Safety Specifications from 1-Bit Danger Signals",
-    "date": "Wed, 29 Apr 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2604.23210"
-  },
-  {
-    "source": "arXiv",
-    "title": "AdaMamba: Adaptive Frequency-Gated Mamba for Long-Term Time Series Forecasting",
-    "date": "Wed, 29 Apr 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2604.23239"
-  },
-  {
-    "source": "arXiv",
-    "title": "CAP-CoT: Cycle Adversarial Prompt for Improving Chain of Thoughts in LLM Reasoning",
-    "date": "Wed, 29 Apr 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2604.23270"
-  },
-  {
-    "source": "arXiv",
-    "title": "Active Inference: A method for Phenotyping Agency in AI systems?",
-    "date": "Wed, 29 Apr 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2604.23278"
-  },
-  {
-    "source": "arXiv",
-    "title": "AI Identity: Standards, Gaps, and Research Directions for AI Agents",
-    "date": "Wed, 29 Apr 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2604.23280"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "DeepInfra on Hugging Face Inference Providers 🔥",
-    "date": "Wed, 29 Apr 2026 00:00:00 GMT",
-    "url": "https://huggingface.co/blog/inference-providers-deepinfra"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "Introducing NVIDIA Nemotron 3 Nano Omni: Long-Context Multimodal Intelligence for Documents, Audio and Video Agents",
-    "date": "Tue, 28 Apr 2026 15:58:57 GMT",
-    "url": "https://huggingface.co/blog/nvidia/nemotron-3-nano-omni-multimodal-intelligence"
-  },
-  {
-    "source": "arXiv",
-    "title": "An Intelligent Fault Diagnosis Method for General Aviation Aircraft Based on Multi-Fidelity Digital Twin and FMEA Knowledge Enhancement",
-    "date": "Tue, 28 Apr 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2604.22777"
   }
 ]
