@@ -6,6 +6,84 @@
     "url": "https://openai.com/index/introducing-openai-for-singapore"
   },
   {
+    "source": "arXiv",
+    "title": "Position: Let's Develop Data Probes to Fundamentally Understand How Data Affects LLM Performance",
+    "date": "Wed, 20 May 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.18801"
+  },
+  {
+    "source": "arXiv",
+    "title": "Operationalizing Document AI: A Microservice Architecture for OCR and LLM Pipelines in Production",
+    "date": "Wed, 20 May 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.18818"
+  },
+  {
+    "source": "arXiv",
+    "title": "Evaluating the Utility of Personal Health Records in Personalized Health AI",
+    "date": "Wed, 20 May 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.18937"
+  },
+  {
+    "source": "arXiv",
+    "title": "Learn-by-Wire Training Control Governance: Bounded Autonomous Training Under Stress for Stability and Efficiency",
+    "date": "Wed, 20 May 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.19008"
+  },
+  {
+    "source": "arXiv",
+    "title": "AgentNLQ: A General-Purpose Agent for Natural Language to SQL",
+    "date": "Wed, 20 May 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.19010"
+  },
+  {
+    "source": "arXiv",
+    "title": "KAN-MLP-Mixer: A comprehensive investigation of the usage of Kolmogorov-Arnold Networks (KANs) for improving IMU-based Human Activity Recognition",
+    "date": "Wed, 20 May 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.19031"
+  },
+  {
+    "source": "arXiv",
+    "title": "Trustworthy Agent Network: Trust in Agent Networks Must Be Baked In, Not Bolted On",
+    "date": "Wed, 20 May 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.19035"
+  },
+  {
+    "source": "arXiv",
+    "title": "Interference-Aware Multi-Task Unlearning",
+    "date": "Wed, 20 May 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.19042"
+  },
+  {
+    "source": "arXiv",
+    "title": "Embedding by Elicitation: Dynamic Representations for Bayesian Optimization of System Prompts",
+    "date": "Wed, 20 May 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.19093"
+  },
+  {
+    "source": "arXiv",
+    "title": "DecisionBench: A Benchmark for Emergent Delegation in Long-Horizon Agentic Workflows",
+    "date": "Wed, 20 May 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.19099"
+  },
+  {
+    "source": "OpenAI",
+    "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
+    "date": "Wed, 20 May 2026 00:00:00 GMT",
+    "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture"
+  },
+  {
+    "source": "OpenAI",
+    "title": "The next phase of OpenAI’s Education for Countries",
+    "date": "Wed, 20 May 2026 00:00:00 GMT",
+    "url": "https://openai.com/index/the-next-phase-of-education-for-countries"
+  },
+  {
+    "source": "OpenAI",
+    "title": "How Ramp engineers accelerate code review with Codex",
+    "date": "Wed, 20 May 2026 00:00:00 GMT",
+    "url": "https://openai.com/index/ramp"
+  },
+  {
     "source": "HuggingFace",
     "title": "OlmoEarth v1.1: A more efficient family of models",
     "date": "Tue, 19 May 2026 18:38:09 GMT",
@@ -1120,83 +1198,5 @@
     "title": "Operating-Layer Controls for Onchain Language-Model Agents Under Real Capital",
     "date": "Thu, 30 Apr 2026 00:00:00 -0400",
     "url": "https://arxiv.org/abs/2604.26091"
-  },
-  {
-    "source": "arXiv",
-    "title": "Distill-Belief: Closed-Loop Inverse Source Localization and Characterization in Physical Fields",
-    "date": "Thu, 30 Apr 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2604.26095"
-  },
-  {
-    "source": "arXiv",
-    "title": "Evaluating Strategic Reasoning in Forecasting Agents",
-    "date": "Thu, 30 Apr 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2604.26106"
-  },
-  {
-    "source": "arXiv",
-    "title": "Hierarchical Multi-Persona Induction from User Behavioral Logs: Learning Evidence-Grounded and Truthful Personas",
-    "date": "Thu, 30 Apr 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2604.26120"
-  },
-  {
-    "source": "arXiv",
-    "title": "OMEGA: Optimizing Machine Learning by Evaluating Generated Algorithms",
-    "date": "Thu, 30 Apr 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2604.26211"
-  },
-  {
-    "source": "arXiv",
-    "title": "Persuadability and LLMs as Legal Decision Tools",
-    "date": "Thu, 30 Apr 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2604.26233"
-  },
-  {
-    "source": "arXiv",
-    "title": "Apriori-based Analysis of Learned Helplessness in Mathematics Tutoring: Behavioral Patterns by Level, Intervention, and Outcome",
-    "date": "Thu, 30 Apr 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2604.26237"
-  },
-  {
-    "source": "arXiv",
-    "title": "DreamProver: Evolving Transferable Lemma Libraries via a Wake-Sleep Theorem-Proving Agent",
-    "date": "Thu, 30 Apr 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2604.26311"
-  },
-  {
-    "source": "arXiv",
-    "title": "Auto-Relational Reasoning",
-    "date": "Thu, 30 Apr 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2604.26507"
-  },
-  {
-    "source": "arXiv",
-    "title": "Grounding vs. Compositionality: On the Non-Complementarity of Reasoning in Neuro-Symbolic Systems",
-    "date": "Thu, 30 Apr 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2604.26521"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Introducing Advanced Account Security",
-    "date": "Thu, 30 Apr 2026 00:00:00 GMT",
-    "url": "https://openai.com/index/advanced-account-security"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Where the goblins came from",
-    "date": "Wed, 29 Apr 2026 20:00:00 GMT",
-    "url": "https://openai.com/index/where-the-goblins-came-from"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "AI evals are becoming the new compute bottleneck",
-    "date": "Wed, 29 Apr 2026 16:45:09 GMT",
-    "url": "https://huggingface.co/blog/evaleval/eval-costs-bottleneck"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "Granite 4.1 LLMs: How They’re Built",
-    "date": "Wed, 29 Apr 2026 15:01:48 GMT",
-    "url": "https://huggingface.co/blog/ibm-granite/granite-4-1"
   }
 ]
