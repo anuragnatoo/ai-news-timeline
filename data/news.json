@@ -1,6 +1,72 @@
 [
   {
     "source": "OpenAI",
+    "title": "AdventHealth advances whole-person care with OpenAI",
+    "date": "Thu, 21 May 2026 12:00:00 GMT",
+    "url": "https://openai.com/index/adventhealth"
+  },
+  {
+    "source": "arXiv",
+    "title": "POLAR-Bench: A Diagnostic Benchmark for Privacy-Utility Trade-offs in LLM Agents",
+    "date": "Thu, 21 May 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.19127"
+  },
+  {
+    "source": "arXiv",
+    "title": "Learning to Hand Off: Provably Convergent Workflow Learning under Interface Constraints",
+    "date": "Thu, 21 May 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.19140"
+  },
+  {
+    "source": "arXiv",
+    "title": "Progressive Autonomy as Preference Learning: A Formalization of Trust Calibration for Agentic Tool Use",
+    "date": "Thu, 21 May 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.19151"
+  },
+  {
+    "source": "arXiv",
+    "title": "How Far Are We From True Auto-Research?",
+    "date": "Thu, 21 May 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.19156"
+  },
+  {
+    "source": "arXiv",
+    "title": "Discoverable Agent Knowledge -- A Formal Framework for Agentic KG Affordances (Extended Version)",
+    "date": "Thu, 21 May 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.19186"
+  },
+  {
+    "source": "arXiv",
+    "title": "Hallucination as Exploit: Evidence-Carrying Multimodal Agents",
+    "date": "Thu, 21 May 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.19192"
+  },
+  {
+    "source": "arXiv",
+    "title": "Not all uncertainty is alike: volatility, stochasticity, and exploration",
+    "date": "Thu, 21 May 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.19215"
+  },
+  {
+    "source": "arXiv",
+    "title": "SimGym: A Framework for A/B Test Simulation in E-Commerce with Traffic-Grounded VLM Agents",
+    "date": "Thu, 21 May 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.19219"
+  },
+  {
+    "source": "arXiv",
+    "title": "Can Large Language Models Revolutionize Survey Research? Experiments with Disaster Preparedness Responses",
+    "date": "Thu, 21 May 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.19229"
+  },
+  {
+    "source": "arXiv",
+    "title": "Causal Evidence for Attention Head Imbalance in Modality Conflict Hallucination",
+    "date": "Thu, 21 May 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.19250"
+  },
+  {
+    "source": "OpenAI",
     "title": "Introducing OpenAI for Singapore",
     "date": "Wed, 20 May 2026 11:30:00 GMT",
     "url": "https://openai.com/index/introducing-openai-for-singapore"
@@ -1132,71 +1198,5 @@
     "title": "How OpenAI delivers low-latency voice AI at scale",
     "date": "Mon, 04 May 2026 00:00:00 GMT",
     "url": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale"
-  },
-  {
-    "source": "arXiv",
-    "title": "Compositional Meta-Learning for Mitigating Task Heterogeneity in Physics-Informed Neural Networks",
-    "date": "Fri, 01 May 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2604.26999"
-  },
-  {
-    "source": "arXiv",
-    "title": "Binary Spiking Neural Networks as Causal Models",
-    "date": "Fri, 01 May 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2604.27007"
-  },
-  {
-    "source": "arXiv",
-    "title": "When Your LLM Reaches End-of-Life: A Framework for Confident Model Migration in Production Systems",
-    "date": "Fri, 01 May 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2604.27082"
-  },
-  {
-    "source": "arXiv",
-    "title": "End-to-end autonomous scientific discovery on a real optical platform",
-    "date": "Fri, 01 May 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2604.27092"
-  },
-  {
-    "source": "arXiv",
-    "title": "Think it, Run it: Autonomous ML pipeline generation via self-healing multi-agent AI",
-    "date": "Fri, 01 May 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2604.27096"
-  },
-  {
-    "source": "arXiv",
-    "title": "Unsupervised Electrofacies Classification and Porosity Characterization in the Offshore Keta Basin Using Wireline Logs",
-    "date": "Fri, 01 May 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2604.27126"
-  },
-  {
-    "source": "arXiv",
-    "title": "TRUST: A Framework for Decentralized AI Service v.0.1",
-    "date": "Fri, 01 May 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2604.27132"
-  },
-  {
-    "source": "arXiv",
-    "title": "Unpacking Vibe Coding: Help-Seeking Processes in Student-AI Interactions While Programming",
-    "date": "Fri, 01 May 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2604.27134"
-  },
-  {
-    "source": "arXiv",
-    "title": "Optimal Stop-Loss and Take-Profit Parameterization for Autonomous Trading Agent Swarm",
-    "date": "Fri, 01 May 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2604.27150"
-  },
-  {
-    "source": "arXiv",
-    "title": "Step-level Optimization for Efficient Computer-use Agents",
-    "date": "Fri, 01 May 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2604.27151"
-  },
-  {
-    "source": "arXiv",
-    "title": "Operating-Layer Controls for Onchain Language-Model Agents Under Real Capital",
-    "date": "Thu, 30 Apr 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2604.26091"
   }
 ]
