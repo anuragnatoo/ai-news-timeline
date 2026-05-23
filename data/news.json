@@ -1,5 +1,89 @@
 [
   {
+    "source": "HuggingFace",
+    "title": "Towards Speed-of-Light Text Generation with Nemotron-Labs Diffusion Language Models",
+    "date": "Sat, 23 May 2026 00:02:03 GMT",
+    "url": "https://huggingface.co/blog/nvidia/nemotron-labs-diffusion"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "Specialization Beats Scale: A Strategic Variable Most AI Procurement Decisions Overlook",
+    "date": "Fri, 22 May 2026 15:25:59 GMT",
+    "url": "https://huggingface.co/blog/Dharma-AI/specialization-beats-scale"
+  },
+  {
+    "source": "arXiv",
+    "title": "SOLAR: A Self-Optimizing Open-Ended Autonomous Agent for Lifelong Learning and Continual Adaptation",
+    "date": "Fri, 22 May 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.20189"
+  },
+  {
+    "source": "arXiv",
+    "title": "Tool-Augmented Agent for Closed-loop Optimization,Simulation,and Modeling Orchestration",
+    "date": "Fri, 22 May 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.20190"
+  },
+  {
+    "source": "arXiv",
+    "title": "OSCToM: RL-Guided Adversarial Generation for High-Order Theory of Mind",
+    "date": "Fri, 22 May 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.20423"
+  },
+  {
+    "source": "arXiv",
+    "title": "AgentCo-op: Retrieval-Based Synthesis of Interoperable Multi-Agent Workflows",
+    "date": "Fri, 22 May 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.20425"
+  },
+  {
+    "source": "arXiv",
+    "title": "High Quality Embeddings for Horn Logic Reasoning",
+    "date": "Fri, 22 May 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.20467"
+  },
+  {
+    "source": "arXiv",
+    "title": "$ECUAS_n$: A family of metrics for principled evaluation of uncertainty-augmented systems",
+    "date": "Fri, 22 May 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.20490"
+  },
+  {
+    "source": "arXiv",
+    "title": "Open-World Evaluations for Measuring Frontier AI Capabilities",
+    "date": "Fri, 22 May 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.20520"
+  },
+  {
+    "source": "arXiv",
+    "title": "AgentAtlas: Beyond Outcome Leaderboards for LLM Agents",
+    "date": "Fri, 22 May 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.20530"
+  },
+  {
+    "source": "arXiv",
+    "title": "Personality Engineering with AI Agents: A New Methodology for Negotiation Research",
+    "date": "Fri, 22 May 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.20554"
+  },
+  {
+    "source": "arXiv",
+    "title": "Mahjax: A GPU-Accelerated Mahjong Simulator for Reinforcement Learning in JAX",
+    "date": "Fri, 22 May 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.20577"
+  },
+  {
+    "source": "OpenAI",
+    "title": "OpenAI named a Leader in enterprise coding agents by Gartner",
+    "date": "Fri, 22 May 2026 00:00:00 GMT",
+    "url": "https://openai.com/index/gartner-2026-agentic-coding-leader"
+  },
+  {
+    "source": "OpenAI",
+    "title": "How Virgin Atlantic ships faster with Codex",
+    "date": "Fri, 22 May 2026 00:00:00 GMT",
+    "url": "https://openai.com/index/virgin-atlantic"
+  },
+  {
     "source": "OpenAI",
     "title": "AdventHealth advances whole-person care with OpenAI",
     "date": "Thu, 21 May 2026 12:00:00 GMT",
@@ -1114,89 +1198,5 @@
     "title": "Unlocking large scale AI training networks with MRC (Multipath Reliable Connection)",
     "date": "Tue, 05 May 2026 10:00:00 GMT",
     "url": "https://openai.com/index/mrc-supercomputer-networking"
-  },
-  {
-    "source": "arXiv",
-    "title": "TADI: Tool-Augmented Drilling Intelligence via Agentic LLM Orchestration over Heterogeneous Wellsite Data",
-    "date": "Tue, 05 May 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2605.00060"
-  },
-  {
-    "source": "arXiv",
-    "title": "AgentReputation: A Decentralized Agentic AI Reputation Framework",
-    "date": "Tue, 05 May 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2605.00073"
-  },
-  {
-    "source": "arXiv",
-    "title": "Minimal, Local, Causal Explanations for Jailbreak Success in Large Language Models",
-    "date": "Tue, 05 May 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2605.00123"
-  },
-  {
-    "source": "arXiv",
-    "title": "Are Tools All We Need? Unveiling the Tool-Use Tax in LLM Agents",
-    "date": "Tue, 05 May 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2605.00136"
-  },
-  {
-    "source": "arXiv",
-    "title": "TUR-DPO: Topology- and Uncertainty-Aware Direct Preference Optimization",
-    "date": "Tue, 05 May 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2605.00224"
-  },
-  {
-    "source": "arXiv",
-    "title": "ARMOR 2025: A Military-Aligned Benchmark for Evaluating Large Language Model Safety Beyond Civilian Contexts",
-    "date": "Tue, 05 May 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2605.00245"
-  },
-  {
-    "source": "arXiv",
-    "title": "Causal Foundations of Collective Agency",
-    "date": "Tue, 05 May 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2605.00248"
-  },
-  {
-    "source": "arXiv",
-    "title": "Agentic AI for Trip Planning Optimization Application",
-    "date": "Tue, 05 May 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2605.00276"
-  },
-  {
-    "source": "arXiv",
-    "title": "Token Arena: A Continuous Benchmark Unifying Energy and Cognition in AI Inference",
-    "date": "Tue, 05 May 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2605.00300"
-  },
-  {
-    "source": "arXiv",
-    "title": "AgentFloor: How Far Up the tool use Ladder Can Small Open-Weight Models Go?",
-    "date": "Tue, 05 May 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2605.00334"
-  },
-  {
-    "source": "OpenAI",
-    "title": "New ways to buy ChatGPT ads",
-    "date": "Tue, 05 May 2026 00:00:00 GMT",
-    "url": "https://openai.com/index/new-ways-to-buy-chatgpt-ads"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Advancing youth safety and wellbeing in EMEA",
-    "date": "Tue, 05 May 2026 00:00:00 GMT",
-    "url": "https://openai.com/index/advancing-youth-safety-in-emea"
-  },
-  {
-    "source": "OpenAI",
-    "title": "OpenAI and PwC collaborate to reimagine the office of the CFO",
-    "date": "Mon, 04 May 2026 21:00:00 GMT",
-    "url": "https://openai.com/index/openai-pwc-finance-collaboration"
-  },
-  {
-    "source": "OpenAI",
-    "title": "How OpenAI delivers low-latency voice AI at scale",
-    "date": "Mon, 04 May 2026 00:00:00 GMT",
-    "url": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale"
   }
 ]
