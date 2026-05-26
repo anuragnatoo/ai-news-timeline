@@ -1,5 +1,77 @@
 [
   {
+    "source": "arXiv",
+    "title": "BOHM: Zero-Cost Hierarchical Attribution for Compound AI Systems",
+    "date": "Mon, 25 May 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.22866"
+  },
+  {
+    "source": "arXiv",
+    "title": "NeuroNL2LTL: A Neurosymbolic Framework for Natural Language Translation of Linear Temporal Logic",
+    "date": "Mon, 25 May 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.22874"
+  },
+  {
+    "source": "arXiv",
+    "title": "RMA: an Agentic System for Research-Level Mathematical Problems",
+    "date": "Mon, 25 May 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.22875"
+  },
+  {
+    "source": "arXiv",
+    "title": "SciAtlas: A Large-Scale Knowledge Graph for Automated Scientific Research",
+    "date": "Mon, 25 May 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.22878"
+  },
+  {
+    "source": "arXiv",
+    "title": "Energy per Successful Goal: Goal-Level Energy Accounting for Agentic AI Systems",
+    "date": "Mon, 25 May 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.22883"
+  },
+  {
+    "source": "arXiv",
+    "title": "ImProver 2: Iteratively Self-Improving LMs for Neurosymbolic Proof Optimization",
+    "date": "Mon, 25 May 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.22885"
+  },
+  {
+    "source": "arXiv",
+    "title": "Mediative Fuzzy Logic: From Type-1 Foundations to Type-2, Type-3 and Quantum Extensions",
+    "date": "Mon, 25 May 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.22900"
+  },
+  {
+    "source": "arXiv",
+    "title": "EVE-Agent: Evidence-Verifiable Self-Evolving Agents",
+    "date": "Mon, 25 May 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.22905"
+  },
+  {
+    "source": "arXiv",
+    "title": "The Deterministic Horizon: Impossibility Results as Design Specifications for Trustworthy AI Systems",
+    "date": "Mon, 25 May 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.23024"
+  },
+  {
+    "source": "arXiv",
+    "title": "PathCal: State-Aware Reflection-Marker Calibration for Efficient Reasoning",
+    "date": "Mon, 25 May 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.23074"
+  },
+  {
+    "source": "OpenAI",
+    "title": "OpenAI, Grupo Folha and Grupo UOL announce strategic content partnership",
+    "date": "Mon, 25 May 2026 00:00:00 GMT",
+    "url": "https://openai.com/index/grupo-folha-grupo-uol-partnership"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "Harness, Scaffold, and the AI Agent Terms Worth Getting Right",
+    "date": "Mon, 25 May 2026 00:00:00 GMT",
+    "url": "https://huggingface.co/blog/agent-glossary"
+  },
+  {
     "source": "HuggingFace",
     "title": "Towards Speed-of-Light Text Generation with Nemotron-Labs Diffusion Language Models",
     "date": "Sat, 23 May 2026 00:02:03 GMT",
@@ -1126,77 +1198,5 @@
     "title": "Effect-Transparent Governance for AI Workflow Architectures: Semantic Preservation, Expressive Minimality, and Decidability Boundaries",
     "date": "Wed, 06 May 2026 00:00:00 -0400",
     "url": "https://arxiv.org/abs/2605.01030"
-  },
-  {
-    "source": "arXiv",
-    "title": "Algebraic Semantics of Governed Execution: Monoidal Categories, Effect Algebras, and Coterminous Boundaries",
-    "date": "Wed, 06 May 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2605.01032"
-  },
-  {
-    "source": "arXiv",
-    "title": "A Knowledge-Driven LLM-Based Decision-Support System for Explainable Defect Analysis and Mitigation Guidance in Laser Powder Bed Fusion",
-    "date": "Wed, 06 May 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2605.01100"
-  },
-  {
-    "source": "arXiv",
-    "title": "Virtual Speech Therapist: A Clinician-in-the-Loop AI Speech Therapy Agent for Personalized and Supervised Therapy",
-    "date": "Wed, 06 May 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2605.01101"
-  },
-  {
-    "source": "arXiv",
-    "title": "Towards Multi-Agent Autonomous Reasoning in Hydrodynamics",
-    "date": "Wed, 06 May 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2605.01102"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Introducing ChatGPT Futures: Class of 2026",
-    "date": "Wed, 06 May 2026 00:00:00 GMT",
-    "url": "https://openai.com/index/introducing-chatgpt-futures-class-of-2026"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Singular Bank helps bankers move fast with ChatGPT and Codex",
-    "date": "Wed, 06 May 2026 00:00:00 GMT",
-    "url": "https://openai.com/index/singular-bank"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Uber uses OpenAI to help people earn smarter and book faster",
-    "date": "Wed, 06 May 2026 00:00:00 GMT",
-    "url": "https://openai.com/index/uber"
-  },
-  {
-    "source": "OpenAI",
-    "title": "How frontier enterprises are building an AI advantage",
-    "date": "Wed, 06 May 2026 00:00:00 GMT",
-    "url": "https://openai.com/index/introducing-b2b-signals"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "Adding Benchmaxxer Repellant to the Open ASR Leaderboard",
-    "date": "Wed, 06 May 2026 00:00:00 GMT",
-    "url": "https://huggingface.co/blog/open-asr-leaderboard-private-data"
-  },
-  {
-    "source": "OpenAI",
-    "title": "GPT-5.5 Instant System Card",
-    "date": "Tue, 05 May 2026 10:00:00 GMT",
-    "url": "https://openai.com/index/gpt-5-5-instant-system-card"
-  },
-  {
-    "source": "OpenAI",
-    "title": "GPT-5.5 Instant: smarter, clearer, and more personalized",
-    "date": "Tue, 05 May 2026 10:00:00 GMT",
-    "url": "https://openai.com/index/gpt-5-5-instant"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Unlocking large scale AI training networks with MRC (Multipath Reliable Connection)",
-    "date": "Tue, 05 May 2026 10:00:00 GMT",
-    "url": "https://openai.com/index/mrc-supercomputer-networking"
   }
 ]
