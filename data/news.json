@@ -1,6 +1,66 @@
 [
   {
     "source": "arXiv",
+    "title": "In Search of the Ingredients of Open-Endedness: Replicating Picbreeder with Large Vision-Language Models",
+    "date": "Tue, 26 May 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.23908"
+  },
+  {
+    "source": "arXiv",
+    "title": "Confidence Calibration in Large Language Models",
+    "date": "Tue, 26 May 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.23909"
+  },
+  {
+    "source": "arXiv",
+    "title": "How Much Thinking is Enough? Quantifying and Understanding Redundancy in LLM Reasoning",
+    "date": "Tue, 26 May 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.23926"
+  },
+  {
+    "source": "arXiv",
+    "title": "Context: Proactive Goal-Directed Intelligence via Composable Sandboxed Programs, Declarative Wiring, and Structured Interaction",
+    "date": "Tue, 26 May 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.23928"
+  },
+  {
+    "source": "arXiv",
+    "title": "Toward Reliable Design of LLM-Enabled Agentic Workflows: Optimizing Latency-Reliability-Cost Tradeoffs",
+    "date": "Tue, 26 May 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.23929"
+  },
+  {
+    "source": "arXiv",
+    "title": "Quantum Frog: Emergent Cooperation and Difficulty Scaling in a Quantized-Time Cooperative Game",
+    "date": "Tue, 26 May 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.23930"
+  },
+  {
+    "source": "arXiv",
+    "title": "BODHI: Precise OS Kernel Specification Inference",
+    "date": "Tue, 26 May 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.23931"
+  },
+  {
+    "source": "arXiv",
+    "title": "When Correct Beliefs Collapse: Epistemic Resilience of LLMs under Clinical Pressure",
+    "date": "Tue, 26 May 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.23932"
+  },
+  {
+    "source": "arXiv",
+    "title": "Practical Quantum CIM Empowerment via All-Domestic-Core Agentic Large Model",
+    "date": "Tue, 26 May 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.23934"
+  },
+  {
+    "source": "arXiv",
+    "title": "Operationalizing Reconstructive Authority: Runtime Construction, Dependency Resolution, and Execution Gating in Autonomous Agent Systems",
+    "date": "Tue, 26 May 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.23935"
+  },
+  {
+    "source": "arXiv",
     "title": "BOHM: Zero-Cost Hierarchical Attribution for Compound AI Systems",
     "date": "Mon, 25 May 2026 00:00:00 -0400",
     "url": "https://arxiv.org/abs/2605.22866"
@@ -1138,65 +1198,5 @@
     "title": "Introducing Trusted Contact in ChatGPT",
     "date": "Thu, 07 May 2026 00:00:00 GMT",
     "url": "https://openai.com/index/introducing-trusted-contact-in-chatgpt"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Testing ads in ChatGPT",
-    "date": "Thu, 07 May 2026 00:00:00 GMT",
-    "url": "https://openai.com/index/testing-ads-in-chatgpt"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Simplex rethinks software development with Codex",
-    "date": "Thu, 07 May 2026 00:00:00 GMT",
-    "url": "https://openai.com/index/simplex"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "vLLM V0 to V1: Correctness Before Corrections in RL",
-    "date": "Wed, 06 May 2026 19:06:55 GMT",
-    "url": "https://huggingface.co/blog/ServiceNow-AI/correctness-before-corrections"
-  },
-  {
-    "source": "OpenAI",
-    "title": "How ChatGPT learns about the world while protecting privacy ",
-    "date": "Wed, 06 May 2026 08:00:00 GMT",
-    "url": "https://openai.com/index/how-chatgpt-protects-privacy"
-  },
-  {
-    "source": "arXiv",
-    "title": "2026 Roadmap on Artificial Intelligence and Machine Learning for Smart Manufacturing",
-    "date": "Wed, 06 May 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2605.00839"
-  },
-  {
-    "source": "arXiv",
-    "title": "AI Agents for Sustainable SMEs: A Green ESG Assessment Framework",
-    "date": "Wed, 06 May 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2605.00841"
-  },
-  {
-    "source": "arXiv",
-    "title": "Understanding Emergent Misalignment via Feature Superposition Geometry",
-    "date": "Wed, 06 May 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2605.00842"
-  },
-  {
-    "source": "arXiv",
-    "title": "ClinicBot: A Guideline-Grounded Clinical Chatbot with Prioritized Evidence RAG and Verifiable Citations",
-    "date": "Wed, 06 May 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2605.00846"
-  },
-  {
-    "source": "arXiv",
-    "title": "Accelerating battery research with an AI interface between FINALES and Kadi4Mat",
-    "date": "Wed, 06 May 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2605.00909"
-  },
-  {
-    "source": "arXiv",
-    "title": "Effect-Transparent Governance for AI Workflow Architectures: Semantic Preservation, Expressive Minimality, and Decidability Boundaries",
-    "date": "Wed, 06 May 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2605.01030"
   }
 ]
