@@ -1,5 +1,107 @@
 [
   {
+    "source": "HuggingFace",
+    "title": "ITBench-AA: Frontier Models Score Below 50% on the First Benchmark for Agentic Enterprise IT Tasks — by Artificial Analysis and IBM",
+    "date": "Wed, 27 May 2026 17:20:29 GMT",
+    "url": "https://huggingface.co/blog/ibm-research/itbench-aa"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Cisco and OpenAI redefine enterprise engineering with Codex",
+    "date": "Wed, 27 May 2026 11:00:00 GMT",
+    "url": "https://openai.com/index/cisco"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Building self-improving tax agents with Codex",
+    "date": "Wed, 27 May 2026 07:00:00 GMT",
+    "url": "https://openai.com/index/building-self-improving-tax-agents-with-codex"
+  },
+  {
+    "source": "arXiv",
+    "title": "BrickAnything: Geometry-Conditioned Buildable Brick Generation with Structure-Aware Tokenization",
+    "date": "Wed, 27 May 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.26182"
+  },
+  {
+    "source": "arXiv",
+    "title": "Can LLMs Introspect? A Reality Check",
+    "date": "Wed, 27 May 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.26242"
+  },
+  {
+    "source": "arXiv",
+    "title": "Is Agent Memory a Database? Rethinking Data Foundations for Long-Term AI Agent Memory",
+    "date": "Wed, 27 May 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.26252"
+  },
+  {
+    "source": "arXiv",
+    "title": "Personalizing Embodied Multimodal Large Language Model Agents over Long-term User Interactions",
+    "date": "Wed, 27 May 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.26256"
+  },
+  {
+    "source": "arXiv",
+    "title": "Constraint acquisition needs better benchmarks",
+    "date": "Wed, 27 May 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.26279"
+  },
+  {
+    "source": "arXiv",
+    "title": "Your Agents Are Aging Too: Agent Lifespan Engineering for Deployed Systems",
+    "date": "Wed, 27 May 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.26302"
+  },
+  {
+    "source": "arXiv",
+    "title": "Experiments in Agentic AI for Science",
+    "date": "Wed, 27 May 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.26305"
+  },
+  {
+    "source": "arXiv",
+    "title": "Anchor: Mitigating Artifact Drift in Agent Benchmark Generation",
+    "date": "Wed, 27 May 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.26321"
+  },
+  {
+    "source": "arXiv",
+    "title": "OmniToM: Benchmarking Theory of Mind in LLMs via Explicit Belief Modeling",
+    "date": "Wed, 27 May 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.26322"
+  },
+  {
+    "source": "arXiv",
+    "title": "JobBench: Aligning Agent Work With Human Will",
+    "date": "Wed, 27 May 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.26329"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Warp’s big bet on building open source with GPT-5.5",
+    "date": "Wed, 27 May 2026 00:00:00 GMT",
+    "url": "https://openai.com/index/warp"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Election information and safeguards in 2026",
+    "date": "Wed, 27 May 2026 00:00:00 GMT",
+    "url": "https://openai.com/index/election-safeguards-2026"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "Reachy Mini goes fully local",
+    "date": "Wed, 27 May 2026 00:00:00 GMT",
+    "url": "https://huggingface.co/blog/local-reachy-mini-conversation"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "Shipping a Trillion Parameters With a Hub Bucket: Delta Weight Sync in TRL",
+    "date": "Wed, 27 May 2026 00:00:00 GMT",
+    "url": "https://huggingface.co/blog/delta-weight-sync"
+  },
+  {
     "source": "arXiv",
     "title": "In Search of the Ingredients of Open-Endedness: Replicating Picbreeder with Large Vision-Language Models",
     "date": "Tue, 26 May 2026 00:00:00 -0400",
@@ -1096,107 +1198,5 @@
     "title": "PRISM: Perception Reasoning Interleaved for Sequential Decision Making",
     "date": "Fri, 08 May 2026 00:00:00 -0400",
     "url": "https://arxiv.org/abs/2605.05407"
-  },
-  {
-    "source": "arXiv",
-    "title": "Agentic Retrieval-Augmented Generation for Financial Document Question Answering",
-    "date": "Fri, 08 May 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2605.05409"
-  },
-  {
-    "source": "arXiv",
-    "title": "LaTA: A Drop-in, FERPA-Compliant Local-LLM Autograder for Upper-Division STEM Coursework",
-    "date": "Fri, 08 May 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2605.05410"
-  },
-  {
-    "source": "arXiv",
-    "title": "From History to State: Constant-Context Skill Learning for LLM Agents",
-    "date": "Fri, 08 May 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2605.05413"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Scaling Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber",
-    "date": "Thu, 07 May 2026 13:00:00 GMT",
-    "url": "https://openai.com/index/gpt-5-5-with-trusted-access-for-cyber"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Parloa builds service agents customers want to talk to",
-    "date": "Thu, 07 May 2026 11:00:00 GMT",
-    "url": "https://openai.com/index/parloa"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Advancing voice intelligence with new models in the API",
-    "date": "Thu, 07 May 2026 10:00:00 GMT",
-    "url": "https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api"
-  },
-  {
-    "source": "arXiv",
-    "title": "CreativityBench: Evaluating Agent Creative Reasoning via Affordance-Based Tool Repurposing",
-    "date": "Thu, 07 May 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2605.02910"
-  },
-  {
-    "source": "arXiv",
-    "title": "Stable Agentic Control: Tool-Mediated LLM Architecture for Autonomous Cyber Defense",
-    "date": "Thu, 07 May 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2605.03034"
-  },
-  {
-    "source": "arXiv",
-    "title": "Computing Thiele Rules on Interval Elections and their Generalizations",
-    "date": "Thu, 07 May 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2605.03067"
-  },
-  {
-    "source": "arXiv",
-    "title": "Making the Invisible Visible: Understanding the Mismatch Between Organizational Goals and Worker Experiences in AI Adoption",
-    "date": "Thu, 07 May 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2605.03078"
-  },
-  {
-    "source": "arXiv",
-    "title": "Programmatic Context Augmentation for LLM-based Symbolic Regression",
-    "date": "Thu, 07 May 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2605.03101"
-  },
-  {
-    "source": "arXiv",
-    "title": "Are you with me? A Framework for Detecting Mental Model Discrepancies in Task-Based Team Dialogues",
-    "date": "Thu, 07 May 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2605.03149"
-  },
-  {
-    "source": "arXiv",
-    "title": "Learning Correct Behavior from Examples: Validating Sequential Execution in Autonomous Agents",
-    "date": "Thu, 07 May 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2605.03159"
-  },
-  {
-    "source": "arXiv",
-    "title": "Terminus-4B: Can a Smaller Model Replace Frontier LLMs at Agentic Execution Tasks?",
-    "date": "Thu, 07 May 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2605.03195"
-  },
-  {
-    "source": "arXiv",
-    "title": "Stop Automating Peer Review Without Rigorous Evaluation",
-    "date": "Thu, 07 May 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2605.03202"
-  },
-  {
-    "source": "arXiv",
-    "title": "ADAPTS: Agentic Decomposition for Automated Protocol-agnostic Tracking of Symptoms",
-    "date": "Thu, 07 May 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2605.03212"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Introducing Trusted Contact in ChatGPT",
-    "date": "Thu, 07 May 2026 00:00:00 GMT",
-    "url": "https://openai.com/index/introducing-trusted-contact-in-chatgpt"
   }
 ]
