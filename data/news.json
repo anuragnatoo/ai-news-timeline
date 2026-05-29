@@ -1,5 +1,77 @@
 [
   {
+    "source": "OpenAI",
+    "title": "How Endava builds an agentic organization with Codex",
+    "date": "Thu, 28 May 2026 12:00:00 GMT",
+    "url": "https://openai.com/index/endava"
+  },
+  {
+    "source": "arXiv",
+    "title": "Identifying and Understanding Human Values in Text: A Tailorable LLM-based Architecture",
+    "date": "Thu, 28 May 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.27373"
+  },
+  {
+    "source": "arXiv",
+    "title": "Soro: A Lightweight Foundation Model and Chatbot for Tajik",
+    "date": "Thu, 28 May 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.27379"
+  },
+  {
+    "source": "arXiv",
+    "title": "On the Origin of Synthetic Information by Means of Steganographic Inheritance",
+    "date": "Thu, 28 May 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.27551"
+  },
+  {
+    "source": "arXiv",
+    "title": "DynaSchedBench: Calibrated Dynamic Scheduling Benchmarks and Observability Paradox in LLM-based Scheduling Agents",
+    "date": "Thu, 28 May 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.27566"
+  },
+  {
+    "source": "arXiv",
+    "title": "Why LLMs Fail at Causal Discovery and How Interventional Agents Escape",
+    "date": "Thu, 28 May 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.27567"
+  },
+  {
+    "source": "arXiv",
+    "title": "RULER: Representation-Level Verification of Machine Unlearning",
+    "date": "Thu, 28 May 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.27569"
+  },
+  {
+    "source": "arXiv",
+    "title": "LaneRoPE: Positional Encoding for Collaborative Parallel Reasoning and Generation",
+    "date": "Thu, 28 May 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.27570"
+  },
+  {
+    "source": "arXiv",
+    "title": "Discovery Agents for Real-Time Analytics: Toward Proactive Insight Systems",
+    "date": "Thu, 28 May 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.27571"
+  },
+  {
+    "source": "arXiv",
+    "title": "Agyn: An Open-Source Platform for AI Agents with Scalable On-Demand Execution, Agent Definition as a Code, and Zero-Trust Access",
+    "date": "Thu, 28 May 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.27575"
+  },
+  {
+    "source": "arXiv",
+    "title": "You Are in Control of Your State: Why Human Outcomes Are Controllable Through Causal State Intervention",
+    "date": "Thu, 28 May 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.27580"
+  },
+  {
+    "source": "OpenAI",
+    "title": "OpenAI’s Frontier Governance Framework",
+    "date": "Thu, 28 May 2026 00:00:00 GMT",
+    "url": "https://openai.com/index/openai-frontier-governance-framework"
+  },
+  {
     "source": "HuggingFace",
     "title": "ITBench-AA: Frontier Models Score Below 50% on the First Benchmark for Agentic Enterprise IT Tasks — by Artificial Analysis and IBM",
     "date": "Wed, 27 May 2026 17:20:29 GMT",
@@ -1126,77 +1198,5 @@
     "title": "When Does Critique Improve AI-Assisted Theoretical Physics? SCALAR: Structured Critic--Actor Loop for Agentic Reasoning",
     "date": "Mon, 11 May 2026 00:00:00 -0400",
     "url": "https://arxiv.org/abs/2605.06772"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "MachinaCheck: Building a Multi-Agent CNC Manufacturability System on AMD MI300X",
-    "date": "Sun, 10 May 2026 18:44:11 GMT",
-    "url": "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/machinacheck"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "\"OncoAgent: A Dual-Tier Multi-Agent Framework for Privacy-Preserving Oncology Clinical Decision Support\"",
-    "date": "Sat, 09 May 2026 18:09:28 GMT",
-    "url": "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/oncoagent-official-paper"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "CyberSecQwen-4B: Why Defensive Cyber Needs Small, Specialized, Locally-Runnable Models",
-    "date": "Fri, 08 May 2026 17:41:05 GMT",
-    "url": "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/cybersecqwen-4b"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "EMO: Pretraining mixture of experts for emergent modularity",
-    "date": "Fri, 08 May 2026 16:03:50 GMT",
-    "url": "https://huggingface.co/blog/allenai/emo"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Running Codex safely at OpenAI",
-    "date": "Fri, 08 May 2026 12:30:00 GMT",
-    "url": "https://openai.com/index/running-codex-safely"
-  },
-  {
-    "source": "arXiv",
-    "title": "Understanding Annotator Safety Policy with Interpretability",
-    "date": "Fri, 08 May 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2605.05329"
-  },
-  {
-    "source": "arXiv",
-    "title": "ZAYA1-8B Technical Report",
-    "date": "Fri, 08 May 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2605.05365"
-  },
-  {
-    "source": "arXiv",
-    "title": "Partial Evidence Bench: Benchmarking Authorization-Limited Evidence in Agentic Systems",
-    "date": "Fri, 08 May 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2605.05379"
-  },
-  {
-    "source": "arXiv",
-    "title": "BALAR : A Bayesian Agentic Loop for Active Reasoning",
-    "date": "Fri, 08 May 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2605.05386"
-  },
-  {
-    "source": "arXiv",
-    "title": "Intelligent CCTV for Urban Design: AI-Based Analysis of Soft Infrastructure at Intersections",
-    "date": "Fri, 08 May 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2605.05402"
-  },
-  {
-    "source": "arXiv",
-    "title": "When Helpfulness Becomes Sycophancy: Sycophancy is a Boundary Failure Between Social Alignment and Epistemic Integrity in Large Language Models",
-    "date": "Fri, 08 May 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2605.05403"
-  },
-  {
-    "source": "arXiv",
-    "title": "PRISM: Perception Reasoning Interleaved for Sequential Decision Making",
-    "date": "Fri, 08 May 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2605.05407"
   }
 ]
