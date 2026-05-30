@@ -1,6 +1,96 @@
 [
   {
     "source": "OpenAI",
+    "title": "Boston Children’s uses AI to unlock new diagnoses",
+    "date": "Fri, 29 May 2026 12:00:00 GMT",
+    "url": "https://openai.com/index/boston-childrens-hospital"
+  },
+  {
+    "source": "OpenAI",
+    "title": "How Braintrust turns customer requests into code with Codex",
+    "date": "Fri, 29 May 2026 12:00:00 GMT",
+    "url": "https://openai.com/index/braintrust"
+  },
+  {
+    "source": "arXiv",
+    "title": "Behavior-Induced Mirror-Prox Temporal-Difference Learning for Faster Off-Policy Prediction",
+    "date": "Fri, 29 May 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.28849"
+  },
+  {
+    "source": "arXiv",
+    "title": "Behavior-Aware Auxiliary Corrections for Off-Policy Temporal-Difference Prediction",
+    "date": "Fri, 29 May 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.28855"
+  },
+  {
+    "source": "arXiv",
+    "title": "The Cognitive Categorical Transformer: Category-Theoretic Inductive Biases for Language Modeling",
+    "date": "Fri, 29 May 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.28864"
+  },
+  {
+    "source": "arXiv",
+    "title": "Ultra-Reduced-Impact-Encased-Logging (URIEL): propose a new method for selective sustainable logging and post-harvest silvicultural treatment in tropical forest using airborne robotics systems",
+    "date": "Fri, 29 May 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.28883"
+  },
+  {
+    "source": "arXiv",
+    "title": "Review Arcade: On the Human Alignment and Gameability of LLM Reviews",
+    "date": "Fri, 29 May 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.28897"
+  },
+  {
+    "source": "arXiv",
+    "title": "Orthogonal Concept Erasure for Diffusion Models",
+    "date": "Fri, 29 May 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.28902"
+  },
+  {
+    "source": "arXiv",
+    "title": "Frontier LLM-based agents can overcome the ontology curation bottleneck for natural phenotypes",
+    "date": "Fri, 29 May 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.28965"
+  },
+  {
+    "source": "arXiv",
+    "title": "VFEAgent: A Multimodal Agent Framework for End-to-End Automated Finite Element Analysis",
+    "date": "Fri, 29 May 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.28978"
+  },
+  {
+    "source": "arXiv",
+    "title": "BEAMS: Benchmarking and Evaluating AI for Modeling and Simulation",
+    "date": "Fri, 29 May 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.28994"
+  },
+  {
+    "source": "arXiv",
+    "title": "Adopt $\\neq$ Adapt: Longitudinal Analyses of LLM Conversations in the Wild",
+    "date": "Fri, 29 May 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.29018"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Strengthening societal resilience with Rosalind Biodefense",
+    "date": "Fri, 29 May 2026 03:00:00 GMT",
+    "url": "https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense"
+  },
+  {
+    "source": "OpenAI",
+    "title": "A shared playbook for trustworthy third party evaluations",
+    "date": "Fri, 29 May 2026 00:00:00 GMT",
+    "url": "https://openai.com/index/trustworthy-third-party-evaluations-foundations"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "Profiling in PyTorch (Part 1): A Beginner's Guide to torch.profiler",
+    "date": "Fri, 29 May 2026 00:00:00 GMT",
+    "url": "https://huggingface.co/blog/torch-profiler"
+  },
+  {
+    "source": "OpenAI",
     "title": "How Endava builds an agentic organization with Codex",
     "date": "Thu, 28 May 2026 12:00:00 GMT",
     "url": "https://openai.com/index/endava"
@@ -70,6 +160,12 @@
     "title": "OpenAI’s Frontier Governance Framework",
     "date": "Thu, 28 May 2026 00:00:00 GMT",
     "url": "https://openai.com/index/openai-frontier-governance-framework"
+  },
+  {
+    "source": "OpenAI",
+    "title": "MUFG aims to become AI-native with OpenAI",
+    "date": "Thu, 28 May 2026 00:00:00 GMT",
+    "url": "https://openai.com/index/mufg"
   },
   {
     "source": "HuggingFace",
@@ -1102,101 +1198,5 @@
     "title": "What Parameter Golf taught us about AI-assisted research",
     "date": "Tue, 12 May 2026 00:00:00 GMT",
     "url": "https://openai.com/index/what-parameter-golf-taught-us"
-  },
-  {
-    "source": "OpenAI",
-    "title": "AutoScout24 scales engineering with AI-powered workflows",
-    "date": "Tue, 12 May 2026 00:00:00 GMT",
-    "url": "https://openai.com/index/autoscout24"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "Building Blocks for Foundation Model Training and Inference on AWS",
-    "date": "Mon, 11 May 2026 23:18:26 GMT",
-    "url": "https://huggingface.co/blog/amazon/foundation-model-building-blocks"
-  },
-  {
-    "source": "OpenAI",
-    "title": "How ChatGPT adoption broadened in early 2026",
-    "date": "Mon, 11 May 2026 15:00:00 GMT",
-    "url": "https://openai.com/signals/research/2026q1-update"
-  },
-  {
-    "source": "OpenAI",
-    "title": "How enterprises are scaling AI",
-    "date": "Mon, 11 May 2026 10:00:00 GMT",
-    "url": "https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai"
-  },
-  {
-    "source": "OpenAI",
-    "title": "OpenAI Campus Network: Student club interest form",
-    "date": "Mon, 11 May 2026 10:00:00 GMT",
-    "url": "https://openai.com/index/openai-campus-network-student-club-interest-form"
-  },
-  {
-    "source": "OpenAI",
-    "title": "OpenAI launches DeployCo to help businesses build around intelligence",
-    "date": "Mon, 11 May 2026 06:00:00 GMT",
-    "url": "https://openai.com/index/openai-launches-the-deployment-company"
-  },
-  {
-    "source": "arXiv",
-    "title": "GraphDC: A Divide-and-Conquer Multi-Agent System for Scalable Graph Algorithm Reasoning",
-    "date": "Mon, 11 May 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2605.06671"
-  },
-  {
-    "source": "arXiv",
-    "title": "More Thinking, More Bias: Length-Driven Position Bias in Reasoning Models",
-    "date": "Mon, 11 May 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2605.06672"
-  },
-  {
-    "source": "arXiv",
-    "title": "Fast and Effective Redistricting Optimization via Composite-Move Tabu Search",
-    "date": "Mon, 11 May 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2605.06682"
-  },
-  {
-    "source": "arXiv",
-    "title": "State Representation and Termination for Recursive Reasoning Systems",
-    "date": "Mon, 11 May 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2605.06690"
-  },
-  {
-    "source": "arXiv",
-    "title": "Hidden Coalitions in Multi-Agent AI: A Spectral Diagnostic from Internal Representations",
-    "date": "Mon, 11 May 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2605.06696"
-  },
-  {
-    "source": "arXiv",
-    "title": "CASCADE: Case-Based Continual Adaptation for Large Language Models During Deployment",
-    "date": "Mon, 11 May 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2605.06702"
-  },
-  {
-    "source": "arXiv",
-    "title": "From Storage to Experience: A Survey on the Evolution of LLM Agent Memory Mechanisms",
-    "date": "Mon, 11 May 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2605.06716"
-  },
-  {
-    "source": "arXiv",
-    "title": "When Does a Language Model Commit? A Finite-Answer Theory of Pre-Verbalization Commitment",
-    "date": "Mon, 11 May 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2605.06723"
-  },
-  {
-    "source": "arXiv",
-    "title": "Weblica: Scalable and Reproducible Training Environments for Visual Web Agents",
-    "date": "Mon, 11 May 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2605.06761"
-  },
-  {
-    "source": "arXiv",
-    "title": "When Does Critique Improve AI-Assisted Theoretical Physics? SCALAR: Structured Critic--Actor Loop for Agentic Reasoning",
-    "date": "Mon, 11 May 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2605.06772"
   }
 ]
