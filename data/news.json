@@ -1,6 +1,84 @@
 [
   {
     "source": "OpenAI",
+    "title": "Our views on AI policy and political advocacy",
+    "date": "Mon, 01 Jun 2026 17:00:00 GMT",
+    "url": "https://openai.com/index/our-views-on-ai-policy-and-political-advocacy"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Building the infrastructure for the Intelligence Age in Michigan",
+    "date": "Mon, 01 Jun 2026 12:00:00 GMT",
+    "url": "https://openai.com/index/stargate-michigan-data-center"
+  },
+  {
+    "source": "OpenAI",
+    "title": "OpenAI frontier models and Codex are now available on AWS",
+    "date": "Mon, 01 Jun 2026 10:00:00 GMT",
+    "url": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws"
+  },
+  {
+    "source": "arXiv",
+    "title": "PhyDrawGen: Physically Grounded Diagram Generation from Natural Language",
+    "date": "Mon, 01 Jun 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.30512"
+  },
+  {
+    "source": "arXiv",
+    "title": "Physically Viable World Models: A Case for Query-Conditioned Embodied AI",
+    "date": "Mon, 01 Jun 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.30542"
+  },
+  {
+    "source": "arXiv",
+    "title": "Transforming and Encoding FTS for SAT Solving: What Helps, What Hurts (Extended Version)",
+    "date": "Mon, 01 Jun 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.30563"
+  },
+  {
+    "source": "arXiv",
+    "title": "Procedural Generation of First Person Shooter Maps using Map-Elites",
+    "date": "Mon, 01 Jun 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.30570"
+  },
+  {
+    "source": "arXiv",
+    "title": "Uncertainty-Aware and Temporally Regulated Expert Advice in Reinforcement Learning for Autonomous Driving",
+    "date": "Mon, 01 Jun 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.30576"
+  },
+  {
+    "source": "arXiv",
+    "title": "Harness Updating Is Not Harness Benefit: Disentangling Evolution Capabilities in Self-Evolving LLM Agents",
+    "date": "Mon, 01 Jun 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.30621"
+  },
+  {
+    "source": "arXiv",
+    "title": "EHRBench: An Automated and Reliable EHR-based Benchmark for Clinical Decision Making with LLMs",
+    "date": "Mon, 01 Jun 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.30637"
+  },
+  {
+    "source": "arXiv",
+    "title": "Structure-Induced Information for Rerooting Levin Tree Search",
+    "date": "Mon, 01 Jun 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.30664"
+  },
+  {
+    "source": "arXiv",
+    "title": "Healthcare Mechanisms from Policy-as-Code Search under Strategic Provider Response",
+    "date": "Mon, 01 Jun 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.30680"
+  },
+  {
+    "source": "arXiv",
+    "title": "MAVEN: Improving Generalization in Agentic Tool Calling",
+    "date": "Mon, 01 Jun 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2605.30738"
+  },
+  {
+    "source": "OpenAI",
     "title": "Boston Children’s uses AI to unlock new diagnoses",
     "date": "Fri, 29 May 2026 12:00:00 GMT",
     "url": "https://openai.com/index/boston-childrens-hospital"
@@ -1120,83 +1198,5 @@
     "title": "Our response to the TanStack npm supply chain attack",
     "date": "Wed, 13 May 2026 00:00:00 GMT",
     "url": "https://openai.com/index/our-response-to-the-tanstack-npm-supply-chain-attack"
-  },
-  {
-    "source": "OpenAI",
-    "title": "How finance teams use Codex",
-    "date": "Tue, 12 May 2026 15:00:00 GMT",
-    "url": "https://openai.com/academy/how-finance-teams-use-codex"
-  },
-  {
-    "source": "arXiv",
-    "title": "Where Reliability Lives in Vision-Language Models: A Mechanistic Study of Attention, Hidden States, and Causal Circuits",
-    "date": "Tue, 12 May 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2605.08200"
-  },
-  {
-    "source": "arXiv",
-    "title": "Spatial Priming Outperforms Semantic Prompting: A Grid-Based Approach to Improving LLM Accuracy on Chart Data Extraction",
-    "date": "Tue, 12 May 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2605.08220"
-  },
-  {
-    "source": "arXiv",
-    "title": "Auto-Rubric as Reward: From Implicit Preferences to Explicit Multimodal Generative Criteria",
-    "date": "Tue, 12 May 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2605.08354"
-  },
-  {
-    "source": "arXiv",
-    "title": "Embeddings for Preferences, Not Semantics",
-    "date": "Tue, 12 May 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2605.08360"
-  },
-  {
-    "source": "arXiv",
-    "title": "On Distinguishing Capability Elicitation from Capability Creation in Post-Training: A Free-Energy Perspective",
-    "date": "Tue, 12 May 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2605.08368"
-  },
-  {
-    "source": "arXiv",
-    "title": "MemQ: Integrating Q-Learning into Self-Evolving Memory Agents over Provenance DAGs",
-    "date": "Tue, 12 May 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2605.08374"
-  },
-  {
-    "source": "arXiv",
-    "title": "SkillLens: Adaptive Multi-Granularity Skill Reuse for Cost-Efficient LLM Agents",
-    "date": "Tue, 12 May 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2605.08386"
-  },
-  {
-    "source": "arXiv",
-    "title": "PLACO: A Multi-Stage Framework for Cost-Effective Performance in Human-AI Teams",
-    "date": "Tue, 12 May 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2605.08388"
-  },
-  {
-    "source": "arXiv",
-    "title": "CoCoDA: Co-evolving Compositional DAG for Tool-Augmented Agents",
-    "date": "Tue, 12 May 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2605.08399"
-  },
-  {
-    "source": "arXiv",
-    "title": "Belief or Circuitry? Causal Evidence for In-Context Graph Learning",
-    "date": "Tue, 12 May 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2605.08405"
-  },
-  {
-    "source": "OpenAI",
-    "title": "How NVIDIA engineers and researchers build with Codex",
-    "date": "Tue, 12 May 2026 00:00:00 GMT",
-    "url": "https://openai.com/index/nvidia"
-  },
-  {
-    "source": "OpenAI",
-    "title": "What Parameter Golf taught us about AI-assisted research",
-    "date": "Tue, 12 May 2026 00:00:00 GMT",
-    "url": "https://openai.com/index/what-parameter-golf-taught-us"
   }
 ]
