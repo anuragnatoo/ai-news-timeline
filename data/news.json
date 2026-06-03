@@ -1,9 +1,111 @@
 [
   {
+    "source": "HuggingFace",
+    "title": "Holo3.1: Fast & Local Computer Use Agents",
+    "date": "Tue, 02 Jun 2026 14:13:23 GMT",
+    "url": "https://huggingface.co/blog/Hcompany/holo31"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Travelers deploys AI-powered claims countrywide with OpenAI",
+    "date": "Tue, 02 Jun 2026 12:00:00 GMT",
+    "url": "https://openai.com/index/travelers"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Codex for every role, tool, and workflow",
+    "date": "Tue, 02 Jun 2026 09:00:00 GMT",
+    "url": "https://openai.com/index/codex-for-every-role-tool-workflow"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Advancing youth safety and opportunity through global leadership",
+    "date": "Tue, 02 Jun 2026 07:00:00 GMT",
+    "url": "https://openai.com/index/advancing-youth-safety-and-opportunity-through-global-leadership"
+  },
+  {
+    "source": "arXiv",
+    "title": "Position Paper: Post-Solve Robustness in Decision Engines: Feasible Regions and Smoothness Under Perturbations",
+    "date": "Tue, 02 Jun 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2606.00002"
+  },
+  {
+    "source": "arXiv",
+    "title": "Emergent Collaborative Deliberation in Multi-Model AI Systems: A BFT-Derived Protocol for Epistemic Synthesis",
+    "date": "Tue, 02 Jun 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2606.00005"
+  },
+  {
+    "source": "arXiv",
+    "title": "Deliberative Curation: A Protocol for Multi-Agent Knowledge Bases",
+    "date": "Tue, 02 Jun 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2606.00007"
+  },
+  {
+    "source": "arXiv",
+    "title": "Agents on a Tree: Pathwise Coordination for Multi-Objective Molecular Optimization",
+    "date": "Tue, 02 Jun 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2606.00008"
+  },
+  {
+    "source": "arXiv",
+    "title": "Optimal Transport-based Permutation-Invariant Bayesian Optimization of Offshore Wind Farm Layouts",
+    "date": "Tue, 02 Jun 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2606.00009"
+  },
+  {
+    "source": "arXiv",
+    "title": "MindGames Arena Generalization Track: In2AI Solution with Delayed Per-Step Reward Attribution",
+    "date": "Tue, 02 Jun 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2606.00017"
+  },
+  {
+    "source": "arXiv",
+    "title": "Universal Quantum Transformer",
+    "date": "Tue, 02 Jun 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2606.00045"
+  },
+  {
+    "source": "arXiv",
+    "title": "Grokers: Bottom-Up Inductive Comprehension and Write-Time Intelligence over Typed Knowledge Graphs",
+    "date": "Tue, 02 Jun 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2606.00050"
+  },
+  {
+    "source": "arXiv",
+    "title": "Product-Aware Deep Autoencoders for Robust Process Monitoring in Multi-Product Cyber-Physical Systems",
+    "date": "Tue, 02 Jun 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2606.00052"
+  },
+  {
+    "source": "arXiv",
+    "title": "On the evolution of the concept of probability as a mirror of the evolution of reason",
+    "date": "Tue, 02 Jun 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2606.00102"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Codex is becoming a productivity tool for everyone",
+    "date": "Tue, 02 Jun 2026 02:00:00 GMT",
+    "url": "https://openai.com/index/codex-for-knowledge-work"
+  },
+  {
     "source": "OpenAI",
     "title": "Our views on AI policy and political advocacy",
     "date": "Mon, 01 Jun 2026 17:00:00 GMT",
     "url": "https://openai.com/index/our-views-on-ai-policy-and-political-advocacy"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "Introducing Mellum2: A 12B Mixture-of-Experts Model by JetBrains",
+    "date": "Mon, 01 Jun 2026 15:45:17 GMT",
+    "url": "https://huggingface.co/blog/JetBrains/mellum2-launch"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "Beyond LLMs: Why Scalable Enterprise AI Adoption Depends on Agent Logic",
+    "date": "Mon, 01 Jun 2026 13:51:18 GMT",
+    "url": "https://huggingface.co/blog/ibm-research/agent-logic-and-scalable-ai-adoption"
   },
   {
     "source": "OpenAI",
@@ -16,6 +118,12 @@
     "title": "OpenAI frontier models and Codex are now available on AWS",
     "date": "Mon, 01 Jun 2026 10:00:00 GMT",
     "url": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "Welcome NVIDIA Cosmos 3: The First Open Omni-model for Physical AI Reasoning and Action",
+    "date": "Mon, 01 Jun 2026 04:44:55 GMT",
+    "url": "https://huggingface.co/blog/nvidia/cosmos-3-for-physical-ai"
   },
   {
     "source": "arXiv",
@@ -1090,113 +1198,5 @@
     "title": "On the Size Complexity and Decidability of First-Order Progression",
     "date": "Thu, 14 May 2026 00:00:00 -0400",
     "url": "https://arxiv.org/abs/2605.12691"
-  },
-  {
-    "source": "arXiv",
-    "title": "DisaBench: A Participatory Evaluation Framework for Disability Harms in Language Models",
-    "date": "Thu, 14 May 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2605.12702"
-  },
-  {
-    "source": "arXiv",
-    "title": "CHAL: Council of Hierarchical Agentic Language",
-    "date": "Thu, 14 May 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2605.12718"
-  },
-  {
-    "source": "arXiv",
-    "title": "BEHAVE: A Hybrid AI Framework for Real-Time Modeling of Collective Human Dynamics",
-    "date": "Thu, 14 May 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2605.12730"
-  },
-  {
-    "source": "arXiv",
-    "title": "State-Centric Decision Process",
-    "date": "Thu, 14 May 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2605.12755"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Helping ChatGPT better recognize context in sensitive conversations",
-    "date": "Thu, 14 May 2026 00:00:00 GMT",
-    "url": "https://openai.com/index/chatgpt-recognize-context-in-sensitive-conversations"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "Unlocking asynchronicity in continuous batching",
-    "date": "Thu, 14 May 2026 00:00:00 GMT",
-    "url": "https://huggingface.co/blog/continuous_async"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Building a safe, effective sandbox to enable Codex on Windows",
-    "date": "Wed, 13 May 2026 11:00:00 GMT",
-    "url": "https://openai.com/index/building-codex-windows-sandbox"
-  },
-  {
-    "source": "arXiv",
-    "title": "Playing games with knowledge: AI-Induced delusions need game theoretic interventions",
-    "date": "Wed, 13 May 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2605.08409"
-  },
-  {
-    "source": "arXiv",
-    "title": "Political Plasticity: An Analysis of Ideological Adaptability in Large Language Models",
-    "date": "Wed, 13 May 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2605.08415"
-  },
-  {
-    "source": "arXiv",
-    "title": "Alignment as Jurisprudence",
-    "date": "Wed, 13 May 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2605.08416"
-  },
-  {
-    "source": "arXiv",
-    "title": "The Attacker in the Mirror: Breaking Self-Consistency in Safety via Anchored Bipolicy Self-Play",
-    "date": "Wed, 13 May 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2605.08427"
-  },
-  {
-    "source": "arXiv",
-    "title": "Measuring What Matters: Benchmarking Generative, Multimodal, and Agentic AI in Healthcare",
-    "date": "Wed, 13 May 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2605.08445"
-  },
-  {
-    "source": "arXiv",
-    "title": "LLM-guided Semi-Supervised Approaches for Social Media Crisis Data Classification",
-    "date": "Wed, 13 May 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2605.08448"
-  },
-  {
-    "source": "arXiv",
-    "title": "Behavioral Determinants of Deployed AI Agents in Social Networks: A Multi-Factor Study of Personality, Model, and Guardrail Specification",
-    "date": "Wed, 13 May 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2605.08463"
-  },
-  {
-    "source": "arXiv",
-    "title": "Mid-Training with Self-Generated Data Improves Reinforcement Learning in Language Models",
-    "date": "Wed, 13 May 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2605.08472"
-  },
-  {
-    "source": "arXiv",
-    "title": "AI-Care: A Conversational Agentic System for Task Coordination in Alzheimer's Disease Care",
-    "date": "Wed, 13 May 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2605.08480"
-  },
-  {
-    "source": "arXiv",
-    "title": "Latent Personality Alignment: Improving Harmlessness Without Mentioning Harms",
-    "date": "Wed, 13 May 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2605.08496"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Our response to the TanStack npm supply chain attack",
-    "date": "Wed, 13 May 2026 00:00:00 GMT",
-    "url": "https://openai.com/index/our-response-to-the-tanstack-npm-supply-chain-attack"
   }
 ]
