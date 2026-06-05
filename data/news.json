@@ -1,9 +1,111 @@
 [
   {
+    "source": "HuggingFace",
+    "title": "Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI",
+    "date": "Thu, 04 Jun 2026 18:57:45 GMT",
+    "url": "https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "EVA-Bench Data 2.0: 3 Domains, 121 Tools, 213 Scenarios",
+    "date": "Thu, 04 Jun 2026 12:24:58 GMT",
+    "url": "https://huggingface.co/blog/ServiceNow-AI/eva-bench-data"
+  },
+  {
+    "source": "OpenAI",
+    "title": "How Endava is redesigning software delivery around AI agents",
+    "date": "Thu, 04 Jun 2026 12:00:00 GMT",
+    "url": "https://openai.com/index/endava-frontiers"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Dreaming: Better memory for a more helpful ChatGPT",
+    "date": "Thu, 04 Jun 2026 09:00:00 GMT",
+    "url": "https://openai.com/index/chatgpt-memory-dreaming"
+  },
+  {
+    "source": "arXiv",
+    "title": "Toward Pre-Deployment Assurance for Enterprise AI Agents: Ontology-Grounded Simulation and Trust Certification",
+    "date": "Thu, 04 Jun 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2606.04037"
+  },
+  {
+    "source": "arXiv",
+    "title": "Stumbling Into AI Emotional Dependence: How Routine AI Interactions Reshape Human Connection",
+    "date": "Thu, 04 Jun 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2606.04150"
+  },
+  {
+    "source": "arXiv",
+    "title": "Thinking Through Signs: PEEL as a Semiotic Scaffolding for Epistemically Accountable AI-Enabled Research",
+    "date": "Thu, 04 Jun 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2606.04152"
+  },
+  {
+    "source": "arXiv",
+    "title": "SMAC-Talk: A Natural Language Extension of the StarCraft Multi-Agent Challenge for Large Language Models",
+    "date": "Thu, 04 Jun 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2606.04202"
+  },
+  {
+    "source": "arXiv",
+    "title": "Consensus is Strategically Insufficient: Reasoning-Trace Disagreement as a Knowledge-Representation Signal",
+    "date": "Thu, 04 Jun 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2606.04223"
+  },
+  {
+    "source": "arXiv",
+    "title": "VAMPS: Visual-Assisted Mathematical Problem Solving Benchmark",
+    "date": "Thu, 04 Jun 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2606.04244"
+  },
+  {
+    "source": "arXiv",
+    "title": "StepPRM-RTL: Stepwise Process-Reward Guided LLM Fine-Tuning for Enhanced RTL Synthesis",
+    "date": "Thu, 04 Jun 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2606.04246"
+  },
+  {
+    "source": "arXiv",
+    "title": "Can Generalist Agents Automate Data Curation?",
+    "date": "Thu, 04 Jun 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2606.04261"
+  },
+  {
+    "source": "arXiv",
+    "title": "Characterizing initial human-AI proof formalization workflows",
+    "date": "Thu, 04 Jun 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2606.04273"
+  },
+  {
+    "source": "arXiv",
+    "title": "The Saturation Trap and the Subjectivity of Intervention Timing: Why Affect-Based Triggers and LLM Judges Fail to Time Interventions on Autonomous Agents",
+    "date": "Thu, 04 Jun 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2606.04296"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Biodefense in the Intelligence Age",
+    "date": "Thu, 04 Jun 2026 00:00:00 GMT",
+    "url": "https://openai.com/index/biodefense-in-the-intelligence-age"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "Designing the hf CLI as an agent-optimized way to work with the Hub",
+    "date": "Thu, 04 Jun 2026 00:00:00 GMT",
+    "url": "https://huggingface.co/blog/hf-cli-for-agents"
+  },
+  {
     "source": "OpenAI",
     "title": "Introducing new capabilities to GPT-Rosalind",
     "date": "Wed, 03 Jun 2026 13:15:00 GMT",
     "url": "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "Direct Preference Optimization Beyond Chatbots",
+    "date": "Wed, 03 Jun 2026 12:55:11 GMT",
+    "url": "https://huggingface.co/blog/Dharma-AI/direct-preference-optimization-beyond-chatbots"
   },
   {
     "source": "OpenAI",
@@ -82,6 +184,12 @@
     "title": "Don't Gamble, GAMBLe: An Analytical Framework for AI-Driven Research Systems",
     "date": "Wed, 03 Jun 2026 00:00:00 -0400",
     "url": "https://arxiv.org/abs/2606.02863"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "Adding MCP Tools to Reachy Mini",
+    "date": "Wed, 03 Jun 2026 00:00:00 GMT",
+    "url": "https://huggingface.co/blog/adding-mcp-tools-to-reachy-mini"
   },
   {
     "source": "HuggingFace",
@@ -1090,113 +1198,5 @@
     "title": "Bridging Legal Interpretation and Formal Logic: Faithfulness, Assumption, and the Future of AI Legal Reasoning",
     "date": "Sat, 16 May 2026 00:00:00 -0400",
     "url": "https://arxiv.org/abs/2605.14049"
-  },
-  {
-    "source": "arXiv",
-    "title": "SPIN: Structural LLM Planning via Iterative Navigation for Industrial Tasks",
-    "date": "Sat, 16 May 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2605.14051"
-  },
-  {
-    "source": "arXiv",
-    "title": "Bad Seeing or Bad Thinking? Rewarding Perception for Vision-Language Reasoning",
-    "date": "Sat, 16 May 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2605.14054"
-  },
-  {
-    "source": "arXiv",
-    "title": "MathAtlas: A Benchmark for Autoformalization in the Wild",
-    "date": "Sat, 16 May 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2605.14061"
-  },
-  {
-    "source": "arXiv",
-    "title": "Know When To Fold 'Em: Token-Efficient LLM Synthetic Data Generation via Multi-Stage In-Flight Rejection",
-    "date": "Sat, 16 May 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2605.14062"
-  },
-  {
-    "source": "arXiv",
-    "title": "SkillFlow: Flow-Driven Recursive Skill Evolution for Agentic Orchestration",
-    "date": "Sat, 16 May 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2605.14089"
-  },
-  {
-    "source": "arXiv",
-    "title": "ChromaFlow: A Negative Ablation Study of Orchestration Overhead in Tool-Augmented Agent Evaluation",
-    "date": "Sat, 16 May 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2605.14102"
-  },
-  {
-    "source": "arXiv",
-    "title": "Modeling Bounded Rationality in Drug Shortage Pharmacists Using Attention-Guided Dynamic Decomposition",
-    "date": "Sat, 16 May 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2605.14111"
-  },
-  {
-    "source": "OpenAI",
-    "title": "OpenAI and Malta partner to bring ChatGPT Plus to all citizens",
-    "date": "Sat, 16 May 2026 00:00:00 GMT",
-    "url": "https://openai.com/index/malta-chatgpt-plus-partnership"
-  },
-  {
-    "source": "arXiv",
-    "title": "GraphBit: A Graph-based Agentic Framework for Non-Linear Agent Orchestration",
-    "date": "Fri, 15 May 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2605.13848"
-  },
-  {
-    "source": "arXiv",
-    "title": "Mixed Integer Goal Programming for Personalized Meal Optimization with User-Defined Serving Granularity",
-    "date": "Fri, 15 May 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2605.13849"
-  },
-  {
-    "source": "arXiv",
-    "title": "A Two-Dimensional Framework for AI Agent Design Patterns: Cognitive Function and Execution Topology",
-    "date": "Fri, 15 May 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2605.13850"
-  },
-  {
-    "source": "arXiv",
-    "title": "Invisible Orchestrators Suppress Protective Behavior and Dissociate Power-Holders: Safety Risks in Multi-Agent LLM Systems",
-    "date": "Fri, 15 May 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2605.13851"
-  },
-  {
-    "source": "arXiv",
-    "title": "PREPING: Building Agent Memory without Tasks",
-    "date": "Fri, 15 May 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2605.13880"
-  },
-  {
-    "source": "arXiv",
-    "title": "PolitNuggets: Benchmarking Agentic Discovery of Long-Tail Political Facts",
-    "date": "Fri, 15 May 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2605.14002"
-  },
-  {
-    "source": "arXiv",
-    "title": "Conditional Attribute Estimation with Autoregressive Sequence Models",
-    "date": "Fri, 15 May 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2605.14004"
-  },
-  {
-    "source": "arXiv",
-    "title": "Sheaf-Theoretic Transport and Obstruction for Detecting Scientific Theory Shift in AI Agents",
-    "date": "Fri, 15 May 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2605.14033"
-  },
-  {
-    "source": "arXiv",
-    "title": "From Descriptive to Prescriptive: Uncover the Social Value Alignment of LLM-based Agents",
-    "date": "Fri, 15 May 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2605.14034"
-  },
-  {
-    "source": "arXiv",
-    "title": "Enhanced and Efficient Reasoning in Large Learning Models",
-    "date": "Fri, 15 May 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2605.14036"
   }
 ]
