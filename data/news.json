@@ -1,5 +1,65 @@
 [
   {
+    "source": "arXiv",
+    "title": "Exploring Cross-Scenario Generality of Agentic Memory Systems: Diagnostics and a Strong Baseline",
+    "date": "Fri, 05 Jun 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2606.04315"
+  },
+  {
+    "source": "arXiv",
+    "title": "The Digital Apprentice: A Framework for Human-Directed Agentic AI Development",
+    "date": "Fri, 05 Jun 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2606.04321"
+  },
+  {
+    "source": "arXiv",
+    "title": "Online Skill Learning for Web Agents via State-Grounded Dynamic Retrieval",
+    "date": "Fri, 05 Jun 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2606.04391"
+  },
+  {
+    "source": "arXiv",
+    "title": "Not All Errors Are Equal: Consequence-Aware Reasoning Compute Allocation",
+    "date": "Fri, 05 Jun 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2606.04402"
+  },
+  {
+    "source": "arXiv",
+    "title": "Trivium: Temporal Regret as a First-Class Objective for Causal-Memory Controllers",
+    "date": "Fri, 05 Jun 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2606.04421"
+  },
+  {
+    "source": "arXiv",
+    "title": "Cascading Hallucination in Agentic RAG: The CHARM Framework for Detection and Mitigation",
+    "date": "Fri, 05 Jun 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2606.04435"
+  },
+  {
+    "source": "arXiv",
+    "title": "The Meta-Agent Challenge: Are Current Agents Capable of Autonomous Agent Development?",
+    "date": "Fri, 05 Jun 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2606.04455"
+  },
+  {
+    "source": "arXiv",
+    "title": "AgentJet: A Flexible Swarm Training Framework for Agentic Reinforcement Learning",
+    "date": "Fri, 05 Jun 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2606.04484"
+  },
+  {
+    "source": "arXiv",
+    "title": "Beyond Prompt-Based Planning: MCP-Native Graph Planning-based Biomedical Agent System",
+    "date": "Fri, 05 Jun 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2606.04494"
+  },
+  {
+    "source": "arXiv",
+    "title": "Simulate, Reason, Decide: Scientific Reasoning with LLMs for Simulation-Driven Decision Making",
+    "date": "Fri, 05 Jun 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2606.04505"
+  },
+  {
     "source": "HuggingFace",
     "title": "Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI",
     "date": "Thu, 04 Jun 2026 18:57:45 GMT",
@@ -1138,65 +1198,5 @@
     "title": "Does Theory of Mind Improvement Really Benefit Human-AI Interactions? Empirical Findings from Interactive Evaluations",
     "date": "Mon, 18 May 2026 00:00:00 -0400",
     "url": "https://arxiv.org/abs/2605.15205"
-  },
-  {
-    "source": "arXiv",
-    "title": "SkillSmith: Compiling Agent Skills into Boundary-Guided Runtime Interfaces",
-    "date": "Mon, 18 May 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2605.15215"
-  },
-  {
-    "source": "arXiv",
-    "title": "Fair outputs, Biased Internals: Causal Potency and Asymmetry of Latent Bias in LLMs for High-Stakes Decisions",
-    "date": "Mon, 18 May 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2605.15217"
-  },
-  {
-    "source": "arXiv",
-    "title": "CAX-Agent: A Lightweight Agent Harness for Reliable APDL Automation",
-    "date": "Mon, 18 May 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2605.15218"
-  },
-  {
-    "source": "arXiv",
-    "title": "NOVA: Fundamental Limits of Knowledge Discovery Through AI",
-    "date": "Mon, 18 May 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2605.15219"
-  },
-  {
-    "source": "arXiv",
-    "title": "ICRL: Learning to Internalize Self-Critique with Reinforcement Learning",
-    "date": "Mon, 18 May 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2605.15224"
-  },
-  {
-    "source": "arXiv",
-    "title": "NIMO Controller: a self-driving laboratory orchestrator based on the Model Context Protocol",
-    "date": "Mon, 18 May 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2605.15227"
-  },
-  {
-    "source": "arXiv",
-    "title": "Verifiable Agentic Infrastructure: Proof-Derived Authorization for Sovereign AI Systems",
-    "date": "Mon, 18 May 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2605.15228"
-  },
-  {
-    "source": "arXiv",
-    "title": "Model-Adaptive Tool Necessity Reveals the Knowing-Doing Gap in LLM Tool Use",
-    "date": "Sat, 16 May 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2605.14038"
-  },
-  {
-    "source": "arXiv",
-    "title": "Network-Aware Bilinear Tokenization for Brain Functional Connectivity Representation Learning",
-    "date": "Sat, 16 May 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2605.14048"
-  },
-  {
-    "source": "arXiv",
-    "title": "Bridging Legal Interpretation and Formal Logic: Faithfulness, Assumption, and the Future of AI Legal Reasoning",
-    "date": "Sat, 16 May 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2605.14049"
   }
 ]
