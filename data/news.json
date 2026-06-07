@@ -1,5 +1,71 @@
 [
   {
+    "source": "HuggingFace",
+    "title": "Five labs, five minds: building a multi-model finance drama on small models",
+    "date": "Sat, 06 Jun 2026 19:02:33 GMT",
+    "url": "https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim-v2"
+  },
+  {
+    "source": "arXiv",
+    "title": "How Far Did They Go? The Persuasive Tactics of Covert LLM Agents in a Discontinued Field Experiment",
+    "date": "Sat, 06 Jun 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2606.05256"
+  },
+  {
+    "source": "arXiv",
+    "title": "What Should Agents Say? Action-state Communication for Efficient Multi-Agent Systems",
+    "date": "Sat, 06 Jun 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2606.05304"
+  },
+  {
+    "source": "arXiv",
+    "title": "I Know What You Meme, Even If it Emerged Today: Understanding Evolving Memes through Open-World Knowledge Acquisition",
+    "date": "Sat, 06 Jun 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2606.05316"
+  },
+  {
+    "source": "arXiv",
+    "title": "GITCO: Gated Inference-Time Context Optimization in TSFMs",
+    "date": "Sat, 06 Jun 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2606.05332"
+  },
+  {
+    "source": "arXiv",
+    "title": "Uncertainty Aware Functional Behavior Prediction and Material Fatigue Assessment for Circular Factory",
+    "date": "Sat, 06 Jun 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2606.05334"
+  },
+  {
+    "source": "arXiv",
+    "title": "SentinelBench: A Benchmark for Long-Running Monitoring Agents",
+    "date": "Sat, 06 Jun 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2606.05342"
+  },
+  {
+    "source": "arXiv",
+    "title": "An interpretable and trustworthy AI framework for large-scale longitudinal structure-pain association studies using data from the Osteoarthritis Initiative (OAI)",
+    "date": "Sat, 06 Jun 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2606.05357"
+  },
+  {
+    "source": "arXiv",
+    "title": "Synthetic Contrastive Reasoning for Multi-Table Q&A",
+    "date": "Sat, 06 Jun 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2606.05382"
+  },
+  {
+    "source": "arXiv",
+    "title": "Stability vs. Manipulability: Evaluating Robustness Under Post-Decision Interaction in LLM Judges",
+    "date": "Sat, 06 Jun 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2606.05384"
+  },
+  {
+    "source": "arXiv",
+    "title": "Residual Modeling for High-Fidelity Learned Compression of Scientific Data",
+    "date": "Sat, 06 Jun 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2606.05389"
+  },
+  {
     "source": "arXiv",
     "title": "Exploring Cross-Scenario Generality of Agentic Memory Systems: Diagnostics and a Strong Baseline",
     "date": "Fri, 05 Jun 2026 00:00:00 -0400",
@@ -1132,71 +1198,5 @@
     "title": "PRISMat: Policy-Driven, Permutation-Invariant Autoregressive Material Generation",
     "date": "Tue, 19 May 2026 00:00:00 -0400",
     "url": "https://arxiv.org/abs/2605.16612"
-  },
-  {
-    "source": "arXiv",
-    "title": "TTE-Flash: Accelerating Reasoning-based Multimodal Representations via Think-Then-Embed Tokens",
-    "date": "Tue, 19 May 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2605.16638"
-  },
-  {
-    "source": "arXiv",
-    "title": "Sustainable Intelligence for the Wild: Democratizing Ecological Monitoring via Knowledge-Adaptive Edge Expert Agents",
-    "date": "Tue, 19 May 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2605.16671"
-  },
-  {
-    "source": "arXiv",
-    "title": "LinAlg-Bench: A Forensic Benchmark Revealing Structural Failure Modes in LLM Mathematical Reasoning",
-    "date": "Tue, 19 May 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2605.16675"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "Introducing the Ettin Reranker Family",
-    "date": "Tue, 19 May 2026 00:00:00 GMT",
-    "url": "https://huggingface.co/blog/ettin-reranker"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "Fine-Tuning NVIDIA Cosmos Predict 2.5 with LoRA/DoRA for Robot Video Generation",
-    "date": "Mon, 18 May 2026 16:00:21 GMT",
-    "url": "https://huggingface.co/blog/nvidia/cosmos-fine-tuning-for-robot-video-generation"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "PaddleOCR 3.5: Running OCR and Document Parsing Tasks with a Transformers Backend",
-    "date": "Mon, 18 May 2026 15:12:46 GMT",
-    "url": "https://huggingface.co/blog/PaddlePaddle/paddleocr-transformers"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "The Open Agent Leaderboard",
-    "date": "Mon, 18 May 2026 14:12:58 GMT",
-    "url": "https://huggingface.co/blog/ibm-research/open-agent-leaderboard"
-  },
-  {
-    "source": "OpenAI",
-    "title": "OpenAI and Dell partner to bring Codex to hybrid and on-premise enterprise environments",
-    "date": "Mon, 18 May 2026 10:00:00 GMT",
-    "url": "https://openai.com/index/dell-codex-enterprise-partnership"
-  },
-  {
-    "source": "arXiv",
-    "title": "DeepSlide: From Artifacts to Presentation Delivery",
-    "date": "Mon, 18 May 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2605.15202"
-  },
-  {
-    "source": "arXiv",
-    "title": "SDOF: Taming the Alignment Tax in Multi-Agent Orchestration with State-Constrained Dispatch",
-    "date": "Mon, 18 May 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2605.15204"
-  },
-  {
-    "source": "arXiv",
-    "title": "Does Theory of Mind Improvement Really Benefit Human-AI Interactions? Empirical Findings from Interactive Evaluations",
-    "date": "Mon, 18 May 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2605.15205"
   }
 ]
