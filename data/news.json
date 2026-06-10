@@ -1,5 +1,107 @@
 [
   {
+    "source": "HuggingFace",
+    "title": "Can Voice Agents Handle Bilingual Customers? Benchmarking Frontier ASR on Code-Switched Speech",
+    "date": "Tue, 09 Jun 2026 19:38:28 GMT",
+    "url": "https://huggingface.co/blog/ServiceNow-AI/code-switching"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "Introducing North Mini Code: Cohere’s First Model For Developers",
+    "date": "Tue, 09 Jun 2026 15:56:23 GMT",
+    "url": "https://huggingface.co/blog/CohereLabs/introducing-north-mini-code"
+  },
+  {
+    "source": "OpenAI",
+    "title": "How engineers at Nextdoor use Codex to build without limits",
+    "date": "Tue, 09 Jun 2026 12:00:00 GMT",
+    "url": "https://openai.com/index/nextdoor"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "How an Agent Built a 3D Paris Gallery by Chaining Two Hugging Face Spaces",
+    "date": "Tue, 09 Jun 2026 10:46:19 GMT",
+    "url": "https://huggingface.co/blog/mishig/spaces-agents-md"
+  },
+  {
+    "source": "OpenAI",
+    "title": "What Codex unlocks for Notion",
+    "date": "Tue, 09 Jun 2026 10:00:00 GMT",
+    "url": "https://openai.com/index/notion"
+  },
+  {
+    "source": "arXiv",
+    "title": "PathoSage: Towards Multi-Source Evidence Adjudication in Pathology via Experience-Aware Agentic Workflow",
+    "date": "Tue, 09 Jun 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2606.07549"
+  },
+  {
+    "source": "arXiv",
+    "title": "OmniMem: Perturbation-aware Memory Compression for Streaming Audio-Visual LLMs",
+    "date": "Tue, 09 Jun 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2606.07577"
+  },
+  {
+    "source": "arXiv",
+    "title": "Syll: Open-Source Personal Automation with Cross-Surface Execution",
+    "date": "Tue, 09 Jun 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2606.07594"
+  },
+  {
+    "source": "arXiv",
+    "title": "A case study of evaluating AI agents on a neuroscience data-to-discovery pipeline",
+    "date": "Tue, 09 Jun 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2606.07718"
+  },
+  {
+    "source": "arXiv",
+    "title": "Why Limit the Residual Stream to Layers and Not Tokens? Persistent Memory for Continuous Latent Reasoning",
+    "date": "Tue, 09 Jun 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2606.07720"
+  },
+  {
+    "source": "arXiv",
+    "title": "Automatic Extraction of Structured Information from Brain MRI Reports Using an Open-Weight Large Language Model",
+    "date": "Tue, 09 Jun 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2606.07721"
+  },
+  {
+    "source": "arXiv",
+    "title": "Some hypotheses on how chatbots work in problem-solving-driven conversations. Large Language Models as confirmation of the Innovation Illusion",
+    "date": "Tue, 09 Jun 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2606.07722"
+  },
+  {
+    "source": "arXiv",
+    "title": "Land cover and flood type govern the detection limits of satellite-based flood mapping across diverse global flood events",
+    "date": "Tue, 09 Jun 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2606.07780"
+  },
+  {
+    "source": "arXiv",
+    "title": "Reconstructing and forecasting disease trajectories of patients with Alzheimer's disease using routine data in resource-constrained settings",
+    "date": "Tue, 09 Jun 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2606.07798"
+  },
+  {
+    "source": "arXiv",
+    "title": "Improving Multimodal Reasoning via Worst Dimension Optimization",
+    "date": "Tue, 09 Jun 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2606.07801"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Industrial policy for the Intelligence Age",
+    "date": "Tue, 09 Jun 2026 00:00:00 GMT",
+    "url": "https://openai.com/index/industrial-policy-for-the-intelligence-age"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "Migrating Your GitHub CI to Hugging Face Jobs",
+    "date": "Tue, 09 Jun 2026 00:00:00 GMT",
+    "url": "https://huggingface.co/blog/github-ci-hf-jobs"
+  },
+  {
     "source": "OpenAI",
     "title": "Confidential submission of draft S-1 to the SEC",
     "date": "Mon, 08 Jun 2026 14:00:00 GMT",
@@ -1096,107 +1198,5 @@
     "title": "Learning to Hand Off: Provably Convergent Workflow Learning under Interface Constraints",
     "date": "Thu, 21 May 2026 00:00:00 -0400",
     "url": "https://arxiv.org/abs/2605.19140"
-  },
-  {
-    "source": "arXiv",
-    "title": "Progressive Autonomy as Preference Learning: A Formalization of Trust Calibration for Agentic Tool Use",
-    "date": "Thu, 21 May 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2605.19151"
-  },
-  {
-    "source": "arXiv",
-    "title": "How Far Are We From True Auto-Research?",
-    "date": "Thu, 21 May 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2605.19156"
-  },
-  {
-    "source": "arXiv",
-    "title": "Discoverable Agent Knowledge -- A Formal Framework for Agentic KG Affordances (Extended Version)",
-    "date": "Thu, 21 May 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2605.19186"
-  },
-  {
-    "source": "arXiv",
-    "title": "Hallucination as Exploit: Evidence-Carrying Multimodal Agents",
-    "date": "Thu, 21 May 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2605.19192"
-  },
-  {
-    "source": "arXiv",
-    "title": "Not all uncertainty is alike: volatility, stochasticity, and exploration",
-    "date": "Thu, 21 May 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2605.19215"
-  },
-  {
-    "source": "arXiv",
-    "title": "SimGym: A Framework for A/B Test Simulation in E-Commerce with Traffic-Grounded VLM Agents",
-    "date": "Thu, 21 May 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2605.19219"
-  },
-  {
-    "source": "arXiv",
-    "title": "Can Large Language Models Revolutionize Survey Research? Experiments with Disaster Preparedness Responses",
-    "date": "Thu, 21 May 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2605.19229"
-  },
-  {
-    "source": "arXiv",
-    "title": "Causal Evidence for Attention Head Imbalance in Modality Conflict Hallucination",
-    "date": "Thu, 21 May 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2605.19250"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Introducing OpenAI for Singapore",
-    "date": "Wed, 20 May 2026 11:30:00 GMT",
-    "url": "https://openai.com/index/introducing-openai-for-singapore"
-  },
-  {
-    "source": "arXiv",
-    "title": "Position: Let's Develop Data Probes to Fundamentally Understand How Data Affects LLM Performance",
-    "date": "Wed, 20 May 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2605.18801"
-  },
-  {
-    "source": "arXiv",
-    "title": "Operationalizing Document AI: A Microservice Architecture for OCR and LLM Pipelines in Production",
-    "date": "Wed, 20 May 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2605.18818"
-  },
-  {
-    "source": "arXiv",
-    "title": "Evaluating the Utility of Personal Health Records in Personalized Health AI",
-    "date": "Wed, 20 May 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2605.18937"
-  },
-  {
-    "source": "arXiv",
-    "title": "Learn-by-Wire Training Control Governance: Bounded Autonomous Training Under Stress for Stability and Efficiency",
-    "date": "Wed, 20 May 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2605.19008"
-  },
-  {
-    "source": "arXiv",
-    "title": "AgentNLQ: A General-Purpose Agent for Natural Language to SQL",
-    "date": "Wed, 20 May 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2605.19010"
-  },
-  {
-    "source": "arXiv",
-    "title": "KAN-MLP-Mixer: A comprehensive investigation of the usage of Kolmogorov-Arnold Networks (KANs) for improving IMU-based Human Activity Recognition",
-    "date": "Wed, 20 May 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2605.19031"
-  },
-  {
-    "source": "arXiv",
-    "title": "Trustworthy Agent Network: Trust in Agent Networks Must Be Baked In, Not Bolted On",
-    "date": "Wed, 20 May 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2605.19035"
-  },
-  {
-    "source": "arXiv",
-    "title": "Interference-Aware Multi-Task Unlearning",
-    "date": "Wed, 20 May 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2605.19042"
   }
 ]
