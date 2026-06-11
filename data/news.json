@@ -1,5 +1,89 @@
 [
   {
+    "source": "OpenAI",
+    "title": "How an astrophysicist uses Codex to help simulate black holes",
+    "date": "Thu, 11 Jun 2026 00:00:00 GMT",
+    "url": "https://openai.com/index/using-codex-to-simulate-black-holes"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Access OpenAI models and Codex through your Oracle cloud commitment",
+    "date": "Wed, 10 Jun 2026 20:00:00 GMT",
+    "url": "https://openai.com/index/openai-on-oracle-cloud"
+  },
+  {
+    "source": "OpenAI",
+    "title": "PRC-linked influence operations are targeting AI debates in the US",
+    "date": "Wed, 10 Jun 2026 12:00:00 GMT",
+    "url": "https://openai.com/index/prc-linked-influence-operations-ai-debates"
+  },
+  {
+    "source": "arXiv",
+    "title": "Business World Model",
+    "date": "Wed, 10 Jun 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2606.10044"
+  },
+  {
+    "source": "arXiv",
+    "title": "Deployment-Time Memorization in Foundation-Model Agents",
+    "date": "Wed, 10 Jun 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2606.10062"
+  },
+  {
+    "source": "arXiv",
+    "title": "Exploratory Responsiveness and Adaptive Rigidity under AI-Assisted Optimization",
+    "date": "Wed, 10 Jun 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2606.10086"
+  },
+  {
+    "source": "arXiv",
+    "title": "Predictive Assistance and the Temporal Dynamics of Exploratory Compression",
+    "date": "Wed, 10 Jun 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2606.10094"
+  },
+  {
+    "source": "arXiv",
+    "title": "From Senses to Decisions: The Information Flow of Auditory and Visual Perception in Multimodal LLMs",
+    "date": "Wed, 10 Jun 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2606.10147"
+  },
+  {
+    "source": "arXiv",
+    "title": "Less Context, Better Agents: Efficient Context Engineering for Long-Horizon Tool-Using LLM Agents",
+    "date": "Wed, 10 Jun 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2606.10209"
+  },
+  {
+    "source": "arXiv",
+    "title": "Minimalist Genetic Programming",
+    "date": "Wed, 10 Jun 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2606.10237"
+  },
+  {
+    "source": "arXiv",
+    "title": "Regimes: An Auditable, Held-Out-Gated Improvement Loop Demonstrated on LongMemEval with ActiveGraph",
+    "date": "Wed, 10 Jun 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2606.10241"
+  },
+  {
+    "source": "arXiv",
+    "title": "RealMath-Eval: Why SOTA Judges Struggle with Real Human Reasoning",
+    "date": "Wed, 10 Jun 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2606.10254"
+  },
+  {
+    "source": "arXiv",
+    "title": "Supervised Fine-tuning with Synthetic Rationale Data Hurts Real-World Disease Prediction",
+    "date": "Wed, 10 Jun 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2606.10279"
+  },
+  {
+    "source": "OpenAI",
+    "title": "From data to decisions: how LSEG is scaling trusted AI",
+    "date": "Wed, 10 Jun 2026 00:00:00 GMT",
+    "url": "https://openai.com/index/lseg"
+  },
+  {
     "source": "HuggingFace",
     "title": "Can Voice Agents Handle Bilingual Customers? Benchmarking Frontier ASR on Code-Switched Speech",
     "date": "Tue, 09 Jun 2026 19:38:28 GMT",
@@ -1114,89 +1198,5 @@
     "title": "SOLAR: A Self-Optimizing Open-Ended Autonomous Agent for Lifelong Learning and Continual Adaptation",
     "date": "Fri, 22 May 2026 00:00:00 -0400",
     "url": "https://arxiv.org/abs/2605.20189"
-  },
-  {
-    "source": "arXiv",
-    "title": "Tool-Augmented Agent for Closed-loop Optimization,Simulation,and Modeling Orchestration",
-    "date": "Fri, 22 May 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2605.20190"
-  },
-  {
-    "source": "arXiv",
-    "title": "OSCToM: RL-Guided Adversarial Generation for High-Order Theory of Mind",
-    "date": "Fri, 22 May 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2605.20423"
-  },
-  {
-    "source": "arXiv",
-    "title": "AgentCo-op: Retrieval-Based Synthesis of Interoperable Multi-Agent Workflows",
-    "date": "Fri, 22 May 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2605.20425"
-  },
-  {
-    "source": "arXiv",
-    "title": "High Quality Embeddings for Horn Logic Reasoning",
-    "date": "Fri, 22 May 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2605.20467"
-  },
-  {
-    "source": "arXiv",
-    "title": "$ECUAS_n$: A family of metrics for principled evaluation of uncertainty-augmented systems",
-    "date": "Fri, 22 May 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2605.20490"
-  },
-  {
-    "source": "arXiv",
-    "title": "Open-World Evaluations for Measuring Frontier AI Capabilities",
-    "date": "Fri, 22 May 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2605.20520"
-  },
-  {
-    "source": "arXiv",
-    "title": "AgentAtlas: Beyond Outcome Leaderboards for LLM Agents",
-    "date": "Fri, 22 May 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2605.20530"
-  },
-  {
-    "source": "arXiv",
-    "title": "Personality Engineering with AI Agents: A New Methodology for Negotiation Research",
-    "date": "Fri, 22 May 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2605.20554"
-  },
-  {
-    "source": "arXiv",
-    "title": "Mahjax: A GPU-Accelerated Mahjong Simulator for Reinforcement Learning in JAX",
-    "date": "Fri, 22 May 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2605.20577"
-  },
-  {
-    "source": "OpenAI",
-    "title": "OpenAI named a Leader in enterprise coding agents by Gartner",
-    "date": "Fri, 22 May 2026 00:00:00 GMT",
-    "url": "https://openai.com/index/gartner-2026-agentic-coding-leader"
-  },
-  {
-    "source": "OpenAI",
-    "title": "How Virgin Atlantic ships faster with Codex",
-    "date": "Fri, 22 May 2026 00:00:00 GMT",
-    "url": "https://openai.com/index/virgin-atlantic"
-  },
-  {
-    "source": "OpenAI",
-    "title": "AdventHealth advances whole-person care with OpenAI",
-    "date": "Thu, 21 May 2026 12:00:00 GMT",
-    "url": "https://openai.com/index/adventhealth"
-  },
-  {
-    "source": "arXiv",
-    "title": "POLAR-Bench: A Diagnostic Benchmark for Privacy-Utility Trade-offs in LLM Agents",
-    "date": "Thu, 21 May 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2605.19127"
-  },
-  {
-    "source": "arXiv",
-    "title": "Learning to Hand Off: Provably Convergent Workflow Learning under Interface Constraints",
-    "date": "Thu, 21 May 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2605.19140"
   }
 ]
