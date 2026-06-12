@@ -1,9 +1,93 @@
 [
   {
+    "source": "arXiv",
+    "title": "From Explicit Elements to Implicit Intent: A Predefined Library for Auditable Behavioral Inference",
+    "date": "Thu, 11 Jun 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2606.11207"
+  },
+  {
+    "source": "arXiv",
+    "title": "Position: Hippocampal Explicit Memory Is the Cornerstone for AGI",
+    "date": "Thu, 11 Jun 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2606.11245"
+  },
+  {
+    "source": "arXiv",
+    "title": "Can AI Agents Synthesize Scientific Conclusions?",
+    "date": "Thu, 11 Jun 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2606.11337"
+  },
+  {
+    "source": "arXiv",
+    "title": "Knowing When to Ask: Self-Gated Clarification for Hierarchical Language Agents",
+    "date": "Thu, 11 Jun 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2606.11349"
+  },
+  {
+    "source": "arXiv",
+    "title": "Automated Mediator for Human Negotiation: Pre-Mediation via a Structured LLM Pipeline",
+    "date": "Thu, 11 Jun 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2606.11379"
+  },
+  {
+    "source": "arXiv",
+    "title": "INFRAMIND: Infrastructure-Aware Multi-Agent Orchestration",
+    "date": "Thu, 11 Jun 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2606.11440"
+  },
+  {
+    "source": "arXiv",
+    "title": "Forecasting Future Behavior as a Learning Task",
+    "date": "Thu, 11 Jun 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2606.11445"
+  },
+  {
+    "source": "arXiv",
+    "title": "Search Discipline for Long-Horizon Research Agents",
+    "date": "Thu, 11 Jun 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2606.11522"
+  },
+  {
+    "source": "arXiv",
+    "title": "MoCA-Agent: A Market-of-Claims Code Agent for Financial and Numerical Reasoning",
+    "date": "Thu, 11 Jun 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2606.11537"
+  },
+  {
+    "source": "arXiv",
+    "title": "SkillJuror: Measuring How Agent Skill Organization Changes Runtime Behavior",
+    "date": "Thu, 11 Jun 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2606.11543"
+  },
+  {
     "source": "OpenAI",
     "title": "How an astrophysicist uses Codex to help simulate black holes",
     "date": "Thu, 11 Jun 2026 00:00:00 GMT",
     "url": "https://openai.com/index/using-codex-to-simulate-black-holes"
+  },
+  {
+    "source": "OpenAI",
+    "title": "BBVA puts AI at the core of banking with OpenAI",
+    "date": "Thu, 11 Jun 2026 00:00:00 GMT",
+    "url": "https://openai.com/index/bbva"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem ",
+    "date": "Thu, 11 Jun 2026 00:00:00 GMT",
+    "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem"
+  },
+  {
+    "source": "OpenAI",
+    "title": "OpenAI to acquire Ona",
+    "date": "Thu, 11 Jun 2026 00:00:00 GMT",
+    "url": "https://openai.com/index/openai-to-acquire-ona"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "Profiling in PyTorch (Part 2): From nn.Linear to a Fused MLP",
+    "date": "Thu, 11 Jun 2026 00:00:00 GMT",
+    "url": "https://huggingface.co/blog/torch-mlp-fusion"
   },
   {
     "source": "OpenAI",
@@ -1114,89 +1198,5 @@
     "title": "BOHM: Zero-Cost Hierarchical Attribution for Compound AI Systems",
     "date": "Mon, 25 May 2026 00:00:00 -0400",
     "url": "https://arxiv.org/abs/2605.22866"
-  },
-  {
-    "source": "arXiv",
-    "title": "NeuroNL2LTL: A Neurosymbolic Framework for Natural Language Translation of Linear Temporal Logic",
-    "date": "Mon, 25 May 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2605.22874"
-  },
-  {
-    "source": "arXiv",
-    "title": "RMA: an Agentic System for Research-Level Mathematical Problems",
-    "date": "Mon, 25 May 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2605.22875"
-  },
-  {
-    "source": "arXiv",
-    "title": "SciAtlas: A Large-Scale Knowledge Graph for Automated Scientific Research",
-    "date": "Mon, 25 May 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2605.22878"
-  },
-  {
-    "source": "arXiv",
-    "title": "Energy per Successful Goal: Goal-Level Energy Accounting for Agentic AI Systems",
-    "date": "Mon, 25 May 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2605.22883"
-  },
-  {
-    "source": "arXiv",
-    "title": "ImProver 2: Iteratively Self-Improving LMs for Neurosymbolic Proof Optimization",
-    "date": "Mon, 25 May 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2605.22885"
-  },
-  {
-    "source": "arXiv",
-    "title": "Mediative Fuzzy Logic: From Type-1 Foundations to Type-2, Type-3 and Quantum Extensions",
-    "date": "Mon, 25 May 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2605.22900"
-  },
-  {
-    "source": "arXiv",
-    "title": "EVE-Agent: Evidence-Verifiable Self-Evolving Agents",
-    "date": "Mon, 25 May 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2605.22905"
-  },
-  {
-    "source": "arXiv",
-    "title": "The Deterministic Horizon: Impossibility Results as Design Specifications for Trustworthy AI Systems",
-    "date": "Mon, 25 May 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2605.23024"
-  },
-  {
-    "source": "arXiv",
-    "title": "PathCal: State-Aware Reflection-Marker Calibration for Efficient Reasoning",
-    "date": "Mon, 25 May 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2605.23074"
-  },
-  {
-    "source": "OpenAI",
-    "title": "OpenAI, Grupo Folha and Grupo UOL announce strategic content partnership",
-    "date": "Mon, 25 May 2026 00:00:00 GMT",
-    "url": "https://openai.com/index/grupo-folha-grupo-uol-partnership"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "Harness, Scaffold, and the AI Agent Terms Worth Getting Right",
-    "date": "Mon, 25 May 2026 00:00:00 GMT",
-    "url": "https://huggingface.co/blog/agent-glossary"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "Towards Speed-of-Light Text Generation with Nemotron-Labs Diffusion Language Models",
-    "date": "Sat, 23 May 2026 00:02:03 GMT",
-    "url": "https://huggingface.co/blog/nvidia/nemotron-labs-diffusion"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "Specialization Beats Scale: A Strategic Variable Most AI Procurement Decisions Overlook",
-    "date": "Fri, 22 May 2026 15:25:59 GMT",
-    "url": "https://huggingface.co/blog/Dharma-AI/specialization-beats-scale"
-  },
-  {
-    "source": "arXiv",
-    "title": "SOLAR: A Self-Optimizing Open-Ended Autonomous Agent for Lifelong Learning and Continual Adaptation",
-    "date": "Fri, 22 May 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2605.20189"
   }
 ]
