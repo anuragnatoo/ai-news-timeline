@@ -1,5 +1,83 @@
 [
   {
+    "source": "HuggingFace",
+    "title": "olmo-eval: An evaluation workbench for the model development loop",
+    "date": "Fri, 12 Jun 2026 15:56:10 GMT",
+    "url": "https://huggingface.co/blog/allenai/olmo-eval"
+  },
+  {
+    "source": "OpenAI",
+    "title": "New OpenAI Academy courses for the next era of work",
+    "date": "Fri, 12 Jun 2026 10:00:00 GMT",
+    "url": "https://openai.com/index/academy-courses-applying-ai-at-work"
+  },
+  {
+    "source": "arXiv",
+    "title": "ToolSense: A Diagnostic Framework for Auditing Parametric Tool Knowledge in LLMs",
+    "date": "Fri, 12 Jun 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2606.12451"
+  },
+  {
+    "source": "arXiv",
+    "title": "Arbor: Tree Search as a Cognition Layer for Autonomous Agents",
+    "date": "Fri, 12 Jun 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2606.12563"
+  },
+  {
+    "source": "arXiv",
+    "title": "Strategic Decision Support for AI Agents",
+    "date": "Fri, 12 Jun 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2606.12587"
+  },
+  {
+    "source": "arXiv",
+    "title": "Pythagoras-Prover: Advancing Efficient Formal Proving via Augmented Lean Formalisation",
+    "date": "Fri, 12 Jun 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2606.12594"
+  },
+  {
+    "source": "arXiv",
+    "title": "PersonaDrive: Human-Style Retrieval-Augmented VLA Agents for Closed-Loop Driving Simulation",
+    "date": "Fri, 12 Jun 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2606.12616"
+  },
+  {
+    "source": "arXiv",
+    "title": "\"Did you lie?\" Evaluating Lie Detectors across Model Scale and Belief-Verified Model Organisms",
+    "date": "Fri, 12 Jun 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2606.12618"
+  },
+  {
+    "source": "arXiv",
+    "title": "TrajGenAgent: A Hierarchical LLM Agent for Human Mobility Trajectory Generation",
+    "date": "Fri, 12 Jun 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2606.12657"
+  },
+  {
+    "source": "arXiv",
+    "title": "Evoflux: Inference-Time Evolution of Executable Tool Workflows for Compact Agents",
+    "date": "Fri, 12 Jun 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2606.12674"
+  },
+  {
+    "source": "arXiv",
+    "title": "From AGI to ASI",
+    "date": "Fri, 12 Jun 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2606.12683"
+  },
+  {
+    "source": "arXiv",
+    "title": "Deployment-Centered Evaluation: Predicting Query-Level Rejection Risk in a Clinical LLM System",
+    "date": "Fri, 12 Jun 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2606.12702"
+  },
+  {
+    "source": "OpenAI",
+    "title": "How Preply combines AI and human tutors to personalize learning",
+    "date": "Fri, 12 Jun 2026 00:00:00 GMT",
+    "url": "https://openai.com/index/preply"
+  },
+  {
     "source": "arXiv",
     "title": "From Explicit Elements to Implicit Intent: A Predefined Library for Auditable Behavioral Inference",
     "date": "Thu, 11 Jun 2026 00:00:00 -0400",
@@ -1120,83 +1198,5 @@
     "title": "Election information and safeguards in 2026",
     "date": "Wed, 27 May 2026 00:00:00 GMT",
     "url": "https://openai.com/index/election-safeguards-2026"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "Reachy Mini goes fully local",
-    "date": "Wed, 27 May 2026 00:00:00 GMT",
-    "url": "https://huggingface.co/blog/local-reachy-mini-conversation"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "Shipping a Trillion Parameters With a Hub Bucket: Delta Weight Sync in TRL",
-    "date": "Wed, 27 May 2026 00:00:00 GMT",
-    "url": "https://huggingface.co/blog/delta-weight-sync"
-  },
-  {
-    "source": "arXiv",
-    "title": "In Search of the Ingredients of Open-Endedness: Replicating Picbreeder with Large Vision-Language Models",
-    "date": "Tue, 26 May 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2605.23908"
-  },
-  {
-    "source": "arXiv",
-    "title": "Confidence Calibration in Large Language Models",
-    "date": "Tue, 26 May 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2605.23909"
-  },
-  {
-    "source": "arXiv",
-    "title": "How Much Thinking is Enough? Quantifying and Understanding Redundancy in LLM Reasoning",
-    "date": "Tue, 26 May 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2605.23926"
-  },
-  {
-    "source": "arXiv",
-    "title": "Context: Proactive Goal-Directed Intelligence via Composable Sandboxed Programs, Declarative Wiring, and Structured Interaction",
-    "date": "Tue, 26 May 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2605.23928"
-  },
-  {
-    "source": "arXiv",
-    "title": "Toward Reliable Design of LLM-Enabled Agentic Workflows: Optimizing Latency-Reliability-Cost Tradeoffs",
-    "date": "Tue, 26 May 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2605.23929"
-  },
-  {
-    "source": "arXiv",
-    "title": "Quantum Frog: Emergent Cooperation and Difficulty Scaling in a Quantized-Time Cooperative Game",
-    "date": "Tue, 26 May 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2605.23930"
-  },
-  {
-    "source": "arXiv",
-    "title": "BODHI: Precise OS Kernel Specification Inference",
-    "date": "Tue, 26 May 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2605.23931"
-  },
-  {
-    "source": "arXiv",
-    "title": "When Correct Beliefs Collapse: Epistemic Resilience of LLMs under Clinical Pressure",
-    "date": "Tue, 26 May 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2605.23932"
-  },
-  {
-    "source": "arXiv",
-    "title": "Practical Quantum CIM Empowerment via All-Domestic-Core Agentic Large Model",
-    "date": "Tue, 26 May 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2605.23934"
-  },
-  {
-    "source": "arXiv",
-    "title": "Operationalizing Reconstructive Authority: Runtime Construction, Dependency Resolution, and Execution Gating in Autonomous Agent Systems",
-    "date": "Tue, 26 May 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2605.23935"
-  },
-  {
-    "source": "arXiv",
-    "title": "BOHM: Zero-Cost Hierarchical Attribution for Compound AI Systems",
-    "date": "Mon, 25 May 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2605.22866"
   }
 ]
