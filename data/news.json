@@ -1,5 +1,65 @@
 [
   {
+    "source": "arXiv",
+    "title": "A Deep Reinforcement Learning (DRL)-Based Transformer Method for Solving the Open Shop Scheduling Problem",
+    "date": "Mon, 15 Jun 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2606.13682"
+  },
+  {
+    "source": "arXiv",
+    "title": "UP-NRPA: User Portrait based Nested Rollout Policy Adaptation for Planning with Large Language Models in Goal-oriented Dialogue Systems",
+    "date": "Mon, 15 Jun 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2606.13683"
+  },
+  {
+    "source": "arXiv",
+    "title": "History of the Muddy Children Puzzle",
+    "date": "Mon, 15 Jun 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2606.13703"
+  },
+  {
+    "source": "arXiv",
+    "title": "Orchestra-o1: Omnimodal Agent Orchestration",
+    "date": "Mon, 15 Jun 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2606.13707"
+  },
+  {
+    "source": "arXiv",
+    "title": "Hybrid Open-Ended Tri-Evolution Makes Better Deep Researcher",
+    "date": "Mon, 15 Jun 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2606.13710"
+  },
+  {
+    "source": "arXiv",
+    "title": "WorkBench Revisited: Workplace Agents Two Years On",
+    "date": "Mon, 15 Jun 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2606.13715"
+  },
+  {
+    "source": "arXiv",
+    "title": "Refusal Beyond a Single Direction: A Preliminary Comparison of Diff-in-Means and INLP",
+    "date": "Mon, 15 Jun 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2606.13720"
+  },
+  {
+    "source": "arXiv",
+    "title": "YeasierAgent: Agentic Social Sandbox as a Canvas for Intent-Driven Creation of Platform-Agnostic Symbiotic Agent-Native Applications",
+    "date": "Mon, 15 Jun 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2606.13722"
+  },
+  {
+    "source": "arXiv",
+    "title": "TwinBI: An Agentic Digital Twin for Efficient Augmented Interactions with Business Intelligence Dashboards",
+    "date": "Mon, 15 Jun 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2606.13731"
+  },
+  {
+    "source": "arXiv",
+    "title": "When Sample Selection Bias Precipitates Model Collapse",
+    "date": "Mon, 15 Jun 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2606.13732"
+  },
+  {
     "source": "OpenAI",
     "title": "Introducing the OpenAI Partner Network",
     "date": "Sun, 14 Jun 2026 17:00:00 GMT",
@@ -1138,65 +1198,5 @@
     "title": "BrickAnything: Geometry-Conditioned Buildable Brick Generation with Structure-Aware Tokenization",
     "date": "Wed, 27 May 2026 00:00:00 -0400",
     "url": "https://arxiv.org/abs/2605.26182"
-  },
-  {
-    "source": "arXiv",
-    "title": "Can LLMs Introspect? A Reality Check",
-    "date": "Wed, 27 May 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2605.26242"
-  },
-  {
-    "source": "arXiv",
-    "title": "Is Agent Memory a Database? Rethinking Data Foundations for Long-Term AI Agent Memory",
-    "date": "Wed, 27 May 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2605.26252"
-  },
-  {
-    "source": "arXiv",
-    "title": "Personalizing Embodied Multimodal Large Language Model Agents over Long-term User Interactions",
-    "date": "Wed, 27 May 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2605.26256"
-  },
-  {
-    "source": "arXiv",
-    "title": "Constraint acquisition needs better benchmarks",
-    "date": "Wed, 27 May 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2605.26279"
-  },
-  {
-    "source": "arXiv",
-    "title": "Your Agents Are Aging Too: Agent Lifespan Engineering for Deployed Systems",
-    "date": "Wed, 27 May 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2605.26302"
-  },
-  {
-    "source": "arXiv",
-    "title": "Experiments in Agentic AI for Science",
-    "date": "Wed, 27 May 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2605.26305"
-  },
-  {
-    "source": "arXiv",
-    "title": "Anchor: Mitigating Artifact Drift in Agent Benchmark Generation",
-    "date": "Wed, 27 May 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2605.26321"
-  },
-  {
-    "source": "arXiv",
-    "title": "OmniToM: Benchmarking Theory of Mind in LLMs via Explicit Belief Modeling",
-    "date": "Wed, 27 May 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2605.26322"
-  },
-  {
-    "source": "arXiv",
-    "title": "JobBench: Aligning Agent Work With Human Will",
-    "date": "Wed, 27 May 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2605.26329"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Warp’s big bet on building open source with GPT-5.5",
-    "date": "Wed, 27 May 2026 00:00:00 GMT",
-    "url": "https://openai.com/index/warp"
   }
 ]
