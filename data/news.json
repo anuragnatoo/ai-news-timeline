@@ -1,5 +1,77 @@
 [
   {
+    "source": "OpenAI",
+    "title": "A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
+    "date": "Wed, 17 Jun 2026 10:00:00 GMT",
+    "url": "https://openai.com/index/ai-chemist-improves-reaction"
+  },
+  {
+    "source": "arXiv",
+    "title": "Beyond Parallel Sampling: Diverse Query Initialization for Agentic Search",
+    "date": "Wed, 17 Jun 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2606.17209"
+  },
+  {
+    "source": "arXiv",
+    "title": "When Rules Learn: A Self-Evolving Agent for Legal Case Retrieval",
+    "date": "Wed, 17 Jun 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2606.17220"
+  },
+  {
+    "source": "arXiv",
+    "title": "SkillChain-Gym: A Benchmark for Reskilling-Aware Production-Inventory Control under Disruptions",
+    "date": "Wed, 17 Jun 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2606.17266"
+  },
+  {
+    "source": "arXiv",
+    "title": "Skill-Constrained Model Predictive Control for Resilient Manufacturing Supply Chains",
+    "date": "Wed, 17 Jun 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2606.17269"
+  },
+  {
+    "source": "arXiv",
+    "title": "Nothing from Something: Can a Language Model Discover 0?",
+    "date": "Wed, 17 Jun 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2606.17289"
+  },
+  {
+    "source": "arXiv",
+    "title": "Quantifying Consistency in LLM Logical Reasoning via Structural Uncertainty",
+    "date": "Wed, 17 Jun 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2606.17312"
+  },
+  {
+    "source": "arXiv",
+    "title": "MemTrace: Probing What Final Accuracy Misses in Long-Term Memory",
+    "date": "Wed, 17 Jun 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2606.17328"
+  },
+  {
+    "source": "arXiv",
+    "title": "SpeechDx: A Multi-Task Benchmark for Clinical Speech AI",
+    "date": "Wed, 17 Jun 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2606.17339"
+  },
+  {
+    "source": "arXiv",
+    "title": "Distributed General-Purpose Agent Networks: Architecture, Key Mechanisms, and Prototypes",
+    "date": "Wed, 17 Jun 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2606.17368"
+  },
+  {
+    "source": "arXiv",
+    "title": "Treatment Response Optimized Clinical Decision Support AI System via Digital Twin Simulation",
+    "date": "Wed, 17 Jun 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2606.17405"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Introducing LifeSciBench",
+    "date": "Wed, 17 Jun 2026 00:00:00 GMT",
+    "url": "https://openai.com/index/introducing-life-sci-bench"
+  },
+  {
     "source": "arXiv",
     "title": "A Definition of Good Explanations and the Challenges Explaining LLM Outputs",
     "date": "Tue, 16 Jun 2026 00:00:00 -0400",
@@ -1126,77 +1198,5 @@
     "title": "Frontier LLM-based agents can overcome the ontology curation bottleneck for natural phenotypes",
     "date": "Fri, 29 May 2026 00:00:00 -0400",
     "url": "https://arxiv.org/abs/2605.28965"
-  },
-  {
-    "source": "arXiv",
-    "title": "VFEAgent: A Multimodal Agent Framework for End-to-End Automated Finite Element Analysis",
-    "date": "Fri, 29 May 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2605.28978"
-  },
-  {
-    "source": "arXiv",
-    "title": "BEAMS: Benchmarking and Evaluating AI for Modeling and Simulation",
-    "date": "Fri, 29 May 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2605.28994"
-  },
-  {
-    "source": "arXiv",
-    "title": "Adopt $\\neq$ Adapt: Longitudinal Analyses of LLM Conversations in the Wild",
-    "date": "Fri, 29 May 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2605.29018"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Strengthening societal resilience with Rosalind Biodefense",
-    "date": "Fri, 29 May 2026 03:00:00 GMT",
-    "url": "https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense"
-  },
-  {
-    "source": "OpenAI",
-    "title": "A shared playbook for trustworthy third party evaluations",
-    "date": "Fri, 29 May 2026 00:00:00 GMT",
-    "url": "https://openai.com/index/trustworthy-third-party-evaluations-foundations"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "Profiling in PyTorch (Part 1): A Beginner's Guide to torch.profiler",
-    "date": "Fri, 29 May 2026 00:00:00 GMT",
-    "url": "https://huggingface.co/blog/torch-profiler"
-  },
-  {
-    "source": "OpenAI",
-    "title": "How Endava builds an agentic organization with Codex",
-    "date": "Thu, 28 May 2026 12:00:00 GMT",
-    "url": "https://openai.com/index/endava"
-  },
-  {
-    "source": "arXiv",
-    "title": "Identifying and Understanding Human Values in Text: A Tailorable LLM-based Architecture",
-    "date": "Thu, 28 May 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2605.27373"
-  },
-  {
-    "source": "arXiv",
-    "title": "Soro: A Lightweight Foundation Model and Chatbot for Tajik",
-    "date": "Thu, 28 May 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2605.27379"
-  },
-  {
-    "source": "arXiv",
-    "title": "On the Origin of Synthetic Information by Means of Steganographic Inheritance",
-    "date": "Thu, 28 May 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2605.27551"
-  },
-  {
-    "source": "arXiv",
-    "title": "DynaSchedBench: Calibrated Dynamic Scheduling Benchmarks and Observability Paradox in LLM-based Scheduling Agents",
-    "date": "Thu, 28 May 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2605.27566"
-  },
-  {
-    "source": "arXiv",
-    "title": "Why LLMs Fail at Causal Discovery and How Interventional Agents Escape",
-    "date": "Thu, 28 May 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2605.27567"
   }
 ]
