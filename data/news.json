@@ -1,9 +1,123 @@
 [
   {
+    "source": "HuggingFace",
+    "title": "MosaicLeaks: Can your research agent keep a secret?",
+    "date": "Thu, 18 Jun 2026 18:13:13 GMT",
+    "url": "https://huggingface.co/blog/ServiceNow/mosaicleaks"
+  },
+  {
+    "source": "OpenAI",
+    "title": "New usage analytics and updated spend controls for enterprises",
+    "date": "Thu, 18 Jun 2026 17:00:00 GMT",
+    "url": "https://openai.com/index/chatgpt-enterprise-spend-controls"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Improving health intelligence in ChatGPT",
+    "date": "Thu, 18 Jun 2026 11:00:00 GMT",
+    "url": "https://openai.com/index/improving-health-intelligence-in-chatgpt"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Using AI to help physicians diagnose rare genetic diseases affecting children",
+    "date": "Thu, 18 Jun 2026 08:00:00 GMT",
+    "url": "https://openai.com/index/diagnose-rare-childhood-diseases"
+  },
+  {
+    "source": "arXiv",
+    "title": "NAVI-Orbital: First In-Orbit Demonstration of a Zero-Shot Vision-Language Model for Autonomous Earth Observation",
+    "date": "Thu, 18 Jun 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2606.18271"
+  },
+  {
+    "source": "arXiv",
+    "title": "CaVe-VLM-CoT: An Interpretable Vision-Language Model Framework",
+    "date": "Thu, 18 Jun 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2606.18385"
+  },
+  {
+    "source": "arXiv",
+    "title": "Searching for Synergy in Shared Workspace Human-AI Collaboration",
+    "date": "Thu, 18 Jun 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2606.18413"
+  },
+  {
+    "source": "arXiv",
+    "title": "CEO-Bench: Can Agents Play the Long Game?",
+    "date": "Thu, 18 Jun 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2606.18543"
+  },
+  {
+    "source": "arXiv",
+    "title": "DeFAb: A Verifiable Benchmark for Defeasible Abduction in Foundation Models",
+    "date": "Thu, 18 Jun 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2606.18557"
+  },
+  {
+    "source": "arXiv",
+    "title": "Optimizing Lithium Production Decisions under Geological, Demand, and Pricing Uncertainties: A POMDP Framework for Multi-Objective Decision Making",
+    "date": "Thu, 18 Jun 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2606.18598"
+  },
+  {
+    "source": "arXiv",
+    "title": "ForecastBench-Sim: A Simulated-World Forecasting Benchmark",
+    "date": "Thu, 18 Jun 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2606.18686"
+  },
+  {
+    "source": "arXiv",
+    "title": "What Must Generalist Agents Remember?",
+    "date": "Thu, 18 Jun 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2606.18746"
+  },
+  {
+    "source": "arXiv",
+    "title": "R2D-RL: A RoboCup 2D Soccer Environment for Multi-Agent Reinforcement Learning",
+    "date": "Thu, 18 Jun 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2606.18786"
+  },
+  {
+    "source": "arXiv",
+    "title": "ProfiLLM: Utility-Aligned Agentic User Profiling for Industrial Ride-Hailing Dispatch",
+    "date": "Thu, 18 Jun 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2606.18803"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "Beyond LoRA: Can you beat the most popular fine-tuning technique?",
+    "date": "Thu, 18 Jun 2026 00:00:00 GMT",
+    "url": "https://huggingface.co/blog/peft-beyond-lora"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "Is it agentic enough? Benchmarking open models on your own tooling",
+    "date": "Thu, 18 Jun 2026 00:00:00 GMT",
+    "url": "https://huggingface.co/blog/is-it-agentic-enough"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "MolmoMotion: Language-guided 3D motion forecasting",
+    "date": "Wed, 17 Jun 2026 15:26:44 GMT",
+    "url": "https://huggingface.co/blog/allenai/molmomotion"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "From the Hugging Face Hub to robot hardware with Strands Agents and LeRobot",
+    "date": "Wed, 17 Jun 2026 10:18:05 GMT",
+    "url": "https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware"
+  },
+  {
     "source": "OpenAI",
     "title": "A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
     "date": "Wed, 17 Jun 2026 10:00:00 GMT",
     "url": "https://openai.com/index/ai-chemist-improves-reaction"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "GLM-5.2: Built for Long-Horizon Tasks",
+    "date": "Wed, 17 Jun 2026 09:01:25 GMT",
+    "url": "https://huggingface.co/blog/zai-org/glm-52-blog"
   },
   {
     "source": "arXiv",
@@ -70,6 +184,12 @@
     "title": "Introducing LifeSciBench",
     "date": "Wed, 17 Jun 2026 00:00:00 GMT",
     "url": "https://openai.com/index/introducing-life-sci-bench"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "Agentic Resource Discovery: Let agents search",
+    "date": "Wed, 17 Jun 2026 00:00:00 GMT",
+    "url": "https://huggingface.co/blog/agentic-resource-discovery-launch"
   },
   {
     "source": "arXiv",
@@ -1078,125 +1198,5 @@
     "title": "OpenAI frontier models and Codex are now available on AWS",
     "date": "Mon, 01 Jun 2026 10:00:00 GMT",
     "url": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "Welcome NVIDIA Cosmos 3: The First Open Omni-model for Physical AI Reasoning and Action",
-    "date": "Mon, 01 Jun 2026 04:44:55 GMT",
-    "url": "https://huggingface.co/blog/nvidia/cosmos-3-for-physical-ai"
-  },
-  {
-    "source": "arXiv",
-    "title": "PhyDrawGen: Physically Grounded Diagram Generation from Natural Language",
-    "date": "Mon, 01 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2605.30512"
-  },
-  {
-    "source": "arXiv",
-    "title": "Physically Viable World Models: A Case for Query-Conditioned Embodied AI",
-    "date": "Mon, 01 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2605.30542"
-  },
-  {
-    "source": "arXiv",
-    "title": "Transforming and Encoding FTS for SAT Solving: What Helps, What Hurts (Extended Version)",
-    "date": "Mon, 01 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2605.30563"
-  },
-  {
-    "source": "arXiv",
-    "title": "Procedural Generation of First Person Shooter Maps using Map-Elites",
-    "date": "Mon, 01 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2605.30570"
-  },
-  {
-    "source": "arXiv",
-    "title": "Uncertainty-Aware and Temporally Regulated Expert Advice in Reinforcement Learning for Autonomous Driving",
-    "date": "Mon, 01 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2605.30576"
-  },
-  {
-    "source": "arXiv",
-    "title": "Harness Updating Is Not Harness Benefit: Disentangling Evolution Capabilities in Self-Evolving LLM Agents",
-    "date": "Mon, 01 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2605.30621"
-  },
-  {
-    "source": "arXiv",
-    "title": "EHRBench: An Automated and Reliable EHR-based Benchmark for Clinical Decision Making with LLMs",
-    "date": "Mon, 01 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2605.30637"
-  },
-  {
-    "source": "arXiv",
-    "title": "Structure-Induced Information for Rerooting Levin Tree Search",
-    "date": "Mon, 01 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2605.30664"
-  },
-  {
-    "source": "arXiv",
-    "title": "Healthcare Mechanisms from Policy-as-Code Search under Strategic Provider Response",
-    "date": "Mon, 01 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2605.30680"
-  },
-  {
-    "source": "arXiv",
-    "title": "MAVEN: Improving Generalization in Agentic Tool Calling",
-    "date": "Mon, 01 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2605.30738"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Boston Children’s uses AI to unlock new diagnoses",
-    "date": "Fri, 29 May 2026 12:00:00 GMT",
-    "url": "https://openai.com/index/boston-childrens-hospital"
-  },
-  {
-    "source": "OpenAI",
-    "title": "How Braintrust turns customer requests into code with Codex",
-    "date": "Fri, 29 May 2026 12:00:00 GMT",
-    "url": "https://openai.com/index/braintrust"
-  },
-  {
-    "source": "arXiv",
-    "title": "Behavior-Induced Mirror-Prox Temporal-Difference Learning for Faster Off-Policy Prediction",
-    "date": "Fri, 29 May 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2605.28849"
-  },
-  {
-    "source": "arXiv",
-    "title": "Behavior-Aware Auxiliary Corrections for Off-Policy Temporal-Difference Prediction",
-    "date": "Fri, 29 May 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2605.28855"
-  },
-  {
-    "source": "arXiv",
-    "title": "The Cognitive Categorical Transformer: Category-Theoretic Inductive Biases for Language Modeling",
-    "date": "Fri, 29 May 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2605.28864"
-  },
-  {
-    "source": "arXiv",
-    "title": "Ultra-Reduced-Impact-Encased-Logging (URIEL): propose a new method for selective sustainable logging and post-harvest silvicultural treatment in tropical forest using airborne robotics systems",
-    "date": "Fri, 29 May 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2605.28883"
-  },
-  {
-    "source": "arXiv",
-    "title": "Review Arcade: On the Human Alignment and Gameability of LLM Reviews",
-    "date": "Fri, 29 May 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2605.28897"
-  },
-  {
-    "source": "arXiv",
-    "title": "Orthogonal Concept Erasure for Diffusion Models",
-    "date": "Fri, 29 May 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2605.28902"
-  },
-  {
-    "source": "arXiv",
-    "title": "Frontier LLM-based agents can overcome the ontology curation bottleneck for natural phenotypes",
-    "date": "Fri, 29 May 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2605.28965"
   }
 ]
