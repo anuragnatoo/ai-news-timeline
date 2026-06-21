@@ -1,6 +1,66 @@
 [
   {
     "source": "arXiv",
+    "title": "Analyzing the Narration Gap in LLM-Solver Loops",
+    "date": "Sat, 20 Jun 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2606.19588"
+  },
+  {
+    "source": "arXiv",
+    "title": "Configurable Clinical Information Extraction with Agentic RAG: What Works, What Breaks, and Why",
+    "date": "Sat, 20 Jun 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2606.19602"
+  },
+  {
+    "source": "arXiv",
+    "title": "Which Pairs to Compare for LLM Post-Training?",
+    "date": "Sat, 20 Jun 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2606.19607"
+  },
+  {
+    "source": "arXiv",
+    "title": "Toten: Knowledge-Based Ontological Tokenization Of Physical Quantities And Technical Notation In Brazilian Portuguese",
+    "date": "Sat, 20 Jun 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2606.19626"
+  },
+  {
+    "source": "arXiv",
+    "title": "AI4SE and SE4AI Exploration: A Decade Looking Back and Forward",
+    "date": "Sat, 20 Jun 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2606.19630"
+  },
+  {
+    "source": "arXiv",
+    "title": "BrainG3N: A Dual-Purpose Tokenizer for Controllable 3D Brain MRI Generation",
+    "date": "Sat, 20 Jun 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2606.19651"
+  },
+  {
+    "source": "arXiv",
+    "title": "Denoising Implicit Feedback for Cold-start Recommendation",
+    "date": "Sat, 20 Jun 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2606.19658"
+  },
+  {
+    "source": "arXiv",
+    "title": "Exit-and-Join Dynamics for Decentralized Coalition Formation",
+    "date": "Sat, 20 Jun 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2606.19683"
+  },
+  {
+    "source": "arXiv",
+    "title": "Beyond Static Leaderboards: Predictive Validity for the Evaluation of LLM Agents",
+    "date": "Sat, 20 Jun 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2606.19704"
+  },
+  {
+    "source": "arXiv",
+    "title": "GLARE: A Natural Language Interface for Querying Global Explanations",
+    "date": "Sat, 20 Jun 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2606.19735"
+  },
+  {
+    "source": "arXiv",
     "title": "Deontic Policies for Runtime Governance of Agentic AI Systems",
     "date": "Fri, 19 Jun 2026 00:00:00 -0400",
     "url": "https://arxiv.org/abs/2606.19464"
@@ -1138,65 +1198,5 @@
     "title": "Adding MCP Tools to Reachy Mini",
     "date": "Wed, 03 Jun 2026 00:00:00 GMT",
     "url": "https://huggingface.co/blog/adding-mcp-tools-to-reachy-mini"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "Holo3.1: Fast & Local Computer Use Agents",
-    "date": "Tue, 02 Jun 2026 14:13:23 GMT",
-    "url": "https://huggingface.co/blog/Hcompany/holo31"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Travelers deploys AI-powered claims countrywide with OpenAI",
-    "date": "Tue, 02 Jun 2026 12:00:00 GMT",
-    "url": "https://openai.com/index/travelers"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Codex for every role, tool, and workflow",
-    "date": "Tue, 02 Jun 2026 09:00:00 GMT",
-    "url": "https://openai.com/index/codex-for-every-role-tool-workflow"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Advancing youth safety and opportunity through global leadership",
-    "date": "Tue, 02 Jun 2026 07:00:00 GMT",
-    "url": "https://openai.com/index/advancing-youth-safety-and-opportunity-through-global-leadership"
-  },
-  {
-    "source": "arXiv",
-    "title": "Position Paper: Post-Solve Robustness in Decision Engines: Feasible Regions and Smoothness Under Perturbations",
-    "date": "Tue, 02 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.00002"
-  },
-  {
-    "source": "arXiv",
-    "title": "Emergent Collaborative Deliberation in Multi-Model AI Systems: A BFT-Derived Protocol for Epistemic Synthesis",
-    "date": "Tue, 02 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.00005"
-  },
-  {
-    "source": "arXiv",
-    "title": "Deliberative Curation: A Protocol for Multi-Agent Knowledge Bases",
-    "date": "Tue, 02 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.00007"
-  },
-  {
-    "source": "arXiv",
-    "title": "Agents on a Tree: Pathwise Coordination for Multi-Objective Molecular Optimization",
-    "date": "Tue, 02 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.00008"
-  },
-  {
-    "source": "arXiv",
-    "title": "Optimal Transport-based Permutation-Invariant Bayesian Optimization of Offshore Wind Farm Layouts",
-    "date": "Tue, 02 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.00009"
-  },
-  {
-    "source": "arXiv",
-    "title": "MindGames Arena Generalization Track: In2AI Solution with Delayed Per-Step Reward Attribution",
-    "date": "Tue, 02 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.00017"
   }
 ]
