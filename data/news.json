@@ -1,5 +1,11 @@
 [
   {
+    "source": "OpenAI",
+    "title": "Samsung Electronics brings ChatGPT and Codex to employees",
+    "date": "Sun, 21 Jun 2026 23:00:00 GMT",
+    "url": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment"
+  },
+  {
     "source": "arXiv",
     "title": "Analyzing the Narration Gap in LLM-Solver Loops",
     "date": "Sat, 20 Jun 2026 00:00:00 -0400",
@@ -1192,11 +1198,5 @@
     "title": "Don't Gamble, GAMBLe: An Analytical Framework for AI-Driven Research Systems",
     "date": "Wed, 03 Jun 2026 00:00:00 -0400",
     "url": "https://arxiv.org/abs/2606.02863"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "Adding MCP Tools to Reachy Mini",
-    "date": "Wed, 03 Jun 2026 00:00:00 GMT",
-    "url": "https://huggingface.co/blog/adding-mcp-tools-to-reachy-mini"
   }
 ]
