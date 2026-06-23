@@ -1,5 +1,29 @@
 [
   {
+    "source": "HuggingFace",
+    "title": "PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters",
+    "date": "Mon, 22 Jun 2026 13:18:56 GMT",
+    "url": "https://huggingface.co/blog/PaddlePaddle/pp-ocrv6"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
+    "date": "Mon, 22 Jun 2026 10:00:00 GMT",
+    "url": "https://openai.com/index/patch-the-planet"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Daybreak: Tools for securing every organization in the world",
+    "date": "Mon, 22 Jun 2026 10:00:00 GMT",
+    "url": "https://openai.com/index/daybreak-securing-the-world"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Codex-maxxing for long-running work",
+    "date": "Mon, 22 Jun 2026 00:00:00 GMT",
+    "url": "https://openai.com/index/codex-maxxing-long-running-work"
+  },
+  {
     "source": "OpenAI",
     "title": "Samsung Electronics brings ChatGPT and Codex to employees",
     "date": "Sun, 21 Jun 2026 23:00:00 GMT",
@@ -1174,29 +1198,5 @@
     "title": "Traj-Evolve: A Self-Evolving Multi-Agent System for Patient Trajectory Modeling in Lung Cancer Early Detection",
     "date": "Wed, 03 Jun 2026 00:00:00 -0400",
     "url": "https://arxiv.org/abs/2606.02812"
-  },
-  {
-    "source": "arXiv",
-    "title": "An Exploration of Collision-based Enemy Morphology Generation",
-    "date": "Wed, 03 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.02832"
-  },
-  {
-    "source": "arXiv",
-    "title": "Thinking Past the Answer: Evaluating Harmful Overthinking in Large Reasoning Models",
-    "date": "Wed, 03 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.02835"
-  },
-  {
-    "source": "arXiv",
-    "title": "Toward a Modular Architecture for Embedded AI Agent Systems at the Edge",
-    "date": "Wed, 03 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.02862"
-  },
-  {
-    "source": "arXiv",
-    "title": "Don't Gamble, GAMBLe: An Analytical Framework for AI-Driven Research Systems",
-    "date": "Wed, 03 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.02863"
   }
 ]
