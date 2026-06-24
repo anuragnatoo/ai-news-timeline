@@ -1,5 +1,41 @@
 [
   {
+    "source": "OpenAI",
+    "title": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
+    "date": "Tue, 23 Jun 2026 17:00:00 GMT",
+    "url": "https://openai.com/index/gpt-5-immunology-mystery"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Helping build shared standards for advanced AI",
+    "date": "Tue, 23 Jun 2026 13:00:00 GMT",
+    "url": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "Build real agentic apps using CUGA: two dozen working examples on a lightweight harness",
+    "date": "Tue, 23 Jun 2026 12:51:55 GMT",
+    "url": "https://huggingface.co/blog/ibm-research/cuga-apps"
+  },
+  {
+    "source": "OpenAI",
+    "title": "How Omio is building the future of conversational travel",
+    "date": "Tue, 23 Jun 2026 00:00:00 GMT",
+    "url": "https://openai.com/index/omio"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "Shipping huggingface_hub every week with AI, open tools, and a human in the loop",
+    "date": "Tue, 23 Jun 2026 00:00:00 GMT",
+    "url": "https://huggingface.co/blog/huggingface-hub-release-ci"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "Experimenting with the proposed Cross-Origin Storage API in Transformers.js",
+    "date": "Tue, 23 Jun 2026 00:00:00 GMT",
+    "url": "https://huggingface.co/blog/cross-origin-storage"
+  },
+  {
     "source": "HuggingFace",
     "title": "PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters",
     "date": "Mon, 22 Jun 2026 13:18:56 GMT",
@@ -22,6 +58,12 @@
     "title": "Codex-maxxing for long-running work",
     "date": "Mon, 22 Jun 2026 00:00:00 GMT",
     "url": "https://openai.com/index/codex-maxxing-long-running-work"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "We got local models to triage the OpenClaw repo for FREE!*",
+    "date": "Mon, 22 Jun 2026 00:00:00 GMT",
+    "url": "https://huggingface.co/blog/local-models-pr-triage"
   },
   {
     "source": "OpenAI",
@@ -1156,47 +1198,5 @@
     "title": "A blueprint for democratic governance of frontier AI",
     "date": "Wed, 03 Jun 2026 10:00:00 GMT",
     "url": "https://openai.com/index/frontier-safety-blueprint"
-  },
-  {
-    "source": "OpenAI",
-    "title": "OpenAI public policy agenda",
-    "date": "Wed, 03 Jun 2026 10:00:00 GMT",
-    "url": "https://openai.com/index/public-policy-agenda"
-  },
-  {
-    "source": "arXiv",
-    "title": "Visual Graph Scaffolds for Structural Reasoning in Large Language Models",
-    "date": "Wed, 03 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.02673"
-  },
-  {
-    "source": "arXiv",
-    "title": "AURA: Action-Gated Memory for Robot Policies at Constant VRAM",
-    "date": "Wed, 03 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.02775"
-  },
-  {
-    "source": "arXiv",
-    "title": "Evaluating Transformer and LSTM Frameworks for Prediction in Ungauged Basins",
-    "date": "Wed, 03 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.02791"
-  },
-  {
-    "source": "arXiv",
-    "title": "BehaviorBench: Modeling Real-World User Decisions from Behavioral Traces",
-    "date": "Wed, 03 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.02798"
-  },
-  {
-    "source": "arXiv",
-    "title": "ChatHealthAI: Aligning Electronic Health Record Representations with Large Language Models for Grounded Clinical Reasoning",
-    "date": "Wed, 03 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.02802"
-  },
-  {
-    "source": "arXiv",
-    "title": "Traj-Evolve: A Self-Evolving Multi-Agent System for Patient Trajectory Modeling in Lung Cancer Early Detection",
-    "date": "Wed, 03 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.02812"
   }
 ]
