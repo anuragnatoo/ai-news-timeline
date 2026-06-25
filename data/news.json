@@ -1,5 +1,83 @@
 [
   {
+    "source": "HuggingFace",
+    "title": "Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel",
+    "date": "Wed, 24 Jun 2026 16:00:13 GMT",
+    "url": "https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel"
+  },
+  {
+    "source": "OpenAI",
+    "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
+    "date": "Wed, 24 Jun 2026 06:00:00 GMT",
+    "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip"
+  },
+  {
+    "source": "arXiv",
+    "title": "RIFT-Bench: Dynamic Red-teaming For Agentic AI Systems",
+    "date": "Wed, 24 Jun 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2606.23927"
+  },
+  {
+    "source": "arXiv",
+    "title": "Neuro-Symbolic Drive: Rule-Grounded Faithful Reasoning for Driving VLAs",
+    "date": "Wed, 24 Jun 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2606.23938"
+  },
+  {
+    "source": "arXiv",
+    "title": "Critique of Agent Model",
+    "date": "Wed, 24 Jun 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2606.23991"
+  },
+  {
+    "source": "arXiv",
+    "title": "Safe and Generalizable Hierarchical Multi-Agent RL via Constraint Manifold Control",
+    "date": "Wed, 24 Jun 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2606.24010"
+  },
+  {
+    "source": "arXiv",
+    "title": "Reinforcement Learning Towards Broadly and Persistently Beneficial Models",
+    "date": "Wed, 24 Jun 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2606.24014"
+  },
+  {
+    "source": "arXiv",
+    "title": "Can Language Model Agents be Helpful Circuit Explainers in Mechanistic Interpretability?",
+    "date": "Wed, 24 Jun 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2606.24026"
+  },
+  {
+    "source": "arXiv",
+    "title": "Breaking the Filter Bubble: A Semantic Pareto-DQN Framework for Multi-Objective Recommendation",
+    "date": "Wed, 24 Jun 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2606.24042"
+  },
+  {
+    "source": "arXiv",
+    "title": "Ensemble Feature Selection and Harris Hawks Optimization for Explainable Mental Health Risk Prediction in Female Sex Workers",
+    "date": "Wed, 24 Jun 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2606.24047"
+  },
+  {
+    "source": "arXiv",
+    "title": "Beyond Trajectory Imitation: Strategy-Guided Policy Optimization for LLM Reasoning",
+    "date": "Wed, 24 Jun 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2606.24064"
+  },
+  {
+    "source": "arXiv",
+    "title": "Exploring Academic Influence of Algorithms by Co-occurrence Network Based on Full-text of Academic Papers",
+    "date": "Wed, 24 Jun 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2606.24099"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "Introducing the FFASR Leaderboard: Benchmarking ASR in the Real World",
+    "date": "Wed, 24 Jun 2026 00:00:00 GMT",
+    "url": "https://huggingface.co/blog/ffasr-leaderboard"
+  },
+  {
     "source": "OpenAI",
     "title": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
     "date": "Tue, 23 Jun 2026 17:00:00 GMT",
@@ -1120,83 +1198,5 @@
     "title": "Thinking Through Signs: PEEL as a Semiotic Scaffolding for Epistemically Accountable AI-Enabled Research",
     "date": "Thu, 04 Jun 2026 00:00:00 -0400",
     "url": "https://arxiv.org/abs/2606.04152"
-  },
-  {
-    "source": "arXiv",
-    "title": "SMAC-Talk: A Natural Language Extension of the StarCraft Multi-Agent Challenge for Large Language Models",
-    "date": "Thu, 04 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.04202"
-  },
-  {
-    "source": "arXiv",
-    "title": "Consensus is Strategically Insufficient: Reasoning-Trace Disagreement as a Knowledge-Representation Signal",
-    "date": "Thu, 04 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.04223"
-  },
-  {
-    "source": "arXiv",
-    "title": "VAMPS: Visual-Assisted Mathematical Problem Solving Benchmark",
-    "date": "Thu, 04 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.04244"
-  },
-  {
-    "source": "arXiv",
-    "title": "StepPRM-RTL: Stepwise Process-Reward Guided LLM Fine-Tuning for Enhanced RTL Synthesis",
-    "date": "Thu, 04 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.04246"
-  },
-  {
-    "source": "arXiv",
-    "title": "Can Generalist Agents Automate Data Curation?",
-    "date": "Thu, 04 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.04261"
-  },
-  {
-    "source": "arXiv",
-    "title": "Characterizing initial human-AI proof formalization workflows",
-    "date": "Thu, 04 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.04273"
-  },
-  {
-    "source": "arXiv",
-    "title": "The Saturation Trap and the Subjectivity of Intervention Timing: Why Affect-Based Triggers and LLM Judges Fail to Time Interventions on Autonomous Agents",
-    "date": "Thu, 04 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.04296"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Biodefense in the Intelligence Age",
-    "date": "Thu, 04 Jun 2026 00:00:00 GMT",
-    "url": "https://openai.com/index/biodefense-in-the-intelligence-age"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "Designing the hf CLI as an agent-optimized way to work with the Hub",
-    "date": "Thu, 04 Jun 2026 00:00:00 GMT",
-    "url": "https://huggingface.co/blog/hf-cli-for-agents"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Introducing new capabilities to GPT-Rosalind",
-    "date": "Wed, 03 Jun 2026 13:15:00 GMT",
-    "url": "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "Direct Preference Optimization Beyond Chatbots",
-    "date": "Wed, 03 Jun 2026 12:55:11 GMT",
-    "url": "https://huggingface.co/blog/Dharma-AI/direct-preference-optimization-beyond-chatbots"
-  },
-  {
-    "source": "OpenAI",
-    "title": "How Wasmer used Codex to build a Node.js runtime for the edge",
-    "date": "Wed, 03 Jun 2026 12:00:00 GMT",
-    "url": "https://openai.com/index/wasmer"
-  },
-  {
-    "source": "OpenAI",
-    "title": "A blueprint for democratic governance of frontier AI",
-    "date": "Wed, 03 Jun 2026 10:00:00 GMT",
-    "url": "https://openai.com/index/frontier-safety-blueprint"
   }
 ]
