@@ -1,6 +1,84 @@
 [
   {
     "source": "HuggingFace",
+    "title": "Run a vLLM Server on HF Jobs in One Command",
+    "date": "Fri, 26 Jun 2026 00:00:00 GMT",
+    "url": "https://huggingface.co/blog/vllm-jobs"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "Which tokens does a hybrid model predict better?",
+    "date": "Thu, 25 Jun 2026 16:11:42 GMT",
+    "url": "https://huggingface.co/blog/allenai/hybrid-token-prediction"
+  },
+  {
+    "source": "arXiv",
+    "title": "ReMMD: Realistic Multilingual Multi-Image Agentic Verification for Multimodal Misinformation Detection",
+    "date": "Thu, 25 Jun 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2606.24112"
+  },
+  {
+    "source": "arXiv",
+    "title": "VeryTrace: Verifying Reasoning Traces through Compilable Formalism and Structured Verification",
+    "date": "Thu, 25 Jun 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2606.24124"
+  },
+  {
+    "source": "arXiv",
+    "title": "OmniPath: A Multi-Modal Agentic Framework for Auditing Wheelchair Accessibility",
+    "date": "Thu, 25 Jun 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2606.24129"
+  },
+  {
+    "source": "arXiv",
+    "title": "T2D-Bench: Evidence-Gated Evaluation of LLM Outputs for Type 2 Diabetes Using a Multi-Layer Clinical-Lifestyle Knowledge Graph",
+    "date": "Thu, 25 Jun 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2606.24145"
+  },
+  {
+    "source": "arXiv",
+    "title": "The Geometry Behind Diffusion and Flow Matching: Gradient Flows and Geodesics in Wasserstein Space",
+    "date": "Thu, 25 Jun 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2606.24157"
+  },
+  {
+    "source": "arXiv",
+    "title": "An Introduction to Causal Reinforcement Learning",
+    "date": "Thu, 25 Jun 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2606.24160"
+  },
+  {
+    "source": "arXiv",
+    "title": "Data Scale, Not Latency, Shapes Cross-Lingual Encoder Transfer in Streaming ASR",
+    "date": "Thu, 25 Jun 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2606.24169"
+  },
+  {
+    "source": "arXiv",
+    "title": "Navigating User Behavior toward Personalized Multimodal Generation",
+    "date": "Thu, 25 Jun 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2606.24196"
+  },
+  {
+    "source": "arXiv",
+    "title": "Exploring the relationship between human-centric AI and firm idiosyncratic risks",
+    "date": "Thu, 25 Jun 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2606.24224"
+  },
+  {
+    "source": "arXiv",
+    "title": "FlowR2A: Learning Reward-to-Action Distribution for Multimodal Driving Planning",
+    "date": "Thu, 25 Jun 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2606.24231"
+  },
+  {
+    "source": "OpenAI",
+    "title": "How agents are transforming work",
+    "date": "Thu, 25 Jun 2026 02:00:00 GMT",
+    "url": "https://openai.com/index/how-agents-are-transforming-work"
+  },
+  {
+    "source": "HuggingFace",
     "title": "Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel",
     "date": "Wed, 24 Jun 2026 16:00:13 GMT",
     "url": "https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel"
@@ -1120,83 +1198,5 @@
     "title": "Not All Errors Are Equal: Consequence-Aware Reasoning Compute Allocation",
     "date": "Fri, 05 Jun 2026 00:00:00 -0400",
     "url": "https://arxiv.org/abs/2606.04402"
-  },
-  {
-    "source": "arXiv",
-    "title": "Trivium: Temporal Regret as a First-Class Objective for Causal-Memory Controllers",
-    "date": "Fri, 05 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.04421"
-  },
-  {
-    "source": "arXiv",
-    "title": "Cascading Hallucination in Agentic RAG: The CHARM Framework for Detection and Mitigation",
-    "date": "Fri, 05 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.04435"
-  },
-  {
-    "source": "arXiv",
-    "title": "The Meta-Agent Challenge: Are Current Agents Capable of Autonomous Agent Development?",
-    "date": "Fri, 05 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.04455"
-  },
-  {
-    "source": "arXiv",
-    "title": "AgentJet: A Flexible Swarm Training Framework for Agentic Reinforcement Learning",
-    "date": "Fri, 05 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.04484"
-  },
-  {
-    "source": "arXiv",
-    "title": "Beyond Prompt-Based Planning: MCP-Native Graph Planning-based Biomedical Agent System",
-    "date": "Fri, 05 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.04494"
-  },
-  {
-    "source": "arXiv",
-    "title": "Simulate, Reason, Decide: Scientific Reasoning with LLMs for Simulation-Driven Decision Making",
-    "date": "Fri, 05 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.04505"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI",
-    "date": "Thu, 04 Jun 2026 18:57:45 GMT",
-    "url": "https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "EVA-Bench Data 2.0: 3 Domains, 121 Tools, 213 Scenarios",
-    "date": "Thu, 04 Jun 2026 12:24:58 GMT",
-    "url": "https://huggingface.co/blog/ServiceNow-AI/eva-bench-data"
-  },
-  {
-    "source": "OpenAI",
-    "title": "How Endava is redesigning software delivery around AI agents",
-    "date": "Thu, 04 Jun 2026 12:00:00 GMT",
-    "url": "https://openai.com/index/endava-frontiers"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Dreaming: Better memory for a more helpful ChatGPT",
-    "date": "Thu, 04 Jun 2026 09:00:00 GMT",
-    "url": "https://openai.com/index/chatgpt-memory-dreaming"
-  },
-  {
-    "source": "arXiv",
-    "title": "Toward Pre-Deployment Assurance for Enterprise AI Agents: Ontology-Grounded Simulation and Trust Certification",
-    "date": "Thu, 04 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.04037"
-  },
-  {
-    "source": "arXiv",
-    "title": "Stumbling Into AI Emotional Dependence: How Routine AI Interactions Reshape Human Connection",
-    "date": "Thu, 04 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.04150"
-  },
-  {
-    "source": "arXiv",
-    "title": "Thinking Through Signs: PEEL as a Semiotic Scaffolding for Epistemically Accountable AI-Enabled Research",
-    "date": "Thu, 04 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.04152"
   }
 ]
