@@ -1,5 +1,71 @@
 [
   {
+    "source": "OpenAI",
+    "title": "Previewing GPT-5.6 Sol: a next-generation model",
+    "date": "Fri, 26 Jun 2026 10:00:00 GMT",
+    "url": "https://openai.com/index/previewing-gpt-5-6-sol"
+  },
+  {
+    "source": "arXiv",
+    "title": "Detecting and Controlling Sycophancy with Cascading Linear Features",
+    "date": "Fri, 26 Jun 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2606.26155"
+  },
+  {
+    "source": "arXiv",
+    "title": "Life After Benchmark Saturation: A Case Study of CORE-Bench",
+    "date": "Fri, 26 Jun 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2606.26158"
+  },
+  {
+    "source": "arXiv",
+    "title": "Refusal Lives Downstream of Persona in Chat Models",
+    "date": "Fri, 26 Jun 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2606.26161"
+  },
+  {
+    "source": "arXiv",
+    "title": "AlgoEvolve: LLM-driven Meta-evolution of Algorithmic Trading Programs",
+    "date": "Fri, 26 Jun 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2606.26173"
+  },
+  {
+    "source": "arXiv",
+    "title": "Agentic Analysis for Agentic Infrastructure: An LLM-Powered Pipeline for Comparative Governance of DAO and Corporate AI Protocols",
+    "date": "Fri, 26 Jun 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2606.26203"
+  },
+  {
+    "source": "arXiv",
+    "title": "Knowledge-augmented Agentic AI for Mental Health Medication Information Seeking",
+    "date": "Fri, 26 Jun 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2606.26205"
+  },
+  {
+    "source": "arXiv",
+    "title": "Accelerating Skill Assessment in Chess: A Drift-Diffusion-Enhanced Elo Rating System",
+    "date": "Fri, 26 Jun 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2606.26267"
+  },
+  {
+    "source": "arXiv",
+    "title": "Governing Actions, Not Agents: Institutional Attestation as a Governance Model for Autonomous AI Systems",
+    "date": "Fri, 26 Jun 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2606.26298"
+  },
+  {
+    "source": "arXiv",
+    "title": "COrigami: An AI Pipeline for Co-Designing Flat-Foldable Visually Recognisable Origami",
+    "date": "Fri, 26 Jun 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2606.26299"
+  },
+  {
+    "source": "arXiv",
+    "title": "The Verification Horizon: No Silver Bullet for Coding Agent Rewards",
+    "date": "Fri, 26 Jun 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2606.26300"
+  },
+  {
     "source": "HuggingFace",
     "title": "Run a vLLM Server on HF Jobs in One Command",
     "date": "Fri, 26 Jun 2026 00:00:00 GMT",
@@ -1132,71 +1198,5 @@
     "title": "I Know What You Meme, Even If it Emerged Today: Understanding Evolving Memes through Open-World Knowledge Acquisition",
     "date": "Sat, 06 Jun 2026 00:00:00 -0400",
     "url": "https://arxiv.org/abs/2606.05316"
-  },
-  {
-    "source": "arXiv",
-    "title": "GITCO: Gated Inference-Time Context Optimization in TSFMs",
-    "date": "Sat, 06 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.05332"
-  },
-  {
-    "source": "arXiv",
-    "title": "Uncertainty Aware Functional Behavior Prediction and Material Fatigue Assessment for Circular Factory",
-    "date": "Sat, 06 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.05334"
-  },
-  {
-    "source": "arXiv",
-    "title": "SentinelBench: A Benchmark for Long-Running Monitoring Agents",
-    "date": "Sat, 06 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.05342"
-  },
-  {
-    "source": "arXiv",
-    "title": "An interpretable and trustworthy AI framework for large-scale longitudinal structure-pain association studies using data from the Osteoarthritis Initiative (OAI)",
-    "date": "Sat, 06 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.05357"
-  },
-  {
-    "source": "arXiv",
-    "title": "Synthetic Contrastive Reasoning for Multi-Table Q&A",
-    "date": "Sat, 06 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.05382"
-  },
-  {
-    "source": "arXiv",
-    "title": "Stability vs. Manipulability: Evaluating Robustness Under Post-Decision Interaction in LLM Judges",
-    "date": "Sat, 06 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.05384"
-  },
-  {
-    "source": "arXiv",
-    "title": "Residual Modeling for High-Fidelity Learned Compression of Scientific Data",
-    "date": "Sat, 06 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.05389"
-  },
-  {
-    "source": "arXiv",
-    "title": "Exploring Cross-Scenario Generality of Agentic Memory Systems: Diagnostics and a Strong Baseline",
-    "date": "Fri, 05 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.04315"
-  },
-  {
-    "source": "arXiv",
-    "title": "The Digital Apprentice: A Framework for Human-Directed Agentic AI Development",
-    "date": "Fri, 05 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.04321"
-  },
-  {
-    "source": "arXiv",
-    "title": "Online Skill Learning for Web Agents via State-Grounded Dynamic Retrieval",
-    "date": "Fri, 05 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.04391"
-  },
-  {
-    "source": "arXiv",
-    "title": "Not All Errors Are Equal: Consequence-Aware Reasoning Compute Allocation",
-    "date": "Fri, 05 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.04402"
   }
 ]
