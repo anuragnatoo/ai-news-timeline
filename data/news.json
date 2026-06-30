@@ -1,5 +1,77 @@
 [
   {
+    "source": "HuggingFace",
+    "title": "DiScoFormer: One transformer for density and score, across distributions",
+    "date": "Mon, 29 Jun 2026 18:02:48 GMT",
+    "url": "https://huggingface.co/blog/allenai/discoformer"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Mapping Europe’s AI Workforce Opportunity",
+    "date": "Mon, 29 Jun 2026 07:00:00 GMT",
+    "url": "https://openai.com/index/mapping-ai-jobs-transition-eu"
+  },
+  {
+    "source": "arXiv",
+    "title": "AI-Model Network: Concept, Current State and Future",
+    "date": "Mon, 29 Jun 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2606.27382"
+  },
+  {
+    "source": "arXiv",
+    "title": "When Does Personality Composition Matter for Multi-Agent LLM Teams?",
+    "date": "Mon, 29 Jun 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2606.27443"
+  },
+  {
+    "source": "arXiv",
+    "title": "Internalizing the Future: A Unified Agentic Training Paradigm for World Model Planning",
+    "date": "Mon, 29 Jun 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2606.27483"
+  },
+  {
+    "source": "arXiv",
+    "title": "Odyssey: Constructing Verifiable Local Truth-Preserving Foundation Models",
+    "date": "Mon, 29 Jun 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2606.27593"
+  },
+  {
+    "source": "arXiv",
+    "title": "DysLexLens: A Low-Resource LLM Framework for Analysing Dyslexic Learners Insights from Online Forums",
+    "date": "Mon, 29 Jun 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2606.27619"
+  },
+  {
+    "source": "arXiv",
+    "title": "MER-R1: Multimodal Emotion Reasoning via Slow-Fast Thinking Synergy",
+    "date": "Mon, 29 Jun 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2606.27652"
+  },
+  {
+    "source": "arXiv",
+    "title": "ToE: A Hierarchical and Explainable Claim Verification Framework with Dynamic Multi-source Evidence Retrieval and Aggregation",
+    "date": "Mon, 29 Jun 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2606.27736"
+  },
+  {
+    "source": "arXiv",
+    "title": "Towards Reliable and Robust LLM Planning: Symbolic Feedback-Driven Iterative Self-Refinement Framework",
+    "date": "Mon, 29 Jun 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2606.27757"
+  },
+  {
+    "source": "arXiv",
+    "title": "Understanding Rollout Error in Graph World Models",
+    "date": "Mon, 29 Jun 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2606.27780"
+  },
+  {
+    "source": "arXiv",
+    "title": "Grounded Iterative Language Planning: How Parameterized World Models Reduce Hallucination Propagation in LLM Agents",
+    "date": "Mon, 29 Jun 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2606.27806"
+  },
+  {
     "source": "OpenAI",
     "title": "HP Inc. launches Frontier strategic partnership with OpenAI",
     "date": "Sun, 28 Jun 2026 17:00:00 GMT",
@@ -1126,77 +1198,5 @@
     "title": "CrowdMath: A Dataset of Crowdsourced Mathematical Research Discussions",
     "date": "Mon, 08 Jun 2026 00:00:00 -0400",
     "url": "https://arxiv.org/abs/2606.06526"
-  },
-  {
-    "source": "arXiv",
-    "title": "Attack Selection in Agentic AI Control Evaluations Meaningfully Decreases Safety",
-    "date": "Mon, 08 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.06529"
-  },
-  {
-    "source": "arXiv",
-    "title": "CARVE-Q: Quantum-Proposed, Classically Certified Interactive Driving Repair",
-    "date": "Mon, 08 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.06531"
-  },
-  {
-    "source": "arXiv",
-    "title": "Position: Don't Just \"Fix it in Post\": A Science of AI Must Study Training Dynamics",
-    "date": "Mon, 08 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.06533"
-  },
-  {
-    "source": "arXiv",
-    "title": "Accelerated Fourier SAT (AFSAT): Fully Realising a GPU-based Symmetric Pseudo-Boolean SAT Solver",
-    "date": "Mon, 08 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.06641"
-  },
-  {
-    "source": "arXiv",
-    "title": "A Study of Parallel Continuous Local Search",
-    "date": "Mon, 08 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.06656"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Built to benefit everyone: our plan",
-    "date": "Mon, 08 Jun 2026 01:30:00 GMT",
-    "url": "https://openai.com/index/built-to-benefit-everyone-our-plan"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Introducing the OpenAI Economic Research Exchange",
-    "date": "Mon, 08 Jun 2026 00:00:00 GMT",
-    "url": "https://openai.com/index/economic-research-exchange"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "The Open Source Community is backing OpenEnv for Agentic RL",
-    "date": "Mon, 08 Jun 2026 00:00:00 GMT",
-    "url": "https://huggingface.co/blog/openenv-agentic-rl"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "Amazing Digital Dentures (a failed project)",
-    "date": "Sun, 07 Jun 2026 19:44:27 GMT",
-    "url": "https://huggingface.co/blog/build-small-hackathon/amazingdigitaldentures"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "Five labs, five minds: building a multi-model finance drama on small models",
-    "date": "Sat, 06 Jun 2026 19:02:33 GMT",
-    "url": "https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim-v2"
-  },
-  {
-    "source": "arXiv",
-    "title": "How Far Did They Go? The Persuasive Tactics of Covert LLM Agents in a Discontinued Field Experiment",
-    "date": "Sat, 06 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.05256"
-  },
-  {
-    "source": "arXiv",
-    "title": "What Should Agents Say? Action-state Communication for Efficient Multi-Agent Systems",
-    "date": "Sat, 06 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.05304"
   }
 ]
