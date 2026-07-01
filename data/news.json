@@ -1,6 +1,108 @@
 [
   {
     "source": "HuggingFace",
+    "title": "ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
+    "date": "Tue, 30 Jun 2026 18:32:50 GMT",
+    "url": "https://huggingface.co/blog/ibm-research/scarfbench"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "Why Specialization Is Inevitable",
+    "date": "Tue, 30 Jun 2026 14:39:11 GMT",
+    "url": "https://huggingface.co/blog/Dharma-AI/why-specialization-is-inevitable"
+  },
+  {
+    "source": "OpenAI",
+    "title": "How ChatGPT adoption has expanded",
+    "date": "Tue, 30 Jun 2026 09:00:00 GMT",
+    "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded"
+  },
+  {
+    "source": "arXiv",
+    "title": "Recursive Self-Evolving Agents via Held-Out Selection",
+    "date": "Tue, 30 Jun 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2606.28374"
+  },
+  {
+    "source": "arXiv",
+    "title": "Data and Evaluation Closed-Loop for Model Capability Enhancement",
+    "date": "Tue, 30 Jun 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2606.28471"
+  },
+  {
+    "source": "arXiv",
+    "title": "GPTNT: Benchmarking Real-Time Collaboration Between Multimodal Agents on Keep Talking And Nobody Explodes",
+    "date": "Tue, 30 Jun 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2606.28514"
+  },
+  {
+    "source": "arXiv",
+    "title": "IMCBench: A benchmark for multimodal LLMs in Image-grounded Medical Conversations",
+    "date": "Tue, 30 Jun 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2606.28556"
+  },
+  {
+    "source": "arXiv",
+    "title": "Search for Truth from Reasoning: A Dynamic Representation Editing Framework for Steering LLM Trajectories",
+    "date": "Tue, 30 Jun 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2606.28589"
+  },
+  {
+    "source": "arXiv",
+    "title": "Aristotelian Virtue Profiling of LLMs through Ethical Dilemmas",
+    "date": "Tue, 30 Jun 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2606.28683"
+  },
+  {
+    "source": "arXiv",
+    "title": "An AI agent for treatment reasoning over a biomedical tool universe",
+    "date": "Tue, 30 Jun 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2606.28692"
+  },
+  {
+    "source": "arXiv",
+    "title": "COMPASS: Grounding Composition-Intent Guidance in Unified Multimodal Models",
+    "date": "Tue, 30 Jun 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2606.28696"
+  },
+  {
+    "source": "arXiv",
+    "title": "BV-Blend: Uncertainty-Weighted Historical Baselines for Stable Critic-Free RL with Verifiable Rewards",
+    "date": "Tue, 30 Jun 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2606.28707"
+  },
+  {
+    "source": "arXiv",
+    "title": "The Two Genie Game: Adoption and Welfare in Audit-Grounded AI Governance",
+    "date": "Tue, 30 Jun 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2606.28710"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Introducing GeneBench-Pro",
+    "date": "Tue, 30 Jun 2026 00:00:00 GMT",
+    "url": "https://openai.com/index/introducing-genebench-pro"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Core dump epidemiology: fixing an 18-year-old bug",
+    "date": "Tue, 30 Jun 2026 00:00:00 GMT",
+    "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Inside Genebench-Pro",
+    "date": "Tue, 30 Jun 2026 00:00:00 GMT",
+    "url": "https://openai.com/index/genebench-pro/case-studies"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "Featuring Every Eval Ever Results on Hugging Face Model Pages",
+    "date": "Tue, 30 Jun 2026 00:00:00 GMT",
+    "url": "https://huggingface.co/blog/eee-community-evals"
+  },
+  {
+    "source": "HuggingFace",
     "title": "DiScoFormer: One transformer for density and score, across distributions",
     "date": "Mon, 29 Jun 2026 18:02:48 GMT",
     "url": "https://huggingface.co/blog/allenai/discoformer"
@@ -1096,107 +1198,5 @@
     "title": "PathoSage: Towards Multi-Source Evidence Adjudication in Pathology via Experience-Aware Agentic Workflow",
     "date": "Tue, 09 Jun 2026 00:00:00 -0400",
     "url": "https://arxiv.org/abs/2606.07549"
-  },
-  {
-    "source": "arXiv",
-    "title": "OmniMem: Perturbation-aware Memory Compression for Streaming Audio-Visual LLMs",
-    "date": "Tue, 09 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.07577"
-  },
-  {
-    "source": "arXiv",
-    "title": "Syll: Open-Source Personal Automation with Cross-Surface Execution",
-    "date": "Tue, 09 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.07594"
-  },
-  {
-    "source": "arXiv",
-    "title": "A case study of evaluating AI agents on a neuroscience data-to-discovery pipeline",
-    "date": "Tue, 09 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.07718"
-  },
-  {
-    "source": "arXiv",
-    "title": "Why Limit the Residual Stream to Layers and Not Tokens? Persistent Memory for Continuous Latent Reasoning",
-    "date": "Tue, 09 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.07720"
-  },
-  {
-    "source": "arXiv",
-    "title": "Automatic Extraction of Structured Information from Brain MRI Reports Using an Open-Weight Large Language Model",
-    "date": "Tue, 09 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.07721"
-  },
-  {
-    "source": "arXiv",
-    "title": "Some hypotheses on how chatbots work in problem-solving-driven conversations. Large Language Models as confirmation of the Innovation Illusion",
-    "date": "Tue, 09 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.07722"
-  },
-  {
-    "source": "arXiv",
-    "title": "Land cover and flood type govern the detection limits of satellite-based flood mapping across diverse global flood events",
-    "date": "Tue, 09 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.07780"
-  },
-  {
-    "source": "arXiv",
-    "title": "Reconstructing and forecasting disease trajectories of patients with Alzheimer's disease using routine data in resource-constrained settings",
-    "date": "Tue, 09 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.07798"
-  },
-  {
-    "source": "arXiv",
-    "title": "Improving Multimodal Reasoning via Worst Dimension Optimization",
-    "date": "Tue, 09 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.07801"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Industrial policy for the Intelligence Age",
-    "date": "Tue, 09 Jun 2026 00:00:00 GMT",
-    "url": "https://openai.com/index/industrial-policy-for-the-intelligence-age"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "Migrating Your GitHub CI to Hugging Face Jobs",
-    "date": "Tue, 09 Jun 2026 00:00:00 GMT",
-    "url": "https://huggingface.co/blog/github-ci-hf-jobs"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Confidential submission of draft S-1 to the SEC",
-    "date": "Mon, 08 Jun 2026 14:00:00 GMT",
-    "url": "https://openai.com/index/openai-submits-confidential-s-1"
-  },
-  {
-    "source": "arXiv",
-    "title": "Detecting and Mitigating Bias by Treating Fairness as a Symmetry Operation",
-    "date": "Mon, 08 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.06514"
-  },
-  {
-    "source": "arXiv",
-    "title": "DiBS: Diffusion-Informed Branch Selection",
-    "date": "Mon, 08 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.06518"
-  },
-  {
-    "source": "arXiv",
-    "title": "SafeGene: Reusable Adapters for Transferable Safety Alignment",
-    "date": "Mon, 08 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.06519"
-  },
-  {
-    "source": "arXiv",
-    "title": "Lean4Agent: Formal Modeling and Verification for Agent Workflow and Trajectory",
-    "date": "Mon, 08 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.06523"
-  },
-  {
-    "source": "arXiv",
-    "title": "CrowdMath: A Dataset of Crowdsourced Mathematical Research Discussions",
-    "date": "Mon, 08 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.06526"
   }
 ]
