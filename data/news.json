@@ -1,5 +1,71 @@
 [
   {
+    "source": "arXiv",
+    "title": "What Drives Interactive Improvement from Feedback?",
+    "date": "Wed, 01 Jul 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2606.30774"
+  },
+  {
+    "source": "arXiv",
+    "title": "Contrastive Reflection for Iterative Prompt Optimization",
+    "date": "Wed, 01 Jul 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2606.30840"
+  },
+  {
+    "source": "arXiv",
+    "title": "How Can AI Find My Model? A Model-Finding Experimental Study Considering Data Formats, Embeddings, and Retrieval Strategies",
+    "date": "Wed, 01 Jul 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2606.30846"
+  },
+  {
+    "source": "arXiv",
+    "title": "BayesBench: Evaluating LLM Belief Trajectories Under Multi-Turn Evidence Accumulation",
+    "date": "Wed, 01 Jul 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2606.30850"
+  },
+  {
+    "source": "arXiv",
+    "title": "When Does Learning to Stop Help? A Cost-Aware Study of Early Exits in Reasoning Models",
+    "date": "Wed, 01 Jul 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2606.30852"
+  },
+  {
+    "source": "arXiv",
+    "title": "Beyond expert users: agents should help users construct preferences, not just elicit them",
+    "date": "Wed, 01 Jul 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2606.30863"
+  },
+  {
+    "source": "arXiv",
+    "title": "Investigating Multi-Agent Deliberation in Law",
+    "date": "Wed, 01 Jul 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2606.30906"
+  },
+  {
+    "source": "arXiv",
+    "title": "Why Solve It Twice? Hierarchical Accumulation of Skills for Transfer-Efficient ML Engineering",
+    "date": "Wed, 01 Jul 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2606.30911"
+  },
+  {
+    "source": "arXiv",
+    "title": "RoPoLL: Robust Panel of LLM Judges",
+    "date": "Wed, 01 Jul 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2606.30931"
+  },
+  {
+    "source": "arXiv",
+    "title": "AgRefactor: Self-Evolving Agentic Workflow for HLS Compatibility and Performance",
+    "date": "Wed, 01 Jul 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2606.30949"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "Hugging Face and Cerebras bring Gemma 4 to real-time voice AI",
+    "date": "Wed, 01 Jul 2026 00:00:00 GMT",
+    "url": "https://huggingface.co/blog/cerebras-gemma4-voice-ai"
+  },
+  {
     "source": "HuggingFace",
     "title": "ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
     "date": "Tue, 30 Jun 2026 18:32:50 GMT",
@@ -1132,71 +1198,5 @@
     "title": "Less Context, Better Agents: Efficient Context Engineering for Long-Horizon Tool-Using LLM Agents",
     "date": "Wed, 10 Jun 2026 00:00:00 -0400",
     "url": "https://arxiv.org/abs/2606.10209"
-  },
-  {
-    "source": "arXiv",
-    "title": "Minimalist Genetic Programming",
-    "date": "Wed, 10 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.10237"
-  },
-  {
-    "source": "arXiv",
-    "title": "Regimes: An Auditable, Held-Out-Gated Improvement Loop Demonstrated on LongMemEval with ActiveGraph",
-    "date": "Wed, 10 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.10241"
-  },
-  {
-    "source": "arXiv",
-    "title": "RealMath-Eval: Why SOTA Judges Struggle with Real Human Reasoning",
-    "date": "Wed, 10 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.10254"
-  },
-  {
-    "source": "arXiv",
-    "title": "Supervised Fine-tuning with Synthetic Rationale Data Hurts Real-World Disease Prediction",
-    "date": "Wed, 10 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.10279"
-  },
-  {
-    "source": "OpenAI",
-    "title": "From data to decisions: how LSEG is scaling trusted AI",
-    "date": "Wed, 10 Jun 2026 00:00:00 GMT",
-    "url": "https://openai.com/index/lseg"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "Can Voice Agents Handle Bilingual Customers? Benchmarking Frontier ASR on Code-Switched Speech",
-    "date": "Tue, 09 Jun 2026 19:38:28 GMT",
-    "url": "https://huggingface.co/blog/ServiceNow-AI/code-switching"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "Introducing North Mini Code: Cohere’s First Model For Developers",
-    "date": "Tue, 09 Jun 2026 15:56:23 GMT",
-    "url": "https://huggingface.co/blog/CohereLabs/introducing-north-mini-code"
-  },
-  {
-    "source": "OpenAI",
-    "title": "How engineers at Nextdoor use Codex to build without limits",
-    "date": "Tue, 09 Jun 2026 12:00:00 GMT",
-    "url": "https://openai.com/index/nextdoor"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "How an Agent Built a 3D Paris Gallery by Chaining Two Hugging Face Spaces",
-    "date": "Tue, 09 Jun 2026 10:46:19 GMT",
-    "url": "https://huggingface.co/blog/mishig/spaces-agents-md"
-  },
-  {
-    "source": "OpenAI",
-    "title": "What Codex unlocks for Notion",
-    "date": "Tue, 09 Jun 2026 10:00:00 GMT",
-    "url": "https://openai.com/index/notion"
-  },
-  {
-    "source": "arXiv",
-    "title": "PathoSage: Towards Multi-Source Evidence Adjudication in Pathology via Experience-Aware Agentic Workflow",
-    "date": "Tue, 09 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.07549"
   }
 ]
