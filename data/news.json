@@ -1,6 +1,66 @@
 [
   {
     "source": "arXiv",
+    "title": "Constructive Alignment: Governing Preference Dynamics in Human-AI Interaction",
+    "date": "Thu, 02 Jul 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.00001"
+  },
+  {
+    "source": "arXiv",
+    "title": "Bounded Morality: Defining the Space of Moral Computation",
+    "date": "Thu, 02 Jul 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.00002"
+  },
+  {
+    "source": "arXiv",
+    "title": "The MMM Data Model -- A Normative Specification for Knowledge Interoperability in a Decentralisable Knowledge Commons",
+    "date": "Thu, 02 Jul 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.00032"
+  },
+  {
+    "source": "arXiv",
+    "title": "Making Failure Safe: A Constrained, Verifiable Agent Framework for Open-Web Data Collection",
+    "date": "Thu, 02 Jul 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.00035"
+  },
+  {
+    "source": "arXiv",
+    "title": "Solution space path planning for supporting en-route air traffic control",
+    "date": "Thu, 02 Jul 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.00064"
+  },
+  {
+    "source": "arXiv",
+    "title": "RareDxR1: Autonomous Medical Reasoning for Rare Disease Diagnosis Beyond Human Annotation",
+    "date": "Thu, 02 Jul 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.00147"
+  },
+  {
+    "source": "arXiv",
+    "title": "A Contextual-Bandit Oversight Game with Two-Sided Informational Asymmetry",
+    "date": "Thu, 02 Jul 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.00155"
+  },
+  {
+    "source": "arXiv",
+    "title": "Constructing Epistemic AI Literacy: Detecting Epistemic Aims and Processes in Student-AI Co-Programming",
+    "date": "Thu, 02 Jul 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.00211"
+  },
+  {
+    "source": "arXiv",
+    "title": "From Signals to Structure: How Memory Architecture Drives Language Emergence in LLM Agents",
+    "date": "Thu, 02 Jul 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.00233"
+  },
+  {
+    "source": "arXiv",
+    "title": "Seed2.0 Model Card: Towards Intelligence Frontier for Real-World Complexity",
+    "date": "Thu, 02 Jul 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.00248"
+  },
+  {
+    "source": "arXiv",
     "title": "What Drives Interactive Improvement from Feedback?",
     "date": "Wed, 01 Jul 2026 00:00:00 -0400",
     "url": "https://arxiv.org/abs/2606.30774"
@@ -1138,65 +1198,5 @@
     "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem ",
     "date": "Thu, 11 Jun 2026 00:00:00 GMT",
     "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem"
-  },
-  {
-    "source": "OpenAI",
-    "title": "OpenAI to acquire Ona",
-    "date": "Thu, 11 Jun 2026 00:00:00 GMT",
-    "url": "https://openai.com/index/openai-to-acquire-ona"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "Profiling in PyTorch (Part 2): From nn.Linear to a Fused MLP",
-    "date": "Thu, 11 Jun 2026 00:00:00 GMT",
-    "url": "https://huggingface.co/blog/torch-mlp-fusion"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Access OpenAI models and Codex through your Oracle cloud commitment",
-    "date": "Wed, 10 Jun 2026 20:00:00 GMT",
-    "url": "https://openai.com/index/openai-on-oracle-cloud"
-  },
-  {
-    "source": "OpenAI",
-    "title": "PRC-linked influence operations are targeting AI debates in the US",
-    "date": "Wed, 10 Jun 2026 12:00:00 GMT",
-    "url": "https://openai.com/index/prc-linked-influence-operations-ai-debates"
-  },
-  {
-    "source": "arXiv",
-    "title": "Business World Model",
-    "date": "Wed, 10 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.10044"
-  },
-  {
-    "source": "arXiv",
-    "title": "Deployment-Time Memorization in Foundation-Model Agents",
-    "date": "Wed, 10 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.10062"
-  },
-  {
-    "source": "arXiv",
-    "title": "Exploratory Responsiveness and Adaptive Rigidity under AI-Assisted Optimization",
-    "date": "Wed, 10 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.10086"
-  },
-  {
-    "source": "arXiv",
-    "title": "Predictive Assistance and the Temporal Dynamics of Exploratory Compression",
-    "date": "Wed, 10 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.10094"
-  },
-  {
-    "source": "arXiv",
-    "title": "From Senses to Decisions: The Information Flow of Auditory and Visual Perception in Multimodal LLMs",
-    "date": "Wed, 10 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.10147"
-  },
-  {
-    "source": "arXiv",
-    "title": "Less Context, Better Agents: Efficient Context Engineering for Long-Horizon Tool-Using LLM Agents",
-    "date": "Wed, 10 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.10209"
   }
 ]
