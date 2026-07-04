@@ -1,6 +1,66 @@
 [
   {
     "source": "arXiv",
+    "title": "PACE: A Neuro-Symbolic Framework for Plausible and Actionable Counterfactual Explanations",
+    "date": "Fri, 03 Jul 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.01306"
+  },
+  {
+    "source": "arXiv",
+    "title": "Auto-FL-Research: Agentic Search for Federated Learning Algorithms",
+    "date": "Fri, 03 Jul 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.01366"
+  },
+  {
+    "source": "arXiv",
+    "title": "The Wiola Architecture for Efficient Small Language Models",
+    "date": "Fri, 03 Jul 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.01394"
+  },
+  {
+    "source": "arXiv",
+    "title": "Agent4cs: A Multi-agent System for Code Summarization in Large Hierarchical Codebases",
+    "date": "Fri, 03 Jul 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.01425"
+  },
+  {
+    "source": "arXiv",
+    "title": "When Should Service Agents Reconsider? Difficulty-Routed Control in Customer-Service Operations",
+    "date": "Fri, 03 Jul 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.01426"
+  },
+  {
+    "source": "arXiv",
+    "title": "CreativityNeuro: Steering Language Model Weights to Improve Divergent Thinking and Reduce Mode Collapse",
+    "date": "Fri, 03 Jul 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.01433"
+  },
+  {
+    "source": "arXiv",
+    "title": "Discrete Diffusion Language Models for Interactive Radiology Report Drafting",
+    "date": "Fri, 03 Jul 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.01436"
+  },
+  {
+    "source": "arXiv",
+    "title": "Beyond Next-Token Prediction: An RLVR Proof of Concept for Tool-Use Agents on Atlassian Workflows",
+    "date": "Fri, 03 Jul 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.01465"
+  },
+  {
+    "source": "arXiv",
+    "title": "World Feedback for Clinical Agents: Diagnosing RL in FHIR Environments",
+    "date": "Fri, 03 Jul 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.01470"
+  },
+  {
+    "source": "arXiv",
+    "title": "Procedural Memory Distillation: Online Reflection for Self-Improving Language Models",
+    "date": "Fri, 03 Jul 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.01480"
+  },
+  {
+    "source": "arXiv",
     "title": "Constructive Alignment: Governing Preference Dynamics in Human-AI Interaction",
     "date": "Thu, 02 Jul 2026 00:00:00 -0400",
     "url": "https://arxiv.org/abs/2607.00001"
@@ -1138,65 +1198,5 @@
     "title": "Can AI Agents Synthesize Scientific Conclusions?",
     "date": "Thu, 11 Jun 2026 00:00:00 -0400",
     "url": "https://arxiv.org/abs/2606.11337"
-  },
-  {
-    "source": "arXiv",
-    "title": "Knowing When to Ask: Self-Gated Clarification for Hierarchical Language Agents",
-    "date": "Thu, 11 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.11349"
-  },
-  {
-    "source": "arXiv",
-    "title": "Automated Mediator for Human Negotiation: Pre-Mediation via a Structured LLM Pipeline",
-    "date": "Thu, 11 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.11379"
-  },
-  {
-    "source": "arXiv",
-    "title": "INFRAMIND: Infrastructure-Aware Multi-Agent Orchestration",
-    "date": "Thu, 11 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.11440"
-  },
-  {
-    "source": "arXiv",
-    "title": "Forecasting Future Behavior as a Learning Task",
-    "date": "Thu, 11 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.11445"
-  },
-  {
-    "source": "arXiv",
-    "title": "Search Discipline for Long-Horizon Research Agents",
-    "date": "Thu, 11 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.11522"
-  },
-  {
-    "source": "arXiv",
-    "title": "MoCA-Agent: A Market-of-Claims Code Agent for Financial and Numerical Reasoning",
-    "date": "Thu, 11 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.11537"
-  },
-  {
-    "source": "arXiv",
-    "title": "SkillJuror: Measuring How Agent Skill Organization Changes Runtime Behavior",
-    "date": "Thu, 11 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.11543"
-  },
-  {
-    "source": "OpenAI",
-    "title": "How an astrophysicist uses Codex to help simulate black holes",
-    "date": "Thu, 11 Jun 2026 00:00:00 GMT",
-    "url": "https://openai.com/index/using-codex-to-simulate-black-holes"
-  },
-  {
-    "source": "OpenAI",
-    "title": "BBVA puts AI at the core of banking with OpenAI",
-    "date": "Thu, 11 Jun 2026 00:00:00 GMT",
-    "url": "https://openai.com/index/bbva"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem ",
-    "date": "Thu, 11 Jun 2026 00:00:00 GMT",
-    "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem"
   }
 ]
