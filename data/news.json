@@ -1,6 +1,102 @@
 [
   {
     "source": "HuggingFace",
+    "title": "Data for Agents",
+    "date": "Wed, 08 Jul 2026 17:16:05 GMT",
+    "url": "https://huggingface.co/blog/nvidia/open-data-for-agents"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Our approach to government and national security partnerships",
+    "date": "Wed, 08 Jul 2026 13:30:00 GMT",
+    "url": "https://openai.com/index/government-national-security-partnerships"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Separating signal from noise in coding evaluations",
+    "date": "Wed, 08 Jul 2026 13:00:00 GMT",
+    "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Helping K–12 educators build practical AI skills",
+    "date": "Wed, 08 Jul 2026 10:00:00 GMT",
+    "url": "https://openai.com/index/k-12-educators-practical-skills"
+  },
+  {
+    "source": "arXiv",
+    "title": "Prompt-to-Paper: Agentic AI System for Bioinformatics",
+    "date": "Wed, 08 Jul 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.05456"
+  },
+  {
+    "source": "arXiv",
+    "title": "From Graphs to Gradients: Physics-Inspired Structural Attribution for Cyber-Physical IoT Systems and Beyond",
+    "date": "Wed, 08 Jul 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.05563"
+  },
+  {
+    "source": "arXiv",
+    "title": "CSTutorBench: Benchmarking Small Language Models as Tutors for Block-Based Programming",
+    "date": "Wed, 08 Jul 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.05571"
+  },
+  {
+    "source": "arXiv",
+    "title": "Foundation Models for Automatic CAD Generation",
+    "date": "Wed, 08 Jul 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.05573"
+  },
+  {
+    "source": "arXiv",
+    "title": "Narrative World Model: Narratology-Grounded Writer Memory for Long-Form Fiction",
+    "date": "Wed, 08 Jul 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.05577"
+  },
+  {
+    "source": "arXiv",
+    "title": "FirstResearch: Auditable Question Formation for LLM Scientific Discovery Agents",
+    "date": "Wed, 08 Jul 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.05682"
+  },
+  {
+    "source": "arXiv",
+    "title": "Memory in the Loop: In-Process Retrieval as ExtendedWorking Memory for Language Agents",
+    "date": "Wed, 08 Jul 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.05690"
+  },
+  {
+    "source": "arXiv",
+    "title": "Akashic: A Low-Overhead LLM Inference Service with MemAttention",
+    "date": "Wed, 08 Jul 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.05708"
+  },
+  {
+    "source": "arXiv",
+    "title": "ArtisanCAD: An Industrial-Level CAD Agent with Expert-Grounded Knowledge Distillation",
+    "date": "Wed, 08 Jul 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.05750"
+  },
+  {
+    "source": "arXiv",
+    "title": "Synthetic Consumer Insight Generation with Large Language Models",
+    "date": "Wed, 08 Jul 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.05761"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Introducing GPT-Live",
+    "date": "Wed, 08 Jul 2026 00:00:00 GMT",
+    "url": "https://openai.com/index/introducing-gpt-live"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "Native-speed vLLM transformers modeling backend",
+    "date": "Wed, 08 Jul 2026 00:00:00 GMT",
+    "url": "https://huggingface.co/blog/native-speed-vllm-transformers-backend"
+  },
+  {
+    "source": "HuggingFace",
     "title": "From Hugging Face to Amazon SageMaker Studio in one click",
     "date": "Tue, 07 Jul 2026 21:15:33 GMT",
     "url": "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio"
@@ -1102,101 +1198,5 @@
     "title": "Trust Between AI Agents: Measuring Formation, Breakage, and Recovery, with Implications for Governing Multi-Agent Systems",
     "date": "Tue, 16 Jun 2026 00:00:00 -0400",
     "url": "https://arxiv.org/abs/2606.14923"
-  },
-  {
-    "source": "arXiv",
-    "title": "PrologMCP: A Standardized Prolog Tool Interface for LLM Agents",
-    "date": "Tue, 16 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.14935"
-  },
-  {
-    "source": "arXiv",
-    "title": "Semantics-Enhanced Retrieval-Augmented Time Series Forecasting",
-    "date": "Tue, 16 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.14941"
-  },
-  {
-    "source": "arXiv",
-    "title": "AI Engram: In Search of Memory Traces in Artificial Intelligence",
-    "date": "Tue, 16 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.14997"
-  },
-  {
-    "source": "arXiv",
-    "title": "Metric Match: A Subset Selection Approach to Evaluating LLM Judge Reliability",
-    "date": "Tue, 16 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.15029"
-  },
-  {
-    "source": "arXiv",
-    "title": "OSGuard: A Benchmark for Safety in Computer-Use Agents",
-    "date": "Tue, 16 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.15034"
-  },
-  {
-    "source": "arXiv",
-    "title": "Fusion is not one-size-fits-all: Cross-Modal Representation Alignment for Time-to-Event Modeling",
-    "date": "Tue, 16 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.15038"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Predicting model behavior before release by simulating deployment",
-    "date": "Tue, 16 Jun 2026 00:00:00 GMT",
-    "url": "https://openai.com/index/deployment-simulation"
-  },
-  {
-    "source": "arXiv",
-    "title": "A Deep Reinforcement Learning (DRL)-Based Transformer Method for Solving the Open Shop Scheduling Problem",
-    "date": "Mon, 15 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.13682"
-  },
-  {
-    "source": "arXiv",
-    "title": "UP-NRPA: User Portrait based Nested Rollout Policy Adaptation for Planning with Large Language Models in Goal-oriented Dialogue Systems",
-    "date": "Mon, 15 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.13683"
-  },
-  {
-    "source": "arXiv",
-    "title": "History of the Muddy Children Puzzle",
-    "date": "Mon, 15 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.13703"
-  },
-  {
-    "source": "arXiv",
-    "title": "Orchestra-o1: Omnimodal Agent Orchestration",
-    "date": "Mon, 15 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.13707"
-  },
-  {
-    "source": "arXiv",
-    "title": "Hybrid Open-Ended Tri-Evolution Makes Better Deep Researcher",
-    "date": "Mon, 15 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.13710"
-  },
-  {
-    "source": "arXiv",
-    "title": "WorkBench Revisited: Workplace Agents Two Years On",
-    "date": "Mon, 15 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.13715"
-  },
-  {
-    "source": "arXiv",
-    "title": "Refusal Beyond a Single Direction: A Preliminary Comparison of Diff-in-Means and INLP",
-    "date": "Mon, 15 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.13720"
-  },
-  {
-    "source": "arXiv",
-    "title": "YeasierAgent: Agentic Social Sandbox as a Canvas for Intent-Driven Creation of Platform-Agnostic Symbiotic Agent-Native Applications",
-    "date": "Mon, 15 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.13722"
-  },
-  {
-    "source": "arXiv",
-    "title": "TwinBI: An Agentic Digital Twin for Efficient Augmented Interactions with Business Intelligence Dashboards",
-    "date": "Mon, 15 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.13731"
   }
 ]
