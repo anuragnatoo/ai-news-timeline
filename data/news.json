@@ -1,5 +1,89 @@
 [
   {
+    "source": "OpenAI",
+    "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
+    "date": "Thu, 09 Jul 2026 13:00:00 GMT",
+    "url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot"
+  },
+  {
+    "source": "OpenAI",
+    "title": "ChatGPT is now a partner for your most ambitious work",
+    "date": "Thu, 09 Jul 2026 10:00:00 GMT",
+    "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work"
+  },
+  {
+    "source": "OpenAI",
+    "title": "GPT-5.5 Bio Bug Bounty",
+    "date": "Thu, 09 Jul 2026 10:00:00 GMT",
+    "url": "https://openai.com/index/bio-bug-bounty"
+  },
+  {
+    "source": "OpenAI",
+    "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
+    "date": "Thu, 09 Jul 2026 10:00:00 GMT",
+    "url": "https://openai.com/index/gpt-5-6"
+  },
+  {
+    "source": "arXiv",
+    "title": "AgentLens: Production-Assessed Trajectory Reviews for Coding Agent Evaluation",
+    "date": "Thu, 09 Jul 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.06624"
+  },
+  {
+    "source": "arXiv",
+    "title": "When Does In-Context Search Help? A Sampling-Complexity Theory of Reflection-Driven Reasoning",
+    "date": "Thu, 09 Jul 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.06720"
+  },
+  {
+    "source": "arXiv",
+    "title": "LLM-powered reasoning in agent-based modeling",
+    "date": "Thu, 09 Jul 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.06757"
+  },
+  {
+    "source": "arXiv",
+    "title": "QANTIS: Hardware-Calibrated Sequential POMDP Belief Updates on IBM Heron",
+    "date": "Thu, 09 Jul 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.06760"
+  },
+  {
+    "source": "arXiv",
+    "title": "Cost-Effective Agent Harnesses for Abstract Reasoning and Generalization on ARC-AGI-1",
+    "date": "Thu, 09 Jul 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.06764"
+  },
+  {
+    "source": "arXiv",
+    "title": "Evaluating SageMath-Augmented LLM Agents for Computational and Experimental Mathematics",
+    "date": "Thu, 09 Jul 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.06820"
+  },
+  {
+    "source": "arXiv",
+    "title": "The Harness Effect: How Orchestration Design Sets the Token Economics of Enterprise Agentic AI",
+    "date": "Thu, 09 Jul 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.06906"
+  },
+  {
+    "source": "arXiv",
+    "title": "Grounding Spatial Relations in a Compact World Model: Instruction Leakage and a Goal-Free Dynamics Fix",
+    "date": "Thu, 09 Jul 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.06925"
+  },
+  {
+    "source": "arXiv",
+    "title": "Large Behavior Model: A Promptable Digital Twin of the Retail Customer",
+    "date": "Thu, 09 Jul 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.06993"
+  },
+  {
+    "source": "arXiv",
+    "title": "Learning social norms enhances compatibility in dynamic human-AI coordination",
+    "date": "Thu, 09 Jul 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.07021"
+  },
+  {
     "source": "HuggingFace",
     "title": "Data for Agents",
     "date": "Wed, 08 Jul 2026 17:16:05 GMT",
@@ -1114,89 +1198,5 @@
     "title": "When Rules Learn: A Self-Evolving Agent for Legal Case Retrieval",
     "date": "Wed, 17 Jun 2026 00:00:00 -0400",
     "url": "https://arxiv.org/abs/2606.17220"
-  },
-  {
-    "source": "arXiv",
-    "title": "SkillChain-Gym: A Benchmark for Reskilling-Aware Production-Inventory Control under Disruptions",
-    "date": "Wed, 17 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.17266"
-  },
-  {
-    "source": "arXiv",
-    "title": "Skill-Constrained Model Predictive Control for Resilient Manufacturing Supply Chains",
-    "date": "Wed, 17 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.17269"
-  },
-  {
-    "source": "arXiv",
-    "title": "Nothing from Something: Can a Language Model Discover 0?",
-    "date": "Wed, 17 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.17289"
-  },
-  {
-    "source": "arXiv",
-    "title": "Quantifying Consistency in LLM Logical Reasoning via Structural Uncertainty",
-    "date": "Wed, 17 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.17312"
-  },
-  {
-    "source": "arXiv",
-    "title": "MemTrace: Probing What Final Accuracy Misses in Long-Term Memory",
-    "date": "Wed, 17 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.17328"
-  },
-  {
-    "source": "arXiv",
-    "title": "SpeechDx: A Multi-Task Benchmark for Clinical Speech AI",
-    "date": "Wed, 17 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.17339"
-  },
-  {
-    "source": "arXiv",
-    "title": "Distributed General-Purpose Agent Networks: Architecture, Key Mechanisms, and Prototypes",
-    "date": "Wed, 17 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.17368"
-  },
-  {
-    "source": "arXiv",
-    "title": "Treatment Response Optimized Clinical Decision Support AI System via Digital Twin Simulation",
-    "date": "Wed, 17 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.17405"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Introducing LifeSciBench",
-    "date": "Wed, 17 Jun 2026 00:00:00 GMT",
-    "url": "https://openai.com/index/introducing-life-sci-bench"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "Agentic Resource Discovery: Let agents search",
-    "date": "Wed, 17 Jun 2026 00:00:00 GMT",
-    "url": "https://huggingface.co/blog/agentic-resource-discovery-launch"
-  },
-  {
-    "source": "arXiv",
-    "title": "A Definition of Good Explanations and the Challenges Explaining LLM Outputs",
-    "date": "Tue, 16 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.14838"
-  },
-  {
-    "source": "arXiv",
-    "title": "Dr-DCI: Scaling Direct Corpus Interaction via Dynamic Workspace Expansion",
-    "date": "Tue, 16 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.14885"
-  },
-  {
-    "source": "arXiv",
-    "title": "Relational Structural Causal Models",
-    "date": "Tue, 16 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.14892"
-  },
-  {
-    "source": "arXiv",
-    "title": "Trust Between AI Agents: Measuring Formation, Breakage, and Recovery, with Implications for Governing Multi-Agent Systems",
-    "date": "Tue, 16 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.14923"
   }
 ]
