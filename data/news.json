@@ -1,6 +1,78 @@
 [
   {
     "source": "OpenAI",
+    "title": "How Deutsche Telekom is rewiring telecommunications with AI",
+    "date": "Fri, 10 Jul 2026 07:00:00 GMT",
+    "url": "https://openai.com/index/deutsche-telekom"
+  },
+  {
+    "source": "arXiv",
+    "title": "Context Graphs for Proactive Enterprise Agents",
+    "date": "Fri, 10 Jul 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.07721"
+  },
+  {
+    "source": "arXiv",
+    "title": "AI-integrated models for assessing agricultural resilience",
+    "date": "Fri, 10 Jul 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.07759"
+  },
+  {
+    "source": "arXiv",
+    "title": "Adversarial Social Epistemology for Assemblies of Humans and Large Language Models",
+    "date": "Fri, 10 Jul 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.07760"
+  },
+  {
+    "source": "arXiv",
+    "title": "Aligning Clinical Needs and AI Capabilities: A Survey on LLMs for Medical Reasoning",
+    "date": "Fri, 10 Jul 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.07761"
+  },
+  {
+    "source": "arXiv",
+    "title": "Alignment Plausibility: A New Standard for Assuring AI in Healthcare",
+    "date": "Fri, 10 Jul 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.07766"
+  },
+  {
+    "source": "arXiv",
+    "title": "Idiobionics: The Unification of Privacy and Intelligent Robotic Prostheses",
+    "date": "Fri, 10 Jul 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.07775"
+  },
+  {
+    "source": "arXiv",
+    "title": "Infinity-Parser2 Technical Report",
+    "date": "Fri, 10 Jul 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.07836"
+  },
+  {
+    "source": "arXiv",
+    "title": "VectorizationLLM: Smart Vectorization Based AI Assistant",
+    "date": "Fri, 10 Jul 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.07846"
+  },
+  {
+    "source": "arXiv",
+    "title": "A Graph Neural Network Model for Real-Time Gesture Recognition Based on sEMG Signals",
+    "date": "Fri, 10 Jul 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.07850"
+  },
+  {
+    "source": "arXiv",
+    "title": "Agentic AI and Retrieval-Augmented Models in Straight-Through Underwriting",
+    "date": "Fri, 10 Jul 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.07858"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "Profiling in PyTorch (Part 3): Attention is all you profile",
+    "date": "Fri, 10 Jul 2026 00:00:00 GMT",
+    "url": "https://huggingface.co/blog/torch-attention-profile"
+  },
+  {
+    "source": "OpenAI",
     "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
     "date": "Thu, 09 Jul 2026 13:00:00 GMT",
     "url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot"
@@ -1126,77 +1198,5 @@
     "title": "Optimizing Lithium Production Decisions under Geological, Demand, and Pricing Uncertainties: A POMDP Framework for Multi-Objective Decision Making",
     "date": "Thu, 18 Jun 2026 00:00:00 -0400",
     "url": "https://arxiv.org/abs/2606.18598"
-  },
-  {
-    "source": "arXiv",
-    "title": "ForecastBench-Sim: A Simulated-World Forecasting Benchmark",
-    "date": "Thu, 18 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.18686"
-  },
-  {
-    "source": "arXiv",
-    "title": "What Must Generalist Agents Remember?",
-    "date": "Thu, 18 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.18746"
-  },
-  {
-    "source": "arXiv",
-    "title": "R2D-RL: A RoboCup 2D Soccer Environment for Multi-Agent Reinforcement Learning",
-    "date": "Thu, 18 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.18786"
-  },
-  {
-    "source": "arXiv",
-    "title": "ProfiLLM: Utility-Aligned Agentic User Profiling for Industrial Ride-Hailing Dispatch",
-    "date": "Thu, 18 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.18803"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "Beyond LoRA: Can you beat the most popular fine-tuning technique?",
-    "date": "Thu, 18 Jun 2026 00:00:00 GMT",
-    "url": "https://huggingface.co/blog/peft-beyond-lora"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "Is it agentic enough? Benchmarking open models on your own tooling",
-    "date": "Thu, 18 Jun 2026 00:00:00 GMT",
-    "url": "https://huggingface.co/blog/is-it-agentic-enough"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "MolmoMotion: Language-guided 3D motion forecasting",
-    "date": "Wed, 17 Jun 2026 15:26:44 GMT",
-    "url": "https://huggingface.co/blog/allenai/molmomotion"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "From the Hugging Face Hub to robot hardware with Strands Agents and LeRobot",
-    "date": "Wed, 17 Jun 2026 10:18:05 GMT",
-    "url": "https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware"
-  },
-  {
-    "source": "OpenAI",
-    "title": "A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
-    "date": "Wed, 17 Jun 2026 10:00:00 GMT",
-    "url": "https://openai.com/index/ai-chemist-improves-reaction"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "GLM-5.2: Built for Long-Horizon Tasks",
-    "date": "Wed, 17 Jun 2026 09:01:25 GMT",
-    "url": "https://huggingface.co/blog/zai-org/glm-52-blog"
-  },
-  {
-    "source": "arXiv",
-    "title": "Beyond Parallel Sampling: Diverse Query Initialization for Agentic Search",
-    "date": "Wed, 17 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.17209"
-  },
-  {
-    "source": "arXiv",
-    "title": "When Rules Learn: A Self-Evolving Agent for Legal Case Retrieval",
-    "date": "Wed, 17 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.17220"
   }
 ]
