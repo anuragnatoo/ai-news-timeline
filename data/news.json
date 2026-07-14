@@ -1,5 +1,65 @@
 [
   {
+    "source": "arXiv",
+    "title": "Interval Certifications for Multilayered Perceptrons via Lattice Traversal",
+    "date": "Mon, 13 Jul 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.08773"
+  },
+  {
+    "source": "arXiv",
+    "title": "CogniConsole: Externalizing Inference-Time Control as a Formal Abstraction for Reliable LLM Interactions",
+    "date": "Mon, 13 Jul 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.08774"
+  },
+  {
+    "source": "arXiv",
+    "title": "GATS: Graph-Augmented Tree Search with Layered World Models for Efficient Agent Planning",
+    "date": "Mon, 13 Jul 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.08894"
+  },
+  {
+    "source": "arXiv",
+    "title": "Long-Horizon-Terminal-Bench: Testing the Limits of Agents on Long-Horizon Terminal Tasks with Dense Reward-Based Grading",
+    "date": "Mon, 13 Jul 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.08964"
+  },
+  {
+    "source": "arXiv",
+    "title": "A Formalization of the Mean-Field Derivation of the Vlasov Equation: AI-Assisted Lean Formalization as a Strategy Game",
+    "date": "Mon, 13 Jul 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.08986"
+  },
+  {
+    "source": "arXiv",
+    "title": "ARCANA: A Reflective Multi-Agent Program Synthesis Framework for ARC-AGI-2 Reasoning",
+    "date": "Mon, 13 Jul 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.09059"
+  },
+  {
+    "source": "arXiv",
+    "title": "Neuro-Agentic Control: A Deep Learning-based LLM-Powered Agentic AI Framework for Controlling Security Controls",
+    "date": "Mon, 13 Jul 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.09076"
+  },
+  {
+    "source": "arXiv",
+    "title": "L-MAD: A Systematic Evaluation of Multi-Agent Debate Structures in Legal Reasoning",
+    "date": "Mon, 13 Jul 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.09099"
+  },
+  {
+    "source": "arXiv",
+    "title": "MedRealMM: A Real-World Multimodal Benchmark for Chinese Online Medical Consultation",
+    "date": "Mon, 13 Jul 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.09142"
+  },
+  {
+    "source": "arXiv",
+    "title": "KV-PRM: Efficient Process Reward Modeling via KV-Cache Transfer for Multi-Agent Test-Time Scaling",
+    "date": "Mon, 13 Jul 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.09153"
+  },
+  {
     "source": "OpenAI",
     "title": "How Deutsche Telekom is rewiring telecommunications with AI",
     "date": "Fri, 10 Jul 2026 07:00:00 GMT",
@@ -70,6 +130,12 @@
     "title": "Profiling in PyTorch (Part 3): Attention is all you profile",
     "date": "Fri, 10 Jul 2026 00:00:00 GMT",
     "url": "https://huggingface.co/blog/torch-attention-profile"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Getting started with ChatGPT",
+    "date": "Fri, 10 Jul 2026 00:00:00 GMT",
+    "url": "https://openai.com/academy/getting-started"
   },
   {
     "source": "OpenAI",
@@ -1132,71 +1198,5 @@
     "title": "ITNet: A Learnable Integral Transform That Subsumes Convolution, Attention, and Recurrence",
     "date": "Fri, 19 Jun 2026 00:00:00 -0400",
     "url": "https://arxiv.org/abs/2606.19538"
-  },
-  {
-    "source": "arXiv",
-    "title": "Uncertainty Decomposition for Clarification Seeking in LLM Agents",
-    "date": "Fri, 19 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.19559"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "MosaicLeaks: Can your research agent keep a secret?",
-    "date": "Thu, 18 Jun 2026 18:13:13 GMT",
-    "url": "https://huggingface.co/blog/ServiceNow/mosaicleaks"
-  },
-  {
-    "source": "OpenAI",
-    "title": "New usage analytics and updated spend controls for enterprises",
-    "date": "Thu, 18 Jun 2026 17:00:00 GMT",
-    "url": "https://openai.com/index/chatgpt-enterprise-spend-controls"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Improving health intelligence in ChatGPT",
-    "date": "Thu, 18 Jun 2026 11:00:00 GMT",
-    "url": "https://openai.com/index/improving-health-intelligence-in-chatgpt"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Using AI to help physicians diagnose rare genetic diseases affecting children",
-    "date": "Thu, 18 Jun 2026 08:00:00 GMT",
-    "url": "https://openai.com/index/diagnose-rare-childhood-diseases"
-  },
-  {
-    "source": "arXiv",
-    "title": "NAVI-Orbital: First In-Orbit Demonstration of a Zero-Shot Vision-Language Model for Autonomous Earth Observation",
-    "date": "Thu, 18 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.18271"
-  },
-  {
-    "source": "arXiv",
-    "title": "CaVe-VLM-CoT: An Interpretable Vision-Language Model Framework",
-    "date": "Thu, 18 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.18385"
-  },
-  {
-    "source": "arXiv",
-    "title": "Searching for Synergy in Shared Workspace Human-AI Collaboration",
-    "date": "Thu, 18 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.18413"
-  },
-  {
-    "source": "arXiv",
-    "title": "CEO-Bench: Can Agents Play the Long Game?",
-    "date": "Thu, 18 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.18543"
-  },
-  {
-    "source": "arXiv",
-    "title": "DeFAb: A Verifiable Benchmark for Defeasible Abduction in Foundation Models",
-    "date": "Thu, 18 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.18557"
-  },
-  {
-    "source": "arXiv",
-    "title": "Optimizing Lithium Production Decisions under Geological, Demand, and Pricing Uncertainties: A POMDP Framework for Multi-Objective Decision Making",
-    "date": "Thu, 18 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.18598"
   }
 ]
