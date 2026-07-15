@@ -1,5 +1,83 @@
 [
   {
+    "source": "OpenAI",
+    "title": "How to manage AI investments in the agentic era",
+    "date": "Tue, 14 Jul 2026 10:00:00 GMT",
+    "url": "https://openai.com/index/managing-ai-investments-in-agentic-era"
+  },
+  {
+    "source": "arXiv",
+    "title": "From ML Predictions to Informed Diagnostic Assistance Using the Toulmin Model of Argumentation",
+    "date": "Tue, 14 Jul 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.09664"
+  },
+  {
+    "source": "arXiv",
+    "title": "Format Sensitivity Index: Token-Controlled Prompt Wrapper Robustness and Schema Compliance in LLM Benchmarking",
+    "date": "Tue, 14 Jul 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.09665"
+  },
+  {
+    "source": "arXiv",
+    "title": "Faithful, Not Corrective: Message-Format Effects in Multi-Hop Agent Relays Are Tier-Dependent",
+    "date": "Tue, 14 Jul 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.09678"
+  },
+  {
+    "source": "arXiv",
+    "title": "Boltzmann MapReduce: A Partition-Function Reduce for Forkable Sandboxes",
+    "date": "Tue, 14 Jul 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.09689"
+  },
+  {
+    "source": "arXiv",
+    "title": "Interpreting Latent CoT Reasoning as Dynamical Systems",
+    "date": "Tue, 14 Jul 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.09698"
+  },
+  {
+    "source": "arXiv",
+    "title": "YUKTI: From Natural-Language Situations to Robust, Verifiable Decisions An Uncertainty-Typed Proposition IR, Assumption-Robust Pareto Frontiers, and a Regret Certificate",
+    "date": "Tue, 14 Jul 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.09706"
+  },
+  {
+    "source": "arXiv",
+    "title": "GES-TSP: Graph Edge Sparsification for TSP",
+    "date": "Tue, 14 Jul 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.09708"
+  },
+  {
+    "source": "arXiv",
+    "title": "The Verifier is the Curriculum: Execution-Gated Self-Distillation for Cross-Family Game Generation",
+    "date": "Tue, 14 Jul 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.09709"
+  },
+  {
+    "source": "arXiv",
+    "title": "Closed-Loop Control with Rule-Aligned Small Language Models and Multi-Agent Self-Correction",
+    "date": "Tue, 14 Jul 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.09713"
+  },
+  {
+    "source": "arXiv",
+    "title": "Feedback-Coupled Memory Systems in Continuous Time",
+    "date": "Tue, 14 Jul 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.09714"
+  },
+  {
+    "source": "OpenAI",
+    "title": "How data science teams use ChatGPT Work",
+    "date": "Tue, 14 Jul 2026 00:00:00 GMT",
+    "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex"
+  },
+  {
+    "source": "OpenAI",
+    "title": "How sales teams use ChatGPT Work",
+    "date": "Tue, 14 Jul 2026 00:00:00 GMT",
+    "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex"
+  },
+  {
     "source": "arXiv",
     "title": "Interval Certifications for Multilayered Perceptrons via Lattice Traversal",
     "date": "Mon, 13 Jul 2026 00:00:00 -0400",
@@ -1120,83 +1198,5 @@
     "title": "BrainG3N: A Dual-Purpose Tokenizer for Controllable 3D Brain MRI Generation",
     "date": "Sat, 20 Jun 2026 00:00:00 -0400",
     "url": "https://arxiv.org/abs/2606.19651"
-  },
-  {
-    "source": "arXiv",
-    "title": "Denoising Implicit Feedback for Cold-start Recommendation",
-    "date": "Sat, 20 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.19658"
-  },
-  {
-    "source": "arXiv",
-    "title": "Exit-and-Join Dynamics for Decentralized Coalition Formation",
-    "date": "Sat, 20 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.19683"
-  },
-  {
-    "source": "arXiv",
-    "title": "Beyond Static Leaderboards: Predictive Validity for the Evaluation of LLM Agents",
-    "date": "Sat, 20 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.19704"
-  },
-  {
-    "source": "arXiv",
-    "title": "GLARE: A Natural Language Interface for Querying Global Explanations",
-    "date": "Sat, 20 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.19735"
-  },
-  {
-    "source": "arXiv",
-    "title": "Deontic Policies for Runtime Governance of Agentic AI Systems",
-    "date": "Fri, 19 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.19464"
-  },
-  {
-    "source": "arXiv",
-    "title": "Measuring Curriculum Alignment across Topical Coverage, Competency, and Cognitive Depth: A Longitudinal Framework Applied to CS2013 and CS2023",
-    "date": "Fri, 19 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.19469"
-  },
-  {
-    "source": "arXiv",
-    "title": "Diffusion Language Models: An Experimental Analysis",
-    "date": "Fri, 19 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.19475"
-  },
-  {
-    "source": "arXiv",
-    "title": "Hidden Anchors in Multi-Agent LLM Deliberation",
-    "date": "Fri, 19 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.19494"
-  },
-  {
-    "source": "arXiv",
-    "title": "DeXposure-Claw: An Agentic System for DeFi Risk Supervision",
-    "date": "Fri, 19 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.19501"
-  },
-  {
-    "source": "arXiv",
-    "title": "LLM Doesn't Know What It Doesn't Know: Detecting Epistemic Blind Spots via Cross-Model Attribution Divergence on Clinical Tabular Data",
-    "date": "Fri, 19 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.19509"
-  },
-  {
-    "source": "arXiv",
-    "title": "REVEAL++: Differentiable Phenotypic Grouping for Vision-Language Retinal Modeling of Alzheimer's Disease Risk",
-    "date": "Fri, 19 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.19522"
-  },
-  {
-    "source": "arXiv",
-    "title": "Emergent Alignment",
-    "date": "Fri, 19 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.19527"
-  },
-  {
-    "source": "arXiv",
-    "title": "ITNet: A Learnable Integral Transform That Subsumes Convolution, Attention, and Recurrence",
-    "date": "Fri, 19 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.19538"
   }
 ]
