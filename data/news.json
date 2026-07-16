@@ -1,5 +1,107 @@
 [
   {
+    "source": "VentureBeat",
+    "title": "Agentic orchestration: Enterprise AI organizations have a deployment problem, not a platform problem — and most are calling chatbots agents",
+    "date": "Wed, 15 Jul 2026 22:24:17 GMT",
+    "url": "https://venturebeat.com/ai/agentic-orchestration-enterprise-ai-organizations-have-a-deployment-problem-not-a-platform-problem-and-most-are-calling-chatbots-agents"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "What building Shippy taught us about building agents",
+    "date": "Wed, 15 Jul 2026 17:29:41 GMT",
+    "url": "https://huggingface.co/blog/allenai/shippy-tech-blog"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "Model Routing Is Simple. Until It Isn’t.",
+    "date": "Wed, 15 Jul 2026 17:27:01 GMT",
+    "url": "https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt"
+  },
+  {
+    "source": "OpenAI",
+    "title": "The US is advancing AI safety through state and federal action",
+    "date": "Wed, 15 Jul 2026 12:00:00 GMT",
+    "url": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action"
+  },
+  {
+    "source": "OpenAI",
+    "title": "GPT-Red: Unlocking Self-Improvement for Robustness",
+    "date": "Wed, 15 Jul 2026 10:00:00 GMT",
+    "url": "https://openai.com/index/unlocking-self-improvement-gpt-red"
+  },
+  {
+    "source": "arXiv",
+    "title": "Optimal Adaptive Market Making: A Theoretical Framework for High-Yield Liquidity Provision in Perpetual Futures Markets",
+    "date": "Wed, 15 Jul 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.11888"
+  },
+  {
+    "source": "arXiv",
+    "title": "In-Context Reinforcement Learning under Non-Stationarity: A Survey",
+    "date": "Wed, 15 Jul 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.11906"
+  },
+  {
+    "source": "arXiv",
+    "title": "Ontology-Amplified Distillation and Contextuality Auditing for Sovereign Enterprise Language Models: A Combined Proof-of-Mechanism and Negative-Results Method Study",
+    "date": "Wed, 15 Jul 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.11948"
+  },
+  {
+    "source": "arXiv",
+    "title": "GRID: Grammar-Railed Decoding for Enterprise SQL Generation",
+    "date": "Wed, 15 Jul 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.11951"
+  },
+  {
+    "source": "arXiv",
+    "title": "Calibration-First Reward-Component Auditing for Reinforcement Learning Control in Smart Greenhouses",
+    "date": "Wed, 15 Jul 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.11959"
+  },
+  {
+    "source": "arXiv",
+    "title": "Optimization Is Not All You Need",
+    "date": "Wed, 15 Jul 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.11977"
+  },
+  {
+    "source": "arXiv",
+    "title": "LP Mining with LP2Graph: A Use Case for Railway Rescheduling",
+    "date": "Wed, 15 Jul 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.11980"
+  },
+  {
+    "source": "arXiv",
+    "title": "Designing Agent-Ready Websites for AI Web Agents: A Framework for Machine Readability, Actionability, and Decision Reliability",
+    "date": "Wed, 15 Jul 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.12056"
+  },
+  {
+    "source": "arXiv",
+    "title": "Graph Feedback Controls Consensus and Clique Formation in Open-Weight Language-Model Populations",
+    "date": "Wed, 15 Jul 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.12077"
+  },
+  {
+    "source": "arXiv",
+    "title": "Operationalising Multi-Dimensional Evaluation for Conversational Agents: A Scalable, Governed Pipeline with Selective Re-evaluation and Model Benchmarking",
+    "date": "Wed, 15 Jul 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.12085"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "Welcome Inkling by Thinking Machines",
+    "date": "Wed, 15 Jul 2026 00:00:00 GMT",
+    "url": "https://huggingface.co/blog/thinkingmachines-inkling"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "Introducing Real World VoiceEQ: Measuring the human quality of voice AI",
+    "date": "Wed, 15 Jul 2026 00:00:00 GMT",
+    "url": "https://huggingface.co/blog/real-world-voiceeq"
+  },
+  {
     "source": "OpenAI",
     "title": "How to manage AI investments in the agentic era",
     "date": "Tue, 14 Jul 2026 10:00:00 GMT",
@@ -1096,107 +1198,5 @@
     "title": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
     "date": "Tue, 23 Jun 2026 17:00:00 GMT",
     "url": "https://openai.com/index/gpt-5-immunology-mystery"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Helping build shared standards for advanced AI",
-    "date": "Tue, 23 Jun 2026 13:00:00 GMT",
-    "url": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "Build real agentic apps using CUGA: two dozen working examples on a lightweight harness",
-    "date": "Tue, 23 Jun 2026 12:51:55 GMT",
-    "url": "https://huggingface.co/blog/ibm-research/cuga-apps"
-  },
-  {
-    "source": "OpenAI",
-    "title": "How Omio is building the future of conversational travel",
-    "date": "Tue, 23 Jun 2026 00:00:00 GMT",
-    "url": "https://openai.com/index/omio"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "Shipping huggingface_hub every week with AI, open tools, and a human in the loop",
-    "date": "Tue, 23 Jun 2026 00:00:00 GMT",
-    "url": "https://huggingface.co/blog/huggingface-hub-release-ci"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "Experimenting with the proposed Cross-Origin Storage API in Transformers.js",
-    "date": "Tue, 23 Jun 2026 00:00:00 GMT",
-    "url": "https://huggingface.co/blog/cross-origin-storage"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters",
-    "date": "Mon, 22 Jun 2026 13:18:56 GMT",
-    "url": "https://huggingface.co/blog/PaddlePaddle/pp-ocrv6"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
-    "date": "Mon, 22 Jun 2026 10:00:00 GMT",
-    "url": "https://openai.com/index/patch-the-planet"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Daybreak: Tools for securing every organization in the world",
-    "date": "Mon, 22 Jun 2026 10:00:00 GMT",
-    "url": "https://openai.com/index/daybreak-securing-the-world"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Codex-maxxing for long-running work",
-    "date": "Mon, 22 Jun 2026 00:00:00 GMT",
-    "url": "https://openai.com/index/codex-maxxing-long-running-work"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "We got local models to triage the OpenClaw repo for FREE!*",
-    "date": "Mon, 22 Jun 2026 00:00:00 GMT",
-    "url": "https://huggingface.co/blog/local-models-pr-triage"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Samsung Electronics brings ChatGPT and Codex to employees",
-    "date": "Sun, 21 Jun 2026 23:00:00 GMT",
-    "url": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment"
-  },
-  {
-    "source": "arXiv",
-    "title": "Analyzing the Narration Gap in LLM-Solver Loops",
-    "date": "Sat, 20 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.19588"
-  },
-  {
-    "source": "arXiv",
-    "title": "Configurable Clinical Information Extraction with Agentic RAG: What Works, What Breaks, and Why",
-    "date": "Sat, 20 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.19602"
-  },
-  {
-    "source": "arXiv",
-    "title": "Which Pairs to Compare for LLM Post-Training?",
-    "date": "Sat, 20 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.19607"
-  },
-  {
-    "source": "arXiv",
-    "title": "Toten: Knowledge-Based Ontological Tokenization Of Physical Quantities And Technical Notation In Brazilian Portuguese",
-    "date": "Sat, 20 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.19626"
-  },
-  {
-    "source": "arXiv",
-    "title": "AI4SE and SE4AI Exploration: A Decade Looking Back and Forward",
-    "date": "Sat, 20 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.19630"
-  },
-  {
-    "source": "arXiv",
-    "title": "BrainG3N: A Dual-Purpose Tokenizer for Controllable 3D Brain MRI Generation",
-    "date": "Sat, 20 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.19651"
   }
 ]
