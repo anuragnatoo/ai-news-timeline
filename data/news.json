@@ -1,6 +1,120 @@
 [
   {
     "source": "VentureBeat",
+    "title": "The AI compute gap: Enterprises are buying infrastructure faster than they can measure what it costs",
+    "date": "Thu, 16 Jul 2026 19:16:48 GMT",
+    "url": "https://venturebeat.com/ai/the-ai-compute-gap-enterprises-are-buying-infrastructure-faster-than-they-can-measure-what-it-costs"
+  },
+  {
+    "source": "VentureBeat",
+    "title": "The agent security gap: 54% of enterprises have already had an AI agent incident, and most still let agents share credentials",
+    "date": "Thu, 16 Jul 2026 19:02:38 GMT",
+    "url": "https://venturebeat.com/ai/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials"
+  },
+  {
+    "source": "VentureBeat",
+    "title": "The AI context gap: Enterprise AI organizations have a trust problem, not a retrieval problem — and most are still building the fix",
+    "date": "Thu, 16 Jul 2026 17:06:08 GMT",
+    "url": "https://venturebeat.com/ai/the-ai-context-gap-enterprise-ai-organizations-have-a-trust-problem-not-a-retrieval-problem-and-most-are-still-building-the-fix"
+  },
+  {
+    "source": "VentureBeat",
+    "title": "The agent evaluation gap: Enterprise AI organizations have a reality-alignment problem, not a coverage problem — and most are shipping to production anyway",
+    "date": "Thu, 16 Jul 2026 16:40:48 GMT",
+    "url": "https://venturebeat.com/ai/the-agent-evaluation-gap-enterprise-ai-organizations-have-a-reality-alignment-problem-not-a-coverage-problem-and-most-are-shipping-to-production-anyway"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "NVIDIA Nemotron 3 Embed Ranks #1 Overall on RTEB, Advancing Agentic Retrieval",
+    "date": "Thu, 16 Jul 2026 16:01:21 GMT",
+    "url": "https://huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Why teens deserve access to safe AI",
+    "date": "Thu, 16 Jul 2026 16:00:00 GMT",
+    "url": "https://openai.com/index/why-teens-deserve-access-safe-ai"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "Newer Models, Same Advantage",
+    "date": "Thu, 16 Jul 2026 11:49:48 GMT",
+    "url": "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages"
+  },
+  {
+    "source": "arXiv",
+    "title": "OriginBlame: Record- and Token-Level Data Provenance for AI Training Datasets",
+    "date": "Thu, 16 Jul 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.13037"
+  },
+  {
+    "source": "arXiv",
+    "title": "SPINE: Bridging the Cyber-Physical Gap with Agentic AI",
+    "date": "Thu, 16 Jul 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.13049"
+  },
+  {
+    "source": "arXiv",
+    "title": "Interventional Grounding Audits: Black-Box Premise-Dependency Tests for LLM Chain-of-Thought via Predicate Substitution",
+    "date": "Thu, 16 Jul 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.13069"
+  },
+  {
+    "source": "arXiv",
+    "title": "Probabilistic Extension of Neuro-Symbolic AGI Robots based on Belnap's Typed Intensional FOL",
+    "date": "Thu, 16 Jul 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.13073"
+  },
+  {
+    "source": "arXiv",
+    "title": "Self-Improvements in Modern Agentic Systems: A Survey",
+    "date": "Thu, 16 Jul 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.13104"
+  },
+  {
+    "source": "arXiv",
+    "title": "Improving Molecular Property Prediction in Small Language Models Using Graph-based Tools",
+    "date": "Thu, 16 Jul 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.13115"
+  },
+  {
+    "source": "arXiv",
+    "title": "Oracle Agent Memory as an Enterprise Memory Substrate for Long-Horizon AI Agents",
+    "date": "Thu, 16 Jul 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.13157"
+  },
+  {
+    "source": "arXiv",
+    "title": "Learning Safe Agent Behaviour from Human Preferences and Justifications via World Models",
+    "date": "Thu, 16 Jul 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.13172"
+  },
+  {
+    "source": "arXiv",
+    "title": "CayleyR: Solving the TopSpin puzzle via cycle intersection",
+    "date": "Thu, 16 Jul 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.13219"
+  },
+  {
+    "source": "arXiv",
+    "title": "Networked Intelligence: Active Shared Context Graphs for Human-AI Team Science",
+    "date": "Thu, 16 Jul 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.13220"
+  },
+  {
+    "source": "OpenAI",
+    "title": "How Cars24 scales conversations and builds faster with OpenAI",
+    "date": "Thu, 16 Jul 2026 00:00:00 GMT",
+    "url": "https://openai.com/index/cars24"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "Security incident disclosure — July 2026",
+    "date": "Thu, 16 Jul 2026 00:00:00 GMT",
+    "url": "https://huggingface.co/blog/security-incident-july-2026"
+  },
+  {
+    "source": "VentureBeat",
     "title": "Agentic orchestration: Enterprise AI organizations have a deployment problem, not a platform problem — and most are calling chatbots agents",
     "date": "Wed, 15 Jul 2026 22:24:17 GMT",
     "url": "https://venturebeat.com/ai/agentic-orchestration-enterprise-ai-organizations-have-a-deployment-problem-not-a-platform-problem-and-most-are-calling-chatbots-agents"
@@ -1084,119 +1198,5 @@
     "title": "An Introduction to Causal Reinforcement Learning",
     "date": "Thu, 25 Jun 2026 00:00:00 -0400",
     "url": "https://arxiv.org/abs/2606.24160"
-  },
-  {
-    "source": "arXiv",
-    "title": "Data Scale, Not Latency, Shapes Cross-Lingual Encoder Transfer in Streaming ASR",
-    "date": "Thu, 25 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.24169"
-  },
-  {
-    "source": "arXiv",
-    "title": "Navigating User Behavior toward Personalized Multimodal Generation",
-    "date": "Thu, 25 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.24196"
-  },
-  {
-    "source": "arXiv",
-    "title": "Exploring the relationship between human-centric AI and firm idiosyncratic risks",
-    "date": "Thu, 25 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.24224"
-  },
-  {
-    "source": "arXiv",
-    "title": "FlowR2A: Learning Reward-to-Action Distribution for Multimodal Driving Planning",
-    "date": "Thu, 25 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.24231"
-  },
-  {
-    "source": "OpenAI",
-    "title": "How agents are transforming work",
-    "date": "Thu, 25 Jun 2026 02:00:00 GMT",
-    "url": "https://openai.com/index/how-agents-are-transforming-work"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel",
-    "date": "Wed, 24 Jun 2026 16:00:13 GMT",
-    "url": "https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel"
-  },
-  {
-    "source": "OpenAI",
-    "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
-    "date": "Wed, 24 Jun 2026 06:00:00 GMT",
-    "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip"
-  },
-  {
-    "source": "arXiv",
-    "title": "RIFT-Bench: Dynamic Red-teaming For Agentic AI Systems",
-    "date": "Wed, 24 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.23927"
-  },
-  {
-    "source": "arXiv",
-    "title": "Neuro-Symbolic Drive: Rule-Grounded Faithful Reasoning for Driving VLAs",
-    "date": "Wed, 24 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.23938"
-  },
-  {
-    "source": "arXiv",
-    "title": "Critique of Agent Model",
-    "date": "Wed, 24 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.23991"
-  },
-  {
-    "source": "arXiv",
-    "title": "Safe and Generalizable Hierarchical Multi-Agent RL via Constraint Manifold Control",
-    "date": "Wed, 24 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.24010"
-  },
-  {
-    "source": "arXiv",
-    "title": "Reinforcement Learning Towards Broadly and Persistently Beneficial Models",
-    "date": "Wed, 24 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.24014"
-  },
-  {
-    "source": "arXiv",
-    "title": "Can Language Model Agents be Helpful Circuit Explainers in Mechanistic Interpretability?",
-    "date": "Wed, 24 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.24026"
-  },
-  {
-    "source": "arXiv",
-    "title": "Breaking the Filter Bubble: A Semantic Pareto-DQN Framework for Multi-Objective Recommendation",
-    "date": "Wed, 24 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.24042"
-  },
-  {
-    "source": "arXiv",
-    "title": "Ensemble Feature Selection and Harris Hawks Optimization for Explainable Mental Health Risk Prediction in Female Sex Workers",
-    "date": "Wed, 24 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.24047"
-  },
-  {
-    "source": "arXiv",
-    "title": "Beyond Trajectory Imitation: Strategy-Guided Policy Optimization for LLM Reasoning",
-    "date": "Wed, 24 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.24064"
-  },
-  {
-    "source": "arXiv",
-    "title": "Exploring Academic Influence of Algorithms by Co-occurrence Network Based on Full-text of Academic Papers",
-    "date": "Wed, 24 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.24099"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "Introducing the FFASR Leaderboard: Benchmarking ASR in the Real World",
-    "date": "Wed, 24 Jun 2026 00:00:00 GMT",
-    "url": "https://huggingface.co/blog/ffasr-leaderboard"
-  },
-  {
-    "source": "OpenAI",
-    "title": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
-    "date": "Tue, 23 Jun 2026 17:00:00 GMT",
-    "url": "https://openai.com/index/gpt-5-immunology-mystery"
   }
 ]
