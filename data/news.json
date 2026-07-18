@@ -1,5 +1,77 @@
 [
   {
+    "source": "HuggingFace",
+    "title": "Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
+    "date": "Fri, 17 Jul 2026 15:57:54 GMT",
+    "url": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel"
+  },
+  {
+    "source": "OpenAI",
+    "title": "A scorecard for the AI age",
+    "date": "Fri, 17 Jul 2026 10:00:00 GMT",
+    "url": "https://openai.com/index/a-scorecard-for-the-ai-age"
+  },
+  {
+    "source": "arXiv",
+    "title": "Intelligent Three Level Learning Architecture for Autonomous UAV Swarms in Search and Rescue",
+    "date": "Fri, 17 Jul 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.14093"
+  },
+  {
+    "source": "arXiv",
+    "title": "HG-RAG: Hierarchy-Guided Retrieval-Augmented Generation for Structured Knowledge Graphs",
+    "date": "Fri, 17 Jul 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.14095"
+  },
+  {
+    "source": "arXiv",
+    "title": "IMEX Interaction-Based Model Explanation",
+    "date": "Fri, 17 Jul 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.14096"
+  },
+  {
+    "source": "arXiv",
+    "title": "RegNetAgents: A Multi-Agent Framework for Cross-Network Regulatory Driver Identification in Cancer Genomics",
+    "date": "Fri, 17 Jul 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.14097"
+  },
+  {
+    "source": "arXiv",
+    "title": "DialogueVPR: Towards Conversational Visual Place Recognition",
+    "date": "Fri, 17 Jul 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.14115"
+  },
+  {
+    "source": "arXiv",
+    "title": "Interpretable Language Model for Closed-Loop Type 1 Diabetes Control",
+    "date": "Fri, 17 Jul 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.14126"
+  },
+  {
+    "source": "arXiv",
+    "title": "Human AI Construction of Bayesian Networks for Operational Decision Support -- A Virtual Survey Approach",
+    "date": "Fri, 17 Jul 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.14141"
+  },
+  {
+    "source": "arXiv",
+    "title": "Capability from Access Structure, Not Scale: Lower Bounds and Pre-Registered Tests for Hybrid Sequence Models",
+    "date": "Fri, 17 Jul 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.14144"
+  },
+  {
+    "source": "arXiv",
+    "title": "ToolAnchor: Anchoring Counterfactual Context to Boost Agentic Tool-use Capability",
+    "date": "Fri, 17 Jul 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.14145"
+  },
+  {
+    "source": "arXiv",
+    "title": "Enhancing Small Language Models Reasoning through Knowledge Graph Grounding",
+    "date": "Fri, 17 Jul 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.14149"
+  },
+  {
     "source": "VentureBeat",
     "title": "The AI compute gap: Enterprises are buying infrastructure faster than they can measure what it costs",
     "date": "Thu, 16 Jul 2026 19:16:48 GMT",
@@ -1126,77 +1198,5 @@
     "title": "Knowledge-augmented Agentic AI for Mental Health Medication Information Seeking",
     "date": "Fri, 26 Jun 2026 00:00:00 -0400",
     "url": "https://arxiv.org/abs/2606.26205"
-  },
-  {
-    "source": "arXiv",
-    "title": "Accelerating Skill Assessment in Chess: A Drift-Diffusion-Enhanced Elo Rating System",
-    "date": "Fri, 26 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.26267"
-  },
-  {
-    "source": "arXiv",
-    "title": "Governing Actions, Not Agents: Institutional Attestation as a Governance Model for Autonomous AI Systems",
-    "date": "Fri, 26 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.26298"
-  },
-  {
-    "source": "arXiv",
-    "title": "COrigami: An AI Pipeline for Co-Designing Flat-Foldable Visually Recognisable Origami",
-    "date": "Fri, 26 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.26299"
-  },
-  {
-    "source": "arXiv",
-    "title": "The Verification Horizon: No Silver Bullet for Coding Agent Rewards",
-    "date": "Fri, 26 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.26300"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "Run a vLLM Server on HF Jobs in One Command",
-    "date": "Fri, 26 Jun 2026 00:00:00 GMT",
-    "url": "https://huggingface.co/blog/vllm-jobs"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "Which tokens does a hybrid model predict better?",
-    "date": "Thu, 25 Jun 2026 16:11:42 GMT",
-    "url": "https://huggingface.co/blog/allenai/hybrid-token-prediction"
-  },
-  {
-    "source": "arXiv",
-    "title": "ReMMD: Realistic Multilingual Multi-Image Agentic Verification for Multimodal Misinformation Detection",
-    "date": "Thu, 25 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.24112"
-  },
-  {
-    "source": "arXiv",
-    "title": "VeryTrace: Verifying Reasoning Traces through Compilable Formalism and Structured Verification",
-    "date": "Thu, 25 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.24124"
-  },
-  {
-    "source": "arXiv",
-    "title": "OmniPath: A Multi-Modal Agentic Framework for Auditing Wheelchair Accessibility",
-    "date": "Thu, 25 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.24129"
-  },
-  {
-    "source": "arXiv",
-    "title": "T2D-Bench: Evidence-Gated Evaluation of LLM Outputs for Type 2 Diabetes Using a Multi-Layer Clinical-Lifestyle Knowledge Graph",
-    "date": "Thu, 25 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.24145"
-  },
-  {
-    "source": "arXiv",
-    "title": "The Geometry Behind Diffusion and Flow Matching: Gradient Flows and Geodesics in Wasserstein Space",
-    "date": "Thu, 25 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.24157"
-  },
-  {
-    "source": "arXiv",
-    "title": "An Introduction to Causal Reinforcement Learning",
-    "date": "Thu, 25 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.24160"
   }
 ]
