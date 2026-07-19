@@ -1,5 +1,65 @@
 [
   {
+    "source": "arXiv",
+    "title": "Orchestrating Power Grid Studies with Multi-Agent AI and MCP Servers",
+    "date": "Sat, 18 Jul 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.14158"
+  },
+  {
+    "source": "arXiv",
+    "title": "MemoHarness: Agent Harnesses That Learn from Experience",
+    "date": "Sat, 18 Jul 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.14159"
+  },
+  {
+    "source": "arXiv",
+    "title": "When a Verified World Model Still Loses: Play-Adequacy vs Prediction-Accuracy in LLM-Synthesized Code World Models",
+    "date": "Sat, 18 Jul 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.14169"
+  },
+  {
+    "source": "arXiv",
+    "title": "ReasFlow: Assisting Reasoning-Centric Scientific Discovery in Applied Mathematics via a Knowledge-Based Multi-Agent System",
+    "date": "Sat, 18 Jul 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.14178"
+  },
+  {
+    "source": "arXiv",
+    "title": "RxBrain: Embodied Cognition Foundation Model with Joint Language-Visual Reasoning and Imagination",
+    "date": "Sat, 18 Jul 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.14187"
+  },
+  {
+    "source": "arXiv",
+    "title": "How Artificial Intelligence LLM Engines Shape the Global Conflict Information Environment",
+    "date": "Sat, 18 Jul 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.14197"
+  },
+  {
+    "source": "arXiv",
+    "title": "Align AI to Dynamic Human-AI Workflows",
+    "date": "Sat, 18 Jul 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.14240"
+  },
+  {
+    "source": "arXiv",
+    "title": "The Steering Budget: Examples beat Knobs",
+    "date": "Sat, 18 Jul 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.14246"
+  },
+  {
+    "source": "arXiv",
+    "title": "Automatic Hard Example Synthesis with Multi-Level Agentic Data Curation",
+    "date": "Sat, 18 Jul 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.14256"
+  },
+  {
+    "source": "arXiv",
+    "title": "AI Agents Do Not Fail Alone:The Context Fails First",
+    "date": "Sat, 18 Jul 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.14275"
+  },
+  {
     "source": "HuggingFace",
     "title": "Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
     "date": "Fri, 17 Jul 2026 15:57:54 GMT",
@@ -1138,65 +1198,5 @@
     "title": "Towards Reliable and Robust LLM Planning: Symbolic Feedback-Driven Iterative Self-Refinement Framework",
     "date": "Mon, 29 Jun 2026 00:00:00 -0400",
     "url": "https://arxiv.org/abs/2606.27757"
-  },
-  {
-    "source": "arXiv",
-    "title": "Understanding Rollout Error in Graph World Models",
-    "date": "Mon, 29 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.27780"
-  },
-  {
-    "source": "arXiv",
-    "title": "Grounded Iterative Language Planning: How Parameterized World Models Reduce Hallucination Propagation in LLM Agents",
-    "date": "Mon, 29 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.27806"
-  },
-  {
-    "source": "OpenAI",
-    "title": "HP Inc. launches Frontier strategic partnership with OpenAI",
-    "date": "Sun, 28 Jun 2026 17:00:00 GMT",
-    "url": "https://openai.com/index/hp-frontier-partnership"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Previewing GPT-5.6 Sol: a next-generation model",
-    "date": "Fri, 26 Jun 2026 10:00:00 GMT",
-    "url": "https://openai.com/index/previewing-gpt-5-6-sol"
-  },
-  {
-    "source": "arXiv",
-    "title": "Detecting and Controlling Sycophancy with Cascading Linear Features",
-    "date": "Fri, 26 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.26155"
-  },
-  {
-    "source": "arXiv",
-    "title": "Life After Benchmark Saturation: A Case Study of CORE-Bench",
-    "date": "Fri, 26 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.26158"
-  },
-  {
-    "source": "arXiv",
-    "title": "Refusal Lives Downstream of Persona in Chat Models",
-    "date": "Fri, 26 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.26161"
-  },
-  {
-    "source": "arXiv",
-    "title": "AlgoEvolve: LLM-driven Meta-evolution of Algorithmic Trading Programs",
-    "date": "Fri, 26 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.26173"
-  },
-  {
-    "source": "arXiv",
-    "title": "Agentic Analysis for Agentic Infrastructure: An LLM-Powered Pipeline for Comparative Governance of DAO and Corporate AI Protocols",
-    "date": "Fri, 26 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.26203"
-  },
-  {
-    "source": "arXiv",
-    "title": "Knowledge-augmented Agentic AI for Mental Health Medication Information Seeking",
-    "date": "Fri, 26 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.26205"
   }
 ]
