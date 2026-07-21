@@ -1,5 +1,77 @@
 [
   {
+    "source": "HuggingFace",
+    "title": "Introducing Cosmos 3 Edge",
+    "date": "Mon, 20 Jul 2026 15:58:51 GMT",
+    "url": "https://huggingface.co/blog/nvidia/cosmos3edge"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Safety and alignment in an era of long-horizon models",
+    "date": "Mon, 20 Jul 2026 10:00:00 GMT",
+    "url": "https://openai.com/index/safety-alignment-long-horizon-models"
+  },
+  {
+    "source": "arXiv",
+    "title": "GraphDx: A Cost-Aware Knowledge-Enhanced Multi-Agent Framework for Sequential Diagnosis",
+    "date": "Mon, 20 Jul 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.15280"
+  },
+  {
+    "source": "arXiv",
+    "title": "Causal-Audit: Explicit and Auditable Graph-based Reasoning via Target-Aware Causal Chain Construction",
+    "date": "Mon, 20 Jul 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.15281"
+  },
+  {
+    "source": "arXiv",
+    "title": "Cura 1T: Specialized Model for Agentic Healthcare",
+    "date": "Mon, 20 Jul 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.15314"
+  },
+  {
+    "source": "arXiv",
+    "title": "AnovaX: A Local, Multi-Agent Voice Assistant with LLM Planning, Typed Executors, and Adaptive Recovery",
+    "date": "Mon, 20 Jul 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.15367"
+  },
+  {
+    "source": "arXiv",
+    "title": "Precise but Uncoupled: Reviewer Precision Does Not Guarantee Critique Uptake in Multi-Agent Math Reasoning",
+    "date": "Mon, 20 Jul 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.15388"
+  },
+  {
+    "source": "arXiv",
+    "title": "DrawingVQA: A Real-World Benchmark for Multi-Depth Visual-Textual Reasoning on Construction Drawings",
+    "date": "Mon, 20 Jul 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.15418"
+  },
+  {
+    "source": "arXiv",
+    "title": "Do Coding Agents Need Executable World Models, Simplification, and Verification to Solve ARC-AGI-3?",
+    "date": "Mon, 20 Jul 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.15439"
+  },
+  {
+    "source": "arXiv",
+    "title": "Beyond a Joke: Multi-Angle Reasoning for Detecting and Explaining Harmful Humor in Memes",
+    "date": "Mon, 20 Jul 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.15442"
+  },
+  {
+    "source": "arXiv",
+    "title": "From Black Box to Executable Logic: Explainable Reinforcement Learning through Prolog Expert Systems",
+    "date": "Mon, 20 Jul 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.15459"
+  },
+  {
+    "source": "arXiv",
+    "title": "A Critical Analysis of Trustworthy AI Tools, Mark Frameworks, and the Implementation Chasms",
+    "date": "Mon, 20 Jul 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.15480"
+  },
+  {
     "source": "arXiv",
     "title": "Orchestrating Power Grid Studies with Multi-Agent AI and MCP Servers",
     "date": "Sat, 18 Jul 2026 00:00:00 -0400",
@@ -1126,77 +1198,5 @@
     "title": "Core dump epidemiology: fixing an 18-year-old bug",
     "date": "Tue, 30 Jun 2026 00:00:00 GMT",
     "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Inside Genebench-Pro",
-    "date": "Tue, 30 Jun 2026 00:00:00 GMT",
-    "url": "https://openai.com/index/genebench-pro/case-studies"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "Featuring Every Eval Ever Results on Hugging Face Model Pages",
-    "date": "Tue, 30 Jun 2026 00:00:00 GMT",
-    "url": "https://huggingface.co/blog/eee-community-evals"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "DiScoFormer: One transformer for density and score, across distributions",
-    "date": "Mon, 29 Jun 2026 18:02:48 GMT",
-    "url": "https://huggingface.co/blog/allenai/discoformer"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Mapping Europe’s AI Workforce Opportunity",
-    "date": "Mon, 29 Jun 2026 07:00:00 GMT",
-    "url": "https://openai.com/index/mapping-ai-jobs-transition-eu"
-  },
-  {
-    "source": "arXiv",
-    "title": "AI-Model Network: Concept, Current State and Future",
-    "date": "Mon, 29 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.27382"
-  },
-  {
-    "source": "arXiv",
-    "title": "When Does Personality Composition Matter for Multi-Agent LLM Teams?",
-    "date": "Mon, 29 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.27443"
-  },
-  {
-    "source": "arXiv",
-    "title": "Internalizing the Future: A Unified Agentic Training Paradigm for World Model Planning",
-    "date": "Mon, 29 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.27483"
-  },
-  {
-    "source": "arXiv",
-    "title": "Odyssey: Constructing Verifiable Local Truth-Preserving Foundation Models",
-    "date": "Mon, 29 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.27593"
-  },
-  {
-    "source": "arXiv",
-    "title": "DysLexLens: A Low-Resource LLM Framework for Analysing Dyslexic Learners Insights from Online Forums",
-    "date": "Mon, 29 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.27619"
-  },
-  {
-    "source": "arXiv",
-    "title": "MER-R1: Multimodal Emotion Reasoning via Slow-Fast Thinking Synergy",
-    "date": "Mon, 29 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.27652"
-  },
-  {
-    "source": "arXiv",
-    "title": "ToE: A Hierarchical and Explainable Claim Verification Framework with Dynamic Multi-source Evidence Retrieval and Aggregation",
-    "date": "Mon, 29 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.27736"
-  },
-  {
-    "source": "arXiv",
-    "title": "Towards Reliable and Robust LLM Planning: Symbolic Feedback-Driven Iterative Self-Refinement Framework",
-    "date": "Mon, 29 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.27757"
   }
 ]
