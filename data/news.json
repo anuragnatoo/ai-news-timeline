@@ -1,6 +1,96 @@
 [
   {
     "source": "HuggingFace",
+    "title": "The State of Simulation for Physical AI: An Overview",
+    "date": "Tue, 21 Jul 2026 20:00:27 GMT",
+    "url": "https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Introducing the ChatGPT for small business program",
+    "date": "Tue, 21 Jul 2026 17:00:00 GMT",
+    "url": "https://openai.com/index/introducing-chatgpt-small-business-program"
+  },
+  {
+    "source": "OpenAI",
+    "title": "OpenAI and Hugging Face partner to address security incident during model evaluation",
+    "date": "Tue, 21 Jul 2026 07:00:00 GMT",
+    "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident"
+  },
+  {
+    "source": "arXiv",
+    "title": "Rater State Bias in RLHF Preference Data: An Audit Framework",
+    "date": "Tue, 21 Jul 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.16195"
+  },
+  {
+    "source": "arXiv",
+    "title": "Design and Validation of a Lightweight 1D CNN for Affective Touch Classification in Soft Plush Companions",
+    "date": "Tue, 21 Jul 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.16196"
+  },
+  {
+    "source": "arXiv",
+    "title": "Some Large Language Models Exhibit Consistent Risk Attitudes",
+    "date": "Tue, 21 Jul 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.16197"
+  },
+  {
+    "source": "arXiv",
+    "title": "A Survey on GNN-based Link Prediction: Techniques, Applications, and Challenges",
+    "date": "Tue, 21 Jul 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.16198"
+  },
+  {
+    "source": "arXiv",
+    "title": "PlanFlip: Attacking Multi-Agent LLM Systems via Planning-Phase Prompt Injection",
+    "date": "Tue, 21 Jul 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.16199"
+  },
+  {
+    "source": "arXiv",
+    "title": "Deterministic Replay for AI Agent Systems",
+    "date": "Tue, 21 Jul 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.16200"
+  },
+  {
+    "source": "arXiv",
+    "title": "Generative Ontology Induction: Domain-Agnostic Schema Discovery from Document Corpora Using Large Language Models",
+    "date": "Tue, 21 Jul 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.16201"
+  },
+  {
+    "source": "arXiv",
+    "title": "Democratizing AI with Small Language Models: Structured Benchmarking and Parameter-Efficient Fine-Tuning for Local Deployment",
+    "date": "Tue, 21 Jul 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.16202"
+  },
+  {
+    "source": "arXiv",
+    "title": "Masked Diffusion Language Models are Strong and Steerable Text-Based World Models for Agentic RL",
+    "date": "Tue, 21 Jul 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.16204"
+  },
+  {
+    "source": "arXiv",
+    "title": "It Takes 8 Tokens: Weak-to-Strong Off-Policy RL via Auxiliary Branches",
+    "date": "Tue, 21 Jul 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.16205"
+  },
+  {
+    "source": "OpenAI",
+    "title": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC",
+    "date": "Tue, 21 Jul 2026 00:00:00 GMT",
+    "url": "https://openai.com/index/david-velez-robin-vince-join-openai-boards"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "Grabette: an open system to record robot-manipulation data",
+    "date": "Tue, 21 Jul 2026 00:00:00 GMT",
+    "url": "https://huggingface.co/blog/grabette"
+  },
+  {
+    "source": "HuggingFace",
     "title": "Introducing Cosmos 3 Edge",
     "date": "Mon, 20 Jul 2026 15:58:51 GMT",
     "url": "https://huggingface.co/blog/nvidia/cosmos3edge"
@@ -1108,95 +1198,5 @@
     "title": "Hugging Face and Cerebras bring Gemma 4 to real-time voice AI",
     "date": "Wed, 01 Jul 2026 00:00:00 GMT",
     "url": "https://huggingface.co/blog/cerebras-gemma4-voice-ai"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
-    "date": "Tue, 30 Jun 2026 18:32:50 GMT",
-    "url": "https://huggingface.co/blog/ibm-research/scarfbench"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "Why Specialization Is Inevitable",
-    "date": "Tue, 30 Jun 2026 14:39:11 GMT",
-    "url": "https://huggingface.co/blog/Dharma-AI/why-specialization-is-inevitable"
-  },
-  {
-    "source": "OpenAI",
-    "title": "How ChatGPT adoption has expanded",
-    "date": "Tue, 30 Jun 2026 09:00:00 GMT",
-    "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded"
-  },
-  {
-    "source": "arXiv",
-    "title": "Recursive Self-Evolving Agents via Held-Out Selection",
-    "date": "Tue, 30 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.28374"
-  },
-  {
-    "source": "arXiv",
-    "title": "Data and Evaluation Closed-Loop for Model Capability Enhancement",
-    "date": "Tue, 30 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.28471"
-  },
-  {
-    "source": "arXiv",
-    "title": "GPTNT: Benchmarking Real-Time Collaboration Between Multimodal Agents on Keep Talking And Nobody Explodes",
-    "date": "Tue, 30 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.28514"
-  },
-  {
-    "source": "arXiv",
-    "title": "IMCBench: A benchmark for multimodal LLMs in Image-grounded Medical Conversations",
-    "date": "Tue, 30 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.28556"
-  },
-  {
-    "source": "arXiv",
-    "title": "Search for Truth from Reasoning: A Dynamic Representation Editing Framework for Steering LLM Trajectories",
-    "date": "Tue, 30 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.28589"
-  },
-  {
-    "source": "arXiv",
-    "title": "Aristotelian Virtue Profiling of LLMs through Ethical Dilemmas",
-    "date": "Tue, 30 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.28683"
-  },
-  {
-    "source": "arXiv",
-    "title": "An AI agent for treatment reasoning over a biomedical tool universe",
-    "date": "Tue, 30 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.28692"
-  },
-  {
-    "source": "arXiv",
-    "title": "COMPASS: Grounding Composition-Intent Guidance in Unified Multimodal Models",
-    "date": "Tue, 30 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.28696"
-  },
-  {
-    "source": "arXiv",
-    "title": "BV-Blend: Uncertainty-Weighted Historical Baselines for Stable Critic-Free RL with Verifiable Rewards",
-    "date": "Tue, 30 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.28707"
-  },
-  {
-    "source": "arXiv",
-    "title": "The Two Genie Game: Adoption and Welfare in Audit-Grounded AI Governance",
-    "date": "Tue, 30 Jun 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.28710"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Introducing GeneBench-Pro",
-    "date": "Tue, 30 Jun 2026 00:00:00 GMT",
-    "url": "https://openai.com/index/introducing-genebench-pro"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Core dump epidemiology: fixing an 18-year-old bug",
-    "date": "Tue, 30 Jun 2026 00:00:00 GMT",
-    "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug"
   }
 ]
