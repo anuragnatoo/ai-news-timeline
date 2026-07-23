@@ -1,5 +1,95 @@
 [
   {
+    "source": "OpenAI",
+    "title": "Building AI infrastructure with the Effingham County community",
+    "date": "Wed, 22 Jul 2026 13:00:00 GMT",
+    "url": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community"
+  },
+  {
+    "source": "OpenAI",
+    "title": "How news organizations are using AI to advance their vital missions",
+    "date": "Wed, 22 Jul 2026 13:00:00 GMT",
+    "url": "https://openai.com/index/how-news-organizations-are-using-ai"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Advancing the next era of national science",
+    "date": "Wed, 22 Jul 2026 12:00:00 GMT",
+    "url": "https://openai.com/index/advancing-the-next-era-of-national-science"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Introducing OpenAI Presence",
+    "date": "Wed, 22 Jul 2026 05:30:00 GMT",
+    "url": "https://openai.com/index/introducing-openai-presence"
+  },
+  {
+    "source": "arXiv",
+    "title": "SysAdmin: Measuring Instrumental Power-Seeking in Frontier AI",
+    "date": "Wed, 22 Jul 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.18239"
+  },
+  {
+    "source": "arXiv",
+    "title": "Calibrated Selective Fact-Checking via Evidence Chain Evaluation",
+    "date": "Wed, 22 Jul 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.18240"
+  },
+  {
+    "source": "arXiv",
+    "title": "BatchDAG: LLM-Planned Execution Graphs for Scalable Ad-Hoc Analysis Over Enterprise Data",
+    "date": "Wed, 22 Jul 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.18241"
+  },
+  {
+    "source": "arXiv",
+    "title": "AI Tool Discovery at Scale: All You Need is DNS",
+    "date": "Wed, 22 Jul 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.18242"
+  },
+  {
+    "source": "arXiv",
+    "title": "From Agent Failure Paths to Quantified Residual Risk: A Compositional Framework for Resilient Agentic AI",
+    "date": "Wed, 22 Jul 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.18243"
+  },
+  {
+    "source": "arXiv",
+    "title": "SAAG: Structured Agent Assessment and Grounding",
+    "date": "Wed, 22 Jul 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.18245"
+  },
+  {
+    "source": "arXiv",
+    "title": "Phionyx: A Deterministic AI Runtime Architecture with Structured State Management and Pre-Response Governance",
+    "date": "Wed, 22 Jul 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.18246"
+  },
+  {
+    "source": "arXiv",
+    "title": "Integro-differential equations in angular stabilization of drone motion by distributed feedback control",
+    "date": "Wed, 22 Jul 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.18251"
+  },
+  {
+    "source": "arXiv",
+    "title": "MILP-Evo: Closed-Loop Fully Automatic Design of MILP Solvers",
+    "date": "Wed, 22 Jul 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.18252"
+  },
+  {
+    "source": "arXiv",
+    "title": "Beyond Accuracy and Cost: Latency-Aware LLM Query Routing for Dynamic Workloads",
+    "date": "Wed, 22 Jul 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.18253"
+  },
+  {
+    "source": "OpenAI",
+    "title": "NTT DATA Group cuts incident analysis to 30 minutes with Codex",
+    "date": "Wed, 22 Jul 2026 00:00:00 GMT",
+    "url": "https://openai.com/index/ntt-data"
+  },
+  {
     "source": "HuggingFace",
     "title": "The State of Simulation for Physical AI: An Overview",
     "date": "Tue, 21 Jul 2026 20:00:27 GMT",
@@ -1108,95 +1198,5 @@
     "title": "RareDxR1: Autonomous Medical Reasoning for Rare Disease Diagnosis Beyond Human Annotation",
     "date": "Thu, 02 Jul 2026 00:00:00 -0400",
     "url": "https://arxiv.org/abs/2607.00147"
-  },
-  {
-    "source": "arXiv",
-    "title": "A Contextual-Bandit Oversight Game with Two-Sided Informational Asymmetry",
-    "date": "Thu, 02 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.00155"
-  },
-  {
-    "source": "arXiv",
-    "title": "Constructing Epistemic AI Literacy: Detecting Epistemic Aims and Processes in Student-AI Co-Programming",
-    "date": "Thu, 02 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.00211"
-  },
-  {
-    "source": "arXiv",
-    "title": "From Signals to Structure: How Memory Architecture Drives Language Emergence in LLM Agents",
-    "date": "Thu, 02 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.00233"
-  },
-  {
-    "source": "arXiv",
-    "title": "Seed2.0 Model Card: Towards Intelligence Frontier for Real-World Complexity",
-    "date": "Thu, 02 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.00248"
-  },
-  {
-    "source": "arXiv",
-    "title": "What Drives Interactive Improvement from Feedback?",
-    "date": "Wed, 01 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.30774"
-  },
-  {
-    "source": "arXiv",
-    "title": "Contrastive Reflection for Iterative Prompt Optimization",
-    "date": "Wed, 01 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.30840"
-  },
-  {
-    "source": "arXiv",
-    "title": "How Can AI Find My Model? A Model-Finding Experimental Study Considering Data Formats, Embeddings, and Retrieval Strategies",
-    "date": "Wed, 01 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.30846"
-  },
-  {
-    "source": "arXiv",
-    "title": "BayesBench: Evaluating LLM Belief Trajectories Under Multi-Turn Evidence Accumulation",
-    "date": "Wed, 01 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.30850"
-  },
-  {
-    "source": "arXiv",
-    "title": "When Does Learning to Stop Help? A Cost-Aware Study of Early Exits in Reasoning Models",
-    "date": "Wed, 01 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.30852"
-  },
-  {
-    "source": "arXiv",
-    "title": "Beyond expert users: agents should help users construct preferences, not just elicit them",
-    "date": "Wed, 01 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.30863"
-  },
-  {
-    "source": "arXiv",
-    "title": "Investigating Multi-Agent Deliberation in Law",
-    "date": "Wed, 01 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.30906"
-  },
-  {
-    "source": "arXiv",
-    "title": "Why Solve It Twice? Hierarchical Accumulation of Skills for Transfer-Efficient ML Engineering",
-    "date": "Wed, 01 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.30911"
-  },
-  {
-    "source": "arXiv",
-    "title": "RoPoLL: Robust Panel of LLM Judges",
-    "date": "Wed, 01 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.30931"
-  },
-  {
-    "source": "arXiv",
-    "title": "AgRefactor: Self-Evolving Agentic Workflow for HLS Compatibility and Performance",
-    "date": "Wed, 01 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2606.30949"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "Hugging Face and Cerebras bring Gemma 4 to real-time voice AI",
-    "date": "Wed, 01 Jul 2026 00:00:00 GMT",
-    "url": "https://huggingface.co/blog/cerebras-gemma4-voice-ai"
   }
 ]
