@@ -1,5 +1,77 @@
 [
   {
+    "source": "arXiv",
+    "title": "FineServe: A Fine-Grained Dataset and Characterization of Global LLM Serving Workloads",
+    "date": "Thu, 23 Jul 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.19349"
+  },
+  {
+    "source": "arXiv",
+    "title": "Hybrid LSTM-Graph Neural Framework for Robust Financial Fraud Detection and Adversarial Resilience",
+    "date": "Thu, 23 Jul 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.19350"
+  },
+  {
+    "source": "arXiv",
+    "title": "OpenEvoShield: Dual Non-Stationary Continual Defense for Open-World Multi-Agent System Attacks",
+    "date": "Thu, 23 Jul 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.19351"
+  },
+  {
+    "source": "arXiv",
+    "title": "Benchmarking Confidential GPU Inference on NVIDIA H100 under Intel TDX",
+    "date": "Thu, 23 Jul 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.19353"
+  },
+  {
+    "source": "arXiv",
+    "title": "FormulaSPIN: Self-Play Fine-Tuning for Natural Language to Spreadsheet Formula Generation",
+    "date": "Thu, 23 Jul 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.19354"
+  },
+  {
+    "source": "arXiv",
+    "title": "Information Discernment in Large Language Models",
+    "date": "Thu, 23 Jul 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.19355"
+  },
+  {
+    "source": "arXiv",
+    "title": "NEXUS: Structured Runtime Safety for Tool-Using LLM Agents",
+    "date": "Thu, 23 Jul 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.19356"
+  },
+  {
+    "source": "arXiv",
+    "title": "Stochastic Primal-Dual Decoding for Multiobjective Generative Recommender Systems",
+    "date": "Thu, 23 Jul 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.19357"
+  },
+  {
+    "source": "arXiv",
+    "title": "LISA: Linear-Indexed Sparse Attention for Efficient Long-Context Reasoning",
+    "date": "Thu, 23 Jul 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.19358"
+  },
+  {
+    "source": "arXiv",
+    "title": "Profile-Graph Memory for LLM Agents: Implicit Cross-Entity Traversal through Narrative Profiles",
+    "date": "Thu, 23 Jul 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.19359"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Launching Health in ChatGPT ",
+    "date": "Thu, 23 Jul 2026 00:00:00 GMT",
+    "url": "https://openai.com/index/health-in-chatgpt"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
+    "date": "Thu, 23 Jul 2026 00:00:00 GMT",
+    "url": "https://huggingface.co/blog/nunchaku-diffusers"
+  },
+  {
     "source": "OpenAI",
     "title": "Building AI infrastructure with the Effingham County community",
     "date": "Wed, 22 Jul 2026 13:00:00 GMT",
@@ -424,6 +496,12 @@
     "title": "Newer Models, Same Advantage",
     "date": "Thu, 16 Jul 2026 11:49:48 GMT",
     "url": "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages"
+  },
+  {
+    "source": "OpenAI",
+    "title": "How Codex became a collaborator for OpenAI’s creative team",
+    "date": "Thu, 16 Jul 2026 07:00:00 GMT",
+    "url": "https://openai.com/index/codex-collaborator-creative-team"
   },
   {
     "source": "arXiv",
@@ -1120,83 +1198,5 @@
     "title": "The Wiola Architecture for Efficient Small Language Models",
     "date": "Fri, 03 Jul 2026 00:00:00 -0400",
     "url": "https://arxiv.org/abs/2607.01394"
-  },
-  {
-    "source": "arXiv",
-    "title": "Agent4cs: A Multi-agent System for Code Summarization in Large Hierarchical Codebases",
-    "date": "Fri, 03 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.01425"
-  },
-  {
-    "source": "arXiv",
-    "title": "When Should Service Agents Reconsider? Difficulty-Routed Control in Customer-Service Operations",
-    "date": "Fri, 03 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.01426"
-  },
-  {
-    "source": "arXiv",
-    "title": "CreativityNeuro: Steering Language Model Weights to Improve Divergent Thinking and Reduce Mode Collapse",
-    "date": "Fri, 03 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.01433"
-  },
-  {
-    "source": "arXiv",
-    "title": "Discrete Diffusion Language Models for Interactive Radiology Report Drafting",
-    "date": "Fri, 03 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.01436"
-  },
-  {
-    "source": "arXiv",
-    "title": "Beyond Next-Token Prediction: An RLVR Proof of Concept for Tool-Use Agents on Atlassian Workflows",
-    "date": "Fri, 03 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.01465"
-  },
-  {
-    "source": "arXiv",
-    "title": "World Feedback for Clinical Agents: Diagnosing RL in FHIR Environments",
-    "date": "Fri, 03 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.01470"
-  },
-  {
-    "source": "arXiv",
-    "title": "Procedural Memory Distillation: Online Reflection for Self-Improving Language Models",
-    "date": "Fri, 03 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.01480"
-  },
-  {
-    "source": "arXiv",
-    "title": "Constructive Alignment: Governing Preference Dynamics in Human-AI Interaction",
-    "date": "Thu, 02 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.00001"
-  },
-  {
-    "source": "arXiv",
-    "title": "Bounded Morality: Defining the Space of Moral Computation",
-    "date": "Thu, 02 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.00002"
-  },
-  {
-    "source": "arXiv",
-    "title": "The MMM Data Model -- A Normative Specification for Knowledge Interoperability in a Decentralisable Knowledge Commons",
-    "date": "Thu, 02 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.00032"
-  },
-  {
-    "source": "arXiv",
-    "title": "Making Failure Safe: A Constrained, Verifiable Agent Framework for Open-Web Data Collection",
-    "date": "Thu, 02 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.00035"
-  },
-  {
-    "source": "arXiv",
-    "title": "Solution space path planning for supporting en-route air traffic control",
-    "date": "Thu, 02 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.00064"
-  },
-  {
-    "source": "arXiv",
-    "title": "RareDxR1: Autonomous Medical Reasoning for Rare Disease Diagnosis Beyond Human Annotation",
-    "date": "Thu, 02 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.00147"
   }
 ]
