@@ -1,6 +1,66 @@
 [
   {
     "source": "arXiv",
+    "title": "AINTMA: Agentic AI Architecture for Autonomous Test Management with Generative Intelligence, Secure Cloud Communication and Adaptive Quality Analytics",
+    "date": "Fri, 24 Jul 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.20452"
+  },
+  {
+    "source": "arXiv",
+    "title": "Marking the Wrong Symptoms: Evaluating LLM Watermarks in Medical Texts",
+    "date": "Fri, 24 Jul 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.20462"
+  },
+  {
+    "source": "arXiv",
+    "title": "ClickGuard: Detecting and Spoiling Clickbait News with Informativeness Measures and Large Language Models",
+    "date": "Fri, 24 Jul 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.20463"
+  },
+  {
+    "source": "arXiv",
+    "title": "Stochastic Sampling is Epistemically Shallow: The Dimensionality Gap Between Temperature Variation and Model Diversity in LLMs",
+    "date": "Fri, 24 Jul 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.20464"
+  },
+  {
+    "source": "arXiv",
+    "title": "JAXBench: Benchmarking Autonomous TPU Kernel Optimization",
+    "date": "Fri, 24 Jul 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.20466"
+  },
+  {
+    "source": "arXiv",
+    "title": "DC-Leap: Training-Free Acceleration of dLLMs via Draft-Guided Contiguous Leaping Decoding",
+    "date": "Fri, 24 Jul 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.20467"
+  },
+  {
+    "source": "arXiv",
+    "title": "InferenceBench: A Benchmark for Open-Ended LLM Inference Optimization by AI Agents",
+    "date": "Fri, 24 Jul 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.20468"
+  },
+  {
+    "source": "arXiv",
+    "title": "DecodeShare: Tracing the Shared Subspace of LLM Decode-Time Decisions",
+    "date": "Fri, 24 Jul 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.20469"
+  },
+  {
+    "source": "arXiv",
+    "title": "PlanE: Meta Planning of Data, Tuning, and Inference for Extractive-based LLMs",
+    "date": "Fri, 24 Jul 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.20470"
+  },
+  {
+    "source": "arXiv",
+    "title": "Benchmarking the Personalization Capabilities of Large Language Models",
+    "date": "Fri, 24 Jul 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.20471"
+  },
+  {
+    "source": "arXiv",
     "title": "FineServe: A Fine-Grained Dataset and Characterization of Global LLM Serving Workloads",
     "date": "Thu, 23 Jul 2026 00:00:00 -0400",
     "url": "https://arxiv.org/abs/2607.19349"
@@ -1138,65 +1198,5 @@
     "title": "VERITAS: Towards a General-Purpose Replication Tool for Scientific Research",
     "date": "Tue, 07 Jul 2026 00:00:00 -0400",
     "url": "https://arxiv.org/abs/2607.02931"
-  },
-  {
-    "source": "arXiv",
-    "title": "A Sliding-Window-Based Reinforcement Learning for Dynamic Assembly Flow Shop Scheduling with Multi-Product Delivery",
-    "date": "Tue, 07 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.02941"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "LeRobot v0.6.0: Imagine, Evaluate, Improve",
-    "date": "Tue, 07 Jul 2026 00:00:00 GMT",
-    "url": "https://huggingface.co/blog/lerobot-release-v060"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Australian Payments Plus moves faster with ChatGPT and Codex",
-    "date": "Tue, 07 Jul 2026 00:00:00 GMT",
-    "url": "https://openai.com/index/australian-payments-plus"
-  },
-  {
-    "source": "OpenAI",
-    "title": "MUFG aims to become AI-native with OpenAI",
-    "date": "Tue, 07 Jul 2026 00:00:00 GMT",
-    "url": "https://openai.com/index/mufg"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "Run AI workloads on any cloud, store on Hugging Face: zero-egress storage with SkyPilot",
-    "date": "Tue, 07 Jul 2026 00:00:00 GMT",
-    "url": "https://huggingface.co/blog/skypilot-hf-storage"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "PRX Part 4: Our Data Strategy",
-    "date": "Mon, 06 Jul 2026 15:30:55 GMT",
-    "url": "https://huggingface.co/blog/Photoroom/prx-part4-data"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "🤗 Kernels: Major Updates",
-    "date": "Mon, 06 Jul 2026 00:00:00 GMT",
-    "url": "https://huggingface.co/blog/revamped-kernels"
-  },
-  {
-    "source": "arXiv",
-    "title": "PACE: A Neuro-Symbolic Framework for Plausible and Actionable Counterfactual Explanations",
-    "date": "Fri, 03 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.01306"
-  },
-  {
-    "source": "arXiv",
-    "title": "Auto-FL-Research: Agentic Search for Federated Learning Algorithms",
-    "date": "Fri, 03 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.01366"
-  },
-  {
-    "source": "arXiv",
-    "title": "The Wiola Architecture for Efficient Small Language Models",
-    "date": "Fri, 03 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.01394"
   }
 ]
