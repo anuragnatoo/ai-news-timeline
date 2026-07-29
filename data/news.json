@@ -1,5 +1,83 @@
 [
   {
+    "source": "OpenAI",
+    "title": "Scientific computing in the age of agentic AI",
+    "date": "Tue, 28 Jul 2026 17:00:00 GMT",
+    "url": "https://openai.com/index/scientific-computing-agentic-ai"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "The OlmoEarth Platform: Geospatial inference at planetary scale",
+    "date": "Tue, 28 Jul 2026 16:27:42 GMT",
+    "url": "https://huggingface.co/blog/allenai/olmoearth-infrastructure"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "LFM2.5-Encoders for Fast Long-Context Inference on CPU",
+    "date": "Tue, 28 Jul 2026 15:01:45 GMT",
+    "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-encoders"
+  },
+  {
+    "source": "arXiv",
+    "title": "Concept-based Visual Counterfactual Explanations with Diffusion Models",
+    "date": "Tue, 28 Jul 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.22544"
+  },
+  {
+    "source": "arXiv",
+    "title": "SeT-Diff: Towards Semantic Foundation Models for HPC Telemetry and Time-Series",
+    "date": "Tue, 28 Jul 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.22548"
+  },
+  {
+    "source": "arXiv",
+    "title": "QFoldAgent: An Autonomous Quantum Optimization Multi-Agent System for Protein Structure Prediction",
+    "date": "Tue, 28 Jul 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.22549"
+  },
+  {
+    "source": "arXiv",
+    "title": "Same Question, Different Answers: Evaluating LLM Reliability Beyond Accuracy",
+    "date": "Tue, 28 Jul 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.22554"
+  },
+  {
+    "source": "arXiv",
+    "title": "DeepLens Diagnosis Agent: Agentic Workflow Design Lets a Small Reasoning Model Compete with Frontier LLMs",
+    "date": "Tue, 28 Jul 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.22555"
+  },
+  {
+    "source": "arXiv",
+    "title": "MIITA: Memory-Induced Inference-Time Adaptation for Continual Learning with Small Language Models",
+    "date": "Tue, 28 Jul 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.22556"
+  },
+  {
+    "source": "arXiv",
+    "title": "Codifying the Judge: Scalable Evaluation via Program Distillation",
+    "date": "Tue, 28 Jul 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.22561"
+  },
+  {
+    "source": "arXiv",
+    "title": "SF-AMS: Strategic Forgetting for Structured Memory in LLM Agent",
+    "date": "Tue, 28 Jul 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.22562"
+  },
+  {
+    "source": "arXiv",
+    "title": "Synthetic Scenario Generation for Evaluation of Industry 4.0 Agents",
+    "date": "Tue, 28 Jul 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.22563"
+  },
+  {
+    "source": "arXiv",
+    "title": "Loss-Aware Feature-Map Pruning in Convolutional Neural Networks Using Multi-Armed Bandits",
+    "date": "Tue, 28 Jul 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.22564"
+  },
+  {
     "source": "HuggingFace",
     "title": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
     "date": "Mon, 27 Jul 2026 09:32:20 GMT",
@@ -10,6 +88,12 @@
     "title": "How AI is expanding what people do at work",
     "date": "Mon, 27 Jul 2026 03:30:00 GMT",
     "url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident",
+    "date": "Mon, 27 Jul 2026 00:00:00 GMT",
+    "url": "https://huggingface.co/blog/agent-intrusion-technical-timeline"
   },
   {
     "source": "arXiv",
@@ -1114,89 +1198,5 @@
     "title": "Memory in the Loop: In-Process Retrieval as ExtendedWorking Memory for Language Agents",
     "date": "Wed, 08 Jul 2026 00:00:00 -0400",
     "url": "https://arxiv.org/abs/2607.05690"
-  },
-  {
-    "source": "arXiv",
-    "title": "Akashic: A Low-Overhead LLM Inference Service with MemAttention",
-    "date": "Wed, 08 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.05708"
-  },
-  {
-    "source": "arXiv",
-    "title": "ArtisanCAD: An Industrial-Level CAD Agent with Expert-Grounded Knowledge Distillation",
-    "date": "Wed, 08 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.05750"
-  },
-  {
-    "source": "arXiv",
-    "title": "Synthetic Consumer Insight Generation with Large Language Models",
-    "date": "Wed, 08 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.05761"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Introducing GPT-Live",
-    "date": "Wed, 08 Jul 2026 00:00:00 GMT",
-    "url": "https://openai.com/index/introducing-gpt-live"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "Native-speed vLLM transformers modeling backend",
-    "date": "Wed, 08 Jul 2026 00:00:00 GMT",
-    "url": "https://huggingface.co/blog/native-speed-vllm-transformers-backend"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "From Hugging Face to Amazon SageMaker Studio in one click",
-    "date": "Tue, 07 Jul 2026 21:15:33 GMT",
-    "url": "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "Hugging Face Models on Foundry Managed Compute",
-    "date": "Tue, 07 Jul 2026 15:20:06 GMT",
-    "url": "https://huggingface.co/blog/microsoft/foundry-managed-compute"
-  },
-  {
-    "source": "arXiv",
-    "title": "iFLYTEK-Embodied-Omni Technical Report",
-    "date": "Tue, 07 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.02542"
-  },
-  {
-    "source": "arXiv",
-    "title": "Internal Pluralism and the Limits of Pairwise Comparisons",
-    "date": "Tue, 07 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.02672"
-  },
-  {
-    "source": "arXiv",
-    "title": "ASK in the Dark: Uncertainty-Gated LLM Assistance under Partial Observability",
-    "date": "Tue, 07 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.02686"
-  },
-  {
-    "source": "arXiv",
-    "title": "Automated Data Readiness for Scientific AI",
-    "date": "Tue, 07 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.02771"
-  },
-  {
-    "source": "arXiv",
-    "title": "SwarmResearch: Orchestrating Coding Agents for Open-Ended Discovery",
-    "date": "Tue, 07 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.02807"
-  },
-  {
-    "source": "arXiv",
-    "title": "Object-Centric Environment Modeling for Agentic Tasks",
-    "date": "Tue, 07 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.02846"
-  },
-  {
-    "source": "arXiv",
-    "title": "MedCalc-Pro: Solving Complex Medical Calculations with LLM Agents",
-    "date": "Tue, 07 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.02879"
   }
 ]
