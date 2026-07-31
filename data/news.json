@@ -1,5 +1,83 @@
 [
   {
+    "source": "HuggingFace",
+    "title": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
+    "date": "Thu, 30 Jul 2026 15:09:09 GMT",
+    "url": "https://huggingface.co/blog/Dharma-AI/gpu-management"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Advancing the price-performance frontier with GPT-5.6",
+    "date": "Thu, 30 Jul 2026 10:00:00 GMT",
+    "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6"
+  },
+  {
+    "source": "arXiv",
+    "title": "RSMeM: Knowledge-Enhanced Memory Evolution for Remote Sensing Agents with Systematic Evaluation",
+    "date": "Thu, 30 Jul 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.24772"
+  },
+  {
+    "source": "arXiv",
+    "title": "Right-sizing Recommendations (RSR): Cloud Workload Conformal Prediction for Virtual Machines in Data Center Operations",
+    "date": "Thu, 30 Jul 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.24773"
+  },
+  {
+    "source": "arXiv",
+    "title": "Atmospheric Diffusion-Guided Spatio-Temporal Transformer for Nuclear Radiation Forecasting",
+    "date": "Thu, 30 Jul 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.24774"
+  },
+  {
+    "source": "arXiv",
+    "title": "Steering topology distributions for unified generative design of architected metamaterials",
+    "date": "Thu, 30 Jul 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.24777"
+  },
+  {
+    "source": "arXiv",
+    "title": "HOBA: Hierarchical On-Policy Bidding Agents for Adaptive Online Advertising",
+    "date": "Thu, 30 Jul 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.24779"
+  },
+  {
+    "source": "arXiv",
+    "title": "LivingArena: Do LLMs Know What Other LLMs Don't? Peer-Probing as Scalable Evaluation",
+    "date": "Thu, 30 Jul 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.24780"
+  },
+  {
+    "source": "arXiv",
+    "title": "Personalization, Personas, and Forecasting in Value Alignment",
+    "date": "Thu, 30 Jul 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.24782"
+  },
+  {
+    "source": "arXiv",
+    "title": "Unified Semantic Modeling Framework for Large-Scale Job Understanding at LinkedIn",
+    "date": "Thu, 30 Jul 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.24783"
+  },
+  {
+    "source": "arXiv",
+    "title": "On the Use of LLMs for Specialised Terminology: A Good Alternative to Corpora?",
+    "date": "Thu, 30 Jul 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.24784"
+  },
+  {
+    "source": "arXiv",
+    "title": "SpecPrefetch: Parameter-Efficient Expert Prefetching for Sparse MoE Foundation Models",
+    "date": "Thu, 30 Jul 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.24787"
+  },
+  {
+    "source": "OpenAI",
+    "title": "How avatarin built a 24/7 retail agent with GPT-Realtime",
+    "date": "Thu, 30 Jul 2026 00:00:00 GMT",
+    "url": "https://openai.com/index/avatarin"
+  },
+  {
     "source": "OpenAI",
     "title": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
     "date": "Wed, 29 Jul 2026 15:00:00 GMT",
@@ -1120,83 +1198,5 @@
     "title": "Profiling in PyTorch (Part 3): Attention is all you profile",
     "date": "Fri, 10 Jul 2026 00:00:00 GMT",
     "url": "https://huggingface.co/blog/torch-attention-profile"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Getting started with ChatGPT",
-    "date": "Fri, 10 Jul 2026 00:00:00 GMT",
-    "url": "https://openai.com/academy/getting-started"
-  },
-  {
-    "source": "OpenAI",
-    "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
-    "date": "Thu, 09 Jul 2026 13:00:00 GMT",
-    "url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot"
-  },
-  {
-    "source": "OpenAI",
-    "title": "ChatGPT is now a partner for your most ambitious work",
-    "date": "Thu, 09 Jul 2026 10:00:00 GMT",
-    "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work"
-  },
-  {
-    "source": "OpenAI",
-    "title": "GPT-5.5 Bio Bug Bounty",
-    "date": "Thu, 09 Jul 2026 10:00:00 GMT",
-    "url": "https://openai.com/index/bio-bug-bounty"
-  },
-  {
-    "source": "OpenAI",
-    "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
-    "date": "Thu, 09 Jul 2026 10:00:00 GMT",
-    "url": "https://openai.com/index/gpt-5-6"
-  },
-  {
-    "source": "arXiv",
-    "title": "AgentLens: Production-Assessed Trajectory Reviews for Coding Agent Evaluation",
-    "date": "Thu, 09 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.06624"
-  },
-  {
-    "source": "arXiv",
-    "title": "When Does In-Context Search Help? A Sampling-Complexity Theory of Reflection-Driven Reasoning",
-    "date": "Thu, 09 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.06720"
-  },
-  {
-    "source": "arXiv",
-    "title": "LLM-powered reasoning in agent-based modeling",
-    "date": "Thu, 09 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.06757"
-  },
-  {
-    "source": "arXiv",
-    "title": "QANTIS: Hardware-Calibrated Sequential POMDP Belief Updates on IBM Heron",
-    "date": "Thu, 09 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.06760"
-  },
-  {
-    "source": "arXiv",
-    "title": "Cost-Effective Agent Harnesses for Abstract Reasoning and Generalization on ARC-AGI-1",
-    "date": "Thu, 09 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.06764"
-  },
-  {
-    "source": "arXiv",
-    "title": "Evaluating SageMath-Augmented LLM Agents for Computational and Experimental Mathematics",
-    "date": "Thu, 09 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.06820"
-  },
-  {
-    "source": "arXiv",
-    "title": "The Harness Effect: How Orchestration Design Sets the Token Economics of Enterprise Agentic AI",
-    "date": "Thu, 09 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.06906"
-  },
-  {
-    "source": "arXiv",
-    "title": "Grounding Spatial Relations in a Compact World Model: Instruction Leakage and a Goal-Free Dynamics Fix",
-    "date": "Thu, 09 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.06925"
   }
 ]
