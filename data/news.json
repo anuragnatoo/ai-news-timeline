@@ -1,6 +1,12 @@
 [
   {
     "source": "OpenAI",
+    "title": "Ten advances in mathematics and theoretical computer science",
+    "date": "Sat, 01 Aug 2026 00:00:00 GMT",
+    "url": "https://openai.com/index/ten-advances-in-mathematics"
+  },
+  {
+    "source": "OpenAI",
     "title": "Advancing responsible AI across Europe",
     "date": "Fri, 31 Jul 2026 15:00:00 GMT",
     "url": "https://openai.com/index/advancing-responsible-ai-across-europe"
@@ -1192,11 +1198,5 @@
     "title": "Neuro-Agentic Control: A Deep Learning-based LLM-Powered Agentic AI Framework for Controlling Security Controls",
     "date": "Mon, 13 Jul 2026 00:00:00 -0400",
     "url": "https://arxiv.org/abs/2607.09076"
-  },
-  {
-    "source": "arXiv",
-    "title": "L-MAD: A Systematic Evaluation of Multi-Agent Debate Structures in Legal Reasoning",
-    "date": "Mon, 13 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.09099"
   }
 ]
