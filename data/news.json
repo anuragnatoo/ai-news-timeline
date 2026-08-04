@@ -1,6 +1,78 @@
 [
   {
     "source": "OpenAI",
+    "title": "How we built a realtime system for responsive voice AI in six months",
+    "date": "Mon, 03 Aug 2026 07:00:00 GMT",
+    "url": "https://openai.com/index/continuous-voice-interaction-with-gpt-live"
+  },
+  {
+    "source": "arXiv",
+    "title": "OpenClaw and Ollama in Agentic AI: Toward Fully Autonomous and Scalable AI Agent Systems",
+    "date": "Mon, 03 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.28629"
+  },
+  {
+    "source": "arXiv",
+    "title": "Can AI Evaluate AI Scientists? A Benchmarking Study of Autonomous Research Generation Systems Using Automated Multi-Model Review",
+    "date": "Mon, 03 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.28631"
+  },
+  {
+    "source": "arXiv",
+    "title": "LLM Framework for Discovering Major Mathematical Conjectures: AI's Quest for the Next Riemann Hypothesis",
+    "date": "Mon, 03 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.28632"
+  },
+  {
+    "source": "arXiv",
+    "title": "ThinkReset: Learnable Intermediate Interface Construction for Bounded-Context Long-Horizon Reasoning",
+    "date": "Mon, 03 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.28642"
+  },
+  {
+    "source": "arXiv",
+    "title": "TAPR: Enhancing LLM Performance with a Task-Aware Prompt Rewriter",
+    "date": "Mon, 03 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.28657"
+  },
+  {
+    "source": "arXiv",
+    "title": "Empowering Cross-Domain Sequential Recommendation with Hybrid Tokenization and Serial-Parallel Decoding",
+    "date": "Mon, 03 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.28659"
+  },
+  {
+    "source": "arXiv",
+    "title": "An Ontology-Guided, Deduplication-Aware Extraction Layer for Knowledge Graph Construction from Heterogeneous Documents",
+    "date": "Mon, 03 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.28662"
+  },
+  {
+    "source": "arXiv",
+    "title": "How Hard Does It Think? Analyzing Step-Aware Reasoning Energy in LLM Chain-of-Thought Trajectories",
+    "date": "Mon, 03 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.28674"
+  },
+  {
+    "source": "arXiv",
+    "title": "Reasoning in Real World Clinical Care: Why Large Language Models Are Not Yet Safe for Autonomous Clinical Decision Support",
+    "date": "Mon, 03 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.28677"
+  },
+  {
+    "source": "arXiv",
+    "title": "ViSAGE: Constructing Self-Correcting Memories for Long-Form Video Understanding",
+    "date": "Mon, 03 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.28678"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Circles powers telco personalization with OpenAI technology",
+    "date": "Mon, 03 Aug 2026 00:00:00 GMT",
+    "url": "https://openai.com/index/circles"
+  },
+  {
+    "source": "OpenAI",
     "title": "Ten advances in mathematics and theoretical computer science",
     "date": "Sat, 01 Aug 2026 00:00:00 GMT",
     "url": "https://openai.com/index/ten-advances-in-mathematics"
@@ -1126,77 +1198,5 @@
     "title": "GES-TSP: Graph Edge Sparsification for TSP",
     "date": "Tue, 14 Jul 2026 00:00:00 -0400",
     "url": "https://arxiv.org/abs/2607.09708"
-  },
-  {
-    "source": "arXiv",
-    "title": "The Verifier is the Curriculum: Execution-Gated Self-Distillation for Cross-Family Game Generation",
-    "date": "Tue, 14 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.09709"
-  },
-  {
-    "source": "arXiv",
-    "title": "Closed-Loop Control with Rule-Aligned Small Language Models and Multi-Agent Self-Correction",
-    "date": "Tue, 14 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.09713"
-  },
-  {
-    "source": "arXiv",
-    "title": "Feedback-Coupled Memory Systems in Continuous Time",
-    "date": "Tue, 14 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.09714"
-  },
-  {
-    "source": "OpenAI",
-    "title": "How data science teams use ChatGPT Work",
-    "date": "Tue, 14 Jul 2026 00:00:00 GMT",
-    "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex"
-  },
-  {
-    "source": "OpenAI",
-    "title": "How sales teams use ChatGPT Work",
-    "date": "Tue, 14 Jul 2026 00:00:00 GMT",
-    "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex"
-  },
-  {
-    "source": "arXiv",
-    "title": "Interval Certifications for Multilayered Perceptrons via Lattice Traversal",
-    "date": "Mon, 13 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.08773"
-  },
-  {
-    "source": "arXiv",
-    "title": "CogniConsole: Externalizing Inference-Time Control as a Formal Abstraction for Reliable LLM Interactions",
-    "date": "Mon, 13 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.08774"
-  },
-  {
-    "source": "arXiv",
-    "title": "GATS: Graph-Augmented Tree Search with Layered World Models for Efficient Agent Planning",
-    "date": "Mon, 13 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.08894"
-  },
-  {
-    "source": "arXiv",
-    "title": "Long-Horizon-Terminal-Bench: Testing the Limits of Agents on Long-Horizon Terminal Tasks with Dense Reward-Based Grading",
-    "date": "Mon, 13 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.08964"
-  },
-  {
-    "source": "arXiv",
-    "title": "A Formalization of the Mean-Field Derivation of the Vlasov Equation: AI-Assisted Lean Formalization as a Strategy Game",
-    "date": "Mon, 13 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.08986"
-  },
-  {
-    "source": "arXiv",
-    "title": "ARCANA: A Reflective Multi-Agent Program Synthesis Framework for ARC-AGI-2 Reasoning",
-    "date": "Mon, 13 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.09059"
-  },
-  {
-    "source": "arXiv",
-    "title": "Neuro-Agentic Control: A Deep Learning-based LLM-Powered Agentic AI Framework for Controlling Security Controls",
-    "date": "Mon, 13 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.09076"
   }
 ]
