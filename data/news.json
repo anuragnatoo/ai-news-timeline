@@ -1,6 +1,90 @@
 [
   {
     "source": "OpenAI",
+    "title": "Third-party cyber evaluations involving OpenAI models",
+    "date": "Tue, 04 Aug 2026 19:00:00 GMT",
+    "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "Deploy local agents everywhere with LFM2.5-2.6B",
+    "date": "Tue, 04 Aug 2026 13:58:29 GMT",
+    "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b"
+  },
+  {
+    "source": "arXiv",
+    "title": "Multi-Agent Planning with Spatio-Temporal and Topological Constraints using STL-GO",
+    "date": "Tue, 04 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.28679"
+  },
+  {
+    "source": "arXiv",
+    "title": "Library Reachability in LSR-Synth: How Anti-Memorization Design Changes the Measurement of Symbolic Discovery",
+    "date": "Tue, 04 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.28684"
+  },
+  {
+    "source": "arXiv",
+    "title": "Safety, or Just Capability? A Validity Audit of Agent-Safety Benchmarks",
+    "date": "Tue, 04 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.28685"
+  },
+  {
+    "source": "arXiv",
+    "title": "SciToolAgent-Evo: An Ontology-Aware Self-Evolving Agent for Open-World Scientific Tool Acquisition",
+    "date": "Tue, 04 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.28692"
+  },
+  {
+    "source": "arXiv",
+    "title": "EarlyDx: An Admission-Anchored Benchmark for Open-Ended Generation of Evidence-Supported ED-Encounter Diagnoses",
+    "date": "Tue, 04 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.28788"
+  },
+  {
+    "source": "arXiv",
+    "title": "Model or Harness? An Interaction-Centric Taxonomy for Localizing Agent Failures",
+    "date": "Tue, 04 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.28802"
+  },
+  {
+    "source": "arXiv",
+    "title": "Best Friends, Not Forever: Evaluating Long-Horizon Persona Collapse and Behavioral Drift in AI Companions",
+    "date": "Tue, 04 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.28818"
+  },
+  {
+    "source": "arXiv",
+    "title": "Fragility of Value under Imperfect Alignment",
+    "date": "Tue, 04 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.28881"
+  },
+  {
+    "source": "arXiv",
+    "title": "Identifying Informative Environments for Cognition Parameter Inference via Bayesian Experimental Design",
+    "date": "Tue, 04 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.28894"
+  },
+  {
+    "source": "arXiv",
+    "title": "NeSyFS: A Neuro-symbolic Fast-Slow Thinking Framework for LLM Agent under Partial Observability",
+    "date": "Tue, 04 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2607.28942"
+  },
+  {
+    "source": "OpenAI",
+    "title": "New ways to learn and teach with ChatGPT Work and Codex",
+    "date": "Tue, 04 Aug 2026 00:00:00 GMT",
+    "url": "https://openai.com/index/learn-teach-chatgpt-work-codex"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Apple is getting this wrong",
+    "date": "Mon, 03 Aug 2026 22:00:00 GMT",
+    "url": "https://openai.com/index/apple-is-getting-this-wrong"
+  },
+  {
+    "source": "OpenAI",
     "title": "How we built a realtime system for responsive voice AI in six months",
     "date": "Mon, 03 Aug 2026 07:00:00 GMT",
     "url": "https://openai.com/index/continuous-voice-interaction-with-gpt-live"
@@ -1114,89 +1198,5 @@
     "title": "Optimization Is Not All You Need",
     "date": "Wed, 15 Jul 2026 00:00:00 -0400",
     "url": "https://arxiv.org/abs/2607.11977"
-  },
-  {
-    "source": "arXiv",
-    "title": "LP Mining with LP2Graph: A Use Case for Railway Rescheduling",
-    "date": "Wed, 15 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.11980"
-  },
-  {
-    "source": "arXiv",
-    "title": "Designing Agent-Ready Websites for AI Web Agents: A Framework for Machine Readability, Actionability, and Decision Reliability",
-    "date": "Wed, 15 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.12056"
-  },
-  {
-    "source": "arXiv",
-    "title": "Graph Feedback Controls Consensus and Clique Formation in Open-Weight Language-Model Populations",
-    "date": "Wed, 15 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.12077"
-  },
-  {
-    "source": "arXiv",
-    "title": "Operationalising Multi-Dimensional Evaluation for Conversational Agents: A Scalable, Governed Pipeline with Selective Re-evaluation and Model Benchmarking",
-    "date": "Wed, 15 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.12085"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "Welcome Inkling by Thinking Machines",
-    "date": "Wed, 15 Jul 2026 00:00:00 GMT",
-    "url": "https://huggingface.co/blog/thinkingmachines-inkling"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "Introducing Real World VoiceEQ: Measuring the human quality of voice AI",
-    "date": "Wed, 15 Jul 2026 00:00:00 GMT",
-    "url": "https://huggingface.co/blog/real-world-voiceeq"
-  },
-  {
-    "source": "OpenAI",
-    "title": "How to manage AI investments in the agentic era",
-    "date": "Tue, 14 Jul 2026 10:00:00 GMT",
-    "url": "https://openai.com/index/managing-ai-investments-in-agentic-era"
-  },
-  {
-    "source": "arXiv",
-    "title": "From ML Predictions to Informed Diagnostic Assistance Using the Toulmin Model of Argumentation",
-    "date": "Tue, 14 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.09664"
-  },
-  {
-    "source": "arXiv",
-    "title": "Format Sensitivity Index: Token-Controlled Prompt Wrapper Robustness and Schema Compliance in LLM Benchmarking",
-    "date": "Tue, 14 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.09665"
-  },
-  {
-    "source": "arXiv",
-    "title": "Faithful, Not Corrective: Message-Format Effects in Multi-Hop Agent Relays Are Tier-Dependent",
-    "date": "Tue, 14 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.09678"
-  },
-  {
-    "source": "arXiv",
-    "title": "Boltzmann MapReduce: A Partition-Function Reduce for Forkable Sandboxes",
-    "date": "Tue, 14 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.09689"
-  },
-  {
-    "source": "arXiv",
-    "title": "Interpreting Latent CoT Reasoning as Dynamical Systems",
-    "date": "Tue, 14 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.09698"
-  },
-  {
-    "source": "arXiv",
-    "title": "YUKTI: From Natural-Language Situations to Robust, Verifiable Decisions An Uncertainty-Typed Proposition IR, Assumption-Robust Pareto Frontiers, and a Regret Certificate",
-    "date": "Tue, 14 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.09706"
-  },
-  {
-    "source": "arXiv",
-    "title": "GES-TSP: Graph Edge Sparsification for TSP",
-    "date": "Tue, 14 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.09708"
   }
 ]
