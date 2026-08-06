@@ -1,5 +1,65 @@
 [
   {
+    "source": "arXiv",
+    "title": "ISEE: Interactive Semantic Enrichment for Database Fields",
+    "date": "Wed, 05 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.02604"
+  },
+  {
+    "source": "arXiv",
+    "title": "Self-Organising Digital Circuits",
+    "date": "Wed, 05 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.02606"
+  },
+  {
+    "source": "arXiv",
+    "title": "Beyond the Hivemind: Escaping LLM Homogeneity via Meta-Persona Anchoring and Sequential Temperature Scaling",
+    "date": "Wed, 05 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.02618"
+  },
+  {
+    "source": "arXiv",
+    "title": "PULSE: An Executable Contract Language for Spatiotemporal Knowledge Graph Engineering",
+    "date": "Wed, 05 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.02630"
+  },
+  {
+    "source": "arXiv",
+    "title": "HyperAgent: Planning and Acting over Tool-Schema Hypergraphs for Tool-Use LLM Agents",
+    "date": "Wed, 05 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.02650"
+  },
+  {
+    "source": "arXiv",
+    "title": "Explainable AI for the EU Right to Explanation: A Systematic Review of the Law-XAI Translation Gap",
+    "date": "Wed, 05 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.02699"
+  },
+  {
+    "source": "arXiv",
+    "title": "Predictive Set Theory: A Generative Framework for Cognitive Architecture with Operationalized Core Mechanisms",
+    "date": "Wed, 05 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.02704"
+  },
+  {
+    "source": "arXiv",
+    "title": "Towards a new paradigm of scientific discovery with socialized artificial intelligence",
+    "date": "Wed, 05 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.02775"
+  },
+  {
+    "source": "arXiv",
+    "title": "BAP-SQL: Budget-Aware Observation Planning for Agentic Text-to-SQL",
+    "date": "Wed, 05 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.02876"
+  },
+  {
+    "source": "arXiv",
+    "title": "VeriTrace: Human-Like Temporal Exploration Completes Agentic Action Space",
+    "date": "Wed, 05 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.02878"
+  },
+  {
     "source": "OpenAI",
     "title": "Third-party cyber evaluations involving OpenAI models",
     "date": "Tue, 04 Aug 2026 19:00:00 GMT",
@@ -1138,65 +1198,5 @@
     "title": "Agentic orchestration: Enterprise AI organizations have a deployment problem, not a platform problem — and most are calling chatbots agents",
     "date": "Wed, 15 Jul 2026 22:24:17 GMT",
     "url": "https://venturebeat.com/ai/agentic-orchestration-enterprise-ai-organizations-have-a-deployment-problem-not-a-platform-problem-and-most-are-calling-chatbots-agents"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "What building Shippy taught us about building agents",
-    "date": "Wed, 15 Jul 2026 17:29:41 GMT",
-    "url": "https://huggingface.co/blog/allenai/shippy-tech-blog"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "Model Routing Is Simple. Until It Isn’t.",
-    "date": "Wed, 15 Jul 2026 17:27:01 GMT",
-    "url": "https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt"
-  },
-  {
-    "source": "OpenAI",
-    "title": "The US is advancing AI safety through state and federal action",
-    "date": "Wed, 15 Jul 2026 12:00:00 GMT",
-    "url": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action"
-  },
-  {
-    "source": "OpenAI",
-    "title": "GPT-Red: Unlocking Self-Improvement for Robustness",
-    "date": "Wed, 15 Jul 2026 10:00:00 GMT",
-    "url": "https://openai.com/index/unlocking-self-improvement-gpt-red"
-  },
-  {
-    "source": "arXiv",
-    "title": "Optimal Adaptive Market Making: A Theoretical Framework for High-Yield Liquidity Provision in Perpetual Futures Markets",
-    "date": "Wed, 15 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.11888"
-  },
-  {
-    "source": "arXiv",
-    "title": "In-Context Reinforcement Learning under Non-Stationarity: A Survey",
-    "date": "Wed, 15 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.11906"
-  },
-  {
-    "source": "arXiv",
-    "title": "Ontology-Amplified Distillation and Contextuality Auditing for Sovereign Enterprise Language Models: A Combined Proof-of-Mechanism and Negative-Results Method Study",
-    "date": "Wed, 15 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.11948"
-  },
-  {
-    "source": "arXiv",
-    "title": "GRID: Grammar-Railed Decoding for Enterprise SQL Generation",
-    "date": "Wed, 15 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.11951"
-  },
-  {
-    "source": "arXiv",
-    "title": "Calibration-First Reward-Component Auditing for Reinforcement Learning Control in Smart Greenhouses",
-    "date": "Wed, 15 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.11959"
-  },
-  {
-    "source": "arXiv",
-    "title": "Optimization Is Not All You Need",
-    "date": "Wed, 15 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.11977"
   }
 ]
