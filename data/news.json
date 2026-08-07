@@ -1,5 +1,89 @@
 [
   {
+    "source": "OpenAI",
+    "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
+    "date": "Thu, 06 Aug 2026 10:00:00 GMT",
+    "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Working with the American Psychological Association on youth mental health and AI",
+    "date": "Thu, 06 Aug 2026 06:00:00 GMT",
+    "url": "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai"
+  },
+  {
+    "source": "arXiv",
+    "title": "A Long-Run Persistence Theory for AI Systems under the Redundancy-Adjusted Artificial Age Score (AAS)",
+    "date": "Thu, 06 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.04012"
+  },
+  {
+    "source": "arXiv",
+    "title": "The LLM Proposes, the Executive Disposes: A Self-Verifying Agent Instrument that Dissociates Commitment Drift from Binding Drift in Long-Horizon Agents",
+    "date": "Thu, 06 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.04066"
+  },
+  {
+    "source": "arXiv",
+    "title": "Monte Carlo Tree Search for Table-to-Multimodal Report Generation",
+    "date": "Thu, 06 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.04071"
+  },
+  {
+    "source": "arXiv",
+    "title": "FinProBench: Evaluating Financial AI Agents with Role-Grounded Rubrics Derived from Professional Deliverables",
+    "date": "Thu, 06 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.04077"
+  },
+  {
+    "source": "arXiv",
+    "title": "FinPerMA: A Theory-Informed, Event-Grounded Personalized-Memory Benchmark for LLM Agents",
+    "date": "Thu, 06 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.04095"
+  },
+  {
+    "source": "arXiv",
+    "title": "BrainBench: Benchmarking Large Language Models for Comprehensive EEG Understanding",
+    "date": "Thu, 06 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.04156"
+  },
+  {
+    "source": "arXiv",
+    "title": "Adversarially Robust Abductive Fusion of Pre-trained Transformer-based Perception Models",
+    "date": "Thu, 06 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.04190"
+  },
+  {
+    "source": "arXiv",
+    "title": "MatrAIx: Simulating the World with 8.3 Billion Persona Agents",
+    "date": "Thu, 06 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.04205"
+  },
+  {
+    "source": "arXiv",
+    "title": "Interoceptive Attention as Dynamic Homeostatic Prioritization in a Foraging Agent",
+    "date": "Thu, 06 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.04232"
+  },
+  {
+    "source": "arXiv",
+    "title": "The RAIL Principles for Neurosymbolic AI: Reasoning, Assurances, Interfacing and Learning",
+    "date": "Thu, 06 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.04285"
+  },
+  {
+    "source": "OpenAI",
+    "title": "From asking to doing: How the world is putting ChatGPT to work",
+    "date": "Thu, 06 Aug 2026 00:00:00 GMT",
+    "url": "https://openai.com/index/how-the-world-is-putting-chatgpt-to-work"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "Baseten on Hugging Face Inference Providers 🔥",
+    "date": "Thu, 06 Aug 2026 00:00:00 GMT",
+    "url": "https://huggingface.co/blog/baseten"
+  },
+  {
     "source": "arXiv",
     "title": "ISEE: Interactive Semantic Enrichment for Database Fields",
     "date": "Wed, 05 Aug 2026 00:00:00 -0400",
@@ -1114,89 +1198,5 @@
     "title": "Newer Models, Same Advantage",
     "date": "Thu, 16 Jul 2026 11:49:48 GMT",
     "url": "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages"
-  },
-  {
-    "source": "OpenAI",
-    "title": "How Codex became a collaborator for OpenAI’s creative team",
-    "date": "Thu, 16 Jul 2026 07:00:00 GMT",
-    "url": "https://openai.com/index/codex-collaborator-creative-team"
-  },
-  {
-    "source": "arXiv",
-    "title": "OriginBlame: Record- and Token-Level Data Provenance for AI Training Datasets",
-    "date": "Thu, 16 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.13037"
-  },
-  {
-    "source": "arXiv",
-    "title": "SPINE: Bridging the Cyber-Physical Gap with Agentic AI",
-    "date": "Thu, 16 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.13049"
-  },
-  {
-    "source": "arXiv",
-    "title": "Interventional Grounding Audits: Black-Box Premise-Dependency Tests for LLM Chain-of-Thought via Predicate Substitution",
-    "date": "Thu, 16 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.13069"
-  },
-  {
-    "source": "arXiv",
-    "title": "Probabilistic Extension of Neuro-Symbolic AGI Robots based on Belnap's Typed Intensional FOL",
-    "date": "Thu, 16 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.13073"
-  },
-  {
-    "source": "arXiv",
-    "title": "Self-Improvements in Modern Agentic Systems: A Survey",
-    "date": "Thu, 16 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.13104"
-  },
-  {
-    "source": "arXiv",
-    "title": "Improving Molecular Property Prediction in Small Language Models Using Graph-based Tools",
-    "date": "Thu, 16 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.13115"
-  },
-  {
-    "source": "arXiv",
-    "title": "Oracle Agent Memory as an Enterprise Memory Substrate for Long-Horizon AI Agents",
-    "date": "Thu, 16 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.13157"
-  },
-  {
-    "source": "arXiv",
-    "title": "Learning Safe Agent Behaviour from Human Preferences and Justifications via World Models",
-    "date": "Thu, 16 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.13172"
-  },
-  {
-    "source": "arXiv",
-    "title": "CayleyR: Solving the TopSpin puzzle via cycle intersection",
-    "date": "Thu, 16 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.13219"
-  },
-  {
-    "source": "arXiv",
-    "title": "Networked Intelligence: Active Shared Context Graphs for Human-AI Team Science",
-    "date": "Thu, 16 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.13220"
-  },
-  {
-    "source": "OpenAI",
-    "title": "How Cars24 scales conversations and builds faster with OpenAI",
-    "date": "Thu, 16 Jul 2026 00:00:00 GMT",
-    "url": "https://openai.com/index/cars24"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "Security incident disclosure — July 2026",
-    "date": "Thu, 16 Jul 2026 00:00:00 GMT",
-    "url": "https://huggingface.co/blog/security-incident-july-2026"
-  },
-  {
-    "source": "VentureBeat",
-    "title": "Agentic orchestration: Enterprise AI organizations have a deployment problem, not a platform problem — and most are calling chatbots agents",
-    "date": "Wed, 15 Jul 2026 22:24:17 GMT",
-    "url": "https://venturebeat.com/ai/agentic-orchestration-enterprise-ai-organizations-have-a-deployment-problem-not-a-platform-problem-and-most-are-calling-chatbots-agents"
   }
 ]
