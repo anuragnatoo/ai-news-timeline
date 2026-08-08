@@ -1,5 +1,83 @@
 [
   {
+    "source": "HuggingFace",
+    "title": "TutorMoments: Do AI tutors know when to help and when to hold back?",
+    "date": "Fri, 07 Aug 2026 17:53:32 GMT",
+    "url": "https://huggingface.co/blog/allenai/tutormoments"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Responding to the next frontier of critical cyber capabilities",
+    "date": "Fri, 07 Aug 2026 15:20:00 GMT",
+    "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities"
+  },
+  {
+    "source": "OpenAI",
+    "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
+    "date": "Fri, 07 Aug 2026 09:00:00 GMT",
+    "url": "https://openai.com/index/hsp-gruppe"
+  },
+  {
+    "source": "arXiv",
+    "title": "Agentic Nesting: A New Methodology for Existing Enterprise Application Integration and Services",
+    "date": "Fri, 07 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.05159"
+  },
+  {
+    "source": "arXiv",
+    "title": "The Ignition Index: Measuring Global Workspace Dynamics in Language Models",
+    "date": "Fri, 07 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.05160"
+  },
+  {
+    "source": "arXiv",
+    "title": "Woodpecker Distillation: Weak Models Diagnose Reasoning Bugs in Strong Models",
+    "date": "Fri, 07 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.05168"
+  },
+  {
+    "source": "arXiv",
+    "title": "From Continuous Predictors to Clinical Thresholds: Early Evidence on Performance Trade-offs of Guideline-Based Categorisation for Ischaemic Stroke Outcome Prediction",
+    "date": "Fri, 07 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.05203"
+  },
+  {
+    "source": "arXiv",
+    "title": "SkillTrace: Multi-Trace Provenance Auditing for LLM-Agent Skill Reuse",
+    "date": "Fri, 07 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.05204"
+  },
+  {
+    "source": "arXiv",
+    "title": "Abstract Event Causal Rules: Induction and Application",
+    "date": "Fri, 07 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.05205"
+  },
+  {
+    "source": "arXiv",
+    "title": "Otter: A Time-Aware, History-Conditioned Human Chess AI",
+    "date": "Fri, 07 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.05206"
+  },
+  {
+    "source": "arXiv",
+    "title": "SearchAuditor: Auditing and Attributing Failures in Long-Horizon Search Agents",
+    "date": "Fri, 07 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.05212"
+  },
+  {
+    "source": "arXiv",
+    "title": "PD-GS: Phoneme-Driven 3DGS for Audio-Driven Talking Heads",
+    "date": "Fri, 07 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.05218"
+  },
+  {
+    "source": "arXiv",
+    "title": "When Privileged Guidance Misaligns: State-Matched Routing and Contextualized Self-Distillation for Multi-Turn Agents",
+    "date": "Fri, 07 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.05219"
+  },
+  {
     "source": "OpenAI",
     "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
     "date": "Thu, 06 Aug 2026 10:00:00 GMT",
@@ -1120,83 +1198,5 @@
     "title": "RegNetAgents: A Multi-Agent Framework for Cross-Network Regulatory Driver Identification in Cancer Genomics",
     "date": "Fri, 17 Jul 2026 00:00:00 -0400",
     "url": "https://arxiv.org/abs/2607.14097"
-  },
-  {
-    "source": "arXiv",
-    "title": "DialogueVPR: Towards Conversational Visual Place Recognition",
-    "date": "Fri, 17 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.14115"
-  },
-  {
-    "source": "arXiv",
-    "title": "Interpretable Language Model for Closed-Loop Type 1 Diabetes Control",
-    "date": "Fri, 17 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.14126"
-  },
-  {
-    "source": "arXiv",
-    "title": "Human AI Construction of Bayesian Networks for Operational Decision Support -- A Virtual Survey Approach",
-    "date": "Fri, 17 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.14141"
-  },
-  {
-    "source": "arXiv",
-    "title": "Capability from Access Structure, Not Scale: Lower Bounds and Pre-Registered Tests for Hybrid Sequence Models",
-    "date": "Fri, 17 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.14144"
-  },
-  {
-    "source": "arXiv",
-    "title": "ToolAnchor: Anchoring Counterfactual Context to Boost Agentic Tool-use Capability",
-    "date": "Fri, 17 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.14145"
-  },
-  {
-    "source": "arXiv",
-    "title": "Enhancing Small Language Models Reasoning through Knowledge Graph Grounding",
-    "date": "Fri, 17 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.14149"
-  },
-  {
-    "source": "VentureBeat",
-    "title": "The AI compute gap: Enterprises are buying infrastructure faster than they can measure what it costs",
-    "date": "Thu, 16 Jul 2026 19:16:48 GMT",
-    "url": "https://venturebeat.com/ai/the-ai-compute-gap-enterprises-are-buying-infrastructure-faster-than-they-can-measure-what-it-costs"
-  },
-  {
-    "source": "VentureBeat",
-    "title": "The agent security gap: 54% of enterprises have already had an AI agent incident, and most still let agents share credentials",
-    "date": "Thu, 16 Jul 2026 19:02:38 GMT",
-    "url": "https://venturebeat.com/ai/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials"
-  },
-  {
-    "source": "VentureBeat",
-    "title": "The AI context gap: Enterprise AI organizations have a trust problem, not a retrieval problem — and most are still building the fix",
-    "date": "Thu, 16 Jul 2026 17:06:08 GMT",
-    "url": "https://venturebeat.com/ai/the-ai-context-gap-enterprise-ai-organizations-have-a-trust-problem-not-a-retrieval-problem-and-most-are-still-building-the-fix"
-  },
-  {
-    "source": "VentureBeat",
-    "title": "The agent evaluation gap: Enterprise AI organizations have a reality-alignment problem, not a coverage problem — and most are shipping to production anyway",
-    "date": "Thu, 16 Jul 2026 16:40:48 GMT",
-    "url": "https://venturebeat.com/ai/the-agent-evaluation-gap-enterprise-ai-organizations-have-a-reality-alignment-problem-not-a-coverage-problem-and-most-are-shipping-to-production-anyway"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "NVIDIA Nemotron 3 Embed Ranks #1 Overall on RTEB, Advancing Agentic Retrieval",
-    "date": "Thu, 16 Jul 2026 16:01:21 GMT",
-    "url": "https://huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Why teens deserve access to safe AI",
-    "date": "Thu, 16 Jul 2026 16:00:00 GMT",
-    "url": "https://openai.com/index/why-teens-deserve-access-safe-ai"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "Newer Models, Same Advantage",
-    "date": "Thu, 16 Jul 2026 11:49:48 GMT",
-    "url": "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages"
   }
 ]
