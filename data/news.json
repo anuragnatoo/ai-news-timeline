@@ -1,5 +1,131 @@
 [
   {
+    "source": "OpenAI",
+    "title": "What building an AI-native finance function taught me",
+    "date": "Mon, 10 Aug 2026 17:00:00 GMT",
+    "url": "https://openai.com/index/building-an-ai-native-finance-function"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
+    "date": "Mon, 10 Aug 2026 16:25:36 GMT",
+    "url": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents"
+  },
+  {
+    "source": "OpenAI",
+    "title": "OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas",
+    "date": "Mon, 10 Aug 2026 14:00:00 GMT",
+    "url": "https://openai.com/index/responsible-ai-infrastructure-texas"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Model ML completes finance work more efficiently with GPT-5.6 Sol",
+    "date": "Mon, 10 Aug 2026 12:00:00 GMT",
+    "url": "https://openai.com/index/model-ml"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "Making Knowledge Distillation Cheap Enough to Run at Scale",
+    "date": "Mon, 10 Aug 2026 10:05:36 GMT",
+    "url": "https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Expanding Daybreak as the Cyber Defense Window Narrows",
+    "date": "Mon, 10 Aug 2026 10:00:00 GMT",
+    "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Putting frontier cyber models in more trusted hands",
+    "date": "Mon, 10 Aug 2026 10:00:00 GMT",
+    "url": "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands"
+  },
+  {
+    "source": "arXiv",
+    "title": "Towards Multi-Label Graph Foundation Models: from Single-Vector Representation Learning to Multi-Semantic Basis Learning",
+    "date": "Mon, 10 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.06394"
+  },
+  {
+    "source": "arXiv",
+    "title": "EntropyMoE: Entropy-Aware Sparse Expert Routing for Tokenizer-Free LLMs",
+    "date": "Mon, 10 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.06398"
+  },
+  {
+    "source": "arXiv",
+    "title": "Beyond Routing Weights: Faithful Response-Level Interpretation of Mixture-of-Experts Reward Models via Contribution Contrast",
+    "date": "Mon, 10 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.06400"
+  },
+  {
+    "source": "arXiv",
+    "title": "Interpretable Unsupervised Community Detection with LLM-Symbolized Structured Processes",
+    "date": "Mon, 10 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.06402"
+  },
+  {
+    "source": "arXiv",
+    "title": "ADIAS: Automated Design of Interactive Agentic Systems",
+    "date": "Mon, 10 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.06410"
+  },
+  {
+    "source": "arXiv",
+    "title": "Learning to Predict Middle-Layer Attention in MLLMs for Visual Token Prunin",
+    "date": "Mon, 10 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.06411"
+  },
+  {
+    "source": "arXiv",
+    "title": "WebGrader: Training LLMs for Web Development with Self-Evolving Programmatic Grader",
+    "date": "Mon, 10 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.06474"
+  },
+  {
+    "source": "arXiv",
+    "title": "Can MLLMs Decode the Creative Leap? Introducing C4 for Cross-Concept Understanding",
+    "date": "Mon, 10 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.06501"
+  },
+  {
+    "source": "arXiv",
+    "title": "KNOWPLAN: Knowledge-Driven AI Agents for Smart Degree Pathway Planning",
+    "date": "Mon, 10 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.06530"
+  },
+  {
+    "source": "arXiv",
+    "title": "TaskSense: Focusing on What Matters in World Models",
+    "date": "Mon, 10 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.06544"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Premium seats are coming to ChatGPT Business",
+    "date": "Mon, 10 Aug 2026 00:00:00 GMT",
+    "url": "https://openai.com/index/premium-seats-chatgpt-business"
+  },
+  {
+    "source": "OpenAI",
+    "title": "How Zapier transformed core marketing processes with ChatGPT Work",
+    "date": "Mon, 10 Aug 2026 00:00:00 GMT",
+    "url": "https://openai.com/index/zapier"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Virgin Atlantic sharpens customer journeys with ChatGPT Work",
+    "date": "Mon, 10 Aug 2026 00:00:00 GMT",
+    "url": "https://openai.com/index/virgin-atlantic/chatgpt-work"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
+    "date": "Mon, 10 Aug 2026 00:00:00 GMT",
+    "url": "https://huggingface.co/blog/muse-glimmer"
+  },
+  {
     "source": "HuggingFace",
     "title": "TutorMoments: Do AI tutors know when to help and when to hold back?",
     "date": "Fri, 07 Aug 2026 17:53:32 GMT",
@@ -1072,131 +1198,5 @@
     "title": "Precise but Uncoupled: Reviewer Precision Does Not Guarantee Critique Uptake in Multi-Agent Math Reasoning",
     "date": "Mon, 20 Jul 2026 00:00:00 -0400",
     "url": "https://arxiv.org/abs/2607.15388"
-  },
-  {
-    "source": "arXiv",
-    "title": "DrawingVQA: A Real-World Benchmark for Multi-Depth Visual-Textual Reasoning on Construction Drawings",
-    "date": "Mon, 20 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.15418"
-  },
-  {
-    "source": "arXiv",
-    "title": "Do Coding Agents Need Executable World Models, Simplification, and Verification to Solve ARC-AGI-3?",
-    "date": "Mon, 20 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.15439"
-  },
-  {
-    "source": "arXiv",
-    "title": "Beyond a Joke: Multi-Angle Reasoning for Detecting and Explaining Harmful Humor in Memes",
-    "date": "Mon, 20 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.15442"
-  },
-  {
-    "source": "arXiv",
-    "title": "From Black Box to Executable Logic: Explainable Reinforcement Learning through Prolog Expert Systems",
-    "date": "Mon, 20 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.15459"
-  },
-  {
-    "source": "arXiv",
-    "title": "A Critical Analysis of Trustworthy AI Tools, Mark Frameworks, and the Implementation Chasms",
-    "date": "Mon, 20 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.15480"
-  },
-  {
-    "source": "arXiv",
-    "title": "Orchestrating Power Grid Studies with Multi-Agent AI and MCP Servers",
-    "date": "Sat, 18 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.14158"
-  },
-  {
-    "source": "arXiv",
-    "title": "MemoHarness: Agent Harnesses That Learn from Experience",
-    "date": "Sat, 18 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.14159"
-  },
-  {
-    "source": "arXiv",
-    "title": "When a Verified World Model Still Loses: Play-Adequacy vs Prediction-Accuracy in LLM-Synthesized Code World Models",
-    "date": "Sat, 18 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.14169"
-  },
-  {
-    "source": "arXiv",
-    "title": "ReasFlow: Assisting Reasoning-Centric Scientific Discovery in Applied Mathematics via a Knowledge-Based Multi-Agent System",
-    "date": "Sat, 18 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.14178"
-  },
-  {
-    "source": "arXiv",
-    "title": "RxBrain: Embodied Cognition Foundation Model with Joint Language-Visual Reasoning and Imagination",
-    "date": "Sat, 18 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.14187"
-  },
-  {
-    "source": "arXiv",
-    "title": "How Artificial Intelligence LLM Engines Shape the Global Conflict Information Environment",
-    "date": "Sat, 18 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.14197"
-  },
-  {
-    "source": "arXiv",
-    "title": "Align AI to Dynamic Human-AI Workflows",
-    "date": "Sat, 18 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.14240"
-  },
-  {
-    "source": "arXiv",
-    "title": "The Steering Budget: Examples beat Knobs",
-    "date": "Sat, 18 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.14246"
-  },
-  {
-    "source": "arXiv",
-    "title": "Automatic Hard Example Synthesis with Multi-Level Agentic Data Curation",
-    "date": "Sat, 18 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.14256"
-  },
-  {
-    "source": "arXiv",
-    "title": "AI Agents Do Not Fail Alone:The Context Fails First",
-    "date": "Sat, 18 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.14275"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
-    "date": "Fri, 17 Jul 2026 15:57:54 GMT",
-    "url": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel"
-  },
-  {
-    "source": "OpenAI",
-    "title": "A scorecard for the AI age",
-    "date": "Fri, 17 Jul 2026 10:00:00 GMT",
-    "url": "https://openai.com/index/a-scorecard-for-the-ai-age"
-  },
-  {
-    "source": "arXiv",
-    "title": "Intelligent Three Level Learning Architecture for Autonomous UAV Swarms in Search and Rescue",
-    "date": "Fri, 17 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.14093"
-  },
-  {
-    "source": "arXiv",
-    "title": "HG-RAG: Hierarchy-Guided Retrieval-Augmented Generation for Structured Knowledge Graphs",
-    "date": "Fri, 17 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.14095"
-  },
-  {
-    "source": "arXiv",
-    "title": "IMEX Interaction-Based Model Explanation",
-    "date": "Fri, 17 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.14096"
-  },
-  {
-    "source": "arXiv",
-    "title": "RegNetAgents: A Multi-Agent Framework for Cross-Network Regulatory Driver Identification in Cancer Genomics",
-    "date": "Fri, 17 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.14097"
   }
 ]
