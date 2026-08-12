@@ -1,5 +1,83 @@
 [
   {
+    "source": "HuggingFace",
+    "title": "Thinking of ACE? We Can Do It with Fewer Tokens",
+    "date": "Tue, 11 Aug 2026 13:37:10 GMT",
+    "url": "https://huggingface.co/blog/ibm-research/altk-evolve-sldd"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Testing ads in ChatGPT",
+    "date": "Tue, 11 Aug 2026 10:00:00 GMT",
+    "url": "https://openai.com/index/testing-ads-in-chatgpt"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Daybreak models are now available on AWS",
+    "date": "Tue, 11 Aug 2026 10:00:00 GMT",
+    "url": "https://openai.com/index/daybreak-models-are-now-available-on-aws"
+  },
+  {
+    "source": "arXiv",
+    "title": "Towards an Argumentative Foundation for Evaluative AI",
+    "date": "Tue, 11 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.07473"
+  },
+  {
+    "source": "arXiv",
+    "title": "Flow-by-Flow:Content-Judgment Bypass for Governing AI Output in High-Loss Domains",
+    "date": "Tue, 11 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.07474"
+  },
+  {
+    "source": "arXiv",
+    "title": "Determinization in Structure Theories: A Unified Framework via Closure, Comparability, and Joint Admissibility",
+    "date": "Tue, 11 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.07476"
+  },
+  {
+    "source": "arXiv",
+    "title": "Emotion in an active inference model of human driving",
+    "date": "Tue, 11 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.07480"
+  },
+  {
+    "source": "arXiv",
+    "title": "Training Variable Long Sequences with Data-Centric Parallel",
+    "date": "Tue, 11 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.07524"
+  },
+  {
+    "source": "arXiv",
+    "title": "The Knowing-Saying Gap: When Probes See Errors that Confidence Misses",
+    "date": "Tue, 11 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.07528"
+  },
+  {
+    "source": "arXiv",
+    "title": "NL2SHACL-Bench: A Benchmark Suite for Natural Language to SHACL Translation",
+    "date": "Tue, 11 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.07530"
+  },
+  {
+    "source": "arXiv",
+    "title": "Dynamic Coalition Formation and Communication Pricing in Skill-Based Agentic AI Systems",
+    "date": "Tue, 11 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.07532"
+  },
+  {
+    "source": "arXiv",
+    "title": "MetaSpace: Metamorphic Testing for Spatial Cognition in Embodied Agents",
+    "date": "Tue, 11 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.07533"
+  },
+  {
+    "source": "arXiv",
+    "title": "When LLM Agents Negotiate: Private Information and Dynamic Bargaining in Supply Chains",
+    "date": "Tue, 11 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.07538"
+  },
+  {
     "source": "OpenAI",
     "title": "What building an AI-native finance function taught me",
     "date": "Mon, 10 Aug 2026 17:00:00 GMT",
@@ -1120,83 +1198,5 @@
     "title": "Deterministic Replay for AI Agent Systems",
     "date": "Tue, 21 Jul 2026 00:00:00 -0400",
     "url": "https://arxiv.org/abs/2607.16200"
-  },
-  {
-    "source": "arXiv",
-    "title": "Generative Ontology Induction: Domain-Agnostic Schema Discovery from Document Corpora Using Large Language Models",
-    "date": "Tue, 21 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.16201"
-  },
-  {
-    "source": "arXiv",
-    "title": "Democratizing AI with Small Language Models: Structured Benchmarking and Parameter-Efficient Fine-Tuning for Local Deployment",
-    "date": "Tue, 21 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.16202"
-  },
-  {
-    "source": "arXiv",
-    "title": "Masked Diffusion Language Models are Strong and Steerable Text-Based World Models for Agentic RL",
-    "date": "Tue, 21 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.16204"
-  },
-  {
-    "source": "arXiv",
-    "title": "It Takes 8 Tokens: Weak-to-Strong Off-Policy RL via Auxiliary Branches",
-    "date": "Tue, 21 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.16205"
-  },
-  {
-    "source": "OpenAI",
-    "title": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC",
-    "date": "Tue, 21 Jul 2026 00:00:00 GMT",
-    "url": "https://openai.com/index/david-velez-robin-vince-join-openai-boards"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "Grabette: an open system to record robot-manipulation data",
-    "date": "Tue, 21 Jul 2026 00:00:00 GMT",
-    "url": "https://huggingface.co/blog/grabette"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "Introducing Cosmos 3 Edge",
-    "date": "Mon, 20 Jul 2026 15:58:51 GMT",
-    "url": "https://huggingface.co/blog/nvidia/cosmos3edge"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Safety and alignment in an era of long-horizon models",
-    "date": "Mon, 20 Jul 2026 10:00:00 GMT",
-    "url": "https://openai.com/index/safety-alignment-long-horizon-models"
-  },
-  {
-    "source": "arXiv",
-    "title": "GraphDx: A Cost-Aware Knowledge-Enhanced Multi-Agent Framework for Sequential Diagnosis",
-    "date": "Mon, 20 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.15280"
-  },
-  {
-    "source": "arXiv",
-    "title": "Causal-Audit: Explicit and Auditable Graph-based Reasoning via Target-Aware Causal Chain Construction",
-    "date": "Mon, 20 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.15281"
-  },
-  {
-    "source": "arXiv",
-    "title": "Cura 1T: Specialized Model for Agentic Healthcare",
-    "date": "Mon, 20 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.15314"
-  },
-  {
-    "source": "arXiv",
-    "title": "AnovaX: A Local, Multi-Agent Voice Assistant with LLM Planning, Typed Executors, and Adaptive Recovery",
-    "date": "Mon, 20 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.15367"
-  },
-  {
-    "source": "arXiv",
-    "title": "Precise but Uncoupled: Reviewer Precision Does Not Guarantee Critique Uptake in Multi-Agent Math Reasoning",
-    "date": "Mon, 20 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.15388"
   }
 ]
