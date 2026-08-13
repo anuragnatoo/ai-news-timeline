@@ -1,5 +1,95 @@
 [
   {
+    "source": "TechCrunch",
+    "title": "As AI safety concerns mount, three pioneers make the case for staying open",
+    "date": "Wed, 12 Aug 2026 17:51:00 +0000",
+    "url": "https://techcrunch.com/2026/08/12/as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open/"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
+    "date": "Wed, 12 Aug 2026 16:14:36 GMT",
+    "url": "https://huggingface.co/blog/allenai/olmoearth-embeddings"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge",
+    "date": "Wed, 12 Aug 2026 14:00:51 GMT",
+    "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b"
+  },
+  {
+    "source": "OpenAI",
+    "title": "From assistance to execution: How enterprises put AI to work",
+    "date": "Wed, 12 Aug 2026 06:00:00 GMT",
+    "url": "https://openai.com/index/how-enterprises-put-ai-to-work"
+  },
+  {
+    "source": "arXiv",
+    "title": "Closed-Loop LLM Co-Pilots for Digital Agriculture",
+    "date": "Wed, 12 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.09949"
+  },
+  {
+    "source": "arXiv",
+    "title": "SPOTting the Future: Lookahead Explanations for Deep Reinforcement Learning",
+    "date": "Wed, 12 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.09967"
+  },
+  {
+    "source": "arXiv",
+    "title": "MIDAS: Mutual Information Disentanglement with Uncertainty-Aware Fusion for Incomplete Multimodal Sentiment Analysis",
+    "date": "Wed, 12 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.09986"
+  },
+  {
+    "source": "arXiv",
+    "title": "Towards Sustainable Artificial Intelligence: A Comprehensive Review and Comparative Analysis of Deep Learning Models' Carbon Footprint",
+    "date": "Wed, 12 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.09998"
+  },
+  {
+    "source": "arXiv",
+    "title": "ReCBM: Uncertainty-Gated Relational Reasoning for Concept Bottleneck Models",
+    "date": "Wed, 12 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.10004"
+  },
+  {
+    "source": "arXiv",
+    "title": "Automating and Scaling Behavioral Scientific Research on AI Agents",
+    "date": "Wed, 12 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.10030"
+  },
+  {
+    "source": "arXiv",
+    "title": "CHORUS: Complementary Experts for High-Coverage Testbench Stimulus Generation",
+    "date": "Wed, 12 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.10090"
+  },
+  {
+    "source": "arXiv",
+    "title": "MESA:Task-Adaptive Multi-Structure Evidence Selection for Long-Horizon Agent Memory",
+    "date": "Wed, 12 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.10108"
+  },
+  {
+    "source": "arXiv",
+    "title": "The CASE Framework: A Multi-Disciplinary Control Architecture for Governing Enterprise Agentic AI",
+    "date": "Wed, 12 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.10153"
+  },
+  {
+    "source": "arXiv",
+    "title": "SBCO: Self-Supervised, Verifier-Grounded Harness Optimization For Planning Agents",
+    "date": "Wed, 12 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.10157"
+  },
+  {
+    "source": "OpenAI",
+    "title": "How RingCentral builds AI-native work from engineering to ops",
+    "date": "Wed, 12 Aug 2026 00:00:00 GMT",
+    "url": "https://openai.com/index/ringcentral"
+  },
+  {
     "source": "HuggingFace",
     "title": "Thinking of ACE? We Can Do It with Fewer Tokens",
     "date": "Tue, 11 Aug 2026 13:37:10 GMT",
@@ -1108,95 +1198,5 @@
     "title": "From Agent Failure Paths to Quantified Residual Risk: A Compositional Framework for Resilient Agentic AI",
     "date": "Wed, 22 Jul 2026 00:00:00 -0400",
     "url": "https://arxiv.org/abs/2607.18243"
-  },
-  {
-    "source": "arXiv",
-    "title": "SAAG: Structured Agent Assessment and Grounding",
-    "date": "Wed, 22 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.18245"
-  },
-  {
-    "source": "arXiv",
-    "title": "Phionyx: A Deterministic AI Runtime Architecture with Structured State Management and Pre-Response Governance",
-    "date": "Wed, 22 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.18246"
-  },
-  {
-    "source": "arXiv",
-    "title": "Integro-differential equations in angular stabilization of drone motion by distributed feedback control",
-    "date": "Wed, 22 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.18251"
-  },
-  {
-    "source": "arXiv",
-    "title": "MILP-Evo: Closed-Loop Fully Automatic Design of MILP Solvers",
-    "date": "Wed, 22 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.18252"
-  },
-  {
-    "source": "arXiv",
-    "title": "Beyond Accuracy and Cost: Latency-Aware LLM Query Routing for Dynamic Workloads",
-    "date": "Wed, 22 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.18253"
-  },
-  {
-    "source": "OpenAI",
-    "title": "NTT DATA Group cuts incident analysis to 30 minutes with Codex",
-    "date": "Wed, 22 Jul 2026 00:00:00 GMT",
-    "url": "https://openai.com/index/ntt-data"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "The State of Simulation for Physical AI: An Overview",
-    "date": "Tue, 21 Jul 2026 20:00:27 GMT",
-    "url": "https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Introducing the ChatGPT for small business program",
-    "date": "Tue, 21 Jul 2026 17:00:00 GMT",
-    "url": "https://openai.com/index/introducing-chatgpt-small-business-program"
-  },
-  {
-    "source": "OpenAI",
-    "title": "OpenAI and Hugging Face partner to address security incident during model evaluation",
-    "date": "Tue, 21 Jul 2026 07:00:00 GMT",
-    "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident"
-  },
-  {
-    "source": "arXiv",
-    "title": "Rater State Bias in RLHF Preference Data: An Audit Framework",
-    "date": "Tue, 21 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.16195"
-  },
-  {
-    "source": "arXiv",
-    "title": "Design and Validation of a Lightweight 1D CNN for Affective Touch Classification in Soft Plush Companions",
-    "date": "Tue, 21 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.16196"
-  },
-  {
-    "source": "arXiv",
-    "title": "Some Large Language Models Exhibit Consistent Risk Attitudes",
-    "date": "Tue, 21 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.16197"
-  },
-  {
-    "source": "arXiv",
-    "title": "A Survey on GNN-based Link Prediction: Techniques, Applications, and Challenges",
-    "date": "Tue, 21 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.16198"
-  },
-  {
-    "source": "arXiv",
-    "title": "PlanFlip: Attacking Multi-Agent LLM Systems via Planning-Phase Prompt Injection",
-    "date": "Tue, 21 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.16199"
-  },
-  {
-    "source": "arXiv",
-    "title": "Deterministic Replay for AI Agent Systems",
-    "date": "Tue, 21 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.16200"
   }
 ]
