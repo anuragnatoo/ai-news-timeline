@@ -1,5 +1,95 @@
 [
   {
+    "source": "HuggingFace",
+    "title": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
+    "date": "Thu, 13 Aug 2026 17:16:04 GMT",
+    "url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop"
+  },
+  {
+    "source": "OpenAI",
+    "title": "The builder’s guide to GPT‑5.6",
+    "date": "Thu, 13 Aug 2026 11:00:00 GMT",
+    "url": "https://openai.com/index/builders-guide-to-gpt-5-6"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
+    "date": "Thu, 13 Aug 2026 10:00:00 GMT",
+    "url": "https://openai.com/index/previewing-ultrafast"
+  },
+  {
+    "source": "OpenAI",
+    "title": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
+    "date": "Thu, 13 Aug 2026 09:00:00 GMT",
+    "url": "https://openai.com/index/dali-rajic-chief-revenue-officer"
+  },
+  {
+    "source": "arXiv",
+    "title": "Dynamic Governance of Multi-LLM Agent Systems for Collaborative Conversational Outcomes",
+    "date": "Thu, 13 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.11207"
+  },
+  {
+    "source": "arXiv",
+    "title": "Distribird: Literature-Informed Prior Distribution Design for Bayesian Model Calibration",
+    "date": "Thu, 13 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.11210"
+  },
+  {
+    "source": "arXiv",
+    "title": "A Forced-Structure Reduction and Verifiable Bounds for Conway's 99-Graph",
+    "date": "Thu, 13 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.11211"
+  },
+  {
+    "source": "arXiv",
+    "title": "Detecting a Route Flip Is Easier Than Knowing Whether to Fix It: Causal Route-Mediated Damage in Quantized Mixture-of-Experts",
+    "date": "Thu, 13 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.11212"
+  },
+  {
+    "source": "arXiv",
+    "title": "Poor Man's Agentic Modeling: Simulating Large LLM-Agent Societies on a Laptop",
+    "date": "Thu, 13 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.11215"
+  },
+  {
+    "source": "arXiv",
+    "title": "AutoWorldModel-Bench: A State-Centric Benchmark for Automated World-Model Research",
+    "date": "Thu, 13 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.11216"
+  },
+  {
+    "source": "arXiv",
+    "title": "MaSRead: Content-Addressed Reading of Replicated Latent Stores",
+    "date": "Thu, 13 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.11218"
+  },
+  {
+    "source": "arXiv",
+    "title": "From Monolithic to Modular: Segment-level Automatic Prompt Optimization",
+    "date": "Thu, 13 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.11219"
+  },
+  {
+    "source": "arXiv",
+    "title": "LLMs in Process Diagram Engineering: From Optimal PFDs to Validated P&IDs",
+    "date": "Thu, 13 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.11220"
+  },
+  {
+    "source": "arXiv",
+    "title": "A Conceptual Framework for Refining Influence Knowledge from Simulation Evidence in Cyber-Physical Systems",
+    "date": "Thu, 13 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.11221"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "What We Learned by Reproducing 2,200 papers from ICML",
+    "date": "Thu, 13 Aug 2026 00:00:00 GMT",
+    "url": "https://huggingface.co/blog/icml-2026-open-reproductions"
+  },
+  {
     "source": "TechCrunch",
     "title": "As AI safety concerns mount, three pioneers make the case for staying open",
     "date": "Wed, 12 Aug 2026 17:51:00 +0000",
@@ -1108,95 +1198,5 @@
     "title": "Information Discernment in Large Language Models",
     "date": "Thu, 23 Jul 2026 00:00:00 -0400",
     "url": "https://arxiv.org/abs/2607.19355"
-  },
-  {
-    "source": "arXiv",
-    "title": "NEXUS: Structured Runtime Safety for Tool-Using LLM Agents",
-    "date": "Thu, 23 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.19356"
-  },
-  {
-    "source": "arXiv",
-    "title": "Stochastic Primal-Dual Decoding for Multiobjective Generative Recommender Systems",
-    "date": "Thu, 23 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.19357"
-  },
-  {
-    "source": "arXiv",
-    "title": "LISA: Linear-Indexed Sparse Attention for Efficient Long-Context Reasoning",
-    "date": "Thu, 23 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.19358"
-  },
-  {
-    "source": "arXiv",
-    "title": "Profile-Graph Memory for LLM Agents: Implicit Cross-Entity Traversal through Narrative Profiles",
-    "date": "Thu, 23 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.19359"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Launching Health in ChatGPT ",
-    "date": "Thu, 23 Jul 2026 00:00:00 GMT",
-    "url": "https://openai.com/index/health-in-chatgpt"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
-    "date": "Thu, 23 Jul 2026 00:00:00 GMT",
-    "url": "https://huggingface.co/blog/nunchaku-diffusers"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Building AI infrastructure with the Effingham County community",
-    "date": "Wed, 22 Jul 2026 13:00:00 GMT",
-    "url": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community"
-  },
-  {
-    "source": "OpenAI",
-    "title": "How news organizations are using AI to advance their vital missions",
-    "date": "Wed, 22 Jul 2026 13:00:00 GMT",
-    "url": "https://openai.com/index/how-news-organizations-are-using-ai"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Advancing the next era of national science",
-    "date": "Wed, 22 Jul 2026 12:00:00 GMT",
-    "url": "https://openai.com/index/advancing-the-next-era-of-national-science"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Introducing OpenAI Presence",
-    "date": "Wed, 22 Jul 2026 05:30:00 GMT",
-    "url": "https://openai.com/index/introducing-openai-presence"
-  },
-  {
-    "source": "arXiv",
-    "title": "SysAdmin: Measuring Instrumental Power-Seeking in Frontier AI",
-    "date": "Wed, 22 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.18239"
-  },
-  {
-    "source": "arXiv",
-    "title": "Calibrated Selective Fact-Checking via Evidence Chain Evaluation",
-    "date": "Wed, 22 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.18240"
-  },
-  {
-    "source": "arXiv",
-    "title": "BatchDAG: LLM-Planned Execution Graphs for Scalable Ad-Hoc Analysis Over Enterprise Data",
-    "date": "Wed, 22 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.18241"
-  },
-  {
-    "source": "arXiv",
-    "title": "AI Tool Discovery at Scale: All You Need is DNS",
-    "date": "Wed, 22 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.18242"
-  },
-  {
-    "source": "arXiv",
-    "title": "From Agent Failure Paths to Quantified Residual Risk: A Compositional Framework for Resilient Agentic AI",
-    "date": "Wed, 22 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.18243"
   }
 ]
