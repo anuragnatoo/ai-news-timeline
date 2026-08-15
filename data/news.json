@@ -1,5 +1,71 @@
 [
   {
+    "source": "arXiv",
+    "title": "Position: Reasoning is a Learnable Rule-Based Process",
+    "date": "Fri, 14 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.12325"
+  },
+  {
+    "source": "arXiv",
+    "title": "Diagnostic Foundation for Evaluating LLMs' Research Integrity as Co-Scientists",
+    "date": "Fri, 14 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.12345"
+  },
+  {
+    "source": "arXiv",
+    "title": "Position: The Alignment Community is Unintentionally Building a Censor's Toolkit",
+    "date": "Fri, 14 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.12346"
+  },
+  {
+    "source": "arXiv",
+    "title": "Agreement Is Not Alignment: Divergent Moral Grounds in Human and LLM Ethical Judgments",
+    "date": "Fri, 14 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.12368"
+  },
+  {
+    "source": "arXiv",
+    "title": "Multi-Agent Scheduling with LLM-Assisted Contract Net Negotiation for Stream Processing in Mobile Edge Computing",
+    "date": "Fri, 14 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.12371"
+  },
+  {
+    "source": "arXiv",
+    "title": "Position: We Need Practical AI Alignment Methods to Mirror Human Reasoning",
+    "date": "Fri, 14 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.12372"
+  },
+  {
+    "source": "arXiv",
+    "title": "Don't Want Your LLM to Recommend Nuclear Strike? Try Asking It in Japanese",
+    "date": "Fri, 14 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.12373"
+  },
+  {
+    "source": "arXiv",
+    "title": "Dual-Flow Transformers: Decoupling the Primary Prefill Path from Additional Decode Computation",
+    "date": "Fri, 14 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.12385"
+  },
+  {
+    "source": "arXiv",
+    "title": "Learning to Adapt Cross-Domain Preferences via Meta-LoRA for LLM Personalization",
+    "date": "Fri, 14 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.12389"
+  },
+  {
+    "source": "arXiv",
+    "title": "Research Assistant: AstraZeneca's Agentic System for R&D",
+    "date": "Fri, 14 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.12395"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "State of Open Models: Summer 2026 Observations",
+    "date": "Fri, 14 Aug 2026 00:00:00 GMT",
+    "url": "https://huggingface.co/blog/state-of-open-models-summer-2026"
+  },
+  {
     "source": "HuggingFace",
     "title": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
     "date": "Thu, 13 Aug 2026 17:16:04 GMT",
@@ -1132,71 +1198,5 @@
     "title": "JAXBench: Benchmarking Autonomous TPU Kernel Optimization",
     "date": "Fri, 24 Jul 2026 00:00:00 -0400",
     "url": "https://arxiv.org/abs/2607.20466"
-  },
-  {
-    "source": "arXiv",
-    "title": "DC-Leap: Training-Free Acceleration of dLLMs via Draft-Guided Contiguous Leaping Decoding",
-    "date": "Fri, 24 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.20467"
-  },
-  {
-    "source": "arXiv",
-    "title": "InferenceBench: A Benchmark for Open-Ended LLM Inference Optimization by AI Agents",
-    "date": "Fri, 24 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.20468"
-  },
-  {
-    "source": "arXiv",
-    "title": "DecodeShare: Tracing the Shared Subspace of LLM Decode-Time Decisions",
-    "date": "Fri, 24 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.20469"
-  },
-  {
-    "source": "arXiv",
-    "title": "PlanE: Meta Planning of Data, Tuning, and Inference for Extractive-based LLMs",
-    "date": "Fri, 24 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.20470"
-  },
-  {
-    "source": "arXiv",
-    "title": "Benchmarking the Personalization Capabilities of Large Language Models",
-    "date": "Fri, 24 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.20471"
-  },
-  {
-    "source": "arXiv",
-    "title": "FineServe: A Fine-Grained Dataset and Characterization of Global LLM Serving Workloads",
-    "date": "Thu, 23 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.19349"
-  },
-  {
-    "source": "arXiv",
-    "title": "Hybrid LSTM-Graph Neural Framework for Robust Financial Fraud Detection and Adversarial Resilience",
-    "date": "Thu, 23 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.19350"
-  },
-  {
-    "source": "arXiv",
-    "title": "OpenEvoShield: Dual Non-Stationary Continual Defense for Open-World Multi-Agent System Attacks",
-    "date": "Thu, 23 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.19351"
-  },
-  {
-    "source": "arXiv",
-    "title": "Benchmarking Confidential GPU Inference on NVIDIA H100 under Intel TDX",
-    "date": "Thu, 23 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.19353"
-  },
-  {
-    "source": "arXiv",
-    "title": "FormulaSPIN: Self-Play Fine-Tuning for Natural Language to Spreadsheet Formula Generation",
-    "date": "Thu, 23 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.19354"
-  },
-  {
-    "source": "arXiv",
-    "title": "Information Discernment in Large Language Models",
-    "date": "Thu, 23 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.19355"
   }
 ]
