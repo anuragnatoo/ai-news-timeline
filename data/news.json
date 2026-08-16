@@ -1,6 +1,66 @@
 [
   {
     "source": "arXiv",
+    "title": "Large Language Models Can Follow Instructions, But Not Many at Once: Phase Transitions in Compositional Constraint Satisfaction",
+    "date": "Sat, 15 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.12426"
+  },
+  {
+    "source": "arXiv",
+    "title": "MindMemOS: A Portable and Self-Evolving Memory Operating Layer for AI Agents",
+    "date": "Sat, 15 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.12428"
+  },
+  {
+    "source": "arXiv",
+    "title": "Governed Persistent Memory: Source-Bound State Semantics and Fail-Closed Release for Long-Horizon Agents",
+    "date": "Sat, 15 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.12476"
+  },
+  {
+    "source": "arXiv",
+    "title": "$\\varepsilon$-MemEvo: Adaptive Cross-Task Memory Transfer for LLM Program Evolution",
+    "date": "Sat, 15 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.12522"
+  },
+  {
+    "source": "arXiv",
+    "title": "CAS: A Causal Attribution Score for Local and Global Explainable Artificial Intelligence",
+    "date": "Sat, 15 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.12555"
+  },
+  {
+    "source": "arXiv",
+    "title": "Trie Automata for Constrained Decoding over Large Finite Sets",
+    "date": "Sat, 15 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.12574"
+  },
+  {
+    "source": "arXiv",
+    "title": "Reasoning Jury: Multi-Model Consensus for Evaluating Reasoning Traces",
+    "date": "Sat, 15 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.12585"
+  },
+  {
+    "source": "arXiv",
+    "title": "Auditable agentic AI for evidence-grounded thyroid ultrasound diagnosis and reporting",
+    "date": "Sat, 15 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.12590"
+  },
+  {
+    "source": "arXiv",
+    "title": "DiG-bench: Discovery in Games",
+    "date": "Sat, 15 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.12593"
+  },
+  {
+    "source": "arXiv",
+    "title": "Dead text or binding clause? Measuring and restoring constraint influence in black-box LLM dialogues",
+    "date": "Sat, 15 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.12599"
+  },
+  {
+    "source": "arXiv",
     "title": "Position: Reasoning is a Learnable Rule-Based Process",
     "date": "Fri, 14 Aug 2026 00:00:00 -0400",
     "url": "https://arxiv.org/abs/2608.12325"
@@ -1138,65 +1198,5 @@
     "title": "SF-AMS: Strategic Forgetting for Structured Memory in LLM Agent",
     "date": "Tue, 28 Jul 2026 00:00:00 -0400",
     "url": "https://arxiv.org/abs/2607.22562"
-  },
-  {
-    "source": "arXiv",
-    "title": "Synthetic Scenario Generation for Evaluation of Industry 4.0 Agents",
-    "date": "Tue, 28 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.22563"
-  },
-  {
-    "source": "arXiv",
-    "title": "Loss-Aware Feature-Map Pruning in Convolutional Neural Networks Using Multi-Armed Bandits",
-    "date": "Tue, 28 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.22564"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
-    "date": "Mon, 27 Jul 2026 09:32:20 GMT",
-    "url": "https://huggingface.co/blog/nvidia/cosmos-h-dreams"
-  },
-  {
-    "source": "OpenAI",
-    "title": "How AI is expanding what people do at work",
-    "date": "Mon, 27 Jul 2026 03:30:00 GMT",
-    "url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident",
-    "date": "Mon, 27 Jul 2026 00:00:00 GMT",
-    "url": "https://huggingface.co/blog/agent-intrusion-technical-timeline"
-  },
-  {
-    "source": "arXiv",
-    "title": "AINTMA: Agentic AI Architecture for Autonomous Test Management with Generative Intelligence, Secure Cloud Communication and Adaptive Quality Analytics",
-    "date": "Fri, 24 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.20452"
-  },
-  {
-    "source": "arXiv",
-    "title": "Marking the Wrong Symptoms: Evaluating LLM Watermarks in Medical Texts",
-    "date": "Fri, 24 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.20462"
-  },
-  {
-    "source": "arXiv",
-    "title": "ClickGuard: Detecting and Spoiling Clickbait News with Informativeness Measures and Large Language Models",
-    "date": "Fri, 24 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.20463"
-  },
-  {
-    "source": "arXiv",
-    "title": "Stochastic Sampling is Epistemically Shallow: The Dimensionality Gap Between Temperature Variation and Model Diversity in LLMs",
-    "date": "Fri, 24 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.20464"
-  },
-  {
-    "source": "arXiv",
-    "title": "JAXBench: Benchmarking Autonomous TPU Kernel Optimization",
-    "date": "Fri, 24 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.20466"
   }
 ]
