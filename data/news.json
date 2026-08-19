@@ -1,5 +1,113 @@
 [
   {
+    "source": "OpenAI",
+    "title": "Strengthening democratic oversight in national security",
+    "date": "Tue, 18 Aug 2026 19:00:00 GMT",
+    "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "How Much Memory Does Your Agent Actually Need?",
+    "date": "Tue, 18 Aug 2026 18:09:38 GMT",
+    "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Partnering with CodeAI to prepare the first AI generation",
+    "date": "Tue, 18 Aug 2026 11:00:00 GMT",
+    "url": "https://openai.com/index/partnering-with-codeai"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Pacing model development in an era of cyber-critical capabilities",
+    "date": "Tue, 18 Aug 2026 11:00:00 GMT",
+    "url": "https://openai.com/index/pacing-model-development-cyber-capabilities"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
+    "date": "Tue, 18 Aug 2026 11:00:00 GMT",
+    "url": "https://openai.com/index/chatgpt-for-teens"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Asana cleared 5 years of engineering work in 2 weeks with Codex",
+    "date": "Tue, 18 Aug 2026 07:00:00 GMT",
+    "url": "https://openai.com/index/asana"
+  },
+  {
+    "source": "arXiv",
+    "title": "FLOPs vs Real Work: The Importance of Replication in AI Efficiency Assessment",
+    "date": "Tue, 18 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.14550"
+  },
+  {
+    "source": "arXiv",
+    "title": "Large Language Models Show Metacognitive Sensitivity in Medical Reasoning",
+    "date": "Tue, 18 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.14552"
+  },
+  {
+    "source": "arXiv",
+    "title": "The Unwritten Benchmark: A New Challenge for Multimodal Machine Learning in Abstract Perceptual Reasoning",
+    "date": "Tue, 18 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.14558"
+  },
+  {
+    "source": "arXiv",
+    "title": "When to Communicate: Belief Distributions and KL Divergence for Principled Gating in Multi-Agent RL",
+    "date": "Tue, 18 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.14559"
+  },
+  {
+    "source": "arXiv",
+    "title": "Global AI Regulations for FAIR and Ethics in High-Risk Use Cases: A Comparative Review",
+    "date": "Tue, 18 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.14562"
+  },
+  {
+    "source": "arXiv",
+    "title": "Position: AI Lock-In Is in Progress, and We Must Be Prepared",
+    "date": "Tue, 18 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.14565"
+  },
+  {
+    "source": "arXiv",
+    "title": "Position: Evaluations of AI Moral Reasoning Still Miss Half of the Picture",
+    "date": "Tue, 18 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.14566"
+  },
+  {
+    "source": "arXiv",
+    "title": "From Doyle to AGM: A Survey and an Implementation Roadmap for Belief Change",
+    "date": "Tue, 18 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.14567"
+  },
+  {
+    "source": "arXiv",
+    "title": "Position: AI Governance Needs ISO-like Interoperability Protocols, Not Just Laws",
+    "date": "Tue, 18 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.14568"
+  },
+  {
+    "source": "arXiv",
+    "title": "Position: Certified Correctness in Neural Constraint Reasoning Requires Symbolic Integration",
+    "date": "Tue, 18 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.14569"
+  },
+  {
+    "source": "OpenAI",
+    "title": "How NVIDIA scales expertise with ChatGPT Work",
+    "date": "Tue, 18 Aug 2026 00:00:00 GMT",
+    "url": "https://openai.com/index/nvidia/chatgpt-work"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
+    "date": "Tue, 18 Aug 2026 00:00:00 GMT",
+    "url": "https://huggingface.co/blog/multi-vector-encoder"
+  },
+  {
     "source": "HuggingFace",
     "title": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
     "date": "Mon, 17 Aug 2026 19:46:21 GMT",
@@ -1090,113 +1198,5 @@
     "title": "Atmospheric Diffusion-Guided Spatio-Temporal Transformer for Nuclear Radiation Forecasting",
     "date": "Thu, 30 Jul 2026 00:00:00 -0400",
     "url": "https://arxiv.org/abs/2607.24774"
-  },
-  {
-    "source": "arXiv",
-    "title": "Steering topology distributions for unified generative design of architected metamaterials",
-    "date": "Thu, 30 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.24777"
-  },
-  {
-    "source": "arXiv",
-    "title": "HOBA: Hierarchical On-Policy Bidding Agents for Adaptive Online Advertising",
-    "date": "Thu, 30 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.24779"
-  },
-  {
-    "source": "arXiv",
-    "title": "LivingArena: Do LLMs Know What Other LLMs Don't? Peer-Probing as Scalable Evaluation",
-    "date": "Thu, 30 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.24780"
-  },
-  {
-    "source": "arXiv",
-    "title": "Personalization, Personas, and Forecasting in Value Alignment",
-    "date": "Thu, 30 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.24782"
-  },
-  {
-    "source": "arXiv",
-    "title": "Unified Semantic Modeling Framework for Large-Scale Job Understanding at LinkedIn",
-    "date": "Thu, 30 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.24783"
-  },
-  {
-    "source": "arXiv",
-    "title": "On the Use of LLMs for Specialised Terminology: A Good Alternative to Corpora?",
-    "date": "Thu, 30 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.24784"
-  },
-  {
-    "source": "arXiv",
-    "title": "SpecPrefetch: Parameter-Efficient Expert Prefetching for Sparse MoE Foundation Models",
-    "date": "Thu, 30 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.24787"
-  },
-  {
-    "source": "OpenAI",
-    "title": "How avatarin built a 24/7 retail agent with GPT-Realtime",
-    "date": "Thu, 30 Jul 2026 00:00:00 GMT",
-    "url": "https://openai.com/index/avatarin"
-  },
-  {
-    "source": "OpenAI",
-    "title": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
-    "date": "Wed, 29 Jul 2026 15:00:00 GMT",
-    "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
-    "date": "Wed, 29 Jul 2026 10:00:00 GMT",
-    "url": "https://openai.com/index/chatgpt-for-academic-researchers"
-  },
-  {
-    "source": "arXiv",
-    "title": "Do Models Fake Alignment Without Clear Consequences?",
-    "date": "Wed, 29 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.24758"
-  },
-  {
-    "source": "arXiv",
-    "title": "Beyond Memory: A Templated Substrate for Heterogeneous Collaborative Knowledge Work with LLM Agents",
-    "date": "Wed, 29 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.24759"
-  },
-  {
-    "source": "arXiv",
-    "title": "Kernel Forge: An Agent Harness for LLM-based Generation and Optimization of CUDA Kernels",
-    "date": "Wed, 29 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.24762"
-  },
-  {
-    "source": "arXiv",
-    "title": "CaRE Compute-aware Remasking Evaluation Protocol for Masked Diffusion Language Models",
-    "date": "Wed, 29 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.24763"
-  },
-  {
-    "source": "arXiv",
-    "title": "GrocLM: Grocery Category Recommendation in E-Commerce with Large Language Models",
-    "date": "Wed, 29 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.24764"
-  },
-  {
-    "source": "arXiv",
-    "title": "Crystalis: Progressive Nucleation and Semantic Annealing for Coordinated Multi-View Visualization Generation",
-    "date": "Wed, 29 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.24766"
-  },
-  {
-    "source": "arXiv",
-    "title": "PATHFinder Agent for Tailored Prenatal Care",
-    "date": "Wed, 29 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.24768"
-  },
-  {
-    "source": "arXiv",
-    "title": "LLM Scheming Inversely Scales with Pretraining Language Coverage",
-    "date": "Wed, 29 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.24769"
   }
 ]
