@@ -1,6 +1,96 @@
 [
   {
     "source": "OpenAI",
+    "title": "Offering Zero Data Retention for frontier models",
+    "date": "Wed, 19 Aug 2026 19:00:00 GMT",
+    "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models"
+  },
+  {
+    "source": "VentureBeat",
+    "title": "VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push",
+    "date": "Wed, 19 Aug 2026 14:18:12 GMT",
+    "url": "https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "LFM2.5 Q4\\_0 Checkpoints from Quantization-Aware Distillation",
+    "date": "Wed, 19 Aug 2026 13:48:49 GMT",
+    "url": "https://huggingface.co/blog/LiquidAI/qad"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Replit expands access to software creation with GPT-5.6 Luna",
+    "date": "Wed, 19 Aug 2026 07:00:00 GMT",
+    "url": "https://openai.com/index/replit"
+  },
+  {
+    "source": "arXiv",
+    "title": "GxP-Agent: Process-DAG Topology for Reliable Clinical Trial Programming with LLM Agents",
+    "date": "Wed, 19 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.16890"
+  },
+  {
+    "source": "arXiv",
+    "title": "Runtime Governance for Agentic AI: Action-Boundary Control with Trusted Provenance and Fail-Closed Execution",
+    "date": "Wed, 19 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.16891"
+  },
+  {
+    "source": "arXiv",
+    "title": "The Price of Thinking: Reasoning Effort as a Model-Specific API Contract",
+    "date": "Wed, 19 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.16956"
+  },
+  {
+    "source": "arXiv",
+    "title": "FedPref: Federated Preference Learning for Structured Radiology Report Extraction",
+    "date": "Wed, 19 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.16971"
+  },
+  {
+    "source": "arXiv",
+    "title": "The Problem Is the Problem: Towards Scalable Mathematical Discovery",
+    "date": "Wed, 19 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.16977"
+  },
+  {
+    "source": "arXiv",
+    "title": "SkillEffect: Checked Lowering for Memory-Bounded Agent Tools",
+    "date": "Wed, 19 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.17007"
+  },
+  {
+    "source": "arXiv",
+    "title": "Memory Is Communication: The Frontier Between Remembering and Signaling",
+    "date": "Wed, 19 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.17053"
+  },
+  {
+    "source": "arXiv",
+    "title": "DiSCO: Defending text-to-image generation through distribution-guided contrastive prompt optimization",
+    "date": "Wed, 19 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.17067"
+  },
+  {
+    "source": "arXiv",
+    "title": "KernelArc: A Multi-Agent Framework for GPU Kernel Optimization",
+    "date": "Wed, 19 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.17071"
+  },
+  {
+    "source": "arXiv",
+    "title": "A decodability criterion predicts when hidden-state selection beats majority voting in large language models",
+    "date": "Wed, 19 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.17124"
+  },
+  {
+    "source": "OpenAI",
+    "title": "ChatGPT Ads expands across Europe",
+    "date": "Tue, 18 Aug 2026 22:00:00 GMT",
+    "url": "https://openai.com/index/chatgpt-ads-expands-across-europe"
+  },
+  {
+    "source": "OpenAI",
     "title": "Strengthening democratic oversight in national security",
     "date": "Tue, 18 Aug 2026 19:00:00 GMT",
     "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security"
@@ -1108,95 +1198,5 @@
     "title": "Probing the Origins of Reasoning Performance: Representational Quality for Mathematical Problem-Solving in RL vs. SFT Fine-Tuned Models",
     "date": "Fri, 31 Jul 2026 00:00:00 -0400",
     "url": "https://arxiv.org/abs/2607.26119"
-  },
-  {
-    "source": "arXiv",
-    "title": "Even More Deception: Objective Misalignment in Mixed-Motive LLM Multi-Agent Systems",
-    "date": "Fri, 31 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.26120"
-  },
-  {
-    "source": "arXiv",
-    "title": "ClinLens: Towards Long-Horizon Coding Agents for Longitudinal Multimodal Clinical Data Science",
-    "date": "Fri, 31 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.26155"
-  },
-  {
-    "source": "arXiv",
-    "title": "When benchmark inferences do not compose: Projectibility in AI evaluation",
-    "date": "Fri, 31 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.26159"
-  },
-  {
-    "source": "arXiv",
-    "title": "GuideSkill: Evolving Executable LLM Agent Skills for Guideline-Grounded Clinical Reasoning",
-    "date": "Fri, 31 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.26160"
-  },
-  {
-    "source": "arXiv",
-    "title": "GoGoTB: Agentic RTL Verification with Specification-Grounded Coverage Closure",
-    "date": "Fri, 31 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.26181"
-  },
-  {
-    "source": "arXiv",
-    "title": "Position: Evaluation Scores Are Perishable Knowledge Claims",
-    "date": "Fri, 31 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.26191"
-  },
-  {
-    "source": "arXiv",
-    "title": "TraceCoder: Explainable and Auditable Code Generation with Position-Key Snippet Versioning",
-    "date": "Fri, 31 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.26307"
-  },
-  {
-    "source": "arXiv",
-    "title": "Exploring Structures in Physics Problems: Can AI Agents Discover Statistical Mechanical Mappings?",
-    "date": "Fri, 31 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.26367"
-  },
-  {
-    "source": "arXiv",
-    "title": "CaM-Wolf: Causal-Aware Multimodal Agents for Social Deduction Games",
-    "date": "Fri, 31 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.26393"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Disrupting a Criminal Scam Operation",
-    "date": "Fri, 31 Jul 2026 00:00:00 GMT",
-    "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
-    "date": "Thu, 30 Jul 2026 15:09:09 GMT",
-    "url": "https://huggingface.co/blog/Dharma-AI/gpu-management"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Advancing the price-performance frontier with GPT-5.6",
-    "date": "Thu, 30 Jul 2026 10:00:00 GMT",
-    "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6"
-  },
-  {
-    "source": "arXiv",
-    "title": "RSMeM: Knowledge-Enhanced Memory Evolution for Remote Sensing Agents with Systematic Evaluation",
-    "date": "Thu, 30 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.24772"
-  },
-  {
-    "source": "arXiv",
-    "title": "Right-sizing Recommendations (RSR): Cloud Workload Conformal Prediction for Virtual Machines in Data Center Operations",
-    "date": "Thu, 30 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.24773"
-  },
-  {
-    "source": "arXiv",
-    "title": "Atmospheric Diffusion-Guided Spatio-Temporal Transformer for Nuclear Radiation Forecasting",
-    "date": "Thu, 30 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.24774"
   }
 ]
