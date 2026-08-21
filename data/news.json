@@ -1,5 +1,83 @@
 [
   {
+    "source": "HuggingFace",
+    "title": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
+    "date": "Thu, 20 Aug 2026 16:52:57 GMT",
+    "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Introducing AI Futures",
+    "date": "Thu, 20 Aug 2026 07:00:00 GMT",
+    "url": "https://openai.com/index/introducing-ai-futures"
+  },
+  {
+    "source": "arXiv",
+    "title": "Position: Collusion Risks Among AI Reasoning Agents Justify Certification Requirements for Making Market Decisions",
+    "date": "Thu, 20 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.18078"
+  },
+  {
+    "source": "arXiv",
+    "title": "Position: Profiling Game Worlds by Transition Complexity",
+    "date": "Thu, 20 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.18079"
+  },
+  {
+    "source": "arXiv",
+    "title": "Large Language Models in Mental Health: A Systematic Review of Applications, Innovations, and Ethical Challenges",
+    "date": "Thu, 20 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.18080"
+  },
+  {
+    "source": "arXiv",
+    "title": "Position: Behavioral Systems Require Behavioral Tests",
+    "date": "Thu, 20 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.18081"
+  },
+  {
+    "source": "arXiv",
+    "title": "Position: Current Model Cards Are Insufficient for Downstream Governance of Open-Weight Foundation Models",
+    "date": "Thu, 20 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.18086"
+  },
+  {
+    "source": "arXiv",
+    "title": "A Metamorphic Artificial Age Score Decision-Support Prototype for Flight-Log-Based Drone Propeller Health Monitoring",
+    "date": "Thu, 20 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.18088"
+  },
+  {
+    "source": "arXiv",
+    "title": "Position: Multi-Agent Systems Should Prioritize Concurrency Control",
+    "date": "Thu, 20 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.18092"
+  },
+  {
+    "source": "arXiv",
+    "title": "FinSkillBench: Evaluating AI Agents and Domain Skills for Investment Management",
+    "date": "Thu, 20 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.18099"
+  },
+  {
+    "source": "arXiv",
+    "title": "Self-Evolving Agents as Dynamic Graph Transformation: A Survey and New Perspective",
+    "date": "Thu, 20 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.18104"
+  },
+  {
+    "source": "arXiv",
+    "title": "Emergence of Agentic AI: A Review on Evolution, Background, Working Principles, Applications, Adoption Factors, and Future Research Directions",
+    "date": "Thu, 20 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.18110"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Stampli cuts launch hours by 68% using ChatGPT Work",
+    "date": "Thu, 20 Aug 2026 00:00:00 GMT",
+    "url": "https://openai.com/index/stampli"
+  },
+  {
     "source": "OpenAI",
     "title": "Offering Zero Data Retention for frontier models",
     "date": "Wed, 19 Aug 2026 19:00:00 GMT",
@@ -1120,83 +1198,5 @@
     "title": "LLM Framework for Discovering Major Mathematical Conjectures: AI's Quest for the Next Riemann Hypothesis",
     "date": "Mon, 03 Aug 2026 00:00:00 -0400",
     "url": "https://arxiv.org/abs/2607.28632"
-  },
-  {
-    "source": "arXiv",
-    "title": "ThinkReset: Learnable Intermediate Interface Construction for Bounded-Context Long-Horizon Reasoning",
-    "date": "Mon, 03 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.28642"
-  },
-  {
-    "source": "arXiv",
-    "title": "TAPR: Enhancing LLM Performance with a Task-Aware Prompt Rewriter",
-    "date": "Mon, 03 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.28657"
-  },
-  {
-    "source": "arXiv",
-    "title": "Empowering Cross-Domain Sequential Recommendation with Hybrid Tokenization and Serial-Parallel Decoding",
-    "date": "Mon, 03 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.28659"
-  },
-  {
-    "source": "arXiv",
-    "title": "An Ontology-Guided, Deduplication-Aware Extraction Layer for Knowledge Graph Construction from Heterogeneous Documents",
-    "date": "Mon, 03 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.28662"
-  },
-  {
-    "source": "arXiv",
-    "title": "How Hard Does It Think? Analyzing Step-Aware Reasoning Energy in LLM Chain-of-Thought Trajectories",
-    "date": "Mon, 03 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.28674"
-  },
-  {
-    "source": "arXiv",
-    "title": "Reasoning in Real World Clinical Care: Why Large Language Models Are Not Yet Safe for Autonomous Clinical Decision Support",
-    "date": "Mon, 03 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.28677"
-  },
-  {
-    "source": "arXiv",
-    "title": "ViSAGE: Constructing Self-Correcting Memories for Long-Form Video Understanding",
-    "date": "Mon, 03 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.28678"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Circles powers telco personalization with OpenAI technology",
-    "date": "Mon, 03 Aug 2026 00:00:00 GMT",
-    "url": "https://openai.com/index/circles"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Ten advances in mathematics and theoretical computer science",
-    "date": "Sat, 01 Aug 2026 00:00:00 GMT",
-    "url": "https://openai.com/index/ten-advances-in-mathematics"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Advancing responsible AI across Europe",
-    "date": "Fri, 31 Jul 2026 15:00:00 GMT",
-    "url": "https://openai.com/index/advancing-responsible-ai-across-europe"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Building abundant intelligence",
-    "date": "Fri, 31 Jul 2026 15:00:00 GMT",
-    "url": "https://openai.com/index/building-abundant-intelligence"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Univé builds an AI-ready workforce",
-    "date": "Fri, 31 Jul 2026 07:00:00 GMT",
-    "url": "https://openai.com/index/unive"
-  },
-  {
-    "source": "arXiv",
-    "title": "Probing the Origins of Reasoning Performance: Representational Quality for Mathematical Problem-Solving in RL vs. SFT Fine-Tuned Models",
-    "date": "Fri, 31 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.26119"
   }
 ]
