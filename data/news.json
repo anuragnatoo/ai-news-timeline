@@ -1,5 +1,71 @@
 [
   {
+    "source": "arXiv",
+    "title": "Active Inference as Context Acquisition for AI Agents",
+    "date": "Fri, 21 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.19202"
+  },
+  {
+    "source": "arXiv",
+    "title": "Robust Metaheuristics under Uncertainty for Berth Allocation and Quay Crane Assignment: A Review",
+    "date": "Fri, 21 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.19214"
+  },
+  {
+    "source": "arXiv",
+    "title": "How to Navigate Uncertainty About AI Consciousness",
+    "date": "Fri, 21 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.19215"
+  },
+  {
+    "source": "arXiv",
+    "title": "Bounded Sovereignty and the Control Tax: Pricing AI Oversight When the Deployer Does Not Own the Model",
+    "date": "Fri, 21 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.19216"
+  },
+  {
+    "source": "arXiv",
+    "title": "Interaction valence reveals contrasting social networks in dairy cattle",
+    "date": "Fri, 21 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.19222"
+  },
+  {
+    "source": "arXiv",
+    "title": "Air Traffic Control Using Large Language Models: Prompt Engineering, Architecture, and Evaluation",
+    "date": "Fri, 21 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.19299"
+  },
+  {
+    "source": "arXiv",
+    "title": "Outcome Monitors: Recovery Affordances for Silent Tool Failures",
+    "date": "Fri, 21 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.19303"
+  },
+  {
+    "source": "arXiv",
+    "title": "Beyond Imitation: Filtering On-Policy Distillation by Reasoning Progress",
+    "date": "Fri, 21 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.19408"
+  },
+  {
+    "source": "arXiv",
+    "title": "Symposium: Trust via Auditable Records for Communities of AI Scientist Agents",
+    "date": "Fri, 21 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.19511"
+  },
+  {
+    "source": "arXiv",
+    "title": "From Retrieved Context to Runtime Control: Adaptive Compression for Edge-based RAG",
+    "date": "Fri, 21 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.19535"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "Measuring benchmark optimization in speech recognition",
+    "date": "Fri, 21 Aug 2026 00:00:00 GMT",
+    "url": "https://huggingface.co/blog/asr-benchmark-optimization"
+  },
+  {
     "source": "HuggingFace",
     "title": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
     "date": "Thu, 20 Aug 2026 16:52:57 GMT",
@@ -1132,71 +1198,5 @@
     "title": "EarlyDx: An Admission-Anchored Benchmark for Open-Ended Generation of Evidence-Supported ED-Encounter Diagnoses",
     "date": "Tue, 04 Aug 2026 00:00:00 -0400",
     "url": "https://arxiv.org/abs/2607.28788"
-  },
-  {
-    "source": "arXiv",
-    "title": "Model or Harness? An Interaction-Centric Taxonomy for Localizing Agent Failures",
-    "date": "Tue, 04 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.28802"
-  },
-  {
-    "source": "arXiv",
-    "title": "Best Friends, Not Forever: Evaluating Long-Horizon Persona Collapse and Behavioral Drift in AI Companions",
-    "date": "Tue, 04 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.28818"
-  },
-  {
-    "source": "arXiv",
-    "title": "Fragility of Value under Imperfect Alignment",
-    "date": "Tue, 04 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.28881"
-  },
-  {
-    "source": "arXiv",
-    "title": "Identifying Informative Environments for Cognition Parameter Inference via Bayesian Experimental Design",
-    "date": "Tue, 04 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.28894"
-  },
-  {
-    "source": "arXiv",
-    "title": "NeSyFS: A Neuro-symbolic Fast-Slow Thinking Framework for LLM Agent under Partial Observability",
-    "date": "Tue, 04 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.28942"
-  },
-  {
-    "source": "OpenAI",
-    "title": "New ways to learn and teach with ChatGPT Work and Codex",
-    "date": "Tue, 04 Aug 2026 00:00:00 GMT",
-    "url": "https://openai.com/index/learn-teach-chatgpt-work-codex"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Apple is getting this wrong",
-    "date": "Mon, 03 Aug 2026 22:00:00 GMT",
-    "url": "https://openai.com/index/apple-is-getting-this-wrong"
-  },
-  {
-    "source": "OpenAI",
-    "title": "How we built a realtime system for responsive voice AI in six months",
-    "date": "Mon, 03 Aug 2026 07:00:00 GMT",
-    "url": "https://openai.com/index/continuous-voice-interaction-with-gpt-live"
-  },
-  {
-    "source": "arXiv",
-    "title": "OpenClaw and Ollama in Agentic AI: Toward Fully Autonomous and Scalable AI Agent Systems",
-    "date": "Mon, 03 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.28629"
-  },
-  {
-    "source": "arXiv",
-    "title": "Can AI Evaluate AI Scientists? A Benchmarking Study of Autonomous Research Generation Systems Using Automated Multi-Model Review",
-    "date": "Mon, 03 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.28631"
-  },
-  {
-    "source": "arXiv",
-    "title": "LLM Framework for Discovering Major Mathematical Conjectures: AI's Quest for the Next Riemann Hypothesis",
-    "date": "Mon, 03 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.28632"
   }
 ]
