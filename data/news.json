@@ -1,5 +1,71 @@
 [
   {
+    "source": "OpenAI",
+    "title": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
+    "date": "Mon, 24 Aug 2026 12:00:00 GMT",
+    "url": "https://openai.com/index/gpt-5-6-in-kiro"
+  },
+  {
+    "source": "arXiv",
+    "title": "SDAD: Spec-Driven Agentic Development for the AI-Native SDLC",
+    "date": "Mon, 24 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.20341"
+  },
+  {
+    "source": "arXiv",
+    "title": "PrimeAgentOrchestrator: Memory-Primed Agent Spawning for Personal AI Infrastructure",
+    "date": "Mon, 24 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.20342"
+  },
+  {
+    "source": "arXiv",
+    "title": "Truth Lies Deep: Countering Semantic Camouflage via Latent Intent Verification",
+    "date": "Mon, 24 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.20378"
+  },
+  {
+    "source": "arXiv",
+    "title": "A Survey on Foundations and Frontiers of Multimodal Agentic Frameworks: Techniques and Applications",
+    "date": "Mon, 24 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.20379"
+  },
+  {
+    "source": "arXiv",
+    "title": "Interpretable Multimodal Classification with Linear Discriminant Tree Ensembles",
+    "date": "Mon, 24 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.20384"
+  },
+  {
+    "source": "arXiv",
+    "title": "Representation Affects Retrieval: A Case Study of Skill Discovery and Routing in a Multimodal Agent Harness",
+    "date": "Mon, 24 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.20389"
+  },
+  {
+    "source": "arXiv",
+    "title": "Nexus: Depth-Adaptive KV-Cache Splicing and Retrieval-Decoupled Tool Routing for Agentic LLMs on Unified Memory",
+    "date": "Mon, 24 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.20397"
+  },
+  {
+    "source": "arXiv",
+    "title": "Environmental Slow AI: Design Principles for Generative Systems",
+    "date": "Mon, 24 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.20398"
+  },
+  {
+    "source": "arXiv",
+    "title": "When Retrieval Fails Before It Begins: Structurally Indirect Prerequisite Eviction as a Retention Failure in Agentic Memory",
+    "date": "Mon, 24 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.20400"
+  },
+  {
+    "source": "arXiv",
+    "title": "World models of environment, agent and joint agent-environment systems",
+    "date": "Mon, 24 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.20401"
+  },
+  {
     "source": "arXiv",
     "title": "Active Inference as Context Acquisition for AI Agents",
     "date": "Fri, 21 Aug 2026 00:00:00 -0400",
@@ -1132,71 +1198,5 @@
     "title": "Explainable AI for the EU Right to Explanation: A Systematic Review of the Law-XAI Translation Gap",
     "date": "Wed, 05 Aug 2026 00:00:00 -0400",
     "url": "https://arxiv.org/abs/2608.02699"
-  },
-  {
-    "source": "arXiv",
-    "title": "Predictive Set Theory: A Generative Framework for Cognitive Architecture with Operationalized Core Mechanisms",
-    "date": "Wed, 05 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.02704"
-  },
-  {
-    "source": "arXiv",
-    "title": "Towards a new paradigm of scientific discovery with socialized artificial intelligence",
-    "date": "Wed, 05 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.02775"
-  },
-  {
-    "source": "arXiv",
-    "title": "BAP-SQL: Budget-Aware Observation Planning for Agentic Text-to-SQL",
-    "date": "Wed, 05 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.02876"
-  },
-  {
-    "source": "arXiv",
-    "title": "VeriTrace: Human-Like Temporal Exploration Completes Agentic Action Space",
-    "date": "Wed, 05 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.02878"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Third-party cyber evaluations involving OpenAI models",
-    "date": "Tue, 04 Aug 2026 19:00:00 GMT",
-    "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "Deploy local agents everywhere with LFM2.5-2.6B",
-    "date": "Tue, 04 Aug 2026 13:58:29 GMT",
-    "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b"
-  },
-  {
-    "source": "arXiv",
-    "title": "Multi-Agent Planning with Spatio-Temporal and Topological Constraints using STL-GO",
-    "date": "Tue, 04 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.28679"
-  },
-  {
-    "source": "arXiv",
-    "title": "Library Reachability in LSR-Synth: How Anti-Memorization Design Changes the Measurement of Symbolic Discovery",
-    "date": "Tue, 04 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.28684"
-  },
-  {
-    "source": "arXiv",
-    "title": "Safety, or Just Capability? A Validity Audit of Agent-Safety Benchmarks",
-    "date": "Tue, 04 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.28685"
-  },
-  {
-    "source": "arXiv",
-    "title": "SciToolAgent-Evo: An Ontology-Aware Self-Evolving Agent for Open-World Scientific Tool Acquisition",
-    "date": "Tue, 04 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.28692"
-  },
-  {
-    "source": "arXiv",
-    "title": "EarlyDx: An Admission-Anchored Benchmark for Open-Ended Generation of Evidence-Supported ED-Encounter Diagnoses",
-    "date": "Tue, 04 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.28788"
   }
 ]
