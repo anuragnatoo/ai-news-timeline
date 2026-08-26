@@ -1,5 +1,107 @@
 [
   {
+    "source": "HuggingFace",
+    "title": "Granite 4.2 LLMs: How They're Built",
+    "date": "Tue, 25 Aug 2026 15:14:14 GMT",
+    "url": "https://huggingface.co/blog/ibm-granite/granite-4-2"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
+    "date": "Tue, 25 Aug 2026 11:39:24 GMT",
+    "url": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing"
+  },
+  {
+    "source": "OpenAI",
+    "title": "The full stack behind abundant intelligence",
+    "date": "Tue, 25 Aug 2026 07:05:00 GMT",
+    "url": "https://openai.com/index/the-full-stack-behind-abundant-intelligence"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
+    "date": "Tue, 25 Aug 2026 07:00:00 GMT",
+    "url": "https://openai.com/index/jalapeno-first-results"
+  },
+  {
+    "source": "arXiv",
+    "title": "KVBoost: Chunk-Level Key-Value Cache Reuse with Deviation-Guided Recomputation for Efficient Large Language Model Inference",
+    "date": "Tue, 25 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.21362"
+  },
+  {
+    "source": "arXiv",
+    "title": "AIREP: A Protocol for Per-Decision Evidence in AI Runtime Governance",
+    "date": "Tue, 25 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.21363"
+  },
+  {
+    "source": "arXiv",
+    "title": "Reviewing Model Collapse and Countermeasures",
+    "date": "Tue, 25 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.21366"
+  },
+  {
+    "source": "arXiv",
+    "title": "AI Learning and Conceptual Transfer in the Game of Hidden Rules",
+    "date": "Tue, 25 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.21372"
+  },
+  {
+    "source": "arXiv",
+    "title": "LitReview Arena: Evaluating Literature Review Agents with Battle-Style Peer Review Platform",
+    "date": "Tue, 25 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.21374"
+  },
+  {
+    "source": "arXiv",
+    "title": "SchemaRouter: Field-Aware Tool Routing for Efficient Heterogeneous Agentic RAG",
+    "date": "Tue, 25 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.21375"
+  },
+  {
+    "source": "arXiv",
+    "title": "RIACT: A Responsible AI System for Personalized Study Habit Tracking and Early Burnout Signal Detection in University Students",
+    "date": "Tue, 25 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.21379"
+  },
+  {
+    "source": "arXiv",
+    "title": "There Is No Neutral Harness: Modern LLM Leaderboards Are Manufactured by Config-Fragile Items",
+    "date": "Tue, 25 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.21382"
+  },
+  {
+    "source": "arXiv",
+    "title": "Spyre-Accelerated Retrieval-Augmented Generation on IBM LinuxONE: A Cloud-Native Architecture for Secure, High-Throughput Enterprise AI Inference",
+    "date": "Tue, 25 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.21393"
+  },
+  {
+    "source": "arXiv",
+    "title": "Hate Speech Classification In Roman Urdu: A Comparative Study On Parameter Efficient Fine-Tuning And Prompt Engineering",
+    "date": "Tue, 25 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.21408"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Disrupting a new covert influence campaign from Russia",
+    "date": "Tue, 25 Aug 2026 00:00:00 GMT",
+    "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Introducing the Admin plugin for ChatGPT Work and Codex",
+    "date": "Tue, 25 Aug 2026 00:00:00 GMT",
+    "url": "https://openai.com/index/introducing-admin-plugin"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
+    "date": "Tue, 25 Aug 2026 00:00:00 GMT",
+    "url": "https://huggingface.co/blog/gradio-workflow-guide"
+  },
+  {
     "source": "OpenAI",
     "title": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
     "date": "Mon, 24 Aug 2026 12:00:00 GMT",
@@ -130,6 +232,12 @@
     "title": "Measuring benchmark optimization in speech recognition",
     "date": "Fri, 21 Aug 2026 00:00:00 GMT",
     "url": "https://huggingface.co/blog/asr-benchmark-optimization"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "How Hugging Face Inference Endpoints, Jobs, and Buckets Power Search on Papers with Code",
+    "date": "Fri, 21 Aug 2026 00:00:00 GMT",
+    "url": "https://huggingface.co/blog/pwc-search"
   },
   {
     "source": "HuggingFace",
@@ -1090,113 +1198,5 @@
     "title": "Working with the American Psychological Association on youth mental health and AI",
     "date": "Thu, 06 Aug 2026 06:00:00 GMT",
     "url": "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai"
-  },
-  {
-    "source": "arXiv",
-    "title": "A Long-Run Persistence Theory for AI Systems under the Redundancy-Adjusted Artificial Age Score (AAS)",
-    "date": "Thu, 06 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.04012"
-  },
-  {
-    "source": "arXiv",
-    "title": "The LLM Proposes, the Executive Disposes: A Self-Verifying Agent Instrument that Dissociates Commitment Drift from Binding Drift in Long-Horizon Agents",
-    "date": "Thu, 06 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.04066"
-  },
-  {
-    "source": "arXiv",
-    "title": "Monte Carlo Tree Search for Table-to-Multimodal Report Generation",
-    "date": "Thu, 06 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.04071"
-  },
-  {
-    "source": "arXiv",
-    "title": "FinProBench: Evaluating Financial AI Agents with Role-Grounded Rubrics Derived from Professional Deliverables",
-    "date": "Thu, 06 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.04077"
-  },
-  {
-    "source": "arXiv",
-    "title": "FinPerMA: A Theory-Informed, Event-Grounded Personalized-Memory Benchmark for LLM Agents",
-    "date": "Thu, 06 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.04095"
-  },
-  {
-    "source": "arXiv",
-    "title": "BrainBench: Benchmarking Large Language Models for Comprehensive EEG Understanding",
-    "date": "Thu, 06 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.04156"
-  },
-  {
-    "source": "arXiv",
-    "title": "Adversarially Robust Abductive Fusion of Pre-trained Transformer-based Perception Models",
-    "date": "Thu, 06 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.04190"
-  },
-  {
-    "source": "arXiv",
-    "title": "MatrAIx: Simulating the World with 8.3 Billion Persona Agents",
-    "date": "Thu, 06 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.04205"
-  },
-  {
-    "source": "arXiv",
-    "title": "Interoceptive Attention as Dynamic Homeostatic Prioritization in a Foraging Agent",
-    "date": "Thu, 06 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.04232"
-  },
-  {
-    "source": "arXiv",
-    "title": "The RAIL Principles for Neurosymbolic AI: Reasoning, Assurances, Interfacing and Learning",
-    "date": "Thu, 06 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.04285"
-  },
-  {
-    "source": "OpenAI",
-    "title": "From asking to doing: How the world is putting ChatGPT to work",
-    "date": "Thu, 06 Aug 2026 00:00:00 GMT",
-    "url": "https://openai.com/index/how-the-world-is-putting-chatgpt-to-work"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "Baseten on Hugging Face Inference Providers 🔥",
-    "date": "Thu, 06 Aug 2026 00:00:00 GMT",
-    "url": "https://huggingface.co/blog/baseten"
-  },
-  {
-    "source": "arXiv",
-    "title": "ISEE: Interactive Semantic Enrichment for Database Fields",
-    "date": "Wed, 05 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.02604"
-  },
-  {
-    "source": "arXiv",
-    "title": "Self-Organising Digital Circuits",
-    "date": "Wed, 05 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.02606"
-  },
-  {
-    "source": "arXiv",
-    "title": "Beyond the Hivemind: Escaping LLM Homogeneity via Meta-Persona Anchoring and Sequential Temperature Scaling",
-    "date": "Wed, 05 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.02618"
-  },
-  {
-    "source": "arXiv",
-    "title": "PULSE: An Executable Contract Language for Spatiotemporal Knowledge Graph Engineering",
-    "date": "Wed, 05 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.02630"
-  },
-  {
-    "source": "arXiv",
-    "title": "HyperAgent: Planning and Acting over Tool-Schema Hypergraphs for Tool-Use LLM Agents",
-    "date": "Wed, 05 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.02650"
-  },
-  {
-    "source": "arXiv",
-    "title": "Explainable AI for the EU Right to Explanation: A Systematic Review of the Law-XAI Translation Gap",
-    "date": "Wed, 05 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.02699"
   }
 ]
