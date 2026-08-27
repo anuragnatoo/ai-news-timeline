@@ -1,5 +1,101 @@
 [
   {
+    "source": "arXiv",
+    "title": "RENDER: Controlling Reader-Facing Evidence in LLM Memory Evaluation",
+    "date": "Thu, 27 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.23568"
+  },
+  {
+    "source": "arXiv",
+    "title": "ESQ-Bench: A Multi-Tier Enterprise Oracle Benchmark for Evaluating NL2SQL Dialect Generalization and Silent Semantic Divergence",
+    "date": "Thu, 27 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.23569"
+  },
+  {
+    "source": "arXiv",
+    "title": "LLM Agents Perform Controlled Experiments Using Simulation Models",
+    "date": "Thu, 27 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.23622"
+  },
+  {
+    "source": "arXiv",
+    "title": "A survey detection channel overrides the pixels in an astronomical foundation model, and biases tomographic mean redshifts",
+    "date": "Thu, 27 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.23626"
+  },
+  {
+    "source": "arXiv",
+    "title": "TRACE: Transition-Aware Residual Control for Multi-Objective Materials Discovery",
+    "date": "Thu, 27 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.23631"
+  },
+  {
+    "source": "arXiv",
+    "title": "Function-Level Execution Feedback for Code Preference Optimization",
+    "date": "Thu, 27 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.23632"
+  },
+  {
+    "source": "arXiv",
+    "title": "Auditing the Synthetic Memoir: Measuring Scene-Level Confabulation in LLM-Generated Autobiography Against the Documented Record of the Life It Describes",
+    "date": "Thu, 27 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.23640"
+  },
+  {
+    "source": "arXiv",
+    "title": "How much of a measured AI preference is the model, and how much is the instrument?",
+    "date": "Thu, 27 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.23641"
+  },
+  {
+    "source": "arXiv",
+    "title": "AI Agents Push Humans Out of the Loop",
+    "date": "Thu, 27 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.23642"
+  },
+  {
+    "source": "arXiv",
+    "title": "FLARE: A Systematic, Uncertainty-Aware Framework for Evidence-Based Adoption of Artificial Intelligence in Healthcare",
+    "date": "Thu, 27 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.23643"
+  },
+  {
+    "source": "VentureBeat",
+    "title": "Orchestration is the new challenge for CX in the age of AI agents",
+    "date": "Wed, 26 Aug 2026 14:30:00 GMT",
+    "url": "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
+    "date": "Wed, 26 Aug 2026 10:00:00 GMT",
+    "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Learning never stops: How AI makes learning continuous",
+    "date": "Wed, 26 Aug 2026 10:00:00 GMT",
+    "url": "https://openai.com/index/learning-never-stops"
+  },
+  {
+    "source": "OpenAI",
+    "title": "The Hugging Face incident and the road ahead",
+    "date": "Wed, 26 Aug 2026 00:00:00 GMT",
+    "url": "https://openai.com/index/hugging-face-incident-and-the-road-ahead"
+  },
+  {
+    "source": "OpenAI",
+    "title": "How loveholidays is making everyone a builder with Codex",
+    "date": "Wed, 26 Aug 2026 00:00:00 GMT",
+    "url": "https://openai.com/index/loveholidays"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
+    "date": "Wed, 26 Aug 2026 00:00:00 GMT",
+    "url": "https://huggingface.co/blog/train-multi-vector-encoder"
+  },
+  {
     "source": "HuggingFace",
     "title": "Granite 4.2 LLMs: How They're Built",
     "date": "Tue, 25 Aug 2026 15:14:14 GMT",
@@ -250,6 +346,12 @@
     "title": "Introducing AI Futures",
     "date": "Thu, 20 Aug 2026 07:00:00 GMT",
     "url": "https://openai.com/index/introducing-ai-futures"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Introducing Intelligence Age",
+    "date": "Thu, 20 Aug 2026 07:00:00 GMT",
+    "url": "https://openai.com/index/introducing-intelligence-age"
   },
   {
     "source": "arXiv",
@@ -1096,107 +1198,5 @@
     "title": "How Zapier transformed core marketing processes with ChatGPT Work",
     "date": "Mon, 10 Aug 2026 00:00:00 GMT",
     "url": "https://openai.com/index/zapier"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Virgin Atlantic sharpens customer journeys with ChatGPT Work",
-    "date": "Mon, 10 Aug 2026 00:00:00 GMT",
-    "url": "https://openai.com/index/virgin-atlantic/chatgpt-work"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
-    "date": "Mon, 10 Aug 2026 00:00:00 GMT",
-    "url": "https://huggingface.co/blog/muse-glimmer"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "TutorMoments: Do AI tutors know when to help and when to hold back?",
-    "date": "Fri, 07 Aug 2026 17:53:32 GMT",
-    "url": "https://huggingface.co/blog/allenai/tutormoments"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Responding to the next frontier of critical cyber capabilities",
-    "date": "Fri, 07 Aug 2026 15:20:00 GMT",
-    "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities"
-  },
-  {
-    "source": "OpenAI",
-    "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
-    "date": "Fri, 07 Aug 2026 09:00:00 GMT",
-    "url": "https://openai.com/index/hsp-gruppe"
-  },
-  {
-    "source": "arXiv",
-    "title": "Agentic Nesting: A New Methodology for Existing Enterprise Application Integration and Services",
-    "date": "Fri, 07 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.05159"
-  },
-  {
-    "source": "arXiv",
-    "title": "The Ignition Index: Measuring Global Workspace Dynamics in Language Models",
-    "date": "Fri, 07 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.05160"
-  },
-  {
-    "source": "arXiv",
-    "title": "Woodpecker Distillation: Weak Models Diagnose Reasoning Bugs in Strong Models",
-    "date": "Fri, 07 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.05168"
-  },
-  {
-    "source": "arXiv",
-    "title": "From Continuous Predictors to Clinical Thresholds: Early Evidence on Performance Trade-offs of Guideline-Based Categorisation for Ischaemic Stroke Outcome Prediction",
-    "date": "Fri, 07 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.05203"
-  },
-  {
-    "source": "arXiv",
-    "title": "SkillTrace: Multi-Trace Provenance Auditing for LLM-Agent Skill Reuse",
-    "date": "Fri, 07 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.05204"
-  },
-  {
-    "source": "arXiv",
-    "title": "Abstract Event Causal Rules: Induction and Application",
-    "date": "Fri, 07 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.05205"
-  },
-  {
-    "source": "arXiv",
-    "title": "Otter: A Time-Aware, History-Conditioned Human Chess AI",
-    "date": "Fri, 07 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.05206"
-  },
-  {
-    "source": "arXiv",
-    "title": "SearchAuditor: Auditing and Attributing Failures in Long-Horizon Search Agents",
-    "date": "Fri, 07 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.05212"
-  },
-  {
-    "source": "arXiv",
-    "title": "PD-GS: Phoneme-Driven 3DGS for Audio-Driven Talking Heads",
-    "date": "Fri, 07 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.05218"
-  },
-  {
-    "source": "arXiv",
-    "title": "When Privileged Guidance Misaligns: State-Matched Routing and Contextualized Self-Distillation for Multi-Turn Agents",
-    "date": "Fri, 07 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.05219"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
-    "date": "Thu, 06 Aug 2026 10:00:00 GMT",
-    "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Working with the American Psychological Association on youth mental health and AI",
-    "date": "Thu, 06 Aug 2026 06:00:00 GMT",
-    "url": "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai"
   }
 ]
