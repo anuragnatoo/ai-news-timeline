@@ -1,6 +1,84 @@
 [
   {
     "source": "arXiv",
+    "title": "EduRiskX: A Neuro-Symbolic Framework with F-Logic Reasoning for Early Academic Risk Prediction",
+    "date": "Fri, 28 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.26107"
+  },
+  {
+    "source": "arXiv",
+    "title": "Standalone LLM and a Pre-specified Agentic Pipeline for Explaining ICU Mortality Predictions: a Feasibility Study on the eICU Demo Dataset",
+    "date": "Fri, 28 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.26109"
+  },
+  {
+    "source": "arXiv",
+    "title": "Large Models for Battery Prognostics and Health Management: A Review and Future Roadmap",
+    "date": "Fri, 28 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.26111"
+  },
+  {
+    "source": "arXiv",
+    "title": "PICasso: An AI-Enabled Design Framework for Autonomous Optimization of Silicon Photonic Devices",
+    "date": "Fri, 28 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.26113"
+  },
+  {
+    "source": "arXiv",
+    "title": "CIFQA: A Deterministic Tool-Grounded Multi-Agent LLM Framework for Financial Query Answering",
+    "date": "Fri, 28 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.26114"
+  },
+  {
+    "source": "arXiv",
+    "title": "The Artificial Experimentalist: Discovery and Control of Self-Organizing Phenomena with Autotelic Reinforcement Learning",
+    "date": "Fri, 28 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.26116"
+  },
+  {
+    "source": "arXiv",
+    "title": "The Accuracy-Efficiency Paradox Quantifying Net Energy Loss in on-Device Energy Forecasting",
+    "date": "Fri, 28 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.26134"
+  },
+  {
+    "source": "arXiv",
+    "title": "LLMs for Academic Workflows: An Evaluation of Literature Reviews Generated with Short and Long Context Windows of LLMs",
+    "date": "Fri, 28 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.26145"
+  },
+  {
+    "source": "arXiv",
+    "title": "Methodological and Conceptual Framework for 5D Multi-Table Analysis: A Unified Approach for Complex Data Reuse",
+    "date": "Fri, 28 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.26149"
+  },
+  {
+    "source": "arXiv",
+    "title": "Leveraging Large Language Models for Systematic Literature Review of Disease Spread Models",
+    "date": "Fri, 28 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.26150"
+  },
+  {
+    "source": "VentureBeat",
+    "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
+    "date": "Thu, 27 Aug 2026 14:01:00 GMT",
+    "url": "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them"
+  },
+  {
+    "source": "VentureBeat",
+    "title": "When agents act on their own, governance has to live in the data layer",
+    "date": "Thu, 27 Aug 2026 12:01:00 GMT",
+    "url": "https://venturebeat.com/security/when-agents-act-on-their-own-governance-has-to-live-in-the-data-layer"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
+    "date": "Thu, 27 Aug 2026 09:00:00 GMT",
+    "url": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training"
+  },
+  {
+    "source": "arXiv",
     "title": "RENDER: Controlling Reader-Facing Evidence in LLM Memory Evaluation",
     "date": "Thu, 27 Aug 2026 00:00:00 -0400",
     "url": "https://arxiv.org/abs/2608.23568"
@@ -58,6 +136,12 @@
     "title": "FLARE: A Systematic, Uncertainty-Aware Framework for Evidence-Based Adoption of Artificial Intelligence in Healthcare",
     "date": "Thu, 27 Aug 2026 00:00:00 -0400",
     "url": "https://arxiv.org/abs/2608.23643"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Expanding OpenAI’s presence in Brazil",
+    "date": "Thu, 27 Aug 2026 03:00:00 GMT",
+    "url": "https://openai.com/index/expanding-our-presence-in-brazil"
   },
   {
     "source": "VentureBeat",
@@ -1114,89 +1198,5 @@
     "title": "Making Knowledge Distillation Cheap Enough to Run at Scale",
     "date": "Mon, 10 Aug 2026 10:05:36 GMT",
     "url": "https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Expanding Daybreak as the Cyber Defense Window Narrows",
-    "date": "Mon, 10 Aug 2026 10:00:00 GMT",
-    "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Putting frontier cyber models in more trusted hands",
-    "date": "Mon, 10 Aug 2026 10:00:00 GMT",
-    "url": "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands"
-  },
-  {
-    "source": "arXiv",
-    "title": "Towards Multi-Label Graph Foundation Models: from Single-Vector Representation Learning to Multi-Semantic Basis Learning",
-    "date": "Mon, 10 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.06394"
-  },
-  {
-    "source": "arXiv",
-    "title": "EntropyMoE: Entropy-Aware Sparse Expert Routing for Tokenizer-Free LLMs",
-    "date": "Mon, 10 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.06398"
-  },
-  {
-    "source": "arXiv",
-    "title": "Beyond Routing Weights: Faithful Response-Level Interpretation of Mixture-of-Experts Reward Models via Contribution Contrast",
-    "date": "Mon, 10 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.06400"
-  },
-  {
-    "source": "arXiv",
-    "title": "Interpretable Unsupervised Community Detection with LLM-Symbolized Structured Processes",
-    "date": "Mon, 10 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.06402"
-  },
-  {
-    "source": "arXiv",
-    "title": "ADIAS: Automated Design of Interactive Agentic Systems",
-    "date": "Mon, 10 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.06410"
-  },
-  {
-    "source": "arXiv",
-    "title": "Learning to Predict Middle-Layer Attention in MLLMs for Visual Token Prunin",
-    "date": "Mon, 10 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.06411"
-  },
-  {
-    "source": "arXiv",
-    "title": "WebGrader: Training LLMs for Web Development with Self-Evolving Programmatic Grader",
-    "date": "Mon, 10 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.06474"
-  },
-  {
-    "source": "arXiv",
-    "title": "Can MLLMs Decode the Creative Leap? Introducing C4 for Cross-Concept Understanding",
-    "date": "Mon, 10 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.06501"
-  },
-  {
-    "source": "arXiv",
-    "title": "KNOWPLAN: Knowledge-Driven AI Agents for Smart Degree Pathway Planning",
-    "date": "Mon, 10 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.06530"
-  },
-  {
-    "source": "arXiv",
-    "title": "TaskSense: Focusing on What Matters in World Models",
-    "date": "Mon, 10 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.06544"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Premium seats are coming to ChatGPT Business",
-    "date": "Mon, 10 Aug 2026 00:00:00 GMT",
-    "url": "https://openai.com/index/premium-seats-chatgpt-business"
-  },
-  {
-    "source": "OpenAI",
-    "title": "How Zapier transformed core marketing processes with ChatGPT Work",
-    "date": "Mon, 10 Aug 2026 00:00:00 GMT",
-    "url": "https://openai.com/index/zapier"
   }
 ]
