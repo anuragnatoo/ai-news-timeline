@@ -1,6 +1,72 @@
 [
   {
     "source": "arXiv",
+    "title": "Explainable Artificial Intelligence for Customer Churn Prediction in Telecommunications: A Framework for CRM Integration",
+    "date": "Sat, 29 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.26151"
+  },
+  {
+    "source": "arXiv",
+    "title": "EEG-to-Report: An Annotation and Feature-Text Framework for Training Language Models on Clinical EEG",
+    "date": "Sat, 29 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.26153"
+  },
+  {
+    "source": "arXiv",
+    "title": "Selection Bias Correction in Retail Intelligence",
+    "date": "Sat, 29 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.26156"
+  },
+  {
+    "source": "arXiv",
+    "title": "GROUND: Reducing Hallucinations in LLM-Based Enterprise Analytics Through Governed Semantic Definitions",
+    "date": "Sat, 29 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.26157"
+  },
+  {
+    "source": "arXiv",
+    "title": "SAREF-based Ontology for Distributed AI Workflows across the Edge-Fog-Cloud Continuum",
+    "date": "Sat, 29 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.26160"
+  },
+  {
+    "source": "arXiv",
+    "title": "A Safety-Gated Multimodal AI Backend for Mental-Health Support: Hierarchical State Representation, Conservative Risk Fusion, and Controlled Generation in Anian",
+    "date": "Sat, 29 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.26162"
+  },
+  {
+    "source": "arXiv",
+    "title": "A Task-Centric Ontology and Deterministic Domain Rules as a Verifiable Core for AI-Assisted Chemistry Problem Solving",
+    "date": "Sat, 29 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.26164"
+  },
+  {
+    "source": "arXiv",
+    "title": "Refusal Is Not Robustness: Auditing Confident Fabrication in Large Language Models on a Provably Uninformative Clinical Pain Speech Transcript",
+    "date": "Sat, 29 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.26167"
+  },
+  {
+    "source": "arXiv",
+    "title": "Knowledge Cards: Structured Knowledge for AI Systems",
+    "date": "Sat, 29 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.26176"
+  },
+  {
+    "source": "arXiv",
+    "title": "AI Revealed Preferences",
+    "date": "Sat, 29 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.26178"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Our decision on Cursor following its acquisition by SpaceX",
+    "date": "Fri, 28 Aug 2026 06:00:00 GMT",
+    "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex"
+  },
+  {
+    "source": "arXiv",
     "title": "EduRiskX: A Neuro-Symbolic Framework with F-Logic Reasoning for Early Academic Risk Prediction",
     "date": "Fri, 28 Aug 2026 00:00:00 -0400",
     "url": "https://arxiv.org/abs/2608.26107"
@@ -58,6 +124,18 @@
     "title": "Leveraging Large Language Models for Systematic Literature Review of Disease Spread Models",
     "date": "Fri, 28 Aug 2026 00:00:00 -0400",
     "url": "https://arxiv.org/abs/2608.26150"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Supporting Thailand’s next generation of AI startups",
+    "date": "Fri, 28 Aug 2026 02:00:00 GMT",
+    "url": "https://openai.com/index/supporting-next-generation-ai-startups-thailand"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "The Open ASR Leaderboard Adds Its First Global South Language",
+    "date": "Fri, 28 Aug 2026 00:00:00 GMT",
+    "url": "https://huggingface.co/blog/open-asr-leaderboard-global-south"
   },
   {
     "source": "VentureBeat",
@@ -1120,83 +1198,5 @@
     "title": "Flow-by-Flow:Content-Judgment Bypass for Governing AI Output in High-Loss Domains",
     "date": "Tue, 11 Aug 2026 00:00:00 -0400",
     "url": "https://arxiv.org/abs/2608.07474"
-  },
-  {
-    "source": "arXiv",
-    "title": "Determinization in Structure Theories: A Unified Framework via Closure, Comparability, and Joint Admissibility",
-    "date": "Tue, 11 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.07476"
-  },
-  {
-    "source": "arXiv",
-    "title": "Emotion in an active inference model of human driving",
-    "date": "Tue, 11 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.07480"
-  },
-  {
-    "source": "arXiv",
-    "title": "Training Variable Long Sequences with Data-Centric Parallel",
-    "date": "Tue, 11 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.07524"
-  },
-  {
-    "source": "arXiv",
-    "title": "The Knowing-Saying Gap: When Probes See Errors that Confidence Misses",
-    "date": "Tue, 11 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.07528"
-  },
-  {
-    "source": "arXiv",
-    "title": "NL2SHACL-Bench: A Benchmark Suite for Natural Language to SHACL Translation",
-    "date": "Tue, 11 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.07530"
-  },
-  {
-    "source": "arXiv",
-    "title": "Dynamic Coalition Formation and Communication Pricing in Skill-Based Agentic AI Systems",
-    "date": "Tue, 11 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.07532"
-  },
-  {
-    "source": "arXiv",
-    "title": "MetaSpace: Metamorphic Testing for Spatial Cognition in Embodied Agents",
-    "date": "Tue, 11 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.07533"
-  },
-  {
-    "source": "arXiv",
-    "title": "When LLM Agents Negotiate: Private Information and Dynamic Bargaining in Supply Chains",
-    "date": "Tue, 11 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.07538"
-  },
-  {
-    "source": "OpenAI",
-    "title": "What building an AI-native finance function taught me",
-    "date": "Mon, 10 Aug 2026 17:00:00 GMT",
-    "url": "https://openai.com/index/building-an-ai-native-finance-function"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
-    "date": "Mon, 10 Aug 2026 16:25:36 GMT",
-    "url": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents"
-  },
-  {
-    "source": "OpenAI",
-    "title": "OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas",
-    "date": "Mon, 10 Aug 2026 14:00:00 GMT",
-    "url": "https://openai.com/index/responsible-ai-infrastructure-texas"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Model ML completes finance work more efficiently with GPT-5.6 Sol",
-    "date": "Mon, 10 Aug 2026 12:00:00 GMT",
-    "url": "https://openai.com/index/model-ml"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "Making Knowledge Distillation Cheap Enough to Run at Scale",
-    "date": "Mon, 10 Aug 2026 10:05:36 GMT",
-    "url": "https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation"
   }
 ]
