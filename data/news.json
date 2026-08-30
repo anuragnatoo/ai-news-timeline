@@ -60,6 +60,66 @@
     "url": "https://arxiv.org/abs/2608.26178"
   },
   {
+    "source": "arXiv",
+    "title": "Why did My Robot Just Change Personality? Prompting Guidelines for a Grounded Robot Persona in LLM-Based HRI",
+    "date": "Sat, 29 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.26182"
+  },
+  {
+    "source": "arXiv",
+    "title": "TutorTrace: A Dataset and Taxonomy for Classifying Learner Behavioral States during AI-Assisted Programming Education",
+    "date": "Sat, 29 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.26184"
+  },
+  {
+    "source": "arXiv",
+    "title": "Can You Say This for Me? Speaking Up by Proxy in Co-Located Discussion",
+    "date": "Sat, 29 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.26185"
+  },
+  {
+    "source": "arXiv",
+    "title": "Is Your Neighborhood Safe? Place-based Stigma in Large Language Models' Urban Safety Judgments",
+    "date": "Sat, 29 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.26188"
+  },
+  {
+    "source": "arXiv",
+    "title": "Invocation-Level Reliability of Tool-Using Agents",
+    "date": "Sat, 29 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.26189"
+  },
+  {
+    "source": "arXiv",
+    "title": "Predicting Consequences and Reinforcing Navigation Policies with Latent World Models",
+    "date": "Sat, 29 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.26190"
+  },
+  {
+    "source": "arXiv",
+    "title": "Structured Evidence Routing for Incident Risk Prediction from Multimodal Longitudinal EHRs",
+    "date": "Sat, 29 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.26191"
+  },
+  {
+    "source": "arXiv",
+    "title": "AffectOmni: RL-Verifiable People-Centric Grounded Affective Reasoning for Social and Art-Related Scenes",
+    "date": "Sat, 29 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.26193"
+  },
+  {
+    "source": "arXiv",
+    "title": "Agentic AI for operating scientific instruments for nanoscale characterization",
+    "date": "Sat, 29 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.26198"
+  },
+  {
+    "source": "arXiv",
+    "title": "Benchmarking AI Agents for Hardware Design Automation via MCP Tool Calling",
+    "date": "Sat, 29 Aug 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.26199"
+  },
+  {
     "source": "OpenAI",
     "title": "Our decision on Cursor following its acquisition by SpaceX",
     "date": "Fri, 28 Aug 2026 06:00:00 GMT",
@@ -1138,65 +1198,5 @@
     "title": "Automating and Scaling Behavioral Scientific Research on AI Agents",
     "date": "Wed, 12 Aug 2026 00:00:00 -0400",
     "url": "https://arxiv.org/abs/2608.10030"
-  },
-  {
-    "source": "arXiv",
-    "title": "CHORUS: Complementary Experts for High-Coverage Testbench Stimulus Generation",
-    "date": "Wed, 12 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.10090"
-  },
-  {
-    "source": "arXiv",
-    "title": "MESA:Task-Adaptive Multi-Structure Evidence Selection for Long-Horizon Agent Memory",
-    "date": "Wed, 12 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.10108"
-  },
-  {
-    "source": "arXiv",
-    "title": "The CASE Framework: A Multi-Disciplinary Control Architecture for Governing Enterprise Agentic AI",
-    "date": "Wed, 12 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.10153"
-  },
-  {
-    "source": "arXiv",
-    "title": "SBCO: Self-Supervised, Verifier-Grounded Harness Optimization For Planning Agents",
-    "date": "Wed, 12 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.10157"
-  },
-  {
-    "source": "OpenAI",
-    "title": "How RingCentral builds AI-native work from engineering to ops",
-    "date": "Wed, 12 Aug 2026 00:00:00 GMT",
-    "url": "https://openai.com/index/ringcentral"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "Thinking of ACE? We Can Do It with Fewer Tokens",
-    "date": "Tue, 11 Aug 2026 13:37:10 GMT",
-    "url": "https://huggingface.co/blog/ibm-research/altk-evolve-sldd"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Testing ads in ChatGPT",
-    "date": "Tue, 11 Aug 2026 10:00:00 GMT",
-    "url": "https://openai.com/index/testing-ads-in-chatgpt"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Daybreak models are now available on AWS",
-    "date": "Tue, 11 Aug 2026 10:00:00 GMT",
-    "url": "https://openai.com/index/daybreak-models-are-now-available-on-aws"
-  },
-  {
-    "source": "arXiv",
-    "title": "Towards an Argumentative Foundation for Evaluative AI",
-    "date": "Tue, 11 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.07473"
-  },
-  {
-    "source": "arXiv",
-    "title": "Flow-by-Flow:Content-Judgment Bypass for Governing AI Output in High-Loss Domains",
-    "date": "Tue, 11 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.07474"
   }
 ]
