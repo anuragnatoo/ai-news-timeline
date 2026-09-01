@@ -1,5 +1,17 @@
 [
   {
+    "source": "OpenAI",
+    "title": "Polimill builds Japan's next-generation public AI infrastructure",
+    "date": "Mon, 31 Aug 2026 07:00:00 GMT",
+    "url": "https://openai.com/index/polimill"
+  },
+  {
+    "source": "OpenAI",
+    "title": "A milestone in expanding access to AI",
+    "date": "Mon, 31 Aug 2026 04:00:00 GMT",
+    "url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads"
+  },
+  {
     "source": "arXiv",
     "title": "Explainable Artificial Intelligence for Customer Churn Prediction in Telecommunications: A Framework for CRM Integration",
     "date": "Sat, 29 Aug 2026 00:00:00 -0400",
@@ -1186,17 +1198,5 @@
     "title": "Towards Sustainable Artificial Intelligence: A Comprehensive Review and Comparative Analysis of Deep Learning Models' Carbon Footprint",
     "date": "Wed, 12 Aug 2026 00:00:00 -0400",
     "url": "https://arxiv.org/abs/2608.09998"
-  },
-  {
-    "source": "arXiv",
-    "title": "ReCBM: Uncertainty-Gated Relational Reasoning for Concept Bottleneck Models",
-    "date": "Wed, 12 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.10004"
-  },
-  {
-    "source": "arXiv",
-    "title": "Automating and Scaling Behavioral Scientific Research on AI Agents",
-    "date": "Wed, 12 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.10030"
   }
 ]
