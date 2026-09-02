@@ -1,9 +1,111 @@
 [
   {
+    "source": "HuggingFace",
+    "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
+    "date": "Tue, 01 Sep 2026 21:39:07 GMT",
+    "url": "https://huggingface.co/blog/allenai/benchmirt"
+  },
+  {
+    "source": "OpenAI",
+    "title": "How AI-native companies turn workflows into operating capability",
+    "date": "Tue, 01 Sep 2026 17:00:00 GMT",
+    "url": "https://openai.com/index/ai-native-company-workflows"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Path to Astra: critical capabilities and frontier safeguards",
+    "date": "Tue, 01 Sep 2026 13:00:00 GMT",
+    "url": "https://openai.com/index/path-to-astra"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
+    "date": "Tue, 01 Sep 2026 12:00:00 GMT",
+    "url": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources"
+  },
+  {
+    "source": "arXiv",
+    "title": "DS-Lighting: Making Agent Harnesses Explicit for Data-Science Automation",
+    "date": "Tue, 01 Sep 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.28590"
+  },
+  {
+    "source": "arXiv",
+    "title": "Expert-validated STEM QA",
+    "date": "Tue, 01 Sep 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.28591"
+  },
+  {
+    "source": "arXiv",
+    "title": "A collective capability boundary in frontier large language models on guideline-conformant and case-specific oncology decision-making",
+    "date": "Tue, 01 Sep 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.28592"
+  },
+  {
+    "source": "arXiv",
+    "title": "Statutory AI: Aligning Large Language Models With Legal Norms",
+    "date": "Tue, 01 Sep 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.28593"
+  },
+  {
+    "source": "arXiv",
+    "title": "From Question-First to Analyst-First: Domain-Expert Skills and Verified Knowledge Compilation for Proactive Enterprise Analytics",
+    "date": "Tue, 01 Sep 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.28594"
+  },
+  {
+    "source": "arXiv",
+    "title": "The Signal in the Noise: An Auditable Reliability Layer for Biomedical Text Classification",
+    "date": "Tue, 01 Sep 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.28595"
+  },
+  {
+    "source": "arXiv",
+    "title": "Paper Pilot: A Human-in-the-Loop Expert System for Evidence-Traceable Scientific Manuscript Generation in Applied Sciences",
+    "date": "Tue, 01 Sep 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.28596"
+  },
+  {
+    "source": "arXiv",
+    "title": "The Race between Agentic AI Capabilities and Data Quality Control in Online Surveys",
+    "date": "Tue, 01 Sep 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.28597"
+  },
+  {
+    "source": "arXiv",
+    "title": "CDPR: Counterfactual Advantage-based Credit Assignment for Cost-Aware Sequential Medical Diagnosis",
+    "date": "Tue, 01 Sep 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.28599"
+  },
+  {
+    "source": "arXiv",
+    "title": "SHAPE of Chain-of-Thought in Math Reasoning",
+    "date": "Tue, 01 Sep 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2608.28600"
+  },
+  {
+    "source": "OpenAI",
+    "title": "How law firm Gilbert + Tobin governs and scales AI with OpenAI",
+    "date": "Tue, 01 Sep 2026 01:00:00 GMT",
+    "url": "https://openai.com/index/gilbert-tobin"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
+    "date": "Tue, 01 Sep 2026 00:00:00 GMT",
+    "url": "https://huggingface.co/blog/webgpu-kernels"
+  },
+  {
     "source": "OpenAI",
     "title": "Polimill builds Japan's next-generation public AI infrastructure",
     "date": "Mon, 31 Aug 2026 07:00:00 GMT",
     "url": "https://openai.com/index/polimill"
+  },
+  {
+    "source": "OpenAI",
+    "title": "OpenAI supports California’s bill to advance youth AI safety",
+    "date": "Mon, 31 Aug 2026 07:00:00 GMT",
+    "url": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety"
   },
   {
     "source": "OpenAI",
@@ -1096,107 +1198,5 @@
     "title": "Distribird: Literature-Informed Prior Distribution Design for Bayesian Model Calibration",
     "date": "Thu, 13 Aug 2026 00:00:00 -0400",
     "url": "https://arxiv.org/abs/2608.11210"
-  },
-  {
-    "source": "arXiv",
-    "title": "A Forced-Structure Reduction and Verifiable Bounds for Conway's 99-Graph",
-    "date": "Thu, 13 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.11211"
-  },
-  {
-    "source": "arXiv",
-    "title": "Detecting a Route Flip Is Easier Than Knowing Whether to Fix It: Causal Route-Mediated Damage in Quantized Mixture-of-Experts",
-    "date": "Thu, 13 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.11212"
-  },
-  {
-    "source": "arXiv",
-    "title": "Poor Man's Agentic Modeling: Simulating Large LLM-Agent Societies on a Laptop",
-    "date": "Thu, 13 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.11215"
-  },
-  {
-    "source": "arXiv",
-    "title": "AutoWorldModel-Bench: A State-Centric Benchmark for Automated World-Model Research",
-    "date": "Thu, 13 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.11216"
-  },
-  {
-    "source": "arXiv",
-    "title": "MaSRead: Content-Addressed Reading of Replicated Latent Stores",
-    "date": "Thu, 13 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.11218"
-  },
-  {
-    "source": "arXiv",
-    "title": "From Monolithic to Modular: Segment-level Automatic Prompt Optimization",
-    "date": "Thu, 13 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.11219"
-  },
-  {
-    "source": "arXiv",
-    "title": "LLMs in Process Diagram Engineering: From Optimal PFDs to Validated P&IDs",
-    "date": "Thu, 13 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.11220"
-  },
-  {
-    "source": "arXiv",
-    "title": "A Conceptual Framework for Refining Influence Knowledge from Simulation Evidence in Cyber-Physical Systems",
-    "date": "Thu, 13 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.11221"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "What We Learned by Reproducing 2,200 papers from ICML",
-    "date": "Thu, 13 Aug 2026 00:00:00 GMT",
-    "url": "https://huggingface.co/blog/icml-2026-open-reproductions"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "As AI safety concerns mount, three pioneers make the case for staying open",
-    "date": "Wed, 12 Aug 2026 17:51:00 +0000",
-    "url": "https://techcrunch.com/2026/08/12/as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open/"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
-    "date": "Wed, 12 Aug 2026 16:14:36 GMT",
-    "url": "https://huggingface.co/blog/allenai/olmoearth-embeddings"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge",
-    "date": "Wed, 12 Aug 2026 14:00:51 GMT",
-    "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b"
-  },
-  {
-    "source": "OpenAI",
-    "title": "From assistance to execution: How enterprises put AI to work",
-    "date": "Wed, 12 Aug 2026 06:00:00 GMT",
-    "url": "https://openai.com/index/how-enterprises-put-ai-to-work"
-  },
-  {
-    "source": "arXiv",
-    "title": "Closed-Loop LLM Co-Pilots for Digital Agriculture",
-    "date": "Wed, 12 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.09949"
-  },
-  {
-    "source": "arXiv",
-    "title": "SPOTting the Future: Lookahead Explanations for Deep Reinforcement Learning",
-    "date": "Wed, 12 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.09967"
-  },
-  {
-    "source": "arXiv",
-    "title": "MIDAS: Mutual Information Disentanglement with Uncertainty-Aware Fusion for Incomplete Multimodal Sentiment Analysis",
-    "date": "Wed, 12 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.09986"
-  },
-  {
-    "source": "arXiv",
-    "title": "Towards Sustainable Artificial Intelligence: A Comprehensive Review and Comparative Analysis of Deep Learning Models' Carbon Footprint",
-    "date": "Wed, 12 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.09998"
   }
 ]
