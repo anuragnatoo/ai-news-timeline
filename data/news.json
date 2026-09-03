@@ -1,6 +1,78 @@
 [
   {
     "source": "HuggingFace",
+    "title": "Real-Time Intelligence with IBM Time Series Models on Confluent ",
+    "date": "Wed, 02 Sep 2026 13:49:14 GMT",
+    "url": "https://huggingface.co/blog/ibm-research/real-time-intelligence"
+  },
+  {
+    "source": "OpenAI",
+    "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
+    "date": "Wed, 02 Sep 2026 12:00:00 GMT",
+    "url": "https://openai.com/index/atv-big-air-tour"
+  },
+  {
+    "source": "arXiv",
+    "title": "HyperWorld: Hypergraph-Structured State Serialization Improves Learned Textual World Models",
+    "date": "Wed, 02 Sep 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2609.00002"
+  },
+  {
+    "source": "arXiv",
+    "title": "I-CARE: Analysis of interference-related phenomena in a controllable, diverse and representative unlearning setting for text-to-image models",
+    "date": "Wed, 02 Sep 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2609.00003"
+  },
+  {
+    "source": "arXiv",
+    "title": "Discrete-Time MDP Modeling for Multi-Item Capacitated Lot Sizing with Stochastic Demand Timing",
+    "date": "Wed, 02 Sep 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2609.00004"
+  },
+  {
+    "source": "arXiv",
+    "title": "Incremental Risk Assessment of Progressive Elder Financial Scams via Instruction-Tuned Small Language Models",
+    "date": "Wed, 02 Sep 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2609.00005"
+  },
+  {
+    "source": "arXiv",
+    "title": "Long-Horizon State Tracking in LLMs: Executing MD5 through a Deep Sequence of Dependent Tool Calls",
+    "date": "Wed, 02 Sep 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2609.00012"
+  },
+  {
+    "source": "arXiv",
+    "title": "OpenAgentFlow: Enabling System-Wide Safety Boundaries for Heterogeneous AI Agent Fleets",
+    "date": "Wed, 02 Sep 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2609.00015"
+  },
+  {
+    "source": "arXiv",
+    "title": "SCAFFOLD: A Large-Scale Structured Dataset of Computer Science Research Figures with Diagram QA and Chain-of-Thought Reasoning Traces",
+    "date": "Wed, 02 Sep 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2609.00018"
+  },
+  {
+    "source": "arXiv",
+    "title": "UI-Venus-2 Technical Report",
+    "date": "Wed, 02 Sep 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2609.00028"
+  },
+  {
+    "source": "arXiv",
+    "title": "EULER: Exploring Underused Links with Evidence-Checked Return for Multi-Agent Mathematical Discovery",
+    "date": "Wed, 02 Sep 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2609.00032"
+  },
+  {
+    "source": "arXiv",
+    "title": "When Prediction Error Is Not Enough: Evaluating Nuisance-Function Prediction for Causal Estimation",
+    "date": "Wed, 02 Sep 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2609.00071"
+  },
+  {
+    "source": "HuggingFace",
     "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
     "date": "Tue, 01 Sep 2026 21:39:07 GMT",
     "url": "https://huggingface.co/blog/allenai/benchmirt"
@@ -1126,77 +1198,5 @@
     "title": "Multi-Agent Scheduling with LLM-Assisted Contract Net Negotiation for Stream Processing in Mobile Edge Computing",
     "date": "Fri, 14 Aug 2026 00:00:00 -0400",
     "url": "https://arxiv.org/abs/2608.12371"
-  },
-  {
-    "source": "arXiv",
-    "title": "Position: We Need Practical AI Alignment Methods to Mirror Human Reasoning",
-    "date": "Fri, 14 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.12372"
-  },
-  {
-    "source": "arXiv",
-    "title": "Don't Want Your LLM to Recommend Nuclear Strike? Try Asking It in Japanese",
-    "date": "Fri, 14 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.12373"
-  },
-  {
-    "source": "arXiv",
-    "title": "Dual-Flow Transformers: Decoupling the Primary Prefill Path from Additional Decode Computation",
-    "date": "Fri, 14 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.12385"
-  },
-  {
-    "source": "arXiv",
-    "title": "Learning to Adapt Cross-Domain Preferences via Meta-LoRA for LLM Personalization",
-    "date": "Fri, 14 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.12389"
-  },
-  {
-    "source": "arXiv",
-    "title": "Research Assistant: AstraZeneca's Agentic System for R&D",
-    "date": "Fri, 14 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.12395"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "State of Open Models: Summer 2026 Observations",
-    "date": "Fri, 14 Aug 2026 00:00:00 GMT",
-    "url": "https://huggingface.co/blog/state-of-open-models-summer-2026"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
-    "date": "Thu, 13 Aug 2026 17:16:04 GMT",
-    "url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop"
-  },
-  {
-    "source": "OpenAI",
-    "title": "The builder’s guide to GPT‑5.6",
-    "date": "Thu, 13 Aug 2026 11:00:00 GMT",
-    "url": "https://openai.com/index/builders-guide-to-gpt-5-6"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
-    "date": "Thu, 13 Aug 2026 10:00:00 GMT",
-    "url": "https://openai.com/index/previewing-ultrafast"
-  },
-  {
-    "source": "OpenAI",
-    "title": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
-    "date": "Thu, 13 Aug 2026 09:00:00 GMT",
-    "url": "https://openai.com/index/dali-rajic-chief-revenue-officer"
-  },
-  {
-    "source": "arXiv",
-    "title": "Dynamic Governance of Multi-LLM Agent Systems for Collaborative Conversational Outcomes",
-    "date": "Thu, 13 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.11207"
-  },
-  {
-    "source": "arXiv",
-    "title": "Distribird: Literature-Informed Prior Distribution Design for Bayesian Model Calibration",
-    "date": "Thu, 13 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.11210"
   }
 ]
