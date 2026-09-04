@@ -1,5 +1,113 @@
 [
   {
+    "source": "OpenAI",
+    "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
+    "date": "Thu, 03 Sep 2026 13:15:00 GMT",
+    "url": "https://openai.com/index/daybreak-for-frontline-defenders"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
+    "date": "Thu, 03 Sep 2026 13:13:48 GMT",
+    "url": "https://huggingface.co/blog/Hcompany/neomme"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+    "date": "Thu, 03 Sep 2026 12:00:00 GMT",
+    "url": "https://openai.com/index/legora-financial-statement-review-with-astra"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+    "date": "Thu, 03 Sep 2026 12:00:00 GMT",
+    "url": "https://openai.com/index/playco-game-prototyping-with-astra"
+  },
+  {
+    "source": "arXiv",
+    "title": "EvalDetectBench: A Benchmark for Measuring Evaluation Awareness in Frontier Language Models",
+    "date": "Thu, 03 Sep 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2609.01611"
+  },
+  {
+    "source": "arXiv",
+    "title": "Meta-ethics and AI: exploring the novel meta-ethical questions in the era of AI",
+    "date": "Thu, 03 Sep 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2609.01685"
+  },
+  {
+    "source": "arXiv",
+    "title": "When Can a Machine Trust a Statute? A Survival Certificate for Machine-Extracted Legal Logic",
+    "date": "Thu, 03 Sep 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2609.01741"
+  },
+  {
+    "source": "arXiv",
+    "title": "When Does Information Sharing Improve Decentralized Discovery? Aggregation, Independent Rescue, and Equilibrium Selection",
+    "date": "Thu, 03 Sep 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2609.01814"
+  },
+  {
+    "source": "arXiv",
+    "title": "Induction and Inquiry via Probabilistic Reasoning over Language and Code",
+    "date": "Thu, 03 Sep 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2609.01815"
+  },
+  {
+    "source": "arXiv",
+    "title": "Architecting Conversational Data Systems for Stateless LLM APIs: The Hydration Proxy Pattern",
+    "date": "Thu, 03 Sep 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2609.01834"
+  },
+  {
+    "source": "arXiv",
+    "title": "SSAKG 2.0: An Open-Source Package for Structural Associative Sequence Memory and Context-Based Retrieval",
+    "date": "Thu, 03 Sep 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2609.01849"
+  },
+  {
+    "source": "arXiv",
+    "title": "The Memory Trust Gap: Capability-Dependent Failures in Persistent-Memory Agents",
+    "date": "Thu, 03 Sep 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2609.01852"
+  },
+  {
+    "source": "arXiv",
+    "title": "Belief-Calibrated Optimization: An Explicit World Model for Agentic Optimization",
+    "date": "Thu, 03 Sep 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2609.01861"
+  },
+  {
+    "source": "arXiv",
+    "title": "Epistemic Sybil Resistance: Multiplying AI Agents Without Multiplying Evidence",
+    "date": "Thu, 03 Sep 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2609.01873"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Safety overview: GPT-6 Astra",
+    "date": "Thu, 03 Sep 2026 00:00:00 GMT",
+    "url": "https://openai.com/index/safety-overview-gpt-6-astra"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
+    "date": "Thu, 03 Sep 2026 00:00:00 GMT",
+    "url": "https://huggingface.co/blog/grpo-with-trl-ifstruct"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "Give Your Coding Agents a Memory You Own",
+    "date": "Thu, 03 Sep 2026 00:00:00 GMT",
+    "url": "https://huggingface.co/blog/funes"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "Training a coding model to paint watercolours with TRL and OpenEnv",
+    "date": "Thu, 03 Sep 2026 00:00:00 GMT",
+    "url": "https://huggingface.co/blog/train-to-paint-with-code"
+  },
+  {
     "source": "HuggingFace",
     "title": "Real-Time Intelligence with IBM Time Series Models on Confluent ",
     "date": "Wed, 02 Sep 2026 13:49:14 GMT",
@@ -1090,113 +1198,5 @@
     "title": "Measuring Cross-Task Behavioral Consistency in Language Model Agents",
     "date": "Mon, 17 Aug 2026 00:00:00 -0400",
     "url": "https://arxiv.org/abs/2608.13598"
-  },
-  {
-    "source": "arXiv",
-    "title": "Cross-Disciplinary Taxonomy and Modeling of Misunderstanding Generation, Amplification, and Detection, from Pragmatics to AI Agents",
-    "date": "Mon, 17 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.13604"
-  },
-  {
-    "source": "arXiv",
-    "title": "Active Perception for Embodied Disambiguation",
-    "date": "Mon, 17 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.13605"
-  },
-  {
-    "source": "OpenAI",
-    "title": "New policy ideas for the Intelligence Age",
-    "date": "Mon, 17 Aug 2026 03:15:00 GMT",
-    "url": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age"
-  },
-  {
-    "source": "arXiv",
-    "title": "Large Language Models Can Follow Instructions, But Not Many at Once: Phase Transitions in Compositional Constraint Satisfaction",
-    "date": "Sat, 15 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.12426"
-  },
-  {
-    "source": "arXiv",
-    "title": "MindMemOS: A Portable and Self-Evolving Memory Operating Layer for AI Agents",
-    "date": "Sat, 15 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.12428"
-  },
-  {
-    "source": "arXiv",
-    "title": "Governed Persistent Memory: Source-Bound State Semantics and Fail-Closed Release for Long-Horizon Agents",
-    "date": "Sat, 15 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.12476"
-  },
-  {
-    "source": "arXiv",
-    "title": "$\\varepsilon$-MemEvo: Adaptive Cross-Task Memory Transfer for LLM Program Evolution",
-    "date": "Sat, 15 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.12522"
-  },
-  {
-    "source": "arXiv",
-    "title": "CAS: A Causal Attribution Score for Local and Global Explainable Artificial Intelligence",
-    "date": "Sat, 15 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.12555"
-  },
-  {
-    "source": "arXiv",
-    "title": "Trie Automata for Constrained Decoding over Large Finite Sets",
-    "date": "Sat, 15 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.12574"
-  },
-  {
-    "source": "arXiv",
-    "title": "Reasoning Jury: Multi-Model Consensus for Evaluating Reasoning Traces",
-    "date": "Sat, 15 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.12585"
-  },
-  {
-    "source": "arXiv",
-    "title": "Auditable agentic AI for evidence-grounded thyroid ultrasound diagnosis and reporting",
-    "date": "Sat, 15 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.12590"
-  },
-  {
-    "source": "arXiv",
-    "title": "DiG-bench: Discovery in Games",
-    "date": "Sat, 15 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.12593"
-  },
-  {
-    "source": "arXiv",
-    "title": "Dead text or binding clause? Measuring and restoring constraint influence in black-box LLM dialogues",
-    "date": "Sat, 15 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.12599"
-  },
-  {
-    "source": "arXiv",
-    "title": "Position: Reasoning is a Learnable Rule-Based Process",
-    "date": "Fri, 14 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.12325"
-  },
-  {
-    "source": "arXiv",
-    "title": "Diagnostic Foundation for Evaluating LLMs' Research Integrity as Co-Scientists",
-    "date": "Fri, 14 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.12345"
-  },
-  {
-    "source": "arXiv",
-    "title": "Position: The Alignment Community is Unintentionally Building a Censor's Toolkit",
-    "date": "Fri, 14 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.12346"
-  },
-  {
-    "source": "arXiv",
-    "title": "Agreement Is Not Alignment: Divergent Moral Grounds in Human and LLM Ethical Judgments",
-    "date": "Fri, 14 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.12368"
-  },
-  {
-    "source": "arXiv",
-    "title": "Multi-Agent Scheduling with LLM-Assisted Contract Net Negotiation for Stream Processing in Mobile Edge Computing",
-    "date": "Fri, 14 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.12371"
   }
 ]
