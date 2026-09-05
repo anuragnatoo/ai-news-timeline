@@ -1,5 +1,65 @@
 [
   {
+    "source": "arXiv",
+    "title": "Structure and Implementation of New Practical English Textbooks Driven by Artificial Intelligence",
+    "date": "Fri, 04 Sep 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2609.02981"
+  },
+  {
+    "source": "arXiv",
+    "title": "MasterControl Seventeen Every Time",
+    "date": "Fri, 04 Sep 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2609.03209"
+  },
+  {
+    "source": "arXiv",
+    "title": "Speculative Macro Commit for Faster Tool-Using Agents",
+    "date": "Fri, 04 Sep 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2609.03236"
+  },
+  {
+    "source": "arXiv",
+    "title": "Fresh Memory, Stale Plans: Dependency-Scoped Validation for Distributed LLM-Agent Memory",
+    "date": "Fri, 04 Sep 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2609.03340"
+  },
+  {
+    "source": "arXiv",
+    "title": "A Prompt-Engineering Approach to Develop Scalable, Flexible, and Real-Time Hybrid Micro-Level Personalization in a General Purpose AI Teaching Assistant",
+    "date": "Fri, 04 Sep 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2609.03402"
+  },
+  {
+    "source": "arXiv",
+    "title": "Caught in the Story: Narrative Captivity in Multi-turn LLMs Conversation",
+    "date": "Fri, 04 Sep 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2609.03407"
+  },
+  {
+    "source": "arXiv",
+    "title": "Dude: A Dual-Detection Multi-Agent System for Paper-Code Discrepancy Detection",
+    "date": "Fri, 04 Sep 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2609.03416"
+  },
+  {
+    "source": "arXiv",
+    "title": "DuplexSpeechBench-IFEval: Evaluating Implicit Instruction Following in Full-Duplex Voice Agents",
+    "date": "Fri, 04 Sep 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2609.03423"
+  },
+  {
+    "source": "arXiv",
+    "title": "Do GUI Agents Know When Not to Act? Enabling Conflict-Aware Termination for Multimodal GUI Agents",
+    "date": "Fri, 04 Sep 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2609.03438"
+  },
+  {
+    "source": "arXiv",
+    "title": "Beyond \"Made with AI\": Visualizing Provenance Density to Mitigate the Transparency Penalty",
+    "date": "Fri, 04 Sep 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2609.03460"
+  },
+  {
     "source": "OpenAI",
     "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
     "date": "Thu, 03 Sep 2026 13:15:00 GMT",
@@ -1138,65 +1198,5 @@
     "title": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
     "date": "Mon, 17 Aug 2026 19:46:21 GMT",
     "url": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2"
-  },
-  {
-    "source": "OpenAI",
-    "title": "The Defender’s Window",
-    "date": "Mon, 17 Aug 2026 05:30:00 GMT",
-    "url": "https://openai.com/index/the-defenders-window"
-  },
-  {
-    "source": "OpenAI",
-    "title": "OpenAI joins PORTS-Pike project",
-    "date": "Mon, 17 Aug 2026 05:00:00 GMT",
-    "url": "https://openai.com/index/openai-joins-ports-pike-project"
-  },
-  {
-    "source": "arXiv",
-    "title": "Inducing Reward-Free Judging Rubrics that Reduce Over-Crediting in Agent Evaluation",
-    "date": "Mon, 17 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.13564"
-  },
-  {
-    "source": "arXiv",
-    "title": "Depth-Aware Sensitivity Analysis of Mixture-of-Experts Models via Magnitude-Based Expert Masking",
-    "date": "Mon, 17 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.13565"
-  },
-  {
-    "source": "arXiv",
-    "title": "Modular Cognitive Architecture Emerges in Large Language Models",
-    "date": "Mon, 17 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.13567"
-  },
-  {
-    "source": "arXiv",
-    "title": "A Year in LLM Serving: Workload Evolution, Caching and Load-Balancing",
-    "date": "Mon, 17 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.13573"
-  },
-  {
-    "source": "arXiv",
-    "title": "Agentao: A Governed Local-First Runtime for Tool-Using LLM Agents",
-    "date": "Mon, 17 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.13574"
-  },
-  {
-    "source": "arXiv",
-    "title": "AI Evaluation Should Work With Humans",
-    "date": "Mon, 17 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.13577"
-  },
-  {
-    "source": "arXiv",
-    "title": "Stable Miscalibration in Large Language Models: A Practical View of High-Confidence Errors",
-    "date": "Mon, 17 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.13591"
-  },
-  {
-    "source": "arXiv",
-    "title": "Measuring Cross-Task Behavioral Consistency in Language Model Agents",
-    "date": "Mon, 17 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.13598"
   }
 ]
