@@ -84,6 +84,12 @@
     "url": "https://openai.com/index/playco-game-prototyping-with-astra"
   },
   {
+    "source": "OpenAI",
+    "title": "GPT-6 Astra: A new generation of intelligence",
+    "date": "Thu, 03 Sep 2026 11:00:00 GMT",
+    "url": "https://openai.com/index/gpt-6-astra"
+  },
+  {
     "source": "arXiv",
     "title": "EvalDetectBench: A Benchmark for Measuring Evaluation Awareness in Frontier Language Models",
     "date": "Thu, 03 Sep 2026 00:00:00 -0400",
@@ -1192,11 +1198,5 @@
     "title": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
     "date": "Tue, 18 Aug 2026 00:00:00 GMT",
     "url": "https://huggingface.co/blog/multi-vector-encoder"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
-    "date": "Mon, 17 Aug 2026 19:46:21 GMT",
-    "url": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2"
   }
 ]
