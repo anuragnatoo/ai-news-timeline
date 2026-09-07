@@ -1,5 +1,17 @@
 [
   {
+    "source": "OpenAI",
+    "title": "An Alien Mind",
+    "date": "Sun, 06 Sep 2026 09:00:00 GMT",
+    "url": "https://openai.com/index/an-alien-mind"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Research acceleration: The view inside OpenAI",
+    "date": "Sun, 06 Sep 2026 08:00:00 GMT",
+    "url": "https://openai.com/index/research-acceleration-view-inside-openai"
+  },
+  {
     "source": "arXiv",
     "title": "Structure and Implementation of New Practical English Textbooks Driven by Artificial Intelligence",
     "date": "Fri, 04 Sep 2026 00:00:00 -0400",
@@ -1186,17 +1198,5 @@
     "title": "Position: Certified Correctness in Neural Constraint Reasoning Requires Symbolic Integration",
     "date": "Tue, 18 Aug 2026 00:00:00 -0400",
     "url": "https://arxiv.org/abs/2608.14569"
-  },
-  {
-    "source": "OpenAI",
-    "title": "How NVIDIA scales expertise with ChatGPT Work",
-    "date": "Tue, 18 Aug 2026 00:00:00 GMT",
-    "url": "https://openai.com/index/nvidia/chatgpt-work"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
-    "date": "Tue, 18 Aug 2026 00:00:00 GMT",
-    "url": "https://huggingface.co/blog/multi-vector-encoder"
   }
 ]
