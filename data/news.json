@@ -1,5 +1,71 @@
 [
   {
+    "source": "arXiv",
+    "title": "EXAONE Forecast for Finance",
+    "date": "Mon, 07 Sep 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2609.04239"
+  },
+  {
+    "source": "arXiv",
+    "title": "From Matching Models to Recruiting Agents: A Systematized Narrative Review of AI Recruitment Systems, Evaluation, and Governance",
+    "date": "Mon, 07 Sep 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2609.04286"
+  },
+  {
+    "source": "arXiv",
+    "title": "Harbor Adapters and Harbor-Index: Infrastructure and a Curated Meta-Dataset for Large-Scale Agentic Evaluation",
+    "date": "Mon, 07 Sep 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2609.04298"
+  },
+  {
+    "source": "arXiv",
+    "title": "Data-Optimized Contingency Screening: A Machine Learning Approach to Power System Security",
+    "date": "Mon, 07 Sep 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2609.04300"
+  },
+  {
+    "source": "arXiv",
+    "title": "Iris: Climbing to the Search Frontier",
+    "date": "Mon, 07 Sep 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2609.04304"
+  },
+  {
+    "source": "arXiv",
+    "title": "A Removal Based Approach to Improve LLM Faithfulness at Test-Time",
+    "date": "Mon, 07 Sep 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2609.04343"
+  },
+  {
+    "source": "arXiv",
+    "title": "Why Better Models Can Create Riskier Systems: Evidence from LLM Agents in Financial Markets",
+    "date": "Mon, 07 Sep 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2609.04373"
+  },
+  {
+    "source": "arXiv",
+    "title": "Corporate Language Model (CLM): Transforming Tacit and Fragmented Enterprise Knowledge into a Sovereign, Auditable, and Executable Corporate Intelligence Layer",
+    "date": "Mon, 07 Sep 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2609.04377"
+  },
+  {
+    "source": "arXiv",
+    "title": "HarvestBench: Measuring Whether LLM Agents Will Pay to Avoid Killing Animals",
+    "date": "Mon, 07 Sep 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2609.04444"
+  },
+  {
+    "source": "arXiv",
+    "title": "PerfReasoning: How Well Do LLMs Reason on Hardware Performance?",
+    "date": "Mon, 07 Sep 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2609.04476"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Supporting independent journalism in Ukraine",
+    "date": "Mon, 07 Sep 2026 00:00:00 GMT",
+    "url": "https://openai.com/index/supporting-independent-journalism-in-ukraine"
+  },
+  {
     "source": "OpenAI",
     "title": "An Alien Mind",
     "date": "Sun, 06 Sep 2026 09:00:00 GMT",
@@ -1132,71 +1198,5 @@
     "title": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
     "date": "Tue, 18 Aug 2026 11:00:00 GMT",
     "url": "https://openai.com/index/chatgpt-for-teens"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Asana cleared 5 years of engineering work in 2 weeks with Codex",
-    "date": "Tue, 18 Aug 2026 07:00:00 GMT",
-    "url": "https://openai.com/index/asana"
-  },
-  {
-    "source": "arXiv",
-    "title": "FLOPs vs Real Work: The Importance of Replication in AI Efficiency Assessment",
-    "date": "Tue, 18 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.14550"
-  },
-  {
-    "source": "arXiv",
-    "title": "Large Language Models Show Metacognitive Sensitivity in Medical Reasoning",
-    "date": "Tue, 18 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.14552"
-  },
-  {
-    "source": "arXiv",
-    "title": "The Unwritten Benchmark: A New Challenge for Multimodal Machine Learning in Abstract Perceptual Reasoning",
-    "date": "Tue, 18 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.14558"
-  },
-  {
-    "source": "arXiv",
-    "title": "When to Communicate: Belief Distributions and KL Divergence for Principled Gating in Multi-Agent RL",
-    "date": "Tue, 18 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.14559"
-  },
-  {
-    "source": "arXiv",
-    "title": "Global AI Regulations for FAIR and Ethics in High-Risk Use Cases: A Comparative Review",
-    "date": "Tue, 18 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.14562"
-  },
-  {
-    "source": "arXiv",
-    "title": "Position: AI Lock-In Is in Progress, and We Must Be Prepared",
-    "date": "Tue, 18 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.14565"
-  },
-  {
-    "source": "arXiv",
-    "title": "Position: Evaluations of AI Moral Reasoning Still Miss Half of the Picture",
-    "date": "Tue, 18 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.14566"
-  },
-  {
-    "source": "arXiv",
-    "title": "From Doyle to AGM: A Survey and an Implementation Roadmap for Belief Change",
-    "date": "Tue, 18 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.14567"
-  },
-  {
-    "source": "arXiv",
-    "title": "Position: AI Governance Needs ISO-like Interoperability Protocols, Not Just Laws",
-    "date": "Tue, 18 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.14568"
-  },
-  {
-    "source": "arXiv",
-    "title": "Position: Certified Correctness in Neural Constraint Reasoning Requires Symbolic Integration",
-    "date": "Tue, 18 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.14569"
   }
 ]
