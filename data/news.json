@@ -1,5 +1,53 @@
 [
   {
+    "source": "OpenAI",
+    "title": "How GPT-5.6 Sol helps run quantum computing experiments",
+    "date": "Tue, 08 Sep 2026 17:00:00 GMT",
+    "url": "https://openai.com/index/codex-quantum-computing-experiments"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
+    "date": "Tue, 08 Sep 2026 14:23:07 GMT",
+    "url": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom"
+  },
+  {
+    "source": "OpenAI",
+    "title": "The Work Now Within Reach",
+    "date": "Tue, 08 Sep 2026 13:00:00 GMT",
+    "url": "https://openai.com/index/the-work-now-within-reach"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Introducing ChatGPT Images 2.5",
+    "date": "Tue, 08 Sep 2026 11:30:00 GMT",
+    "url": "https://openai.com/index/introducing-chatgpt-images-2-5"
+  },
+  {
+    "source": "OpenAI",
+    "title": "On the Navier–Stokes Millennium Prize Problem",
+    "date": "Tue, 08 Sep 2026 10:00:00 GMT",
+    "url": "https://openai.com/index/navier-stokes-solution"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Funding grants for new research into AI and teen development",
+    "date": "Tue, 08 Sep 2026 09:00:00 GMT",
+    "url": "https://openai.com/index/teen-development-research-grants"
+  },
+  {
+    "source": "OpenAI",
+    "title": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
+    "date": "Tue, 08 Sep 2026 00:00:00 GMT",
+    "url": "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms"
+  },
+  {
+    "source": "OpenAI",
+    "title": "1Password increases engineering productivity 21% with Codex",
+    "date": "Tue, 08 Sep 2026 00:00:00 GMT",
+    "url": "https://openai.com/index/1password"
+  },
+  {
     "source": "arXiv",
     "title": "EXAONE Forecast for Finance",
     "date": "Mon, 07 Sep 2026 00:00:00 -0400",
@@ -1150,53 +1198,5 @@
     "title": "DiSCO: Defending text-to-image generation through distribution-guided contrastive prompt optimization",
     "date": "Wed, 19 Aug 2026 00:00:00 -0400",
     "url": "https://arxiv.org/abs/2608.17067"
-  },
-  {
-    "source": "arXiv",
-    "title": "KernelArc: A Multi-Agent Framework for GPU Kernel Optimization",
-    "date": "Wed, 19 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.17071"
-  },
-  {
-    "source": "arXiv",
-    "title": "A decodability criterion predicts when hidden-state selection beats majority voting in large language models",
-    "date": "Wed, 19 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.17124"
-  },
-  {
-    "source": "OpenAI",
-    "title": "ChatGPT Ads expands across Europe",
-    "date": "Tue, 18 Aug 2026 22:00:00 GMT",
-    "url": "https://openai.com/index/chatgpt-ads-expands-across-europe"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Strengthening democratic oversight in national security",
-    "date": "Tue, 18 Aug 2026 19:00:00 GMT",
-    "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "How Much Memory Does Your Agent Actually Need?",
-    "date": "Tue, 18 Aug 2026 18:09:38 GMT",
-    "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Partnering with CodeAI to prepare the first AI generation",
-    "date": "Tue, 18 Aug 2026 11:00:00 GMT",
-    "url": "https://openai.com/index/partnering-with-codeai"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Pacing model development in an era of cyber-critical capabilities",
-    "date": "Tue, 18 Aug 2026 11:00:00 GMT",
-    "url": "https://openai.com/index/pacing-model-development-cyber-capabilities"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
-    "date": "Tue, 18 Aug 2026 11:00:00 GMT",
-    "url": "https://openai.com/index/chatgpt-for-teens"
   }
 ]
