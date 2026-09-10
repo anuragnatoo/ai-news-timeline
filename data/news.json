@@ -1,6 +1,30 @@
 [
   {
     "source": "OpenAI",
+    "title": "Paul Christiano joins OpenAI Foundation Board",
+    "date": "Wed, 09 Sep 2026 17:00:00 GMT",
+    "url": "https://openai.com/index/paul-christiano-joins-openai-foundation-board"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
+    "date": "Wed, 09 Sep 2026 15:36:24 GMT",
+    "url": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series"
+  },
+  {
+    "source": "OpenAI",
+    "title": "The AI policy window is open. We need to act.",
+    "date": "Wed, 09 Sep 2026 13:00:00 GMT",
+    "url": "https://openai.com/index/ai-policy-window"
+  },
+  {
+    "source": "OpenAI",
+    "title": "GPT-6 Astra: The next generation in intelligence for work",
+    "date": "Wed, 09 Sep 2026 11:00:00 GMT",
+    "url": "https://openai.com/index/gpt-6-astra-next-generation-work"
+  },
+  {
+    "source": "OpenAI",
     "title": "How GPT-5.6 Sol helps run quantum computing experiments",
     "date": "Tue, 08 Sep 2026 17:00:00 GMT",
     "url": "https://openai.com/index/codex-quantum-computing-experiments"
@@ -1174,29 +1198,5 @@
     "title": "FedPref: Federated Preference Learning for Structured Radiology Report Extraction",
     "date": "Wed, 19 Aug 2026 00:00:00 -0400",
     "url": "https://arxiv.org/abs/2608.16971"
-  },
-  {
-    "source": "arXiv",
-    "title": "The Problem Is the Problem: Towards Scalable Mathematical Discovery",
-    "date": "Wed, 19 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.16977"
-  },
-  {
-    "source": "arXiv",
-    "title": "SkillEffect: Checked Lowering for Memory-Bounded Agent Tools",
-    "date": "Wed, 19 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.17007"
-  },
-  {
-    "source": "arXiv",
-    "title": "Memory Is Communication: The Frontier Between Remembering and Signaling",
-    "date": "Wed, 19 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.17053"
-  },
-  {
-    "source": "arXiv",
-    "title": "DiSCO: Defending text-to-image generation through distribution-guided contrastive prompt optimization",
-    "date": "Wed, 19 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.17067"
   }
 ]
