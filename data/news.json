@@ -1,6 +1,108 @@
 [
   {
     "source": "OpenAI",
+    "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
+    "date": "Thu, 10 Sep 2026 16:00:00 GMT",
+    "url": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Now everyone can put data to work",
+    "date": "Thu, 10 Sep 2026 15:00:00 GMT",
+    "url": "https://openai.com/index/put-data-to-work"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Introducing ChatGPT for Financial Services",
+    "date": "Thu, 10 Sep 2026 07:00:00 GMT",
+    "url": "https://openai.com/index/introducing-chatgpt-financial-services"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
+    "date": "Thu, 10 Sep 2026 07:00:00 GMT",
+    "url": "https://openai.com/index/expanding-ai-access-us-government"
+  },
+  {
+    "source": "arXiv",
+    "title": "Beyond Right and Wrong: Evaluating Second-order Social Reasoning in Large Language Models",
+    "date": "Thu, 10 Sep 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2609.05437"
+  },
+  {
+    "source": "arXiv",
+    "title": "CriticGen: Generation-Aware Evaluation as Actionable Feedback",
+    "date": "Thu, 10 Sep 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2609.05439"
+  },
+  {
+    "source": "arXiv",
+    "title": "When Does Memory Help? A Cost-Aware Evaluation of Long-Term Memory in Tool-Using LLM Agents",
+    "date": "Thu, 10 Sep 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2609.05441"
+  },
+  {
+    "source": "arXiv",
+    "title": "AutoFyn Technical Report: Non-Parametric Expert Iteration for Long-Horizon Agents",
+    "date": "Thu, 10 Sep 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2609.05446"
+  },
+  {
+    "source": "arXiv",
+    "title": "Damage-Aware Bandit Pruning for Vision and Language Transformers",
+    "date": "Thu, 10 Sep 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2609.05448"
+  },
+  {
+    "source": "arXiv",
+    "title": "Compiling VGDL into Causal Models",
+    "date": "Thu, 10 Sep 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2609.05459"
+  },
+  {
+    "source": "arXiv",
+    "title": "ARC-Bench: Closed-Loop Replanning Masks Broken Action Ranking in Frozen JEPA World Models",
+    "date": "Thu, 10 Sep 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2609.05461"
+  },
+  {
+    "source": "arXiv",
+    "title": "RAPID: Reliability-Aware Pair Importance Distillation",
+    "date": "Thu, 10 Sep 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2609.05481"
+  },
+  {
+    "source": "arXiv",
+    "title": "PGP-Clinical-TimeKAN: Prior-Guided Joint Probabilistic Forecasting of Clinical Trajectories",
+    "date": "Thu, 10 Sep 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2609.05488"
+  },
+  {
+    "source": "arXiv",
+    "title": "SciLitBench: Benchmark and Design Principles for LLM-Powered Systematic Literature Reviews",
+    "date": "Thu, 10 Sep 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2609.05505"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Introducing the Agents API",
+    "date": "Thu, 10 Sep 2026 00:00:00 GMT",
+    "url": "https://openai.com/index/introducing-the-agents-api"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
+    "date": "Thu, 10 Sep 2026 00:00:00 GMT",
+    "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
+    "date": "Thu, 10 Sep 2026 00:00:00 GMT",
+    "url": "https://huggingface.co/blog/gradio-workflow-1111"
+  },
+  {
+    "source": "OpenAI",
     "title": "Paul Christiano joins OpenAI Foundation Board",
     "date": "Wed, 09 Sep 2026 17:00:00 GMT",
     "url": "https://openai.com/index/paul-christiano-joins-openai-foundation-board"
@@ -1096,107 +1198,5 @@
     "title": "Position: Profiling Game Worlds by Transition Complexity",
     "date": "Thu, 20 Aug 2026 00:00:00 -0400",
     "url": "https://arxiv.org/abs/2608.18079"
-  },
-  {
-    "source": "arXiv",
-    "title": "Large Language Models in Mental Health: A Systematic Review of Applications, Innovations, and Ethical Challenges",
-    "date": "Thu, 20 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.18080"
-  },
-  {
-    "source": "arXiv",
-    "title": "Position: Behavioral Systems Require Behavioral Tests",
-    "date": "Thu, 20 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.18081"
-  },
-  {
-    "source": "arXiv",
-    "title": "Position: Current Model Cards Are Insufficient for Downstream Governance of Open-Weight Foundation Models",
-    "date": "Thu, 20 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.18086"
-  },
-  {
-    "source": "arXiv",
-    "title": "A Metamorphic Artificial Age Score Decision-Support Prototype for Flight-Log-Based Drone Propeller Health Monitoring",
-    "date": "Thu, 20 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.18088"
-  },
-  {
-    "source": "arXiv",
-    "title": "Position: Multi-Agent Systems Should Prioritize Concurrency Control",
-    "date": "Thu, 20 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.18092"
-  },
-  {
-    "source": "arXiv",
-    "title": "FinSkillBench: Evaluating AI Agents and Domain Skills for Investment Management",
-    "date": "Thu, 20 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.18099"
-  },
-  {
-    "source": "arXiv",
-    "title": "Self-Evolving Agents as Dynamic Graph Transformation: A Survey and New Perspective",
-    "date": "Thu, 20 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.18104"
-  },
-  {
-    "source": "arXiv",
-    "title": "Emergence of Agentic AI: A Review on Evolution, Background, Working Principles, Applications, Adoption Factors, and Future Research Directions",
-    "date": "Thu, 20 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.18110"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Stampli cuts launch hours by 68% using ChatGPT Work",
-    "date": "Thu, 20 Aug 2026 00:00:00 GMT",
-    "url": "https://openai.com/index/stampli"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Offering Zero Data Retention for frontier models",
-    "date": "Wed, 19 Aug 2026 19:00:00 GMT",
-    "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models"
-  },
-  {
-    "source": "VentureBeat",
-    "title": "VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push",
-    "date": "Wed, 19 Aug 2026 14:18:12 GMT",
-    "url": "https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "LFM2.5 Q4\\_0 Checkpoints from Quantization-Aware Distillation",
-    "date": "Wed, 19 Aug 2026 13:48:49 GMT",
-    "url": "https://huggingface.co/blog/LiquidAI/qad"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Replit expands access to software creation with GPT-5.6 Luna",
-    "date": "Wed, 19 Aug 2026 07:00:00 GMT",
-    "url": "https://openai.com/index/replit"
-  },
-  {
-    "source": "arXiv",
-    "title": "GxP-Agent: Process-DAG Topology for Reliable Clinical Trial Programming with LLM Agents",
-    "date": "Wed, 19 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.16890"
-  },
-  {
-    "source": "arXiv",
-    "title": "Runtime Governance for Agentic AI: Action-Boundary Control with Trusted Provenance and Fail-Closed Execution",
-    "date": "Wed, 19 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.16891"
-  },
-  {
-    "source": "arXiv",
-    "title": "The Price of Thinking: Reasoning Effort as a Model-Specific API Contract",
-    "date": "Wed, 19 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.16956"
-  },
-  {
-    "source": "arXiv",
-    "title": "FedPref: Federated Preference Learning for Structured Radiology Report Extraction",
-    "date": "Wed, 19 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.16971"
   }
 ]
