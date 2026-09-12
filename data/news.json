@@ -1,6 +1,84 @@
 [
   {
     "source": "OpenAI",
+    "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
+    "date": "Mon, 14 Sep 2026 00:00:00 GMT",
+    "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
+    "date": "Fri, 11 Sep 2026 16:00:00 GMT",
+    "url": "https://openai.com/index/cognition-devin-testing-with-astra"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
+    "date": "Fri, 11 Sep 2026 10:00:00 GMT",
+    "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one"
+  },
+  {
+    "source": "arXiv",
+    "title": "OpenDiscoveryTrace: Process Traces for Evaluating AI Scientist Workflows",
+    "date": "Fri, 11 Sep 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2609.09203"
+  },
+  {
+    "source": "arXiv",
+    "title": "Adaptive Entangled Game Modules in Artificial General Intelligence",
+    "date": "Fri, 11 Sep 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2609.09226"
+  },
+  {
+    "source": "arXiv",
+    "title": "Subagents vs Agent Skills: Executing Reusable Knowledge for Long-Horizon Agentic Tasks",
+    "date": "Fri, 11 Sep 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2609.09233"
+  },
+  {
+    "source": "arXiv",
+    "title": "Gradland: On Phenomenal Experience, Differentiated Across Many Dimensions",
+    "date": "Fri, 11 Sep 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2609.09306"
+  },
+  {
+    "source": "arXiv",
+    "title": "An Autonomous GeoAI Agent for Arctic Eco-Navigation",
+    "date": "Fri, 11 Sep 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2609.09374"
+  },
+  {
+    "source": "arXiv",
+    "title": "The Menu Is an Execution Prior: State-Path Tool Menus for Online Agents",
+    "date": "Fri, 11 Sep 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2609.09395"
+  },
+  {
+    "source": "arXiv",
+    "title": "Decision-Focused Active Learning for Scale-Aware Critical-Materials Recovery",
+    "date": "Fri, 11 Sep 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2609.09413"
+  },
+  {
+    "source": "arXiv",
+    "title": "Valerant: An Automatic Navigable Game Map Generator via Action-Conditioned World Model Exploration",
+    "date": "Fri, 11 Sep 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2609.09418"
+  },
+  {
+    "source": "arXiv",
+    "title": "XAI-Arena: Can LLMs Assess the Quality of XAI Explanations?",
+    "date": "Fri, 11 Sep 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2609.09428"
+  },
+  {
+    "source": "arXiv",
+    "title": "Do Agents Know When They Succeed? Calibrating Agent Confidence from Internal Representations",
+    "date": "Fri, 11 Sep 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2609.09448"
+  },
+  {
+    "source": "OpenAI",
     "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
     "date": "Thu, 10 Sep 2026 16:00:00 GMT",
     "url": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials"
@@ -1120,83 +1198,5 @@
     "title": "Bounded Sovereignty and the Control Tax: Pricing AI Oversight When the Deployer Does Not Own the Model",
     "date": "Fri, 21 Aug 2026 00:00:00 -0400",
     "url": "https://arxiv.org/abs/2608.19216"
-  },
-  {
-    "source": "arXiv",
-    "title": "Interaction valence reveals contrasting social networks in dairy cattle",
-    "date": "Fri, 21 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.19222"
-  },
-  {
-    "source": "arXiv",
-    "title": "Air Traffic Control Using Large Language Models: Prompt Engineering, Architecture, and Evaluation",
-    "date": "Fri, 21 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.19299"
-  },
-  {
-    "source": "arXiv",
-    "title": "Outcome Monitors: Recovery Affordances for Silent Tool Failures",
-    "date": "Fri, 21 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.19303"
-  },
-  {
-    "source": "arXiv",
-    "title": "Beyond Imitation: Filtering On-Policy Distillation by Reasoning Progress",
-    "date": "Fri, 21 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.19408"
-  },
-  {
-    "source": "arXiv",
-    "title": "Symposium: Trust via Auditable Records for Communities of AI Scientist Agents",
-    "date": "Fri, 21 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.19511"
-  },
-  {
-    "source": "arXiv",
-    "title": "From Retrieved Context to Runtime Control: Adaptive Compression for Edge-based RAG",
-    "date": "Fri, 21 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.19535"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "Measuring benchmark optimization in speech recognition",
-    "date": "Fri, 21 Aug 2026 00:00:00 GMT",
-    "url": "https://huggingface.co/blog/asr-benchmark-optimization"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "How Hugging Face Inference Endpoints, Jobs, and Buckets Power Search on Papers with Code",
-    "date": "Fri, 21 Aug 2026 00:00:00 GMT",
-    "url": "https://huggingface.co/blog/pwc-search"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
-    "date": "Thu, 20 Aug 2026 16:52:57 GMT",
-    "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Introducing AI Futures",
-    "date": "Thu, 20 Aug 2026 07:00:00 GMT",
-    "url": "https://openai.com/index/introducing-ai-futures"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Introducing Intelligence Age",
-    "date": "Thu, 20 Aug 2026 07:00:00 GMT",
-    "url": "https://openai.com/index/introducing-intelligence-age"
-  },
-  {
-    "source": "arXiv",
-    "title": "Position: Collusion Risks Among AI Reasoning Agents Justify Certification Requirements for Making Market Decisions",
-    "date": "Thu, 20 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.18078"
-  },
-  {
-    "source": "arXiv",
-    "title": "Position: Profiling Game Worlds by Transition Complexity",
-    "date": "Thu, 20 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.18079"
   }
 ]
