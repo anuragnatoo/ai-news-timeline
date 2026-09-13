@@ -6,6 +6,66 @@
     "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra"
   },
   {
+    "source": "arXiv",
+    "title": "Probabilistic Focal Search: Accelerating Bounded-Suboptimal Search via Lower-Bound Advancement",
+    "date": "Sat, 12 Sep 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2609.10584"
+  },
+  {
+    "source": "arXiv",
+    "title": "Automating Quadratic Unconstrained Binary Optimization (QUBO) Formulation Generation from Natural Language",
+    "date": "Sat, 12 Sep 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2609.10629"
+  },
+  {
+    "source": "arXiv",
+    "title": "A Multi-Stage Rule-Chaining Framework for Compositional and Interpretable Cognitive Reasoning",
+    "date": "Sat, 12 Sep 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2609.10654"
+  },
+  {
+    "source": "arXiv",
+    "title": "Understanding LoRA Rank Trade-offs in Diffusion Model Fine-Tuning",
+    "date": "Sat, 12 Sep 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2609.10656"
+  },
+  {
+    "source": "arXiv",
+    "title": "Quantifying the Memorization-to-Generalization Transition: Scaling Laws and Phase Structure in Grokking",
+    "date": "Sat, 12 Sep 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2609.10657"
+  },
+  {
+    "source": "arXiv",
+    "title": "An Open Recipe for IMO Gold: Training Nemotron for Olympiad Mathematics",
+    "date": "Sat, 12 Sep 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2609.10712"
+  },
+  {
+    "source": "arXiv",
+    "title": "Finishing the Task Is Not Enough: Evaluating Agent Resilience and Considerate Participation under Accumulating Challenge",
+    "date": "Sat, 12 Sep 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2609.10724"
+  },
+  {
+    "source": "arXiv",
+    "title": "Towards a Deterministic Math Solver for Clinical Language Models",
+    "date": "Sat, 12 Sep 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2609.10728"
+  },
+  {
+    "source": "arXiv",
+    "title": "Studying Without a Syllabus: Task-Agnostic Environment Preprocessing",
+    "date": "Sat, 12 Sep 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2609.10824"
+  },
+  {
+    "source": "arXiv",
+    "title": "When Validation Stops Learning: Auditing Update Admission for Continual Embodied Agents",
+    "date": "Sat, 12 Sep 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2609.10873"
+  },
+  {
     "source": "OpenAI",
     "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
     "date": "Fri, 11 Sep 2026 16:00:00 GMT",
@@ -1138,65 +1198,5 @@
     "title": "A Survey on Foundations and Frontiers of Multimodal Agentic Frameworks: Techniques and Applications",
     "date": "Mon, 24 Aug 2026 00:00:00 -0400",
     "url": "https://arxiv.org/abs/2608.20379"
-  },
-  {
-    "source": "arXiv",
-    "title": "Interpretable Multimodal Classification with Linear Discriminant Tree Ensembles",
-    "date": "Mon, 24 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.20384"
-  },
-  {
-    "source": "arXiv",
-    "title": "Representation Affects Retrieval: A Case Study of Skill Discovery and Routing in a Multimodal Agent Harness",
-    "date": "Mon, 24 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.20389"
-  },
-  {
-    "source": "arXiv",
-    "title": "Nexus: Depth-Adaptive KV-Cache Splicing and Retrieval-Decoupled Tool Routing for Agentic LLMs on Unified Memory",
-    "date": "Mon, 24 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.20397"
-  },
-  {
-    "source": "arXiv",
-    "title": "Environmental Slow AI: Design Principles for Generative Systems",
-    "date": "Mon, 24 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.20398"
-  },
-  {
-    "source": "arXiv",
-    "title": "When Retrieval Fails Before It Begins: Structurally Indirect Prerequisite Eviction as a Retention Failure in Agentic Memory",
-    "date": "Mon, 24 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.20400"
-  },
-  {
-    "source": "arXiv",
-    "title": "World models of environment, agent and joint agent-environment systems",
-    "date": "Mon, 24 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.20401"
-  },
-  {
-    "source": "arXiv",
-    "title": "Active Inference as Context Acquisition for AI Agents",
-    "date": "Fri, 21 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.19202"
-  },
-  {
-    "source": "arXiv",
-    "title": "Robust Metaheuristics under Uncertainty for Berth Allocation and Quay Crane Assignment: A Review",
-    "date": "Fri, 21 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.19214"
-  },
-  {
-    "source": "arXiv",
-    "title": "How to Navigate Uncertainty About AI Consciousness",
-    "date": "Fri, 21 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.19215"
-  },
-  {
-    "source": "arXiv",
-    "title": "Bounded Sovereignty and the Control Tax: Pricing AI Oversight When the Deployer Does Not Own the Model",
-    "date": "Fri, 21 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.19216"
   }
 ]
