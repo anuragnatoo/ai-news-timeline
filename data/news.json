@@ -1,6 +1,12 @@
 [
   {
     "source": "OpenAI",
+    "title": "How Fyxer built an AI executive assistant people trust",
+    "date": "Mon, 14 Sep 2026 12:00:00 GMT",
+    "url": "https://openai.com/index/fyxer"
+  },
+  {
+    "source": "OpenAI",
     "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
     "date": "Mon, 14 Sep 2026 00:00:00 GMT",
     "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra"
@@ -238,6 +244,12 @@
     "title": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
     "date": "Thu, 10 Sep 2026 00:00:00 GMT",
     "url": "https://huggingface.co/blog/gradio-workflow-1111"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "Async GRPO with LoRA across HF Jobs: a bucket, a proxy, and no NCCL",
+    "date": "Thu, 10 Sep 2026 00:00:00 GMT",
+    "url": "https://huggingface.co/blog/asyncgrpo-lora-hfjobs"
   },
   {
     "source": "OpenAI",
@@ -1186,17 +1198,5 @@
     "title": "PrimeAgentOrchestrator: Memory-Primed Agent Spawning for Personal AI Infrastructure",
     "date": "Mon, 24 Aug 2026 00:00:00 -0400",
     "url": "https://arxiv.org/abs/2608.20342"
-  },
-  {
-    "source": "arXiv",
-    "title": "Truth Lies Deep: Countering Semantic Camouflage via Latent Intent Verification",
-    "date": "Mon, 24 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.20378"
-  },
-  {
-    "source": "arXiv",
-    "title": "A Survey on Foundations and Frontiers of Multimodal Agentic Frameworks: Techniques and Applications",
-    "date": "Mon, 24 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.20379"
   }
 ]
