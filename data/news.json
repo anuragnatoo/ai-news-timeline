@@ -1,5 +1,71 @@
 [
   {
+    "source": "HuggingFace",
+    "title": "Your Agent Aced the Task. Will It Do It Again?",
+    "date": "Tue, 15 Sep 2026 16:00:44 GMT",
+    "url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency"
+  },
+  {
+    "source": "arXiv",
+    "title": "ZGCM-1: A Fully Open and Extremely Efficient Foundation Model for Math and Agentic Search",
+    "date": "Tue, 15 Sep 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2609.13356"
+  },
+  {
+    "source": "arXiv",
+    "title": "Converge Then Diversify: Decoupling Convergence and Diversity in Multi-Objective Bayesian Optimisation",
+    "date": "Tue, 15 Sep 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2609.13396"
+  },
+  {
+    "source": "arXiv",
+    "title": "Generalized Agent Iteration: One Formal Framework for Iterative Policy Improvement and Recursive Self-Improvement",
+    "date": "Tue, 15 Sep 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2609.13406"
+  },
+  {
+    "source": "arXiv",
+    "title": "Vibe Patenting: Evaluating LLM Judges for Professional Patent-Drafting Agents",
+    "date": "Tue, 15 Sep 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2609.13422"
+  },
+  {
+    "source": "arXiv",
+    "title": "Toward Self-Adaptive Physical AI: Can LLM Agents Manage Long-Horizon Physical Tasks?",
+    "date": "Tue, 15 Sep 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2609.13436"
+  },
+  {
+    "source": "arXiv",
+    "title": "LabAgent: Customize Any Research Hubs for Scientific Discoveries Using AI Agents",
+    "date": "Tue, 15 Sep 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2609.13437"
+  },
+  {
+    "source": "arXiv",
+    "title": "TimeThink: Eliciting Compositional Reasoning in Timeseries Large Language Models",
+    "date": "Tue, 15 Sep 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2609.13457"
+  },
+  {
+    "source": "arXiv",
+    "title": "Root-Cause Attribution Is a Search Problem: Continual Search for Long-Horizon Agent Failures",
+    "date": "Tue, 15 Sep 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2609.13463"
+  },
+  {
+    "source": "arXiv",
+    "title": "Governing at Machine Speed: An Adaptive Intelligence Architecture for Real-Time AI Policy Enforcement",
+    "date": "Tue, 15 Sep 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2609.13466"
+  },
+  {
+    "source": "arXiv",
+    "title": "OrchSLM: Probing the Dynamics of Small Language Model Orchestration",
+    "date": "Tue, 15 Sep 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2609.13470"
+  },
+  {
     "source": "OpenAI",
     "title": "How Fyxer built an AI executive assistant people trust",
     "date": "Mon, 14 Sep 2026 12:00:00 GMT",
@@ -1132,71 +1198,5 @@
     "title": "LitReview Arena: Evaluating Literature Review Agents with Battle-Style Peer Review Platform",
     "date": "Tue, 25 Aug 2026 00:00:00 -0400",
     "url": "https://arxiv.org/abs/2608.21374"
-  },
-  {
-    "source": "arXiv",
-    "title": "SchemaRouter: Field-Aware Tool Routing for Efficient Heterogeneous Agentic RAG",
-    "date": "Tue, 25 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.21375"
-  },
-  {
-    "source": "arXiv",
-    "title": "RIACT: A Responsible AI System for Personalized Study Habit Tracking and Early Burnout Signal Detection in University Students",
-    "date": "Tue, 25 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.21379"
-  },
-  {
-    "source": "arXiv",
-    "title": "There Is No Neutral Harness: Modern LLM Leaderboards Are Manufactured by Config-Fragile Items",
-    "date": "Tue, 25 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.21382"
-  },
-  {
-    "source": "arXiv",
-    "title": "Spyre-Accelerated Retrieval-Augmented Generation on IBM LinuxONE: A Cloud-Native Architecture for Secure, High-Throughput Enterprise AI Inference",
-    "date": "Tue, 25 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.21393"
-  },
-  {
-    "source": "arXiv",
-    "title": "Hate Speech Classification In Roman Urdu: A Comparative Study On Parameter Efficient Fine-Tuning And Prompt Engineering",
-    "date": "Tue, 25 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.21408"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Disrupting a new covert influence campaign from Russia",
-    "date": "Tue, 25 Aug 2026 00:00:00 GMT",
-    "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Introducing the Admin plugin for ChatGPT Work and Codex",
-    "date": "Tue, 25 Aug 2026 00:00:00 GMT",
-    "url": "https://openai.com/index/introducing-admin-plugin"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
-    "date": "Tue, 25 Aug 2026 00:00:00 GMT",
-    "url": "https://huggingface.co/blog/gradio-workflow-guide"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
-    "date": "Mon, 24 Aug 2026 12:00:00 GMT",
-    "url": "https://openai.com/index/gpt-5-6-in-kiro"
-  },
-  {
-    "source": "arXiv",
-    "title": "SDAD: Spec-Driven Agentic Development for the AI-Native SDLC",
-    "date": "Mon, 24 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.20341"
-  },
-  {
-    "source": "arXiv",
-    "title": "PrimeAgentOrchestrator: Memory-Primed Agent Spawning for Personal AI Infrastructure",
-    "date": "Mon, 24 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.20342"
   }
 ]
