@@ -1,5 +1,95 @@
 [
   {
+    "source": "OpenAI",
+    "title": "Our framework for reporting model misalignment",
+    "date": "Wed, 16 Sep 2026 17:00:00 GMT",
+    "url": "https://openai.com/index/model-misalignment-reporting-framework"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Helping older adults use AI in everyday life",
+    "date": "Wed, 16 Sep 2026 16:00:00 GMT",
+    "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Reimagining advertising with AI",
+    "date": "Wed, 16 Sep 2026 13:00:00 GMT",
+    "url": "https://openai.com/index/reimagining-advertising-with-ai"
+  },
+  {
+    "source": "OpenAI",
+    "title": "How to connect AI usage to business value",
+    "date": "Wed, 16 Sep 2026 12:00:00 GMT",
+    "url": "https://openai.com/index/how-to-connect-ai-usage-to-business-value"
+  },
+  {
+    "source": "OpenAI",
+    "title": "How workers are unlocking new ways of working",
+    "date": "Wed, 16 Sep 2026 09:00:00 GMT",
+    "url": "https://openai.com/index/unlocking-new-ways-of-working"
+  },
+  {
+    "source": "arXiv",
+    "title": "Optimal Pruning for Neural Architectures using Fisher Information Distances",
+    "date": "Wed, 16 Sep 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2609.16129"
+  },
+  {
+    "source": "arXiv",
+    "title": "Safe Error Correction for Language Models: Frozen-Base Adjustment with Capability Preservation",
+    "date": "Wed, 16 Sep 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2609.16145"
+  },
+  {
+    "source": "arXiv",
+    "title": "GPEvac: GNN-Based PPO for Adaptive Evacuation Routing During Shooting Events",
+    "date": "Wed, 16 Sep 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2609.16163"
+  },
+  {
+    "source": "arXiv",
+    "title": "Position: AI Is Not Ready for Strategic Conflicts",
+    "date": "Wed, 16 Sep 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2609.16189"
+  },
+  {
+    "source": "arXiv",
+    "title": "Calibrate, Then Route: A Measured Study of Learned Request Routing for Disaggregated LLM Serving",
+    "date": "Wed, 16 Sep 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2609.16206"
+  },
+  {
+    "source": "arXiv",
+    "title": "Artificial intelligence and biosecurity: capabilities, threat pathways, and defense-in-depth governance",
+    "date": "Wed, 16 Sep 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2609.16213"
+  },
+  {
+    "source": "arXiv",
+    "title": "Where Should the KV Cache Live? Placement Policies Across GPU, CPU, and SSD for Long-Lived Sessions",
+    "date": "Wed, 16 Sep 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2609.16215"
+  },
+  {
+    "source": "arXiv",
+    "title": "Toward Governance-Aware Autonomous GIS: A Narrative Review of Ethical and Privacy Risks in LLM-Enabled GeoAI",
+    "date": "Wed, 16 Sep 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2609.16232"
+  },
+  {
+    "source": "arXiv",
+    "title": "Metacognitive Steering: Learning the Structure of Scientific Judgment",
+    "date": "Wed, 16 Sep 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2609.16245"
+  },
+  {
+    "source": "arXiv",
+    "title": "The Pain Axis: LLMs Represent Self-Directed Harm and Act to Relieve It",
+    "date": "Wed, 16 Sep 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2609.16247"
+  },
+  {
     "source": "HuggingFace",
     "title": "Your Agent Aced the Task. Will It Do It Again?",
     "date": "Tue, 15 Sep 2026 16:00:44 GMT",
@@ -1108,95 +1198,5 @@
     "title": "Expanding OpenAI’s presence in Brazil",
     "date": "Thu, 27 Aug 2026 03:00:00 GMT",
     "url": "https://openai.com/index/expanding-our-presence-in-brazil"
-  },
-  {
-    "source": "VentureBeat",
-    "title": "Orchestration is the new challenge for CX in the age of AI agents",
-    "date": "Wed, 26 Aug 2026 14:30:00 GMT",
-    "url": "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
-    "date": "Wed, 26 Aug 2026 10:00:00 GMT",
-    "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Learning never stops: How AI makes learning continuous",
-    "date": "Wed, 26 Aug 2026 10:00:00 GMT",
-    "url": "https://openai.com/index/learning-never-stops"
-  },
-  {
-    "source": "OpenAI",
-    "title": "The Hugging Face incident and the road ahead",
-    "date": "Wed, 26 Aug 2026 00:00:00 GMT",
-    "url": "https://openai.com/index/hugging-face-incident-and-the-road-ahead"
-  },
-  {
-    "source": "OpenAI",
-    "title": "How loveholidays is making everyone a builder with Codex",
-    "date": "Wed, 26 Aug 2026 00:00:00 GMT",
-    "url": "https://openai.com/index/loveholidays"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
-    "date": "Wed, 26 Aug 2026 00:00:00 GMT",
-    "url": "https://huggingface.co/blog/train-multi-vector-encoder"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "Granite 4.2 LLMs: How They're Built",
-    "date": "Tue, 25 Aug 2026 15:14:14 GMT",
-    "url": "https://huggingface.co/blog/ibm-granite/granite-4-2"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
-    "date": "Tue, 25 Aug 2026 11:39:24 GMT",
-    "url": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing"
-  },
-  {
-    "source": "OpenAI",
-    "title": "The full stack behind abundant intelligence",
-    "date": "Tue, 25 Aug 2026 07:05:00 GMT",
-    "url": "https://openai.com/index/the-full-stack-behind-abundant-intelligence"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
-    "date": "Tue, 25 Aug 2026 07:00:00 GMT",
-    "url": "https://openai.com/index/jalapeno-first-results"
-  },
-  {
-    "source": "arXiv",
-    "title": "KVBoost: Chunk-Level Key-Value Cache Reuse with Deviation-Guided Recomputation for Efficient Large Language Model Inference",
-    "date": "Tue, 25 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.21362"
-  },
-  {
-    "source": "arXiv",
-    "title": "AIREP: A Protocol for Per-Decision Evidence in AI Runtime Governance",
-    "date": "Tue, 25 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.21363"
-  },
-  {
-    "source": "arXiv",
-    "title": "Reviewing Model Collapse and Countermeasures",
-    "date": "Tue, 25 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.21366"
-  },
-  {
-    "source": "arXiv",
-    "title": "AI Learning and Conceptual Transfer in the Game of Hidden Rules",
-    "date": "Tue, 25 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.21372"
-  },
-  {
-    "source": "arXiv",
-    "title": "LitReview Arena: Evaluating Literature Review Agents with Battle-Style Peer Review Platform",
-    "date": "Tue, 25 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.21374"
   }
 ]
