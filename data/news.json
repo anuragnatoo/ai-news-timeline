@@ -1,6 +1,78 @@
 [
   {
     "source": "OpenAI",
+    "title": "How Cooley is accelerating IPO work with ChatGPT",
+    "date": "Thu, 17 Sep 2026 12:00:00 GMT",
+    "url": "https://openai.com/index/cooley-gopublic"
+  },
+  {
+    "source": "arXiv",
+    "title": "Making AI-Assisted Claims Independently Challengeable: Publication Authority and a Protocol for Falsifiable Publication Records",
+    "date": "Thu, 17 Sep 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2609.17631"
+  },
+  {
+    "source": "arXiv",
+    "title": "EvolveTrade: Experience-Driven Policy Refinement for Self-Evolving LLM Trading Agents",
+    "date": "Thu, 17 Sep 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2609.17632"
+  },
+  {
+    "source": "arXiv",
+    "title": "One Color Preprocessing Improves DSATUR",
+    "date": "Thu, 17 Sep 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2609.17633"
+  },
+  {
+    "source": "arXiv",
+    "title": "Physics-Constrained Digital Twins for Sensor Integrity in Urban Pedestrian Flow: Detecting Stealthy False Data Injection with Conformal Guarantees",
+    "date": "Thu, 17 Sep 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2609.17635"
+  },
+  {
+    "source": "arXiv",
+    "title": "What You Can't See Is Still What You Learn: A Preregistered Sixty-Society Confirmation That Evidence Masking Drives Compositional Generalization",
+    "date": "Thu, 17 Sep 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2609.17637"
+  },
+  {
+    "source": "arXiv",
+    "title": "CapMem: A Benchmark for Caption-Based Episodic Memory in Egocentric Video",
+    "date": "Thu, 17 Sep 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2609.17688"
+  },
+  {
+    "source": "arXiv",
+    "title": "GraphEcho: Structural Redundancy and Evidence Provenance in LLM Graph Agents",
+    "date": "Thu, 17 Sep 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2609.17695"
+  },
+  {
+    "source": "arXiv",
+    "title": "GVD: Governed Versioning and Deduplication for Document Repositories",
+    "date": "Thu, 17 Sep 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2609.17696"
+  },
+  {
+    "source": "arXiv",
+    "title": "NeMo Data Designer: An Extensible Framework for Multimodal Synthetic Data Generation",
+    "date": "Thu, 17 Sep 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2609.17699"
+  },
+  {
+    "source": "arXiv",
+    "title": "A Systematic Evaluation of the COTQ Provincial Land Cover Product: Structural Consistency, Spectral Separability, and Relative Positioning Against ESA, ESRI, and Google Products",
+    "date": "Thu, 17 Sep 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2609.17731"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Introducing Astra for Law",
+    "date": "Thu, 17 Sep 2026 00:00:00 GMT",
+    "url": "https://openai.com/index/astra-for-law"
+  },
+  {
+    "source": "OpenAI",
     "title": "Our framework for reporting model misalignment",
     "date": "Wed, 16 Sep 2026 17:00:00 GMT",
     "url": "https://openai.com/index/model-misalignment-reporting-framework"
@@ -1126,77 +1198,5 @@
     "title": "When agents act on their own, governance has to live in the data layer",
     "date": "Thu, 27 Aug 2026 12:01:00 GMT",
     "url": "https://venturebeat.com/security/when-agents-act-on-their-own-governance-has-to-live-in-the-data-layer"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
-    "date": "Thu, 27 Aug 2026 09:00:00 GMT",
-    "url": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training"
-  },
-  {
-    "source": "arXiv",
-    "title": "RENDER: Controlling Reader-Facing Evidence in LLM Memory Evaluation",
-    "date": "Thu, 27 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.23568"
-  },
-  {
-    "source": "arXiv",
-    "title": "ESQ-Bench: A Multi-Tier Enterprise Oracle Benchmark for Evaluating NL2SQL Dialect Generalization and Silent Semantic Divergence",
-    "date": "Thu, 27 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.23569"
-  },
-  {
-    "source": "arXiv",
-    "title": "LLM Agents Perform Controlled Experiments Using Simulation Models",
-    "date": "Thu, 27 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.23622"
-  },
-  {
-    "source": "arXiv",
-    "title": "A survey detection channel overrides the pixels in an astronomical foundation model, and biases tomographic mean redshifts",
-    "date": "Thu, 27 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.23626"
-  },
-  {
-    "source": "arXiv",
-    "title": "TRACE: Transition-Aware Residual Control for Multi-Objective Materials Discovery",
-    "date": "Thu, 27 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.23631"
-  },
-  {
-    "source": "arXiv",
-    "title": "Function-Level Execution Feedback for Code Preference Optimization",
-    "date": "Thu, 27 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.23632"
-  },
-  {
-    "source": "arXiv",
-    "title": "Auditing the Synthetic Memoir: Measuring Scene-Level Confabulation in LLM-Generated Autobiography Against the Documented Record of the Life It Describes",
-    "date": "Thu, 27 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.23640"
-  },
-  {
-    "source": "arXiv",
-    "title": "How much of a measured AI preference is the model, and how much is the instrument?",
-    "date": "Thu, 27 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.23641"
-  },
-  {
-    "source": "arXiv",
-    "title": "AI Agents Push Humans Out of the Loop",
-    "date": "Thu, 27 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.23642"
-  },
-  {
-    "source": "arXiv",
-    "title": "FLARE: A Systematic, Uncertainty-Aware Framework for Evidence-Based Adoption of Artificial Intelligence in Healthcare",
-    "date": "Thu, 27 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.23643"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Expanding OpenAI’s presence in Brazil",
-    "date": "Thu, 27 Aug 2026 03:00:00 GMT",
-    "url": "https://openai.com/index/expanding-our-presence-in-brazil"
   }
 ]
