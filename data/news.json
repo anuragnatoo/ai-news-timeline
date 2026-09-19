@@ -1,5 +1,65 @@
 [
   {
+    "source": "arXiv",
+    "title": "Regularized Emphatic Temporal-Difference Learning: Stability under Constant Stepsizes",
+    "date": "Fri, 18 Sep 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2609.19170"
+  },
+  {
+    "source": "arXiv",
+    "title": "BioPhys-Bridge: A Benchmark for Interdisciplinary Scientific Reasoning in Physics-Grounded Biological Research",
+    "date": "Fri, 18 Sep 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2609.19180"
+  },
+  {
+    "source": "arXiv",
+    "title": "What Do We Expect from LLMs? Mapping the Design of LLM Benchmarks",
+    "date": "Fri, 18 Sep 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2609.19182"
+  },
+  {
+    "source": "arXiv",
+    "title": "Position: It is Time to Virtualize Foundation Models with a Self-evolving Operating System Layer",
+    "date": "Fri, 18 Sep 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2609.19203"
+  },
+  {
+    "source": "arXiv",
+    "title": "What Do Current Systematic Generalization Tasks Miss? A Reasoning-Centered Analysis",
+    "date": "Fri, 18 Sep 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2609.19212"
+  },
+  {
+    "source": "arXiv",
+    "title": "Characterizing Web Search by Conversational LLM Agents: From Search Decisions and Strategies to Results and Responses",
+    "date": "Fri, 18 Sep 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2609.19244"
+  },
+  {
+    "source": "arXiv",
+    "title": "Do AI Agents Understand Computer Architecture?",
+    "date": "Fri, 18 Sep 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2609.19387"
+  },
+  {
+    "source": "arXiv",
+    "title": "MAGS: Multi-agent Auto-formalization Guarantees Safety for Agentic Outputs",
+    "date": "Fri, 18 Sep 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2609.19391"
+  },
+  {
+    "source": "arXiv",
+    "title": "Closed-World Resolution Against Tool Hallucination in LLM Agents",
+    "date": "Fri, 18 Sep 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2609.19425"
+  },
+  {
+    "source": "arXiv",
+    "title": "The syntax and semantics of goals",
+    "date": "Fri, 18 Sep 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2609.19448"
+  },
+  {
     "source": "OpenAI",
     "title": "How Cooley is accelerating IPO work with ChatGPT",
     "date": "Thu, 17 Sep 2026 12:00:00 GMT",
@@ -94,6 +154,12 @@
     "title": "How to connect AI usage to business value",
     "date": "Wed, 16 Sep 2026 12:00:00 GMT",
     "url": "https://openai.com/index/how-to-connect-ai-usage-to-business-value"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Hex turns complex analysis into visual reports with GPT‑6 Astra",
+    "date": "Wed, 16 Sep 2026 12:00:00 GMT",
+    "url": "https://openai.com/index/hex-gpt-6-astra"
   },
   {
     "source": "OpenAI",
@@ -1132,71 +1198,5 @@
     "title": "Large Models for Battery Prognostics and Health Management: A Review and Future Roadmap",
     "date": "Fri, 28 Aug 2026 00:00:00 -0400",
     "url": "https://arxiv.org/abs/2608.26111"
-  },
-  {
-    "source": "arXiv",
-    "title": "PICasso: An AI-Enabled Design Framework for Autonomous Optimization of Silicon Photonic Devices",
-    "date": "Fri, 28 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.26113"
-  },
-  {
-    "source": "arXiv",
-    "title": "CIFQA: A Deterministic Tool-Grounded Multi-Agent LLM Framework for Financial Query Answering",
-    "date": "Fri, 28 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.26114"
-  },
-  {
-    "source": "arXiv",
-    "title": "The Artificial Experimentalist: Discovery and Control of Self-Organizing Phenomena with Autotelic Reinforcement Learning",
-    "date": "Fri, 28 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.26116"
-  },
-  {
-    "source": "arXiv",
-    "title": "The Accuracy-Efficiency Paradox Quantifying Net Energy Loss in on-Device Energy Forecasting",
-    "date": "Fri, 28 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.26134"
-  },
-  {
-    "source": "arXiv",
-    "title": "LLMs for Academic Workflows: An Evaluation of Literature Reviews Generated with Short and Long Context Windows of LLMs",
-    "date": "Fri, 28 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.26145"
-  },
-  {
-    "source": "arXiv",
-    "title": "Methodological and Conceptual Framework for 5D Multi-Table Analysis: A Unified Approach for Complex Data Reuse",
-    "date": "Fri, 28 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.26149"
-  },
-  {
-    "source": "arXiv",
-    "title": "Leveraging Large Language Models for Systematic Literature Review of Disease Spread Models",
-    "date": "Fri, 28 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.26150"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Supporting Thailand’s next generation of AI startups",
-    "date": "Fri, 28 Aug 2026 02:00:00 GMT",
-    "url": "https://openai.com/index/supporting-next-generation-ai-startups-thailand"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "The Open ASR Leaderboard Adds Its First Global South Language",
-    "date": "Fri, 28 Aug 2026 00:00:00 GMT",
-    "url": "https://huggingface.co/blog/open-asr-leaderboard-global-south"
-  },
-  {
-    "source": "VentureBeat",
-    "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
-    "date": "Thu, 27 Aug 2026 14:01:00 GMT",
-    "url": "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them"
-  },
-  {
-    "source": "VentureBeat",
-    "title": "When agents act on their own, governance has to live in the data layer",
-    "date": "Thu, 27 Aug 2026 12:01:00 GMT",
-    "url": "https://venturebeat.com/security/when-agents-act-on-their-own-governance-has-to-live-in-the-data-layer"
   }
 ]
