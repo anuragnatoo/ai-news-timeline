@@ -1,5 +1,11 @@
 [
   {
+    "source": "OpenAI",
+    "title": "Introducing the Australian Youth Safety Blueprint",
+    "date": "Fri, 18 Sep 2026 12:00:00 GMT",
+    "url": "https://openai.com/index/australian-youth-safety-blueprint"
+  },
+  {
     "source": "arXiv",
     "title": "Regularized Emphatic Temporal-Difference Learning: Stability under Constant Stepsizes",
     "date": "Fri, 18 Sep 2026 00:00:00 -0400",
@@ -1192,11 +1198,5 @@
     "title": "Standalone LLM and a Pre-specified Agentic Pipeline for Explaining ICU Mortality Predictions: a Feasibility Study on the eICU Demo Dataset",
     "date": "Fri, 28 Aug 2026 00:00:00 -0400",
     "url": "https://arxiv.org/abs/2608.26109"
-  },
-  {
-    "source": "arXiv",
-    "title": "Large Models for Battery Prognostics and Health Management: A Review and Future Roadmap",
-    "date": "Fri, 28 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.26111"
   }
 ]
