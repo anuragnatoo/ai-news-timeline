@@ -1,5 +1,107 @@
 [
   {
+    "source": "HuggingFace",
+    "title": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
+    "date": "Mon, 21 Sep 2026 13:44:34 GMT",
+    "url": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Advisory Group on Mathematics and Artificial Intelligence",
+    "date": "Mon, 21 Sep 2026 12:00:00 GMT",
+    "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
+    "date": "Mon, 21 Sep 2026 12:00:00 GMT",
+    "url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Building standards for the next phase of AI",
+    "date": "Mon, 21 Sep 2026 10:00:00 GMT",
+    "url": "https://openai.com/index/building-standards-next-phase-ai"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Expanding OpenAI Academy with new learning paths",
+    "date": "Mon, 21 Sep 2026 07:00:00 GMT",
+    "url": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths"
+  },
+  {
+    "source": "arXiv",
+    "title": "RBS-Attention: Radius-Bounded Sparse Prefill for Long-Context Large Language Models",
+    "date": "Mon, 21 Sep 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2609.20971"
+  },
+  {
+    "source": "arXiv",
+    "title": "Attention-Aware Routing: Coupling Routing and Attention in MoEs",
+    "date": "Mon, 21 Sep 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2609.20974"
+  },
+  {
+    "source": "arXiv",
+    "title": "CaLR: Causal Latent Revision for Robust Diffusion Reasoning",
+    "date": "Mon, 21 Sep 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2609.20981"
+  },
+  {
+    "source": "arXiv",
+    "title": "LoRA Enhanced Contrastive Learning with SAS Vision Transformers",
+    "date": "Mon, 21 Sep 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2609.21061"
+  },
+  {
+    "source": "arXiv",
+    "title": "Detecting Hallucination in LLMs: Tracing the Topological Signatures of Impaired Context Sharing",
+    "date": "Mon, 21 Sep 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2609.21096"
+  },
+  {
+    "source": "arXiv",
+    "title": "Decoupling Internal Representational Changes and Causal Importance in Fine-Tuned Large Language Models",
+    "date": "Mon, 21 Sep 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2609.21113"
+  },
+  {
+    "source": "arXiv",
+    "title": "TinyCeNN-LM: Quality-Gated Conversion of Pretrained Attention with CeNN-Inspired Cellular-Recurrent Layers",
+    "date": "Mon, 21 Sep 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2609.21139"
+  },
+  {
+    "source": "arXiv",
+    "title": "Clinician-Grounded Quality Assurance for AI-Assisted Psychiatric Intake",
+    "date": "Mon, 21 Sep 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2609.21149"
+  },
+  {
+    "source": "arXiv",
+    "title": "Can Agents Design Better Chips with a Higher Level Abstraction?",
+    "date": "Mon, 21 Sep 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2609.21157"
+  },
+  {
+    "source": "arXiv",
+    "title": "SpecOpt: Contact-Diff Reasoning for Agentic Molecule Optimization Toward Binding Specificity",
+    "date": "Mon, 21 Sep 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2609.21165"
+  },
+  {
+    "source": "OpenAI",
+    "title": "How V7 gives AI agents institutional memory",
+    "date": "Mon, 21 Sep 2026 00:00:00 GMT",
+    "url": "https://openai.com/index/v7"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "tokenizers v1: encode, decode and scaling, measured",
+    "date": "Mon, 21 Sep 2026 00:00:00 GMT",
+    "url": "https://huggingface.co/blog/tokenizers-v1"
+  },
+  {
     "source": "OpenAI",
     "title": "Introducing the Australian Youth Safety Blueprint",
     "date": "Fri, 18 Sep 2026 12:00:00 GMT",
@@ -1096,107 +1198,5 @@
     "title": "A Safety-Gated Multimodal AI Backend for Mental-Health Support: Hierarchical State Representation, Conservative Risk Fusion, and Controlled Generation in Anian",
     "date": "Sat, 29 Aug 2026 00:00:00 -0400",
     "url": "https://arxiv.org/abs/2608.26162"
-  },
-  {
-    "source": "arXiv",
-    "title": "A Task-Centric Ontology and Deterministic Domain Rules as a Verifiable Core for AI-Assisted Chemistry Problem Solving",
-    "date": "Sat, 29 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.26164"
-  },
-  {
-    "source": "arXiv",
-    "title": "Refusal Is Not Robustness: Auditing Confident Fabrication in Large Language Models on a Provably Uninformative Clinical Pain Speech Transcript",
-    "date": "Sat, 29 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.26167"
-  },
-  {
-    "source": "arXiv",
-    "title": "Knowledge Cards: Structured Knowledge for AI Systems",
-    "date": "Sat, 29 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.26176"
-  },
-  {
-    "source": "arXiv",
-    "title": "AI Revealed Preferences",
-    "date": "Sat, 29 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.26178"
-  },
-  {
-    "source": "arXiv",
-    "title": "Why did My Robot Just Change Personality? Prompting Guidelines for a Grounded Robot Persona in LLM-Based HRI",
-    "date": "Sat, 29 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.26182"
-  },
-  {
-    "source": "arXiv",
-    "title": "TutorTrace: A Dataset and Taxonomy for Classifying Learner Behavioral States during AI-Assisted Programming Education",
-    "date": "Sat, 29 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.26184"
-  },
-  {
-    "source": "arXiv",
-    "title": "Can You Say This for Me? Speaking Up by Proxy in Co-Located Discussion",
-    "date": "Sat, 29 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.26185"
-  },
-  {
-    "source": "arXiv",
-    "title": "Is Your Neighborhood Safe? Place-based Stigma in Large Language Models' Urban Safety Judgments",
-    "date": "Sat, 29 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.26188"
-  },
-  {
-    "source": "arXiv",
-    "title": "Invocation-Level Reliability of Tool-Using Agents",
-    "date": "Sat, 29 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.26189"
-  },
-  {
-    "source": "arXiv",
-    "title": "Predicting Consequences and Reinforcing Navigation Policies with Latent World Models",
-    "date": "Sat, 29 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.26190"
-  },
-  {
-    "source": "arXiv",
-    "title": "Structured Evidence Routing for Incident Risk Prediction from Multimodal Longitudinal EHRs",
-    "date": "Sat, 29 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.26191"
-  },
-  {
-    "source": "arXiv",
-    "title": "AffectOmni: RL-Verifiable People-Centric Grounded Affective Reasoning for Social and Art-Related Scenes",
-    "date": "Sat, 29 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.26193"
-  },
-  {
-    "source": "arXiv",
-    "title": "Agentic AI for operating scientific instruments for nanoscale characterization",
-    "date": "Sat, 29 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.26198"
-  },
-  {
-    "source": "arXiv",
-    "title": "Benchmarking AI Agents for Hardware Design Automation via MCP Tool Calling",
-    "date": "Sat, 29 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.26199"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Our decision on Cursor following its acquisition by SpaceX",
-    "date": "Fri, 28 Aug 2026 06:00:00 GMT",
-    "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex"
-  },
-  {
-    "source": "arXiv",
-    "title": "EduRiskX: A Neuro-Symbolic Framework with F-Logic Reasoning for Early Academic Risk Prediction",
-    "date": "Fri, 28 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.26107"
-  },
-  {
-    "source": "arXiv",
-    "title": "Standalone LLM and a Pre-specified Agentic Pipeline for Explaining ICU Mortality Predictions: a Feasibility Study on the eICU Demo Dataset",
-    "date": "Fri, 28 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.26109"
   }
 ]
