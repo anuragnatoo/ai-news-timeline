@@ -1,5 +1,107 @@
 [
   {
+    "source": "OpenAI",
+    "title": "Better prompt caching for GPT-6",
+    "date": "Tue, 22 Sep 2026 21:00:00 GMT",
+    "url": "https://openai.com/index/better-prompt-caching-for-gpt-6"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Introducing GPT-6 Sol and Luna",
+    "date": "Tue, 22 Sep 2026 18:00:00 GMT",
+    "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Parallel cut research time and cost in half with GPT‑6 Astra",
+    "date": "Tue, 22 Sep 2026 12:00:00 GMT",
+    "url": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra"
+  },
+  {
+    "source": "arXiv",
+    "title": "Implicit Rule Induction with Test-Time Task Embeddings in ARC-like Tasks",
+    "date": "Tue, 22 Sep 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2609.21181"
+  },
+  {
+    "source": "arXiv",
+    "title": "AI-GRACE: A Use-Case Operationalization Framework for Agentic AI: From Organizational Objectives and Obligations to Deployment Capabilities and Architecture",
+    "date": "Tue, 22 Sep 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2609.21192"
+  },
+  {
+    "source": "arXiv",
+    "title": "Information-Gain Rewards over Diversity-Pruned Tests: GT-Anchored Verifier Co-Training for Reliable Code Generation",
+    "date": "Tue, 22 Sep 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2609.21208"
+  },
+  {
+    "source": "arXiv",
+    "title": "Ability-Residual Decoupled Modeling for Affective Cognitive Diagnosis",
+    "date": "Tue, 22 Sep 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2609.21214"
+  },
+  {
+    "source": "arXiv",
+    "title": "A Fully Differentiable Neuro-Soft-Symbolic Framework for Perceptual Task Planning",
+    "date": "Tue, 22 Sep 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2609.21221"
+  },
+  {
+    "source": "arXiv",
+    "title": "CogGym: Towards Large-Scale Comparative Evaluation of Human and Machine Cognition",
+    "date": "Tue, 22 Sep 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2609.21259"
+  },
+  {
+    "source": "arXiv",
+    "title": "PlaceReasoner-Beta: Reasoning-Driven Macro Placement and Benchmarking",
+    "date": "Tue, 22 Sep 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2609.21263"
+  },
+  {
+    "source": "arXiv",
+    "title": "Efficient Benchmarking in Production: A Study of an Evolving LLM Agent",
+    "date": "Tue, 22 Sep 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2609.21267"
+  },
+  {
+    "source": "arXiv",
+    "title": "GameASG-Bench: Benchmarking Autonomous Software Generation for Game Development",
+    "date": "Tue, 22 Sep 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2609.21293"
+  },
+  {
+    "source": "arXiv",
+    "title": "LEGIT: Credentialing Protocol for Trustworthy AI Agent Marketplaces",
+    "date": "Tue, 22 Sep 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2609.21325"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Priorities and principles for effective third party assessments",
+    "date": "Tue, 22 Sep 2026 00:00:00 GMT",
+    "url": "https://openai.com/index/priorities-principles-third-party-assessments"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
+    "date": "Tue, 22 Sep 2026 00:00:00 GMT",
+    "url": "https://huggingface.co/blog/evaleval-aisi"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "Transformers now runs llama.cpp quants",
+    "date": "Tue, 22 Sep 2026 00:00:00 GMT",
+    "url": "https://huggingface.co/blog/transformers-llama-cpp-quants"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
+    "date": "Tue, 22 Sep 2026 00:00:00 GMT",
+    "url": "https://huggingface.co/blog/omlx"
+  },
+  {
     "source": "HuggingFace",
     "title": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
     "date": "Mon, 21 Sep 2026 13:44:34 GMT",
@@ -1096,107 +1198,5 @@
     "title": "Statutory AI: Aligning Large Language Models With Legal Norms",
     "date": "Tue, 01 Sep 2026 00:00:00 -0400",
     "url": "https://arxiv.org/abs/2608.28593"
-  },
-  {
-    "source": "arXiv",
-    "title": "From Question-First to Analyst-First: Domain-Expert Skills and Verified Knowledge Compilation for Proactive Enterprise Analytics",
-    "date": "Tue, 01 Sep 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.28594"
-  },
-  {
-    "source": "arXiv",
-    "title": "The Signal in the Noise: An Auditable Reliability Layer for Biomedical Text Classification",
-    "date": "Tue, 01 Sep 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.28595"
-  },
-  {
-    "source": "arXiv",
-    "title": "Paper Pilot: A Human-in-the-Loop Expert System for Evidence-Traceable Scientific Manuscript Generation in Applied Sciences",
-    "date": "Tue, 01 Sep 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.28596"
-  },
-  {
-    "source": "arXiv",
-    "title": "The Race between Agentic AI Capabilities and Data Quality Control in Online Surveys",
-    "date": "Tue, 01 Sep 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.28597"
-  },
-  {
-    "source": "arXiv",
-    "title": "CDPR: Counterfactual Advantage-based Credit Assignment for Cost-Aware Sequential Medical Diagnosis",
-    "date": "Tue, 01 Sep 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.28599"
-  },
-  {
-    "source": "arXiv",
-    "title": "SHAPE of Chain-of-Thought in Math Reasoning",
-    "date": "Tue, 01 Sep 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.28600"
-  },
-  {
-    "source": "OpenAI",
-    "title": "How law firm Gilbert + Tobin governs and scales AI with OpenAI",
-    "date": "Tue, 01 Sep 2026 01:00:00 GMT",
-    "url": "https://openai.com/index/gilbert-tobin"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
-    "date": "Tue, 01 Sep 2026 00:00:00 GMT",
-    "url": "https://huggingface.co/blog/webgpu-kernels"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Polimill builds Japan's next-generation public AI infrastructure",
-    "date": "Mon, 31 Aug 2026 07:00:00 GMT",
-    "url": "https://openai.com/index/polimill"
-  },
-  {
-    "source": "OpenAI",
-    "title": "OpenAI supports California’s bill to advance youth AI safety",
-    "date": "Mon, 31 Aug 2026 07:00:00 GMT",
-    "url": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety"
-  },
-  {
-    "source": "OpenAI",
-    "title": "A milestone in expanding access to AI",
-    "date": "Mon, 31 Aug 2026 04:00:00 GMT",
-    "url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads"
-  },
-  {
-    "source": "arXiv",
-    "title": "Explainable Artificial Intelligence for Customer Churn Prediction in Telecommunications: A Framework for CRM Integration",
-    "date": "Sat, 29 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.26151"
-  },
-  {
-    "source": "arXiv",
-    "title": "EEG-to-Report: An Annotation and Feature-Text Framework for Training Language Models on Clinical EEG",
-    "date": "Sat, 29 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.26153"
-  },
-  {
-    "source": "arXiv",
-    "title": "Selection Bias Correction in Retail Intelligence",
-    "date": "Sat, 29 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.26156"
-  },
-  {
-    "source": "arXiv",
-    "title": "GROUND: Reducing Hallucinations in LLM-Based Enterprise Analytics Through Governed Semantic Definitions",
-    "date": "Sat, 29 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.26157"
-  },
-  {
-    "source": "arXiv",
-    "title": "SAREF-based Ontology for Distributed AI Workflows across the Edge-Fog-Cloud Continuum",
-    "date": "Sat, 29 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.26160"
-  },
-  {
-    "source": "arXiv",
-    "title": "A Safety-Gated Multimodal AI Backend for Mental-Health Support: Hierarchical State Representation, Conservative Risk Fusion, and Controlled Generation in Anian",
-    "date": "Sat, 29 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.26162"
   }
 ]
