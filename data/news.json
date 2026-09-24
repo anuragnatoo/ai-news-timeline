@@ -1,5 +1,125 @@
 [
   {
+    "source": "HuggingFace",
+    "title": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
+    "date": "Wed, 23 Sep 2026 18:41:40 GMT",
+    "url": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Two years of OpenAI Academy",
+    "date": "Wed, 23 Sep 2026 16:00:00 GMT",
+    "url": "https://openai.com/index/two-years-of-openai-academy"
+  },
+  {
+    "source": "OpenAI",
+    "title": "OpenAI extends cyber access to Ukraine for civilian defense",
+    "date": "Wed, 23 Sep 2026 13:00:00 GMT",
+    "url": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Sam Altman’s remarks at the United Nations Security Council",
+    "date": "Wed, 23 Sep 2026 12:00:00 GMT",
+    "url": "https://openai.com/index/sam-altman-un-security-council-remarks"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
+    "date": "Wed, 23 Sep 2026 12:00:00 GMT",
+    "url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra"
+  },
+  {
+    "source": "OpenAI",
+    "title": "How invideo improves color grading 3x with GPT‑6 Astra",
+    "date": "Wed, 23 Sep 2026 12:00:00 GMT",
+    "url": "https://openai.com/index/invideo-builds-with-gpt-6-astra"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
+    "date": "Wed, 23 Sep 2026 12:00:00 GMT",
+    "url": "https://openai.com/index/ringg"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Introducing MentalHealthBench",
+    "date": "Wed, 23 Sep 2026 10:00:00 GMT",
+    "url": "https://openai.com/index/introducing-mentalhealthbench"
+  },
+  {
+    "source": "arXiv",
+    "title": "Didactic knowledge or Clinical Cases? How Data Types Shape Medical Large Language Models",
+    "date": "Wed, 23 Sep 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2609.22161"
+  },
+  {
+    "source": "arXiv",
+    "title": "An Affordable AI-Integrated Smart Cane for Multimodal Mobility Assistance of Visually Impaired Users",
+    "date": "Wed, 23 Sep 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2609.22277"
+  },
+  {
+    "source": "arXiv",
+    "title": "PAANI : On Device Visual Evidence Fusion and Explainable Guidance for River Robot Simulation",
+    "date": "Wed, 23 Sep 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2609.22353"
+  },
+  {
+    "source": "arXiv",
+    "title": "Social Influence and the Allocation of Scientific Attention in AI Populations",
+    "date": "Wed, 23 Sep 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2609.22408"
+  },
+  {
+    "source": "arXiv",
+    "title": "Learning 3D biophysical cell properties from 2D images and cell-population statistics",
+    "date": "Wed, 23 Sep 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2609.22410"
+  },
+  {
+    "source": "arXiv",
+    "title": "Goal-driven Variant Categorization",
+    "date": "Wed, 23 Sep 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2609.22475"
+  },
+  {
+    "source": "arXiv",
+    "title": "Replication Without Persistence in Hosted LLMs: Measurement Sensitivity in Action-Time Belief Evaluation",
+    "date": "Wed, 23 Sep 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2609.22478"
+  },
+  {
+    "source": "arXiv",
+    "title": "The Wisdom of Artificial Deliberative Crowds",
+    "date": "Wed, 23 Sep 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2609.22497"
+  },
+  {
+    "source": "arXiv",
+    "title": "Agreement Overstates Evidence: Error Dependence in LLM Judge Consensus",
+    "date": "Wed, 23 Sep 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2609.22512"
+  },
+  {
+    "source": "arXiv",
+    "title": "IntLawNER: A Named Entity Recognition Dataset and Benchmark in International Law",
+    "date": "Wed, 23 Sep 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2609.22529"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Airbnb widens access to GPT-6 Astra and OpenAI frontier models",
+    "date": "Wed, 23 Sep 2026 01:00:00 GMT",
+    "url": "https://openai.com/index/airbnb-gpt-6-astra"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Grab and OpenAI bring practical AI skills to Southeast Asia",
+    "date": "Wed, 23 Sep 2026 00:00:00 GMT",
+    "url": "https://openai.com/index/grab-openai-ai-skills-southeast-asia"
+  },
+  {
     "source": "OpenAI",
     "title": "Better prompt caching for GPT-6",
     "date": "Tue, 22 Sep 2026 21:00:00 GMT",
@@ -1078,125 +1198,5 @@
     "title": "Training a coding model to paint watercolours with TRL and OpenEnv",
     "date": "Thu, 03 Sep 2026 00:00:00 GMT",
     "url": "https://huggingface.co/blog/train-to-paint-with-code"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "Real-Time Intelligence with IBM Time Series Models on Confluent ",
-    "date": "Wed, 02 Sep 2026 13:49:14 GMT",
-    "url": "https://huggingface.co/blog/ibm-research/real-time-intelligence"
-  },
-  {
-    "source": "OpenAI",
-    "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
-    "date": "Wed, 02 Sep 2026 12:00:00 GMT",
-    "url": "https://openai.com/index/atv-big-air-tour"
-  },
-  {
-    "source": "arXiv",
-    "title": "HyperWorld: Hypergraph-Structured State Serialization Improves Learned Textual World Models",
-    "date": "Wed, 02 Sep 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2609.00002"
-  },
-  {
-    "source": "arXiv",
-    "title": "I-CARE: Analysis of interference-related phenomena in a controllable, diverse and representative unlearning setting for text-to-image models",
-    "date": "Wed, 02 Sep 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2609.00003"
-  },
-  {
-    "source": "arXiv",
-    "title": "Discrete-Time MDP Modeling for Multi-Item Capacitated Lot Sizing with Stochastic Demand Timing",
-    "date": "Wed, 02 Sep 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2609.00004"
-  },
-  {
-    "source": "arXiv",
-    "title": "Incremental Risk Assessment of Progressive Elder Financial Scams via Instruction-Tuned Small Language Models",
-    "date": "Wed, 02 Sep 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2609.00005"
-  },
-  {
-    "source": "arXiv",
-    "title": "Long-Horizon State Tracking in LLMs: Executing MD5 through a Deep Sequence of Dependent Tool Calls",
-    "date": "Wed, 02 Sep 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2609.00012"
-  },
-  {
-    "source": "arXiv",
-    "title": "OpenAgentFlow: Enabling System-Wide Safety Boundaries for Heterogeneous AI Agent Fleets",
-    "date": "Wed, 02 Sep 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2609.00015"
-  },
-  {
-    "source": "arXiv",
-    "title": "SCAFFOLD: A Large-Scale Structured Dataset of Computer Science Research Figures with Diagram QA and Chain-of-Thought Reasoning Traces",
-    "date": "Wed, 02 Sep 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2609.00018"
-  },
-  {
-    "source": "arXiv",
-    "title": "UI-Venus-2 Technical Report",
-    "date": "Wed, 02 Sep 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2609.00028"
-  },
-  {
-    "source": "arXiv",
-    "title": "EULER: Exploring Underused Links with Evidence-Checked Return for Multi-Agent Mathematical Discovery",
-    "date": "Wed, 02 Sep 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2609.00032"
-  },
-  {
-    "source": "arXiv",
-    "title": "When Prediction Error Is Not Enough: Evaluating Nuisance-Function Prediction for Causal Estimation",
-    "date": "Wed, 02 Sep 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2609.00071"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
-    "date": "Tue, 01 Sep 2026 21:39:07 GMT",
-    "url": "https://huggingface.co/blog/allenai/benchmirt"
-  },
-  {
-    "source": "OpenAI",
-    "title": "How AI-native companies turn workflows into operating capability",
-    "date": "Tue, 01 Sep 2026 17:00:00 GMT",
-    "url": "https://openai.com/index/ai-native-company-workflows"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Path to Astra: critical capabilities and frontier safeguards",
-    "date": "Tue, 01 Sep 2026 13:00:00 GMT",
-    "url": "https://openai.com/index/path-to-astra"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
-    "date": "Tue, 01 Sep 2026 12:00:00 GMT",
-    "url": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources"
-  },
-  {
-    "source": "arXiv",
-    "title": "DS-Lighting: Making Agent Harnesses Explicit for Data-Science Automation",
-    "date": "Tue, 01 Sep 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.28590"
-  },
-  {
-    "source": "arXiv",
-    "title": "Expert-validated STEM QA",
-    "date": "Tue, 01 Sep 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.28591"
-  },
-  {
-    "source": "arXiv",
-    "title": "A collective capability boundary in frontier large language models on guideline-conformant and case-specific oncology decision-making",
-    "date": "Tue, 01 Sep 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.28592"
-  },
-  {
-    "source": "arXiv",
-    "title": "Statutory AI: Aligning Large Language Models With Legal Norms",
-    "date": "Tue, 01 Sep 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.28593"
   }
 ]
