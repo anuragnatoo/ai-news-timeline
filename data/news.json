@@ -1,6 +1,96 @@
 [
   {
     "source": "OpenAI",
+    "title": "How we will do better for Australia",
+    "date": "Mon, 28 Sep 2026 19:00:00 GMT",
+    "url": "https://openai.com/index/how-we-will-do-better-for-australia"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "Holo4: powering generalist computer-use agents",
+    "date": "Mon, 28 Sep 2026 09:44:05 GMT",
+    "url": "https://huggingface.co/blog/Hcompany/holo4"
+  },
+  {
+    "source": "OpenAI",
+    "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
+    "date": "Mon, 28 Sep 2026 07:00:00 GMT",
+    "url": "https://openai.com/index/lenfest-ai-collaborative-expansion"
+  },
+  {
+    "source": "arXiv",
+    "title": "Bringing AI to Autonomous Systems -- From Cognition to Collective Intelligence",
+    "date": "Mon, 28 Sep 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2609.30291"
+  },
+  {
+    "source": "arXiv",
+    "title": "ScopeBench: Do Agents Preserve Engagement Boundaries Under Goal Pressure?",
+    "date": "Mon, 28 Sep 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2609.30325"
+  },
+  {
+    "source": "arXiv",
+    "title": "When Is a Multi-Agent Code Judge Actually Grounded? Two Label-Free Measurements, and a Judge That Declines to Guess",
+    "date": "Mon, 28 Sep 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2609.30328"
+  },
+  {
+    "source": "arXiv",
+    "title": "Bridging LLM Agents and Data Spaces: An Architectural Mediation Approach using the Model Context Protocol",
+    "date": "Mon, 28 Sep 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2609.30341"
+  },
+  {
+    "source": "arXiv",
+    "title": "Stealth Apart, Harm Together: Skill Cascading Attacks on Skill-Based Agent Systems",
+    "date": "Mon, 28 Sep 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2609.30383"
+  },
+  {
+    "source": "arXiv",
+    "title": "A Synthetic Ground-Truth Framework for the Evaluation of Explainable AI Methods",
+    "date": "Mon, 28 Sep 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2609.30397"
+  },
+  {
+    "source": "arXiv",
+    "title": "Predicting Transmembrane Protein Topology from 3D Structure",
+    "date": "Mon, 28 Sep 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2609.30446"
+  },
+  {
+    "source": "arXiv",
+    "title": "Spectral Feedback for Test-Time Alignment of Protein Diffusion Models",
+    "date": "Mon, 28 Sep 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2609.30456"
+  },
+  {
+    "source": "arXiv",
+    "title": "Pretrained ASR Pseudo-labeling for Noisy Police Audio",
+    "date": "Mon, 28 Sep 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2609.30469"
+  },
+  {
+    "source": "arXiv",
+    "title": "Do LLMs Understand Context? A Knowledge Graph-Based Evaluation Framework",
+    "date": "Mon, 28 Sep 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2609.30484"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Are you a Codex Original?",
+    "date": "Mon, 28 Sep 2026 00:00:00 GMT",
+    "url": "https://openai.com/form/codex-originals"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
+    "date": "Mon, 28 Sep 2026 00:00:00 GMT",
+    "url": "https://openai.com/index/basis-tax-workbook-with-astra"
+  },
+  {
+    "source": "OpenAI",
     "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
     "date": "Fri, 25 Sep 2026 19:00:00 GMT",
     "url": "https://openai.com/index/proaction"
@@ -1108,95 +1198,5 @@
     "title": "Data-Optimized Contingency Screening: A Machine Learning Approach to Power System Security",
     "date": "Mon, 07 Sep 2026 00:00:00 -0400",
     "url": "https://arxiv.org/abs/2609.04300"
-  },
-  {
-    "source": "arXiv",
-    "title": "Iris: Climbing to the Search Frontier",
-    "date": "Mon, 07 Sep 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2609.04304"
-  },
-  {
-    "source": "arXiv",
-    "title": "A Removal Based Approach to Improve LLM Faithfulness at Test-Time",
-    "date": "Mon, 07 Sep 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2609.04343"
-  },
-  {
-    "source": "arXiv",
-    "title": "Why Better Models Can Create Riskier Systems: Evidence from LLM Agents in Financial Markets",
-    "date": "Mon, 07 Sep 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2609.04373"
-  },
-  {
-    "source": "arXiv",
-    "title": "Corporate Language Model (CLM): Transforming Tacit and Fragmented Enterprise Knowledge into a Sovereign, Auditable, and Executable Corporate Intelligence Layer",
-    "date": "Mon, 07 Sep 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2609.04377"
-  },
-  {
-    "source": "arXiv",
-    "title": "HarvestBench: Measuring Whether LLM Agents Will Pay to Avoid Killing Animals",
-    "date": "Mon, 07 Sep 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2609.04444"
-  },
-  {
-    "source": "arXiv",
-    "title": "PerfReasoning: How Well Do LLMs Reason on Hardware Performance?",
-    "date": "Mon, 07 Sep 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2609.04476"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Supporting independent journalism in Ukraine",
-    "date": "Mon, 07 Sep 2026 00:00:00 GMT",
-    "url": "https://openai.com/index/supporting-independent-journalism-in-ukraine"
-  },
-  {
-    "source": "OpenAI",
-    "title": "An Alien Mind",
-    "date": "Sun, 06 Sep 2026 09:00:00 GMT",
-    "url": "https://openai.com/index/an-alien-mind"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Research acceleration: The view inside OpenAI",
-    "date": "Sun, 06 Sep 2026 08:00:00 GMT",
-    "url": "https://openai.com/index/research-acceleration-view-inside-openai"
-  },
-  {
-    "source": "arXiv",
-    "title": "Structure and Implementation of New Practical English Textbooks Driven by Artificial Intelligence",
-    "date": "Fri, 04 Sep 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2609.02981"
-  },
-  {
-    "source": "arXiv",
-    "title": "MasterControl Seventeen Every Time",
-    "date": "Fri, 04 Sep 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2609.03209"
-  },
-  {
-    "source": "arXiv",
-    "title": "Speculative Macro Commit for Faster Tool-Using Agents",
-    "date": "Fri, 04 Sep 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2609.03236"
-  },
-  {
-    "source": "arXiv",
-    "title": "Fresh Memory, Stale Plans: Dependency-Scoped Validation for Distributed LLM-Agent Memory",
-    "date": "Fri, 04 Sep 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2609.03340"
-  },
-  {
-    "source": "arXiv",
-    "title": "A Prompt-Engineering Approach to Develop Scalable, Flexible, and Real-Time Hybrid Micro-Level Personalization in a General Purpose AI Teaching Assistant",
-    "date": "Fri, 04 Sep 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2609.03402"
-  },
-  {
-    "source": "arXiv",
-    "title": "Caught in the Story: Narrative Captivity in Multi-turn LLMs Conversation",
-    "date": "Fri, 04 Sep 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2609.03407"
   }
 ]
