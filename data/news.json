@@ -1,5 +1,83 @@
 [
   {
+    "source": "OpenAI",
+    "title": "Disrupting a coordinated model-distillation campaign",
+    "date": "Wed, 30 Sep 2026 10:30:00 GMT",
+    "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Helping small businesses put AI to work",
+    "date": "Wed, 30 Sep 2026 10:00:00 GMT",
+    "url": "https://openai.com/index/helping-small-businesses-put-ai-to-work"
+  },
+  {
+    "source": "arXiv",
+    "title": "OpenAI-HuggingFace: A Reproduction & Lessons for Alignment Testing",
+    "date": "Wed, 30 Sep 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2609.35799"
+  },
+  {
+    "source": "arXiv",
+    "title": "Neurosymbolic Routing for Reliable Reasoning on Resource-Constrained Edge Devices",
+    "date": "Wed, 30 Sep 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2609.35833"
+  },
+  {
+    "source": "arXiv",
+    "title": "Is Human-Readable Text Necessary for Effective LLM Fine-Tuning?",
+    "date": "Wed, 30 Sep 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2609.35868"
+  },
+  {
+    "source": "arXiv",
+    "title": "The Price of Token Boundaries: Compression Certificates and Prediction",
+    "date": "Wed, 30 Sep 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2609.35869"
+  },
+  {
+    "source": "arXiv",
+    "title": "More Programs or More Rolls? Separating Coverage from Specialization in LLM Harnesses",
+    "date": "Wed, 30 Sep 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2609.35873"
+  },
+  {
+    "source": "arXiv",
+    "title": "Risk-Averse Online POMDP Planning via CVaR of the Immediate Cost with Performance Guarantees",
+    "date": "Wed, 30 Sep 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2609.35874"
+  },
+  {
+    "source": "arXiv",
+    "title": "Beyond Symmetric Agents: Cognitive Diversity and Multi-Agent Debate in Small Language Models",
+    "date": "Wed, 30 Sep 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2609.35875"
+  },
+  {
+    "source": "arXiv",
+    "title": "Representational Simplicity and Circuit Size Dissociate in a Threshold-Dependent Way: A Controlled Test via Adversarial Training",
+    "date": "Wed, 30 Sep 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2609.35890"
+  },
+  {
+    "source": "arXiv",
+    "title": "Self-discovering RL in the Era of Experience: Is Learning History an Asset or a Burden?",
+    "date": "Wed, 30 Sep 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2609.35897"
+  },
+  {
+    "source": "arXiv",
+    "title": "Grab a Coffee: Future-Aware Guidance for Discrete Diffusion with Compiled Objectives",
+    "date": "Wed, 30 Sep 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2609.35924"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
+    "date": "Wed, 30 Sep 2026 00:00:00 GMT",
+    "url": "https://huggingface.co/blog/open-tts-leaderboard"
+  },
+  {
     "source": "HuggingFace",
     "title": "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
     "date": "Tue, 29 Sep 2026 15:30:38 GMT",
@@ -1120,83 +1198,5 @@
     "title": "Beyond Right and Wrong: Evaluating Second-order Social Reasoning in Large Language Models",
     "date": "Thu, 10 Sep 2026 00:00:00 -0400",
     "url": "https://arxiv.org/abs/2609.05437"
-  },
-  {
-    "source": "arXiv",
-    "title": "CriticGen: Generation-Aware Evaluation as Actionable Feedback",
-    "date": "Thu, 10 Sep 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2609.05439"
-  },
-  {
-    "source": "arXiv",
-    "title": "When Does Memory Help? A Cost-Aware Evaluation of Long-Term Memory in Tool-Using LLM Agents",
-    "date": "Thu, 10 Sep 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2609.05441"
-  },
-  {
-    "source": "arXiv",
-    "title": "AutoFyn Technical Report: Non-Parametric Expert Iteration for Long-Horizon Agents",
-    "date": "Thu, 10 Sep 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2609.05446"
-  },
-  {
-    "source": "arXiv",
-    "title": "Damage-Aware Bandit Pruning for Vision and Language Transformers",
-    "date": "Thu, 10 Sep 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2609.05448"
-  },
-  {
-    "source": "arXiv",
-    "title": "Compiling VGDL into Causal Models",
-    "date": "Thu, 10 Sep 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2609.05459"
-  },
-  {
-    "source": "arXiv",
-    "title": "ARC-Bench: Closed-Loop Replanning Masks Broken Action Ranking in Frozen JEPA World Models",
-    "date": "Thu, 10 Sep 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2609.05461"
-  },
-  {
-    "source": "arXiv",
-    "title": "RAPID: Reliability-Aware Pair Importance Distillation",
-    "date": "Thu, 10 Sep 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2609.05481"
-  },
-  {
-    "source": "arXiv",
-    "title": "PGP-Clinical-TimeKAN: Prior-Guided Joint Probabilistic Forecasting of Clinical Trajectories",
-    "date": "Thu, 10 Sep 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2609.05488"
-  },
-  {
-    "source": "arXiv",
-    "title": "SciLitBench: Benchmark and Design Principles for LLM-Powered Systematic Literature Reviews",
-    "date": "Thu, 10 Sep 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2609.05505"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Introducing the Agents API",
-    "date": "Thu, 10 Sep 2026 00:00:00 GMT",
-    "url": "https://openai.com/index/introducing-the-agents-api"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
-    "date": "Thu, 10 Sep 2026 00:00:00 GMT",
-    "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
-    "date": "Thu, 10 Sep 2026 00:00:00 GMT",
-    "url": "https://huggingface.co/blog/gradio-workflow-1111"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "Async GRPO with LoRA across HF Jobs: a bucket, a proxy, and no NCCL",
-    "date": "Thu, 10 Sep 2026 00:00:00 GMT",
-    "url": "https://huggingface.co/blog/asyncgrpo-lora-hfjobs"
   }
 ]
