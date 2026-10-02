@@ -1,6 +1,90 @@
 [
   {
     "source": "OpenAI",
+    "title": "The eternal complement",
+    "date": "Thu, 01 Oct 2026 17:00:00 GMT",
+    "url": "https://openai.com/index/the-eternal-complement"
+  },
+  {
+    "source": "OpenAI",
+    "title": "How Albertsons Companies is reimagining retail from the inside out",
+    "date": "Thu, 01 Oct 2026 16:00:00 GMT",
+    "url": "https://openai.com/index/albertsons-reimagining-retail"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
+    "date": "Thu, 01 Oct 2026 15:01:43 GMT",
+    "url": "https://huggingface.co/blog/allenai/olmocore3"
+  },
+  {
+    "source": "arXiv",
+    "title": "Improving OCR Faithfulness via Gated and Attenuated On-Policy Distillation",
+    "date": "Thu, 01 Oct 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2609.38282"
+  },
+  {
+    "source": "arXiv",
+    "title": "AREX-2: Advancing Self-Improving Agents through Long-Horizon Reflective Tasks",
+    "date": "Thu, 01 Oct 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2609.38288"
+  },
+  {
+    "source": "arXiv",
+    "title": "MoFlow: Multi-Objective Agentic Workflow Generation",
+    "date": "Thu, 01 Oct 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2609.38294"
+  },
+  {
+    "source": "arXiv",
+    "title": "AI Agents are Vulnerable to Radicalization",
+    "date": "Thu, 01 Oct 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2609.38296"
+  },
+  {
+    "source": "arXiv",
+    "title": "CARAT: Do Materials LLMs Reason or Recite?",
+    "date": "Thu, 01 Oct 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2609.38340"
+  },
+  {
+    "source": "arXiv",
+    "title": "Examining Variation in How Guided AI Tutors Resolve Student Impasses",
+    "date": "Thu, 01 Oct 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2609.38346"
+  },
+  {
+    "source": "arXiv",
+    "title": "Beyond Mode Collapse: Generating Diverse Synthetic Expert Conversations via Generative Flow Networks",
+    "date": "Thu, 01 Oct 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2609.38359"
+  },
+  {
+    "source": "arXiv",
+    "title": "Can an AI Agent Rediscover a Blaschke-Curve Invariant?",
+    "date": "Thu, 01 Oct 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2609.38369"
+  },
+  {
+    "source": "arXiv",
+    "title": "Self-Evolving Harness on Multiple Tasks with the Agent as Its Own Optimizer",
+    "date": "Thu, 01 Oct 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2609.38372"
+  },
+  {
+    "source": "arXiv",
+    "title": "Aligned Data Can Induce Misalignment via Context Confusion",
+    "date": "Thu, 01 Oct 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2609.38379"
+  },
+  {
+    "source": "OpenAI",
+    "title": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
+    "date": "Thu, 01 Oct 2026 00:00:00 GMT",
+    "url": "https://openai.com/index/the-den-family-social"
+  },
+  {
+    "source": "OpenAI",
     "title": "Disrupting a coordinated model-distillation campaign",
     "date": "Wed, 30 Sep 2026 10:30:00 GMT",
     "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign"
@@ -1114,89 +1198,5 @@
     "title": "OpenDiscoveryTrace: Process Traces for Evaluating AI Scientist Workflows",
     "date": "Fri, 11 Sep 2026 00:00:00 -0400",
     "url": "https://arxiv.org/abs/2609.09203"
-  },
-  {
-    "source": "arXiv",
-    "title": "Adaptive Entangled Game Modules in Artificial General Intelligence",
-    "date": "Fri, 11 Sep 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2609.09226"
-  },
-  {
-    "source": "arXiv",
-    "title": "Subagents vs Agent Skills: Executing Reusable Knowledge for Long-Horizon Agentic Tasks",
-    "date": "Fri, 11 Sep 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2609.09233"
-  },
-  {
-    "source": "arXiv",
-    "title": "Gradland: On Phenomenal Experience, Differentiated Across Many Dimensions",
-    "date": "Fri, 11 Sep 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2609.09306"
-  },
-  {
-    "source": "arXiv",
-    "title": "An Autonomous GeoAI Agent for Arctic Eco-Navigation",
-    "date": "Fri, 11 Sep 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2609.09374"
-  },
-  {
-    "source": "arXiv",
-    "title": "The Menu Is an Execution Prior: State-Path Tool Menus for Online Agents",
-    "date": "Fri, 11 Sep 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2609.09395"
-  },
-  {
-    "source": "arXiv",
-    "title": "Decision-Focused Active Learning for Scale-Aware Critical-Materials Recovery",
-    "date": "Fri, 11 Sep 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2609.09413"
-  },
-  {
-    "source": "arXiv",
-    "title": "Valerant: An Automatic Navigable Game Map Generator via Action-Conditioned World Model Exploration",
-    "date": "Fri, 11 Sep 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2609.09418"
-  },
-  {
-    "source": "arXiv",
-    "title": "XAI-Arena: Can LLMs Assess the Quality of XAI Explanations?",
-    "date": "Fri, 11 Sep 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2609.09428"
-  },
-  {
-    "source": "arXiv",
-    "title": "Do Agents Know When They Succeed? Calibrating Agent Confidence from Internal Representations",
-    "date": "Fri, 11 Sep 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2609.09448"
-  },
-  {
-    "source": "OpenAI",
-    "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
-    "date": "Thu, 10 Sep 2026 16:00:00 GMT",
-    "url": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Now everyone can put data to work",
-    "date": "Thu, 10 Sep 2026 15:00:00 GMT",
-    "url": "https://openai.com/index/put-data-to-work"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Introducing ChatGPT for Financial Services",
-    "date": "Thu, 10 Sep 2026 07:00:00 GMT",
-    "url": "https://openai.com/index/introducing-chatgpt-financial-services"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
-    "date": "Thu, 10 Sep 2026 07:00:00 GMT",
-    "url": "https://openai.com/index/expanding-ai-access-us-government"
-  },
-  {
-    "source": "arXiv",
-    "title": "Beyond Right and Wrong: Evaluating Second-order Social Reasoning in Large Language Models",
-    "date": "Thu, 10 Sep 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2609.05437"
   }
 ]
