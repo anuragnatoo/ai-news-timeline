@@ -1,6 +1,90 @@
 [
   {
     "source": "OpenAI",
+    "title": "A model guide for the GPT-6 family",
+    "date": "Fri, 02 Oct 2026 16:15:00 GMT",
+    "url": "https://openai.com/index/practical-guide-building-gpt-6"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
+    "date": "Fri, 02 Oct 2026 15:19:50 GMT",
+    "url": "https://huggingface.co/blog/allenai/astabrief"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
+    "date": "Fri, 02 Oct 2026 04:01:31 GMT",
+    "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata"
+  },
+  {
+    "source": "arXiv",
+    "title": "Heavy-Tailed Memory Traces in Long-Horizon Language Agents",
+    "date": "Fri, 02 Oct 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2610.00010"
+  },
+  {
+    "source": "arXiv",
+    "title": "When Do Causal World Models Help Modular LLM Agents",
+    "date": "Fri, 02 Oct 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2610.00012"
+  },
+  {
+    "source": "arXiv",
+    "title": "From Proposal to Verified Effect: Praxa, an Evidence-Bound Harness for Governed AI Agent Execution",
+    "date": "Fri, 02 Oct 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2610.00015"
+  },
+  {
+    "source": "arXiv",
+    "title": "What Do Rationales Communicate? A Message-Intervention Study in Role-Specialized QA",
+    "date": "Fri, 02 Oct 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2610.00018"
+  },
+  {
+    "source": "arXiv",
+    "title": "Measuring the Microtask Eligibility Gap: When Is an Off-the-Shelf SLM Enough for an Agent Harness?",
+    "date": "Fri, 02 Oct 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2610.00025"
+  },
+  {
+    "source": "arXiv",
+    "title": "Characterizing a Configuration Where Inference-Time PRM-Pruned Fragment Grafting Is Inert: Evidence from Three Reasoning LMs",
+    "date": "Fri, 02 Oct 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2610.00047"
+  },
+  {
+    "source": "arXiv",
+    "title": "Gradient-Aligned Pair Selection for Personalized Preference Optimization",
+    "date": "Fri, 02 Oct 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2610.00061"
+  },
+  {
+    "source": "arXiv",
+    "title": "K-Dense BYOK: An Open-Source AI Research Assistant That Runs Locally and Keeps a Hash-Chained Lab Notebook",
+    "date": "Fri, 02 Oct 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2610.00074"
+  },
+  {
+    "source": "arXiv",
+    "title": "Scientific Agents: Evaluating Profession-Specific System Prompts on Scientific Tasks",
+    "date": "Fri, 02 Oct 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2610.00084"
+  },
+  {
+    "source": "arXiv",
+    "title": "Comedic Fool's Gold: Reward Exploits and Countermeasures in Conversational Humor",
+    "date": "Fri, 02 Oct 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2610.00197"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Chatham scales its capital markets expertise with OpenAI",
+    "date": "Fri, 02 Oct 2026 00:00:00 GMT",
+    "url": "https://openai.com/index/chatham-financial"
+  },
+  {
+    "source": "OpenAI",
     "title": "The eternal complement",
     "date": "Thu, 01 Oct 2026 17:00:00 GMT",
     "url": "https://openai.com/index/the-eternal-complement"
@@ -1114,89 +1198,5 @@
     "title": "How Fyxer built an AI executive assistant people trust",
     "date": "Mon, 14 Sep 2026 12:00:00 GMT",
     "url": "https://openai.com/index/fyxer"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
-    "date": "Mon, 14 Sep 2026 00:00:00 GMT",
-    "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra"
-  },
-  {
-    "source": "arXiv",
-    "title": "Probabilistic Focal Search: Accelerating Bounded-Suboptimal Search via Lower-Bound Advancement",
-    "date": "Sat, 12 Sep 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2609.10584"
-  },
-  {
-    "source": "arXiv",
-    "title": "Automating Quadratic Unconstrained Binary Optimization (QUBO) Formulation Generation from Natural Language",
-    "date": "Sat, 12 Sep 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2609.10629"
-  },
-  {
-    "source": "arXiv",
-    "title": "A Multi-Stage Rule-Chaining Framework for Compositional and Interpretable Cognitive Reasoning",
-    "date": "Sat, 12 Sep 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2609.10654"
-  },
-  {
-    "source": "arXiv",
-    "title": "Understanding LoRA Rank Trade-offs in Diffusion Model Fine-Tuning",
-    "date": "Sat, 12 Sep 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2609.10656"
-  },
-  {
-    "source": "arXiv",
-    "title": "Quantifying the Memorization-to-Generalization Transition: Scaling Laws and Phase Structure in Grokking",
-    "date": "Sat, 12 Sep 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2609.10657"
-  },
-  {
-    "source": "arXiv",
-    "title": "An Open Recipe for IMO Gold: Training Nemotron for Olympiad Mathematics",
-    "date": "Sat, 12 Sep 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2609.10712"
-  },
-  {
-    "source": "arXiv",
-    "title": "Finishing the Task Is Not Enough: Evaluating Agent Resilience and Considerate Participation under Accumulating Challenge",
-    "date": "Sat, 12 Sep 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2609.10724"
-  },
-  {
-    "source": "arXiv",
-    "title": "Towards a Deterministic Math Solver for Clinical Language Models",
-    "date": "Sat, 12 Sep 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2609.10728"
-  },
-  {
-    "source": "arXiv",
-    "title": "Studying Without a Syllabus: Task-Agnostic Environment Preprocessing",
-    "date": "Sat, 12 Sep 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2609.10824"
-  },
-  {
-    "source": "arXiv",
-    "title": "When Validation Stops Learning: Auditing Update Admission for Continual Embodied Agents",
-    "date": "Sat, 12 Sep 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2609.10873"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
-    "date": "Fri, 11 Sep 2026 16:00:00 GMT",
-    "url": "https://openai.com/index/cognition-devin-testing-with-astra"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
-    "date": "Fri, 11 Sep 2026 10:00:00 GMT",
-    "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one"
-  },
-  {
-    "source": "arXiv",
-    "title": "OpenDiscoveryTrace: Process Traces for Evaluating AI Scientist Workflows",
-    "date": "Fri, 11 Sep 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2609.09203"
   }
 ]
