@@ -1,5 +1,11 @@
 [
   {
+    "source": "HuggingFace",
+    "title": "The Agent Said It Was Done. The Database Disagreed.",
+    "date": "Sat, 03 Oct 2026 22:56:48 GMT",
+    "url": "https://huggingface.co/blog/microsoft/thinkingbox"
+  },
+  {
     "source": "OpenAI",
     "title": "A model guide for the GPT-6 family",
     "date": "Fri, 02 Oct 2026 16:15:00 GMT",
@@ -1192,11 +1198,5 @@
     "title": "OrchSLM: Probing the Dynamics of Small Language Model Orchestration",
     "date": "Tue, 15 Sep 2026 00:00:00 -0400",
     "url": "https://arxiv.org/abs/2609.13470"
-  },
-  {
-    "source": "OpenAI",
-    "title": "How Fyxer built an AI executive assistant people trust",
-    "date": "Mon, 14 Sep 2026 12:00:00 GMT",
-    "url": "https://openai.com/index/fyxer"
   }
 ]
