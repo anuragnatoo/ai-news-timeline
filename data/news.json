@@ -1,5 +1,17 @@
 [
   {
+    "source": "OpenAI",
+    "title": "Our approach to EU text provenance rules",
+    "date": "Mon, 05 Oct 2026 15:00:00 GMT",
+    "url": "https://openai.com/index/eu-text-provenance"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Building advertising for the way people use AI",
+    "date": "Mon, 05 Oct 2026 10:00:00 GMT",
+    "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement"
+  },
+  {
     "source": "HuggingFace",
     "title": "The Agent Said It Was Done. The Database Disagreed.",
     "date": "Sat, 03 Oct 2026 22:56:48 GMT",
@@ -438,6 +450,12 @@
     "url": "https://openai.com/index/basis-tax-workbook-with-astra"
   },
   {
+    "source": "HuggingFace",
+    "title": "Welcome RL Environments to the hub",
+    "date": "Mon, 28 Sep 2026 00:00:00 GMT",
+    "url": "https://huggingface.co/blog/rl-environments"
+  },
+  {
     "source": "OpenAI",
     "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
     "date": "Fri, 25 Sep 2026 19:00:00 GMT",
@@ -502,6 +520,12 @@
     "title": "Beyond Surface Style: Aligning Multi-Turn User Simulators with Behavioral Consistency",
     "date": "Fri, 25 Sep 2026 00:00:00 -0400",
     "url": "https://arxiv.org/abs/2609.28690"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Wayfair boosts catalog accuracy and support speed with OpenAI",
+    "date": "Fri, 25 Sep 2026 00:00:00 GMT",
+    "url": "https://openai.com/index/wayfair"
   },
   {
     "source": "HuggingFace",
@@ -1174,29 +1198,5 @@
     "title": "LabAgent: Customize Any Research Hubs for Scientific Discoveries Using AI Agents",
     "date": "Tue, 15 Sep 2026 00:00:00 -0400",
     "url": "https://arxiv.org/abs/2609.13437"
-  },
-  {
-    "source": "arXiv",
-    "title": "TimeThink: Eliciting Compositional Reasoning in Timeseries Large Language Models",
-    "date": "Tue, 15 Sep 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2609.13457"
-  },
-  {
-    "source": "arXiv",
-    "title": "Root-Cause Attribution Is a Search Problem: Continual Search for Long-Horizon Agent Failures",
-    "date": "Tue, 15 Sep 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2609.13463"
-  },
-  {
-    "source": "arXiv",
-    "title": "Governing at Machine Speed: An Adaptive Intelligence Architecture for Real-Time AI Policy Enforcement",
-    "date": "Tue, 15 Sep 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2609.13466"
-  },
-  {
-    "source": "arXiv",
-    "title": "OrchSLM: Probing the Dynamics of Small Language Model Orchestration",
-    "date": "Tue, 15 Sep 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2609.13470"
   }
 ]
