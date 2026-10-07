@@ -1,6 +1,36 @@
 [
   {
     "source": "OpenAI",
+    "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
+    "date": "Tue, 06 Oct 2026 16:00:00 GMT",
+    "url": "https://openai.com/index/atlassian-partnership"
+  },
+  {
+    "source": "OpenAI",
+    "title": "How Jump Trading is scaling quant research with ChatGPT",
+    "date": "Tue, 06 Oct 2026 12:00:00 GMT",
+    "url": "https://openai.com/index/jump-trading"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Sharing AI progress in mathematics",
+    "date": "Tue, 06 Oct 2026 12:00:00 GMT",
+    "url": "https://openai.com/index/sharing-ai-progress-in-mathematics"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Advancing computer use with Ironclad",
+    "date": "Tue, 06 Oct 2026 10:00:00 GMT",
+    "url": "https://openai.com/index/advancing-computer-use-with-ironclad"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
+    "date": "Tue, 06 Oct 2026 06:44:39 GMT",
+    "url": "https://huggingface.co/blog/tiiuae/falcon-emirati"
+  },
+  {
+    "source": "OpenAI",
     "title": "Our approach to EU text provenance rules",
     "date": "Mon, 05 Oct 2026 15:00:00 GMT",
     "url": "https://openai.com/index/eu-text-provenance"
@@ -1168,35 +1198,5 @@
     "title": "ZGCM-1: A Fully Open and Extremely Efficient Foundation Model for Math and Agentic Search",
     "date": "Tue, 15 Sep 2026 00:00:00 -0400",
     "url": "https://arxiv.org/abs/2609.13356"
-  },
-  {
-    "source": "arXiv",
-    "title": "Converge Then Diversify: Decoupling Convergence and Diversity in Multi-Objective Bayesian Optimisation",
-    "date": "Tue, 15 Sep 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2609.13396"
-  },
-  {
-    "source": "arXiv",
-    "title": "Generalized Agent Iteration: One Formal Framework for Iterative Policy Improvement and Recursive Self-Improvement",
-    "date": "Tue, 15 Sep 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2609.13406"
-  },
-  {
-    "source": "arXiv",
-    "title": "Vibe Patenting: Evaluating LLM Judges for Professional Patent-Drafting Agents",
-    "date": "Tue, 15 Sep 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2609.13422"
-  },
-  {
-    "source": "arXiv",
-    "title": "Toward Self-Adaptive Physical AI: Can LLM Agents Manage Long-Horizon Physical Tasks?",
-    "date": "Tue, 15 Sep 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2609.13436"
-  },
-  {
-    "source": "arXiv",
-    "title": "LabAgent: Customize Any Research Hubs for Scientific Discoveries Using AI Agents",
-    "date": "Tue, 15 Sep 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2609.13437"
   }
 ]
