@@ -1,5 +1,95 @@
 [
   {
+    "source": "HuggingFace",
+    "title": "Multimodal open d1 decision models for the edge",
+    "date": "Wed, 07 Oct 2026 16:54:33 GMT",
+    "url": "https://huggingface.co/blog/LiquidAI/open-d1"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
+    "date": "Wed, 07 Oct 2026 12:45:31 GMT",
+    "url": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Helping teens learn, plan, and shape the future of AI",
+    "date": "Wed, 07 Oct 2026 12:00:00 GMT",
+    "url": "https://openai.com/index/teens-learn-and-plan"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Radisson Hotel Group brings hotel discovery into ChatGPT",
+    "date": "Wed, 07 Oct 2026 07:00:00 GMT",
+    "url": "https://openai.com/index/radisson"
+  },
+  {
+    "source": "arXiv",
+    "title": "GAMEGO: Training Game-Dev Agents with Synthetic Trajectories Anchored in Real-World Assets",
+    "date": "Wed, 07 Oct 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2610.06910"
+  },
+  {
+    "source": "arXiv",
+    "title": "Text2Dashboard: A Governed Agent Architecture for Natural-Language Dashboard Generation over Enterprise DataBrain",
+    "date": "Wed, 07 Oct 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2610.06914"
+  },
+  {
+    "source": "arXiv",
+    "title": "FluidPD: In-Place Elasticity for SLO-Aware Prefill-Decode Disaggregated LLM Serving",
+    "date": "Wed, 07 Oct 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2610.06917"
+  },
+  {
+    "source": "arXiv",
+    "title": "Anchor Divergence for Semantic Geometry in Contrastive Learning",
+    "date": "Wed, 07 Oct 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2610.06919"
+  },
+  {
+    "source": "arXiv",
+    "title": "RadOnc-Agent: An LLM-Orchestrated Framework for AI Workflows Across the Radiotherapy Care Pathway",
+    "date": "Wed, 07 Oct 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2610.06923"
+  },
+  {
+    "source": "arXiv",
+    "title": "Metonymic Circuits for Abstract Concept Grounding in Vision Transformers",
+    "date": "Wed, 07 Oct 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2610.06928"
+  },
+  {
+    "source": "arXiv",
+    "title": "Principles that Guide, Actions that Inform: Agent Evolution via Knowledge Abstraction",
+    "date": "Wed, 07 Oct 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2610.06964"
+  },
+  {
+    "source": "arXiv",
+    "title": "AegisFlow: A Multi-Agent Agentic AI Framework for Autonomous Remediation and Self-Healing in Fragile Data Ecosystems",
+    "date": "Wed, 07 Oct 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2610.06971"
+  },
+  {
+    "source": "arXiv",
+    "title": "EPOCH: Reliable Discovery through Evidence-Governed Search",
+    "date": "Wed, 07 Oct 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2610.06986"
+  },
+  {
+    "source": "arXiv",
+    "title": "When better traffic forecasts fail to improve signal control: a layered diagnostic study of forecast-to-decision value",
+    "date": "Wed, 07 Oct 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2610.06992"
+  },
+  {
+    "source": "OpenAI",
+    "title": "GPT-6 and Intelligent UI for everyone",
+    "date": "Wed, 07 Oct 2026 00:00:00 GMT",
+    "url": "https://openai.com/index/gpt-6-for-everyone"
+  },
+  {
     "source": "OpenAI",
     "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
     "date": "Tue, 06 Oct 2026 16:00:00 GMT",
@@ -1108,95 +1198,5 @@
     "title": "Reimagining advertising with AI",
     "date": "Wed, 16 Sep 2026 13:00:00 GMT",
     "url": "https://openai.com/index/reimagining-advertising-with-ai"
-  },
-  {
-    "source": "OpenAI",
-    "title": "How to connect AI usage to business value",
-    "date": "Wed, 16 Sep 2026 12:00:00 GMT",
-    "url": "https://openai.com/index/how-to-connect-ai-usage-to-business-value"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Hex turns complex analysis into visual reports with GPT‑6 Astra",
-    "date": "Wed, 16 Sep 2026 12:00:00 GMT",
-    "url": "https://openai.com/index/hex-gpt-6-astra"
-  },
-  {
-    "source": "OpenAI",
-    "title": "How workers are unlocking new ways of working",
-    "date": "Wed, 16 Sep 2026 09:00:00 GMT",
-    "url": "https://openai.com/index/unlocking-new-ways-of-working"
-  },
-  {
-    "source": "arXiv",
-    "title": "Optimal Pruning for Neural Architectures using Fisher Information Distances",
-    "date": "Wed, 16 Sep 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2609.16129"
-  },
-  {
-    "source": "arXiv",
-    "title": "Safe Error Correction for Language Models: Frozen-Base Adjustment with Capability Preservation",
-    "date": "Wed, 16 Sep 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2609.16145"
-  },
-  {
-    "source": "arXiv",
-    "title": "GPEvac: GNN-Based PPO for Adaptive Evacuation Routing During Shooting Events",
-    "date": "Wed, 16 Sep 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2609.16163"
-  },
-  {
-    "source": "arXiv",
-    "title": "Position: AI Is Not Ready for Strategic Conflicts",
-    "date": "Wed, 16 Sep 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2609.16189"
-  },
-  {
-    "source": "arXiv",
-    "title": "Calibrate, Then Route: A Measured Study of Learned Request Routing for Disaggregated LLM Serving",
-    "date": "Wed, 16 Sep 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2609.16206"
-  },
-  {
-    "source": "arXiv",
-    "title": "Artificial intelligence and biosecurity: capabilities, threat pathways, and defense-in-depth governance",
-    "date": "Wed, 16 Sep 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2609.16213"
-  },
-  {
-    "source": "arXiv",
-    "title": "Where Should the KV Cache Live? Placement Policies Across GPU, CPU, and SSD for Long-Lived Sessions",
-    "date": "Wed, 16 Sep 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2609.16215"
-  },
-  {
-    "source": "arXiv",
-    "title": "Toward Governance-Aware Autonomous GIS: A Narrative Review of Ethical and Privacy Risks in LLM-Enabled GeoAI",
-    "date": "Wed, 16 Sep 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2609.16232"
-  },
-  {
-    "source": "arXiv",
-    "title": "Metacognitive Steering: Learning the Structure of Scientific Judgment",
-    "date": "Wed, 16 Sep 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2609.16245"
-  },
-  {
-    "source": "arXiv",
-    "title": "The Pain Axis: LLMs Represent Self-Directed Harm and Act to Relieve It",
-    "date": "Wed, 16 Sep 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2609.16247"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "Your Agent Aced the Task. Will It Do It Again?",
-    "date": "Tue, 15 Sep 2026 16:00:44 GMT",
-    "url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency"
-  },
-  {
-    "source": "arXiv",
-    "title": "ZGCM-1: A Fully Open and Extremely Efficient Foundation Model for Math and Agentic Search",
-    "date": "Tue, 15 Sep 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2609.13356"
   }
 ]
