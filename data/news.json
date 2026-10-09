@@ -1,9 +1,105 @@
 [
   {
+    "source": "OpenAI",
+    "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
+    "date": "Thu, 08 Oct 2026 16:00:00 GMT",
+    "url": "https://openai.com/index/oracle"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
+    "date": "Thu, 08 Oct 2026 12:00:00 GMT",
+    "url": "https://openai.com/index/pollo-ai"
+  },
+  {
+    "source": "OpenAI",
+    "title": "LegalOn halves Codex costs while maintaining development speed",
+    "date": "Thu, 08 Oct 2026 12:00:00 GMT",
+    "url": "https://openai.com/index/legalon-halves-codex-costs"
+  },
+  {
+    "source": "arXiv",
+    "title": "Joint upper-bound coverage and route-choice utility: an empirical evaluation on two urban proxy tasks",
+    "date": "Thu, 08 Oct 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2610.06995"
+  },
+  {
+    "source": "arXiv",
+    "title": "Topology-Consistent Task Planning over Cellular Workflow Complexes for LLM-based Agents",
+    "date": "Thu, 08 Oct 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2610.07004"
+  },
+  {
+    "source": "arXiv",
+    "title": "When to Rethink: Learning Multi-Perspective Self-Verification for Vision-Language Models",
+    "date": "Thu, 08 Oct 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2610.07018"
+  },
+  {
+    "source": "arXiv",
+    "title": "Beyond Refusal Patterns: Safe-Role Internalization for Robust and Generalizable LLM Safety Alignment",
+    "date": "Thu, 08 Oct 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2610.07023"
+  },
+  {
+    "source": "arXiv",
+    "title": "Offline AI Modules: Voice-First Offline Architecture, Hardware Reference Stack, Quantization and Benchmarking",
+    "date": "Thu, 08 Oct 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2610.07026"
+  },
+  {
+    "source": "arXiv",
+    "title": "JIVEAdapter: A Multi-Task Additive Low-Rank Adapter via Joint and Individual Variation Explained (JIVE)",
+    "date": "Thu, 08 Oct 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2610.07036"
+  },
+  {
+    "source": "arXiv",
+    "title": "Inference-Time Projection for Physically Valid Biomolecular Diffusion Models",
+    "date": "Thu, 08 Oct 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2610.07037"
+  },
+  {
+    "source": "arXiv",
+    "title": "CuratorMAS: Automating Dataset Curation via Multi-Agent Orchestration",
+    "date": "Thu, 08 Oct 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2610.07075"
+  },
+  {
+    "source": "arXiv",
+    "title": "Smart Content Ingestion for Generative AI Workloads",
+    "date": "Thu, 08 Oct 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2610.07091"
+  },
+  {
+    "source": "arXiv",
+    "title": "Small Language Models for Smart Data Model Classification at the Edge: A Cost-Aware Hybrid Approach",
+    "date": "Thu, 08 Oct 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2610.07093"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Disrupting AI-enabled “false front” operations",
+    "date": "Thu, 08 Oct 2026 00:00:00 GMT",
+    "url": "https://openai.com/index/disrupting-ai-enabled-false-front-operations"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "The model that didn't exist, so you made it yourself",
+    "date": "Thu, 08 Oct 2026 00:00:00 GMT",
+    "url": "https://huggingface.co/blog/building-with-ml-intern"
+  },
+  {
     "source": "HuggingFace",
     "title": "Multimodal open d1 decision models for the edge",
     "date": "Wed, 07 Oct 2026 16:54:33 GMT",
     "url": "https://huggingface.co/blog/LiquidAI/open-d1"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "Introducing Falcon ASR",
+    "date": "Wed, 07 Oct 2026 13:21:03 GMT",
+    "url": "https://huggingface.co/blog/tiiuae/falcon-asr"
   },
   {
     "source": "HuggingFace",
@@ -1102,101 +1198,5 @@
     "title": "Closed-World Resolution Against Tool Hallucination in LLM Agents",
     "date": "Fri, 18 Sep 2026 00:00:00 -0400",
     "url": "https://arxiv.org/abs/2609.19425"
-  },
-  {
-    "source": "arXiv",
-    "title": "The syntax and semantics of goals",
-    "date": "Fri, 18 Sep 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2609.19448"
-  },
-  {
-    "source": "OpenAI",
-    "title": "How Cooley is accelerating IPO work with ChatGPT",
-    "date": "Thu, 17 Sep 2026 12:00:00 GMT",
-    "url": "https://openai.com/index/cooley-gopublic"
-  },
-  {
-    "source": "arXiv",
-    "title": "Making AI-Assisted Claims Independently Challengeable: Publication Authority and a Protocol for Falsifiable Publication Records",
-    "date": "Thu, 17 Sep 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2609.17631"
-  },
-  {
-    "source": "arXiv",
-    "title": "EvolveTrade: Experience-Driven Policy Refinement for Self-Evolving LLM Trading Agents",
-    "date": "Thu, 17 Sep 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2609.17632"
-  },
-  {
-    "source": "arXiv",
-    "title": "One Color Preprocessing Improves DSATUR",
-    "date": "Thu, 17 Sep 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2609.17633"
-  },
-  {
-    "source": "arXiv",
-    "title": "Physics-Constrained Digital Twins for Sensor Integrity in Urban Pedestrian Flow: Detecting Stealthy False Data Injection with Conformal Guarantees",
-    "date": "Thu, 17 Sep 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2609.17635"
-  },
-  {
-    "source": "arXiv",
-    "title": "What You Can't See Is Still What You Learn: A Preregistered Sixty-Society Confirmation That Evidence Masking Drives Compositional Generalization",
-    "date": "Thu, 17 Sep 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2609.17637"
-  },
-  {
-    "source": "arXiv",
-    "title": "CapMem: A Benchmark for Caption-Based Episodic Memory in Egocentric Video",
-    "date": "Thu, 17 Sep 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2609.17688"
-  },
-  {
-    "source": "arXiv",
-    "title": "GraphEcho: Structural Redundancy and Evidence Provenance in LLM Graph Agents",
-    "date": "Thu, 17 Sep 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2609.17695"
-  },
-  {
-    "source": "arXiv",
-    "title": "GVD: Governed Versioning and Deduplication for Document Repositories",
-    "date": "Thu, 17 Sep 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2609.17696"
-  },
-  {
-    "source": "arXiv",
-    "title": "NeMo Data Designer: An Extensible Framework for Multimodal Synthetic Data Generation",
-    "date": "Thu, 17 Sep 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2609.17699"
-  },
-  {
-    "source": "arXiv",
-    "title": "A Systematic Evaluation of the COTQ Provincial Land Cover Product: Structural Consistency, Spectral Separability, and Relative Positioning Against ESA, ESRI, and Google Products",
-    "date": "Thu, 17 Sep 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2609.17731"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Introducing Astra for Law",
-    "date": "Thu, 17 Sep 2026 00:00:00 GMT",
-    "url": "https://openai.com/index/astra-for-law"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Our framework for reporting model misalignment",
-    "date": "Wed, 16 Sep 2026 17:00:00 GMT",
-    "url": "https://openai.com/index/model-misalignment-reporting-framework"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Helping older adults use AI in everyday life",
-    "date": "Wed, 16 Sep 2026 16:00:00 GMT",
-    "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Reimagining advertising with AI",
-    "date": "Wed, 16 Sep 2026 13:00:00 GMT",
-    "url": "https://openai.com/index/reimagining-advertising-with-ai"
   }
 ]
