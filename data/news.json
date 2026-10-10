@@ -1,5 +1,83 @@
 [
   {
+    "source": "HuggingFace",
+    "title": "Impactful scheduling for GPU clusters",
+    "date": "Fri, 09 Oct 2026 15:20:29 GMT",
+    "url": "https://huggingface.co/blog/allenai/impactful-scheduling"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+    "date": "Fri, 09 Oct 2026 07:00:00 GMT",
+    "url": "https://openai.com/index/sophos"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+    "date": "Fri, 09 Oct 2026 07:00:00 GMT",
+    "url": "https://openai.com/index/asana-browser-agent"
+  },
+  {
+    "source": "arXiv",
+    "title": "An Explainable Header-Centric Framework for Large-Scale Semantic Table Interpretation and Data Quality Assessment",
+    "date": "Fri, 09 Oct 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2610.10541"
+  },
+  {
+    "source": "arXiv",
+    "title": "Synthesis Through Simulation: Generating Coherent Enterprise Data via Scalable Agent-System Interaction",
+    "date": "Fri, 09 Oct 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2610.10549"
+  },
+  {
+    "source": "arXiv",
+    "title": "Agent-Controlled Forgetting for Tool-Using Agents: Reversible Context Curation in Practice",
+    "date": "Fri, 09 Oct 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2610.10590"
+  },
+  {
+    "source": "arXiv",
+    "title": "Verification and Self-Improvement in Agentic AI: Foundations and Limits",
+    "date": "Fri, 09 Oct 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2610.10611"
+  },
+  {
+    "source": "arXiv",
+    "title": "The Harness as the Only Mutable Surface: Compliance-Bounded Self-Evolution of LLM Agents in Credit Pipelines, with a Measured Admission Gate",
+    "date": "Fri, 09 Oct 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2610.10629"
+  },
+  {
+    "source": "arXiv",
+    "title": "Speaking the Navigator's Language: Trajectory-Grounded Instruction Translation for Frozen Aerial VLN Agents",
+    "date": "Fri, 09 Oct 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2610.10635"
+  },
+  {
+    "source": "arXiv",
+    "title": "Plan-and-Patch: Diffusion Language Models for Agentic Planning",
+    "date": "Fri, 09 Oct 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2610.10786"
+  },
+  {
+    "source": "arXiv",
+    "title": "Whose Ground Truth? Embracing Ambiguity in Human-Centered AI",
+    "date": "Fri, 09 Oct 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2610.10805"
+  },
+  {
+    "source": "arXiv",
+    "title": "On the Clock: Towards Punctual and Productive Time-Budgeted AI Agents",
+    "date": "Fri, 09 Oct 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2610.10833"
+  },
+  {
+    "source": "arXiv",
+    "title": "Self-Supervised Keyframe Discovery for Horizon-Invariant Behavior Cloning",
+    "date": "Fri, 09 Oct 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2610.10857"
+  },
+  {
     "source": "OpenAI",
     "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
     "date": "Thu, 08 Oct 2026 16:00:00 GMT",
@@ -678,6 +756,12 @@
     "url": "https://openai.com/index/proaction"
   },
   {
+    "source": "OpenAI",
+    "title": "Lowe’s answers millions of home improvement questions with OpenAI",
+    "date": "Fri, 25 Sep 2026 07:00:00 GMT",
+    "url": "https://openai.com/index/lowes"
+  },
+  {
     "source": "arXiv",
     "title": "When Should Forecasting Agents Reason? Behavioral Stress Tests for Reliability Routing",
     "date": "Fri, 25 Sep 2026 00:00:00 -0400",
@@ -1114,89 +1198,5 @@
     "title": "Clinician-Grounded Quality Assurance for AI-Assisted Psychiatric Intake",
     "date": "Mon, 21 Sep 2026 00:00:00 -0400",
     "url": "https://arxiv.org/abs/2609.21149"
-  },
-  {
-    "source": "arXiv",
-    "title": "Can Agents Design Better Chips with a Higher Level Abstraction?",
-    "date": "Mon, 21 Sep 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2609.21157"
-  },
-  {
-    "source": "arXiv",
-    "title": "SpecOpt: Contact-Diff Reasoning for Agentic Molecule Optimization Toward Binding Specificity",
-    "date": "Mon, 21 Sep 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2609.21165"
-  },
-  {
-    "source": "OpenAI",
-    "title": "How V7 gives AI agents institutional memory",
-    "date": "Mon, 21 Sep 2026 00:00:00 GMT",
-    "url": "https://openai.com/index/v7"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "tokenizers v1: encode, decode and scaling, measured",
-    "date": "Mon, 21 Sep 2026 00:00:00 GMT",
-    "url": "https://huggingface.co/blog/tokenizers-v1"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Introducing the Australian Youth Safety Blueprint",
-    "date": "Fri, 18 Sep 2026 12:00:00 GMT",
-    "url": "https://openai.com/index/australian-youth-safety-blueprint"
-  },
-  {
-    "source": "arXiv",
-    "title": "Regularized Emphatic Temporal-Difference Learning: Stability under Constant Stepsizes",
-    "date": "Fri, 18 Sep 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2609.19170"
-  },
-  {
-    "source": "arXiv",
-    "title": "BioPhys-Bridge: A Benchmark for Interdisciplinary Scientific Reasoning in Physics-Grounded Biological Research",
-    "date": "Fri, 18 Sep 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2609.19180"
-  },
-  {
-    "source": "arXiv",
-    "title": "What Do We Expect from LLMs? Mapping the Design of LLM Benchmarks",
-    "date": "Fri, 18 Sep 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2609.19182"
-  },
-  {
-    "source": "arXiv",
-    "title": "Position: It is Time to Virtualize Foundation Models with a Self-evolving Operating System Layer",
-    "date": "Fri, 18 Sep 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2609.19203"
-  },
-  {
-    "source": "arXiv",
-    "title": "What Do Current Systematic Generalization Tasks Miss? A Reasoning-Centered Analysis",
-    "date": "Fri, 18 Sep 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2609.19212"
-  },
-  {
-    "source": "arXiv",
-    "title": "Characterizing Web Search by Conversational LLM Agents: From Search Decisions and Strategies to Results and Responses",
-    "date": "Fri, 18 Sep 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2609.19244"
-  },
-  {
-    "source": "arXiv",
-    "title": "Do AI Agents Understand Computer Architecture?",
-    "date": "Fri, 18 Sep 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2609.19387"
-  },
-  {
-    "source": "arXiv",
-    "title": "MAGS: Multi-agent Auto-formalization Guarantees Safety for Agentic Outputs",
-    "date": "Fri, 18 Sep 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2609.19391"
-  },
-  {
-    "source": "arXiv",
-    "title": "Closed-World Resolution Against Tool Hallucination in LLM Agents",
-    "date": "Fri, 18 Sep 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2609.19425"
   }
 ]
