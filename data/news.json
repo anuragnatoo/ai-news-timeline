@@ -1,5 +1,65 @@
 [
   {
+    "source": "arXiv",
+    "title": "Faithfulness Without Anchors: A Position Paper on the Structural Misalignments of Explainable AI Faithfulness Metrics for Feature Importance",
+    "date": "Tue, 13 Oct 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2610.12493"
+  },
+  {
+    "source": "arXiv",
+    "title": "EliteTable: Self-Improving Program Search for Executable Control Policies",
+    "date": "Tue, 13 Oct 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2610.12536"
+  },
+  {
+    "source": "arXiv",
+    "title": "Equal-Budget Monte Carlo Tree Search versus Randomized-Restart List Scheduling for DAG Workflows: A Controlled Equal-Budget Computational Study",
+    "date": "Tue, 13 Oct 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2610.12542"
+  },
+  {
+    "source": "arXiv",
+    "title": "Know What You Don't Know: Agentic Data Synthesis by Evolving Generation Space for Closed-Loop Learning",
+    "date": "Tue, 13 Oct 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2610.12593"
+  },
+  {
+    "source": "arXiv",
+    "title": "SpireBench: Evaluating Long-Horizon Strategic Play of Agentic Models with Slay the Spire",
+    "date": "Tue, 13 Oct 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2610.12596"
+  },
+  {
+    "source": "arXiv",
+    "title": "Beyond Binary Verifiable Rewards: Behavioral Self-Rewarding for SWE Agents",
+    "date": "Tue, 13 Oct 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2610.12598"
+  },
+  {
+    "source": "arXiv",
+    "title": "CLEAT: Learning Value-Guided Clarification for Interactive Agents",
+    "date": "Tue, 13 Oct 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2610.12655"
+  },
+  {
+    "source": "arXiv",
+    "title": "MagicBeanStalk: Escaping the RLVR Zero Advantage Trap with Recursive Data Synthesis",
+    "date": "Tue, 13 Oct 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2610.12659"
+  },
+  {
+    "source": "arXiv",
+    "title": "Faithful and Complete LLM-Assisted Automated Construction of Hierarchical Hardware Knowledge Graphs",
+    "date": "Tue, 13 Oct 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2610.12762"
+  },
+  {
+    "source": "arXiv",
+    "title": "Representation Alignment from a Few Paired Data via Distilled Optimal Transport",
+    "date": "Tue, 13 Oct 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2610.12781"
+  },
+  {
     "source": "HuggingFace",
     "title": "Impactful scheduling for GPU clusters",
     "date": "Fri, 09 Oct 2026 15:20:29 GMT",
@@ -1138,65 +1198,5 @@
     "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
     "date": "Mon, 21 Sep 2026 12:00:00 GMT",
     "url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Building standards for the next phase of AI",
-    "date": "Mon, 21 Sep 2026 10:00:00 GMT",
-    "url": "https://openai.com/index/building-standards-next-phase-ai"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Expanding OpenAI Academy with new learning paths",
-    "date": "Mon, 21 Sep 2026 07:00:00 GMT",
-    "url": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths"
-  },
-  {
-    "source": "arXiv",
-    "title": "RBS-Attention: Radius-Bounded Sparse Prefill for Long-Context Large Language Models",
-    "date": "Mon, 21 Sep 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2609.20971"
-  },
-  {
-    "source": "arXiv",
-    "title": "Attention-Aware Routing: Coupling Routing and Attention in MoEs",
-    "date": "Mon, 21 Sep 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2609.20974"
-  },
-  {
-    "source": "arXiv",
-    "title": "CaLR: Causal Latent Revision for Robust Diffusion Reasoning",
-    "date": "Mon, 21 Sep 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2609.20981"
-  },
-  {
-    "source": "arXiv",
-    "title": "LoRA Enhanced Contrastive Learning with SAS Vision Transformers",
-    "date": "Mon, 21 Sep 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2609.21061"
-  },
-  {
-    "source": "arXiv",
-    "title": "Detecting Hallucination in LLMs: Tracing the Topological Signatures of Impaired Context Sharing",
-    "date": "Mon, 21 Sep 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2609.21096"
-  },
-  {
-    "source": "arXiv",
-    "title": "Decoupling Internal Representational Changes and Causal Importance in Fine-Tuned Large Language Models",
-    "date": "Mon, 21 Sep 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2609.21113"
-  },
-  {
-    "source": "arXiv",
-    "title": "TinyCeNN-LM: Quality-Gated Conversion of Pretrained Attention with CeNN-Inspired Cellular-Recurrent Layers",
-    "date": "Mon, 21 Sep 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2609.21139"
-  },
-  {
-    "source": "arXiv",
-    "title": "Clinician-Grounded Quality Assurance for AI-Assisted Psychiatric Intake",
-    "date": "Mon, 21 Sep 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2609.21149"
   }
 ]
