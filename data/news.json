@@ -1,5 +1,17 @@
 [
   {
+    "source": "HuggingFace",
+    "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
+    "date": "Tue, 13 Oct 2026 17:05:48 GMT",
+    "url": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Higgsfield takes AI video from 1 minute to over 10",
+    "date": "Tue, 13 Oct 2026 12:00:00 GMT",
+    "url": "https://openai.com/index/higgsfield-longer-videos-voice"
+  },
+  {
     "source": "arXiv",
     "title": "Faithfulness Without Anchors: A Position Paper on the Structural Misalignments of Explainable AI Faithfulness Metrics for Feature Importance",
     "date": "Tue, 13 Oct 2026 00:00:00 -0400",
@@ -58,6 +70,66 @@
     "title": "Representation Alignment from a Few Paired Data via Distilled Optimal Transport",
     "date": "Tue, 13 Oct 2026 00:00:00 -0400",
     "url": "https://arxiv.org/abs/2610.12781"
+  },
+  {
+    "source": "arXiv",
+    "title": "EvoBelief: Falsifiable World Models for Self-Improving LLM Agents",
+    "date": "Tue, 13 Oct 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2610.12789"
+  },
+  {
+    "source": "arXiv",
+    "title": "VEPA: Verified Evolving Formal Policy for Lifelong LLM Agent Guardrails",
+    "date": "Tue, 13 Oct 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2610.12813"
+  },
+  {
+    "source": "arXiv",
+    "title": "Reward Hacking as a Transmissible Strategy in Multi-Agent Coding Systems",
+    "date": "Tue, 13 Oct 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2610.12822"
+  },
+  {
+    "source": "arXiv",
+    "title": "Neural networks are more modular than single neurons suggest",
+    "date": "Tue, 13 Oct 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2610.12842"
+  },
+  {
+    "source": "arXiv",
+    "title": "Towards Defining, Measuring, and Leveraging Creativity in AI Applications",
+    "date": "Tue, 13 Oct 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2610.12845"
+  },
+  {
+    "source": "arXiv",
+    "title": "Mitigating Capability Degradation in LLM Self-Improvement via Representation Geometry Regularization",
+    "date": "Tue, 13 Oct 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2610.12855"
+  },
+  {
+    "source": "arXiv",
+    "title": "Collaborative Theory of Mind: Learning to Self-Revise by Anticipating User Responses",
+    "date": "Tue, 13 Oct 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2610.12872"
+  },
+  {
+    "source": "arXiv",
+    "title": "One-Step Text Generation by Seq-Drifting",
+    "date": "Tue, 13 Oct 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2610.12879"
+  },
+  {
+    "source": "arXiv",
+    "title": "Mind the Spatial Gap: A Benchmark for Geospatial Reasoning and Constrained Spatial Editing",
+    "date": "Tue, 13 Oct 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2610.12881"
+  },
+  {
+    "source": "arXiv",
+    "title": "OGPO: Offline Goal-conditioned Policy Optimization for Recoverable Vision-Language-Action Models",
+    "date": "Tue, 13 Oct 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2610.12914"
   },
   {
     "source": "HuggingFace",
@@ -1126,77 +1198,5 @@
     "title": "A Fully Differentiable Neuro-Soft-Symbolic Framework for Perceptual Task Planning",
     "date": "Tue, 22 Sep 2026 00:00:00 -0400",
     "url": "https://arxiv.org/abs/2609.21221"
-  },
-  {
-    "source": "arXiv",
-    "title": "CogGym: Towards Large-Scale Comparative Evaluation of Human and Machine Cognition",
-    "date": "Tue, 22 Sep 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2609.21259"
-  },
-  {
-    "source": "arXiv",
-    "title": "PlaceReasoner-Beta: Reasoning-Driven Macro Placement and Benchmarking",
-    "date": "Tue, 22 Sep 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2609.21263"
-  },
-  {
-    "source": "arXiv",
-    "title": "Efficient Benchmarking in Production: A Study of an Evolving LLM Agent",
-    "date": "Tue, 22 Sep 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2609.21267"
-  },
-  {
-    "source": "arXiv",
-    "title": "GameASG-Bench: Benchmarking Autonomous Software Generation for Game Development",
-    "date": "Tue, 22 Sep 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2609.21293"
-  },
-  {
-    "source": "arXiv",
-    "title": "LEGIT: Credentialing Protocol for Trustworthy AI Agent Marketplaces",
-    "date": "Tue, 22 Sep 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2609.21325"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Priorities and principles for effective third party assessments",
-    "date": "Tue, 22 Sep 2026 00:00:00 GMT",
-    "url": "https://openai.com/index/priorities-principles-third-party-assessments"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
-    "date": "Tue, 22 Sep 2026 00:00:00 GMT",
-    "url": "https://huggingface.co/blog/evaleval-aisi"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "Transformers now runs llama.cpp quants",
-    "date": "Tue, 22 Sep 2026 00:00:00 GMT",
-    "url": "https://huggingface.co/blog/transformers-llama-cpp-quants"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
-    "date": "Tue, 22 Sep 2026 00:00:00 GMT",
-    "url": "https://huggingface.co/blog/omlx"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
-    "date": "Mon, 21 Sep 2026 13:44:34 GMT",
-    "url": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Advisory Group on Mathematics and Artificial Intelligence",
-    "date": "Mon, 21 Sep 2026 12:00:00 GMT",
-    "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
-    "date": "Mon, 21 Sep 2026 12:00:00 GMT",
-    "url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra"
   }
 ]
