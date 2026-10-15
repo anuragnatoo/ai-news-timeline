@@ -1,6 +1,42 @@
 [
   {
     "source": "HuggingFace",
+    "title": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
+    "date": "Wed, 14 Oct 2026 16:12:42 GMT",
+    "url": "https://huggingface.co/blog/allenai/hiro-acev2"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Amp puts AI agents to work beyond code with OpenAI models",
+    "date": "Wed, 14 Oct 2026 12:00:00 GMT",
+    "url": "https://openai.com/index/amp-beyond-coding"
+  },
+  {
+    "source": "OpenAI",
+    "title": "SentinelOne cuts malware analysis from weeks to hours",
+    "date": "Wed, 14 Oct 2026 12:00:00 GMT",
+    "url": "https://openai.com/index/sentinelone"
+  },
+  {
+    "source": "OpenAI",
+    "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
+    "date": "Wed, 14 Oct 2026 07:00:00 GMT",
+    "url": "https://openai.com/index/third-moment-research"
+  },
+  {
+    "source": "OpenAI",
+    "title": "How Block is building AI-powered security with OpenAI technology",
+    "date": "Wed, 14 Oct 2026 07:00:00 GMT",
+    "url": "https://openai.com/index/block-ai-powered-security"
+  },
+  {
+    "source": "OpenAI",
+    "title": "The EU’s next chapter in AI is agentic",
+    "date": "Wed, 14 Oct 2026 00:00:00 GMT",
+    "url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic"
+  },
+  {
+    "source": "HuggingFace",
     "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
     "date": "Tue, 13 Oct 2026 17:05:48 GMT",
     "url": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b"
@@ -1162,41 +1198,5 @@
     "title": "Introducing GPT-6 Sol and Luna",
     "date": "Tue, 22 Sep 2026 18:00:00 GMT",
     "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Parallel cut research time and cost in half with GPT‑6 Astra",
-    "date": "Tue, 22 Sep 2026 12:00:00 GMT",
-    "url": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra"
-  },
-  {
-    "source": "arXiv",
-    "title": "Implicit Rule Induction with Test-Time Task Embeddings in ARC-like Tasks",
-    "date": "Tue, 22 Sep 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2609.21181"
-  },
-  {
-    "source": "arXiv",
-    "title": "AI-GRACE: A Use-Case Operationalization Framework for Agentic AI: From Organizational Objectives and Obligations to Deployment Capabilities and Architecture",
-    "date": "Tue, 22 Sep 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2609.21192"
-  },
-  {
-    "source": "arXiv",
-    "title": "Information-Gain Rewards over Diversity-Pruned Tests: GT-Anchored Verifier Co-Training for Reliable Code Generation",
-    "date": "Tue, 22 Sep 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2609.21208"
-  },
-  {
-    "source": "arXiv",
-    "title": "Ability-Residual Decoupled Modeling for Affective Cognitive Diagnosis",
-    "date": "Tue, 22 Sep 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2609.21214"
-  },
-  {
-    "source": "arXiv",
-    "title": "A Fully Differentiable Neuro-Soft-Symbolic Framework for Perceptual Task Planning",
-    "date": "Tue, 22 Sep 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2609.21221"
   }
 ]
