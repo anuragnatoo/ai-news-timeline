@@ -1,9 +1,87 @@
 [
   {
+    "source": "OpenAI",
+    "title": "How Itaú is building generative AI for its entire customer base",
+    "date": "Fri, 16 Oct 2026 19:00:00 GMT",
+    "url": "https://openai.com/index/itau-generative-ai"
+  },
+  {
+    "source": "arXiv",
+    "title": "The World Won't Wait: Evaluating and Teaching Agents Under a Live Clock",
+    "date": "Fri, 16 Oct 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2610.20665"
+  },
+  {
+    "source": "arXiv",
+    "title": "Evaluating Model Capabilities After Benchmark Saturation",
+    "date": "Fri, 16 Oct 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2610.20667"
+  },
+  {
+    "source": "arXiv",
+    "title": "Value-Informed Schedule Trimming for Accelerated Sequential Monte Carlo Guidance in Discrete Diffusion",
+    "date": "Fri, 16 Oct 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2610.20669"
+  },
+  {
+    "source": "arXiv",
+    "title": "AlphaDiana: A Measurement System for Agents in Verifiable Reasoning Tasks",
+    "date": "Fri, 16 Oct 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2610.20675"
+  },
+  {
+    "source": "arXiv",
+    "title": "When Correctness Feedback Erases Evidence: Phase-Separated Completeness Auditing in Verus",
+    "date": "Fri, 16 Oct 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2610.20676"
+  },
+  {
+    "source": "arXiv",
+    "title": "Counterfactual Neighborhood Risk Fields: Evidence-Grounded Selective Safety for Vision-Language Models",
+    "date": "Fri, 16 Oct 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2610.20679"
+  },
+  {
+    "source": "arXiv",
+    "title": "IneqAgent: Agentic Inequality Proving in Lean with Symbolic Computation",
+    "date": "Fri, 16 Oct 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2610.20681"
+  },
+  {
+    "source": "arXiv",
+    "title": "L2G-SR: Learning to Guide LLM-based Symbolic Regression",
+    "date": "Fri, 16 Oct 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2610.20685"
+  },
+  {
+    "source": "arXiv",
+    "title": "When Reality Outpaces Cognition: A New Scaling Principle for Reliable Intelligence",
+    "date": "Fri, 16 Oct 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2610.20764"
+  },
+  {
+    "source": "arXiv",
+    "title": "ARIA: Runtime Inspection and Amendment for Multi-Agent Systems",
+    "date": "Fri, 16 Oct 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2610.20780"
+  },
+  {
     "source": "HuggingFace",
     "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
     "date": "Fri, 16 Oct 2026 01:44:47 GMT",
     "url": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+    "date": "Fri, 16 Oct 2026 00:00:00 GMT",
+    "url": "https://openai.com/index/stack-overflow-chatgpt-plugin"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "Welcome Beam: a 501B open model you can own, customize, and scale",
+    "date": "Fri, 16 Oct 2026 00:00:00 GMT",
+    "url": "https://huggingface.co/blog/reflection-beam"
   },
   {
     "source": "HuggingFace",
@@ -1120,83 +1198,5 @@
     "title": "TwinCheck: Evidence-Grounded Negative-Twin Verification for Stateful Tool Agents",
     "date": "Thu, 24 Sep 2026 00:00:00 -0400",
     "url": "https://arxiv.org/abs/2609.26911"
-  },
-  {
-    "source": "arXiv",
-    "title": "Building Socio-Affective Artificial Intelligence for Interactive Multi-Agent Simulations",
-    "date": "Thu, 24 Sep 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2609.26927"
-  },
-  {
-    "source": "arXiv",
-    "title": "Which Objectives Need a Dial? Predicting Objective Conflict and Covering Trade-offs in Steerable Pluralistic Alignment",
-    "date": "Thu, 24 Sep 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2609.26929"
-  },
-  {
-    "source": "arXiv",
-    "title": "Escaping Python Dependency Hell: A Hybrid Replay-and-Repair Pipeline for Python Dependency Resolution",
-    "date": "Thu, 24 Sep 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2609.26952"
-  },
-  {
-    "source": "arXiv",
-    "title": "Same evidence, different judgments: Evidence noncommutative in vision/speech-text conflicts",
-    "date": "Thu, 24 Sep 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2609.26986"
-  },
-  {
-    "source": "arXiv",
-    "title": "Reinforcement Learning with Decomposed Subtasks",
-    "date": "Thu, 24 Sep 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2609.27035"
-  },
-  {
-    "source": "arXiv",
-    "title": "Training Intelligent Voice Assistant Wakeup with Controllable Synthetic Conversations",
-    "date": "Thu, 24 Sep 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2609.27037"
-  },
-  {
-    "source": "arXiv",
-    "title": "Are Stated Reasoning Steps Causally Load-Bearing?",
-    "date": "Thu, 24 Sep 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2609.27038"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
-    "date": "Wed, 23 Sep 2026 18:41:40 GMT",
-    "url": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Two years of OpenAI Academy",
-    "date": "Wed, 23 Sep 2026 16:00:00 GMT",
-    "url": "https://openai.com/index/two-years-of-openai-academy"
-  },
-  {
-    "source": "OpenAI",
-    "title": "OpenAI extends cyber access to Ukraine for civilian defense",
-    "date": "Wed, 23 Sep 2026 13:00:00 GMT",
-    "url": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Sam Altman’s remarks at the United Nations Security Council",
-    "date": "Wed, 23 Sep 2026 12:00:00 GMT",
-    "url": "https://openai.com/index/sam-altman-un-security-council-remarks"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
-    "date": "Wed, 23 Sep 2026 12:00:00 GMT",
-    "url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra"
-  },
-  {
-    "source": "OpenAI",
-    "title": "How invideo improves color grading 3x with GPT‑6 Astra",
-    "date": "Wed, 23 Sep 2026 12:00:00 GMT",
-    "url": "https://openai.com/index/invideo-builds-with-gpt-6-astra"
   }
 ]
