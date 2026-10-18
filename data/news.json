@@ -84,6 +84,12 @@
     "url": "https://huggingface.co/blog/reflection-beam"
   },
   {
+    "source": "OpenAI",
+    "title": "Benefit Street Partners answers questions faster with Codex",
+    "date": "Fri, 16 Oct 2026 00:00:00 GMT",
+    "url": "https://openai.com/index/benefit-street-partners"
+  },
+  {
     "source": "HuggingFace",
     "title": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
     "date": "Thu, 15 Oct 2026 20:34:01 GMT",
@@ -1192,11 +1198,5 @@
     "title": "Harness as a Language: A Minimalist Agent Framework With Maximal Expressivity",
     "date": "Thu, 24 Sep 2026 00:00:00 -0400",
     "url": "https://arxiv.org/abs/2609.26891"
-  },
-  {
-    "source": "arXiv",
-    "title": "TwinCheck: Evidence-Grounded Negative-Twin Verification for Stateful Tool Agents",
-    "date": "Thu, 24 Sep 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2609.26911"
   }
 ]
