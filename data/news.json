@@ -1,6 +1,78 @@
 [
   {
     "source": "OpenAI",
+    "title": "Advancing coding in low‑resource programming languages",
+    "date": "Mon, 19 Oct 2026 12:00:00 GMT",
+    "url": "https://openai.com/index/low-resource-programming-languages"
+  },
+  {
+    "source": "arXiv",
+    "title": "Structured Authority Injection: Persistent Human Control for LLM Agents via Typed MCP Overrides",
+    "date": "Mon, 19 Oct 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2610.22373"
+  },
+  {
+    "source": "arXiv",
+    "title": "Rethinking User Encoders: Routing Diffusion States for Scenario-Adaptive User Representation",
+    "date": "Mon, 19 Oct 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2610.22400"
+  },
+  {
+    "source": "arXiv",
+    "title": "From Events to Reasoning: Hierarchical Rule Composition over Explicit States",
+    "date": "Mon, 19 Oct 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2610.22403"
+  },
+  {
+    "source": "arXiv",
+    "title": "ECHOES: Seeing Beyond the Current Image via Recursive History Compression and Privileged On-Policy Distillation",
+    "date": "Mon, 19 Oct 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2610.22408"
+  },
+  {
+    "source": "arXiv",
+    "title": "Sensitivity Analysis of Decision Rules in an Agent-Based Agro-Ecological Model",
+    "date": "Mon, 19 Oct 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2610.22420"
+  },
+  {
+    "source": "arXiv",
+    "title": "PRIME: Towards Verifiable Evidence-Grounded Reasoning in LLM Agents",
+    "date": "Mon, 19 Oct 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2610.22426"
+  },
+  {
+    "source": "arXiv",
+    "title": "From Natural Language Intent to Executable Control: Hierarchical Feedback-Guided LLM Planning for Multi-component Cyber-Physical Systems",
+    "date": "Mon, 19 Oct 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2610.22441"
+  },
+  {
+    "source": "arXiv",
+    "title": "Null Controls Are Necessary but Not Sufficient: Evaluating Acceptance Guards for Scientific Discovery and Interpretability",
+    "date": "Mon, 19 Oct 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2610.22445"
+  },
+  {
+    "source": "arXiv",
+    "title": "Learnable Splines for Unstructured Neural Operators",
+    "date": "Mon, 19 Oct 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2610.22446"
+  },
+  {
+    "source": "arXiv",
+    "title": "Functional Welfare for AI Safety",
+    "date": "Mon, 19 Oct 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2610.22460"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "TorchNeuron: running HF models on AWS Trainium is easier than ever",
+    "date": "Mon, 19 Oct 2026 00:00:00 GMT",
+    "url": "https://huggingface.co/blog/hf-torchneuron"
+  },
+  {
+    "source": "OpenAI",
     "title": "How Itaú is building generative AI for its entire customer base",
     "date": "Fri, 16 Oct 2026 19:00:00 GMT",
     "url": "https://openai.com/index/itau-generative-ai"
@@ -106,6 +178,12 @@
     "title": "Teaching students to think and learn through questions",
     "date": "Thu, 15 Oct 2026 13:00:00 GMT",
     "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "Apertus 1.5 Release Notes",
+    "date": "Thu, 15 Oct 2026 09:08:45 GMT",
+    "url": "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes"
   },
   {
     "source": "arXiv",
@@ -1120,83 +1198,5 @@
     "title": "When Should Forecasting Agents Reason? Behavioral Stress Tests for Reliability Routing",
     "date": "Fri, 25 Sep 2026 00:00:00 -0400",
     "url": "https://arxiv.org/abs/2609.28475"
-  },
-  {
-    "source": "arXiv",
-    "title": "TW3Cast: A Frozen Router of Lightly Fine-Tuned Foundation Models for Time-Series Forecasting on GIFT-Eval, Selected Entirely on the Training Split",
-    "date": "Fri, 25 Sep 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2609.28506"
-  },
-  {
-    "source": "arXiv",
-    "title": "PAWS: Policy-driven Agentic World Simulation",
-    "date": "Fri, 25 Sep 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2609.28547"
-  },
-  {
-    "source": "arXiv",
-    "title": "Pistis Technical Report",
-    "date": "Fri, 25 Sep 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2609.28554"
-  },
-  {
-    "source": "arXiv",
-    "title": "BaseCamp --- An Agentic AI Framework for Automating DNA Sequencing Data Pipelines",
-    "date": "Fri, 25 Sep 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2609.28557"
-  },
-  {
-    "source": "arXiv",
-    "title": "DEEPO: Dual-Entropy Enhanced Policy Optimization for Hallucination in MLLMs",
-    "date": "Fri, 25 Sep 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2609.28570"
-  },
-  {
-    "source": "arXiv",
-    "title": "TWIST: A Proposed Benchmark for Intervention Quality in Conversational Memory, with a Human-Validated Draft-Alignment",
-    "date": "Fri, 25 Sep 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2609.28575"
-  },
-  {
-    "source": "arXiv",
-    "title": "Adversarial Closed-Loop Curriculum for Evolving Role-Playing Agents",
-    "date": "Fri, 25 Sep 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2609.28609"
-  },
-  {
-    "source": "arXiv",
-    "title": "Training Object Permanence in World Models",
-    "date": "Fri, 25 Sep 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2609.28654"
-  },
-  {
-    "source": "arXiv",
-    "title": "Beyond Surface Style: Aligning Multi-Turn User Simulators with Behavioral Consistency",
-    "date": "Fri, 25 Sep 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2609.28690"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Wayfair boosts catalog accuracy and support speed with OpenAI",
-    "date": "Fri, 25 Sep 2026 00:00:00 GMT",
-    "url": "https://openai.com/index/wayfair"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "Accelerating vision-language models with LFM2.5-VL-DSpark",
-    "date": "Thu, 24 Sep 2026 14:08:57 GMT",
-    "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark"
-  },
-  {
-    "source": "arXiv",
-    "title": "Silent Failures in Agent-Tool Interaction: An Audit of ToolUniverse",
-    "date": "Thu, 24 Sep 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2609.26836"
-  },
-  {
-    "source": "arXiv",
-    "title": "Harness as a Language: A Minimalist Agent Framework With Maximal Expressivity",
-    "date": "Thu, 24 Sep 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2609.26891"
   }
 ]
