@@ -1,5 +1,59 @@
 [
   {
+    "source": "HuggingFace",
+    "title": "NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation",
+    "date": "Tue, 20 Oct 2026 18:17:47 GMT",
+    "url": "https://huggingface.co/blog/nvidia/cosmos3-h-dreams"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "FairStress: A deeper evaluation of fairness in LLM decision-making",
+    "date": "Tue, 20 Oct 2026 16:09:19 GMT",
+    "url": "https://huggingface.co/blog/allenai/fairstress"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model",
+    "date": "Tue, 20 Oct 2026 15:19:48 GMT",
+    "url": "https://huggingface.co/blog/ibm-research/altk-evolve-bc"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
+    "date": "Tue, 20 Oct 2026 10:00:00 GMT",
+    "url": "https://openai.com/index/ted-taylor-restaurant"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
+    "date": "Tue, 20 Oct 2026 07:00:00 GMT",
+    "url": "https://openai.com/index/terminal-x"
+  },
+  {
+    "source": "OpenAI",
+    "title": "OpenAI acquires Orchestra Bio",
+    "date": "Tue, 20 Oct 2026 00:00:00 GMT",
+    "url": "https://openai.com/index/openai-to-acquire-orchestra-bio"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "Hugging Face ❤️ TorchTPU: TPUs, Natively",
+    "date": "Tue, 20 Oct 2026 00:00:00 GMT",
+    "url": "https://huggingface.co/blog/hf-torchtpu"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms",
+    "date": "Tue, 20 Oct 2026 00:00:00 GMT",
+    "url": "https://huggingface.co/blog/anylanguagemodel-1-0"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "MPS in PyTorch 2.15",
+    "date": "Tue, 20 Oct 2026 00:00:00 GMT",
+    "url": "https://huggingface.co/blog/mps-pytorch-2-15"
+  },
+  {
     "source": "OpenAI",
     "title": "Advancing coding in low‑resource programming languages",
     "date": "Mon, 19 Oct 2026 12:00:00 GMT",
@@ -1144,59 +1198,5 @@
     "title": "Predicting Transmembrane Protein Topology from 3D Structure",
     "date": "Mon, 28 Sep 2026 00:00:00 -0400",
     "url": "https://arxiv.org/abs/2609.30446"
-  },
-  {
-    "source": "arXiv",
-    "title": "Spectral Feedback for Test-Time Alignment of Protein Diffusion Models",
-    "date": "Mon, 28 Sep 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2609.30456"
-  },
-  {
-    "source": "arXiv",
-    "title": "Pretrained ASR Pseudo-labeling for Noisy Police Audio",
-    "date": "Mon, 28 Sep 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2609.30469"
-  },
-  {
-    "source": "arXiv",
-    "title": "Do LLMs Understand Context? A Knowledge Graph-Based Evaluation Framework",
-    "date": "Mon, 28 Sep 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2609.30484"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Are you a Codex Original?",
-    "date": "Mon, 28 Sep 2026 00:00:00 GMT",
-    "url": "https://openai.com/form/codex-originals"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
-    "date": "Mon, 28 Sep 2026 00:00:00 GMT",
-    "url": "https://openai.com/index/basis-tax-workbook-with-astra"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "Welcome RL Environments to the hub",
-    "date": "Mon, 28 Sep 2026 00:00:00 GMT",
-    "url": "https://huggingface.co/blog/rl-environments"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
-    "date": "Fri, 25 Sep 2026 19:00:00 GMT",
-    "url": "https://openai.com/index/proaction"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Lowe’s answers millions of home improvement questions with OpenAI",
-    "date": "Fri, 25 Sep 2026 07:00:00 GMT",
-    "url": "https://openai.com/index/lowes"
-  },
-  {
-    "source": "arXiv",
-    "title": "When Should Forecasting Agents Reason? Behavioral Stress Tests for Reliability Routing",
-    "date": "Fri, 25 Sep 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2609.28475"
   }
 ]
