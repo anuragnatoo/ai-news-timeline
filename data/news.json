@@ -1,5 +1,101 @@
 [
   {
+    "source": "HuggingFace",
+    "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+    "date": "Thu, 22 Oct 2026 22:24:34 GMT",
+    "url": "https://huggingface.co/blog/microsoft/thinkingbox-training"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Build more responsive apps with the Decisions API",
+    "date": "Thu, 22 Oct 2026 19:00:00 GMT",
+    "url": "https://openai.com/index/decisions-api"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
+    "date": "Thu, 22 Oct 2026 16:11:31 GMT",
+    "url": "https://huggingface.co/blog/allenai/olmoearth-v1-3"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "Ensemble forecasting with IBM Granite time-series models",
+    "date": "Thu, 22 Oct 2026 07:51:31 GMT",
+    "url": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1"
+  },
+  {
+    "source": "OpenAI",
+    "title": "What FDE means at OpenAI",
+    "date": "Thu, 22 Oct 2026 06:00:00 GMT",
+    "url": "https://openai.com/index/forward-deployed-engineering-means"
+  },
+  {
+    "source": "arXiv",
+    "title": "SPEM: Structure-Aware Procedural Memory for Efficient Skill Use in LLM Agents",
+    "date": "Thu, 22 Oct 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2610.26995"
+  },
+  {
+    "source": "arXiv",
+    "title": "Does Multi-Agent Collaboration Reduce Hallucination in Clinical Tasks?",
+    "date": "Thu, 22 Oct 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2610.27027"
+  },
+  {
+    "source": "arXiv",
+    "title": "Teaching AI Agent to Play Poker Strategically Through Preference Optimization",
+    "date": "Thu, 22 Oct 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2610.27028"
+  },
+  {
+    "source": "arXiv",
+    "title": "M-Plan: Comprehensive Planning For LLM Agents with Memory Arrangement",
+    "date": "Thu, 22 Oct 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2610.27032"
+  },
+  {
+    "source": "arXiv",
+    "title": "Physical AI: Concepts, Techniques, and Challenges",
+    "date": "Thu, 22 Oct 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2610.27045"
+  },
+  {
+    "source": "arXiv",
+    "title": "ReuF2F: Benchmarking Coding Agents on Formalized Undergraduate Research Problems",
+    "date": "Thu, 22 Oct 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2610.27046"
+  },
+  {
+    "source": "arXiv",
+    "title": "A general-purpose System One decision model for clinical records",
+    "date": "Thu, 22 Oct 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2610.27099"
+  },
+  {
+    "source": "arXiv",
+    "title": "Omni-Woodpecker: Hallucination Correction via Evidence-Prior Rebalancing for Omni LLMs",
+    "date": "Thu, 22 Oct 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2610.27103"
+  },
+  {
+    "source": "arXiv",
+    "title": "PROVISO: Provenance-Informed Action Selection for Secure LLM Agents",
+    "date": "Thu, 22 Oct 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2610.27115"
+  },
+  {
+    "source": "arXiv",
+    "title": "PORA: Learning When More Reasoning Pays Off for LLM Agents",
+    "date": "Thu, 22 Oct 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2610.27119"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Uber brings ChatGPT Work to all employees with OpenAI",
+    "date": "Thu, 22 Oct 2026 00:00:00 GMT",
+    "url": "https://openai.com/index/uber-chatgpt-work-rollout"
+  },
+  {
     "source": "OpenAI",
     "title": "Broad access through consistent standards",
     "date": "Wed, 21 Oct 2026 21:00:00 GMT",
@@ -1102,101 +1198,5 @@
     "title": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
     "date": "Thu, 01 Oct 2026 00:00:00 GMT",
     "url": "https://openai.com/index/the-den-family-social"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Disrupting a coordinated model-distillation campaign",
-    "date": "Wed, 30 Sep 2026 10:30:00 GMT",
-    "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Helping small businesses put AI to work",
-    "date": "Wed, 30 Sep 2026 10:00:00 GMT",
-    "url": "https://openai.com/index/helping-small-businesses-put-ai-to-work"
-  },
-  {
-    "source": "arXiv",
-    "title": "OpenAI-HuggingFace: A Reproduction & Lessons for Alignment Testing",
-    "date": "Wed, 30 Sep 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2609.35799"
-  },
-  {
-    "source": "arXiv",
-    "title": "Neurosymbolic Routing for Reliable Reasoning on Resource-Constrained Edge Devices",
-    "date": "Wed, 30 Sep 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2609.35833"
-  },
-  {
-    "source": "arXiv",
-    "title": "Is Human-Readable Text Necessary for Effective LLM Fine-Tuning?",
-    "date": "Wed, 30 Sep 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2609.35868"
-  },
-  {
-    "source": "arXiv",
-    "title": "The Price of Token Boundaries: Compression Certificates and Prediction",
-    "date": "Wed, 30 Sep 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2609.35869"
-  },
-  {
-    "source": "arXiv",
-    "title": "More Programs or More Rolls? Separating Coverage from Specialization in LLM Harnesses",
-    "date": "Wed, 30 Sep 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2609.35873"
-  },
-  {
-    "source": "arXiv",
-    "title": "Risk-Averse Online POMDP Planning via CVaR of the Immediate Cost with Performance Guarantees",
-    "date": "Wed, 30 Sep 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2609.35874"
-  },
-  {
-    "source": "arXiv",
-    "title": "Beyond Symmetric Agents: Cognitive Diversity and Multi-Agent Debate in Small Language Models",
-    "date": "Wed, 30 Sep 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2609.35875"
-  },
-  {
-    "source": "arXiv",
-    "title": "Representational Simplicity and Circuit Size Dissociate in a Threshold-Dependent Way: A Controlled Test via Adversarial Training",
-    "date": "Wed, 30 Sep 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2609.35890"
-  },
-  {
-    "source": "arXiv",
-    "title": "Self-discovering RL in the Era of Experience: Is Learning History an Asset or a Burden?",
-    "date": "Wed, 30 Sep 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2609.35897"
-  },
-  {
-    "source": "arXiv",
-    "title": "Grab a Coffee: Future-Aware Guidance for Discrete Diffusion with Compiled Objectives",
-    "date": "Wed, 30 Sep 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2609.35924"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
-    "date": "Wed, 30 Sep 2026 00:00:00 GMT",
-    "url": "https://huggingface.co/blog/open-tts-leaderboard"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
-    "date": "Tue, 29 Sep 2026 15:30:38 GMT",
-    "url": "https://huggingface.co/blog/nvidia/kumo-tabular"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
-    "date": "Tue, 29 Sep 2026 13:07:00 GMT",
-    "url": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Introducing GPT-6.1 Sol",
-    "date": "Tue, 29 Sep 2026 10:00:00 GMT",
-    "url": "https://openai.com/index/introducing-gpt-6-1-sol"
   }
 ]
