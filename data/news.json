@@ -1,5 +1,95 @@
 [
   {
+    "source": "OpenAI",
+    "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+    "date": "Fri, 23 Oct 2026 17:00:00 GMT",
+    "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
+    "date": "Fri, 23 Oct 2026 16:15:50 GMT",
+    "url": "https://huggingface.co/blog/allenai/litpivot"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Securing our frontier model training environment",
+    "date": "Fri, 23 Oct 2026 10:00:00 GMT",
+    "url": "https://openai.com/index/securing-our-frontier-model-training-environment"
+  },
+  {
+    "source": "arXiv",
+    "title": "A Small Model Asks Better: Fine-Tuning Query Clarification for Retrieval-Augmented Generation",
+    "date": "Fri, 23 Oct 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2610.28686"
+  },
+  {
+    "source": "arXiv",
+    "title": "Scaling in Games: Continued Pre-Training For Embodied Agents In Diverse Virtual Worlds",
+    "date": "Fri, 23 Oct 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2610.28698"
+  },
+  {
+    "source": "arXiv",
+    "title": "SpecEvo: Speculative Evolution with Large Language Models for Cost-Efficient Scientific Discovery",
+    "date": "Fri, 23 Oct 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2610.28706"
+  },
+  {
+    "source": "arXiv",
+    "title": "Automating ML for Science: Can Frontier Agents Climb Scientific Hills in the Wild?",
+    "date": "Fri, 23 Oct 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2610.28763"
+  },
+  {
+    "source": "arXiv",
+    "title": "Forging More Tasks into Better Harnesses: Agentic Harness Evolution via Successive Scale Racing",
+    "date": "Fri, 23 Oct 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2610.28815"
+  },
+  {
+    "source": "arXiv",
+    "title": "Decision language models as affordable and rapid alternatives to LLM judges of clinical generative AI",
+    "date": "Fri, 23 Oct 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2610.28826"
+  },
+  {
+    "source": "arXiv",
+    "title": "Sketch2Sim: an end-to-end modular framework for hand-drawn circuit analysis",
+    "date": "Fri, 23 Oct 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2610.28836"
+  },
+  {
+    "source": "arXiv",
+    "title": "Speedrunning Relational Foundation Model Pretraining",
+    "date": "Fri, 23 Oct 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2610.28855"
+  },
+  {
+    "source": "arXiv",
+    "title": "To Manipulate or Not: Opinion Dynamics in LLM Interactions",
+    "date": "Fri, 23 Oct 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2610.28875"
+  },
+  {
+    "source": "arXiv",
+    "title": "Fig: Automated Multiagent Behavior Elicitor",
+    "date": "Fri, 23 Oct 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2610.28891"
+  },
+  {
+    "source": "OpenAI",
+    "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
+    "date": "Fri, 23 Oct 2026 00:00:00 GMT",
+    "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "Does Your Model Run on AWS Trainium? Look It Up",
+    "date": "Fri, 23 Oct 2026 00:00:00 GMT",
+    "url": "https://huggingface.co/blog/torch-neuronx-model-support"
+  },
+  {
     "source": "HuggingFace",
     "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
     "date": "Thu, 22 Oct 2026 22:24:34 GMT",
@@ -1108,95 +1198,5 @@
     "title": "Comedic Fool's Gold: Reward Exploits and Countermeasures in Conversational Humor",
     "date": "Fri, 02 Oct 2026 00:00:00 -0400",
     "url": "https://arxiv.org/abs/2610.00197"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Chatham scales its capital markets expertise with OpenAI",
-    "date": "Fri, 02 Oct 2026 00:00:00 GMT",
-    "url": "https://openai.com/index/chatham-financial"
-  },
-  {
-    "source": "OpenAI",
-    "title": "The eternal complement",
-    "date": "Thu, 01 Oct 2026 17:00:00 GMT",
-    "url": "https://openai.com/index/the-eternal-complement"
-  },
-  {
-    "source": "OpenAI",
-    "title": "How Albertsons Companies is reimagining retail from the inside out",
-    "date": "Thu, 01 Oct 2026 16:00:00 GMT",
-    "url": "https://openai.com/index/albertsons-reimagining-retail"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
-    "date": "Thu, 01 Oct 2026 15:01:43 GMT",
-    "url": "https://huggingface.co/blog/allenai/olmocore3"
-  },
-  {
-    "source": "arXiv",
-    "title": "Improving OCR Faithfulness via Gated and Attenuated On-Policy Distillation",
-    "date": "Thu, 01 Oct 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2609.38282"
-  },
-  {
-    "source": "arXiv",
-    "title": "AREX-2: Advancing Self-Improving Agents through Long-Horizon Reflective Tasks",
-    "date": "Thu, 01 Oct 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2609.38288"
-  },
-  {
-    "source": "arXiv",
-    "title": "MoFlow: Multi-Objective Agentic Workflow Generation",
-    "date": "Thu, 01 Oct 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2609.38294"
-  },
-  {
-    "source": "arXiv",
-    "title": "AI Agents are Vulnerable to Radicalization",
-    "date": "Thu, 01 Oct 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2609.38296"
-  },
-  {
-    "source": "arXiv",
-    "title": "CARAT: Do Materials LLMs Reason or Recite?",
-    "date": "Thu, 01 Oct 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2609.38340"
-  },
-  {
-    "source": "arXiv",
-    "title": "Examining Variation in How Guided AI Tutors Resolve Student Impasses",
-    "date": "Thu, 01 Oct 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2609.38346"
-  },
-  {
-    "source": "arXiv",
-    "title": "Beyond Mode Collapse: Generating Diverse Synthetic Expert Conversations via Generative Flow Networks",
-    "date": "Thu, 01 Oct 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2609.38359"
-  },
-  {
-    "source": "arXiv",
-    "title": "Can an AI Agent Rediscover a Blaschke-Curve Invariant?",
-    "date": "Thu, 01 Oct 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2609.38369"
-  },
-  {
-    "source": "arXiv",
-    "title": "Self-Evolving Harness on Multiple Tasks with the Agent as Its Own Optimizer",
-    "date": "Thu, 01 Oct 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2609.38372"
-  },
-  {
-    "source": "arXiv",
-    "title": "Aligned Data Can Induce Misalignment via Context Confusion",
-    "date": "Thu, 01 Oct 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2609.38379"
-  },
-  {
-    "source": "OpenAI",
-    "title": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
-    "date": "Thu, 01 Oct 2026 00:00:00 GMT",
-    "url": "https://openai.com/index/the-den-family-social"
   }
 ]
