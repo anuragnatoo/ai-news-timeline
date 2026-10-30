@@ -1,5 +1,47 @@
 [
   {
+    "source": "OpenAI",
+    "title": "An updated Model Spec for more capable and beneficial AI",
+    "date": "Thu, 29 Oct 2026 17:00:00 GMT",
+    "url": "https://openai.com/index/updated-model-spec"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "Granite Switch 4.1.1 — Update models like you update software",
+    "date": "Thu, 29 Oct 2026 13:37:07 GMT",
+    "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1"
+  },
+  {
+    "source": "OpenAI",
+    "title": "How we detect frontier model misalignment",
+    "date": "Thu, 29 Oct 2026 09:00:00 GMT",
+    "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment"
+  },
+  {
+    "source": "OpenAI",
+    "title": "How Ropes & Gray is developing AI for transactional diligence",
+    "date": "Thu, 29 Oct 2026 07:00:00 GMT",
+    "url": "https://openai.com/index/ropes-gray-ai-diligence"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
+    "date": "Thu, 29 Oct 2026 00:00:00 GMT",
+    "url": "https://huggingface.co/blog/announcing-project-protostar"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
+    "date": "Thu, 29 Oct 2026 00:00:00 GMT",
+    "url": "https://huggingface.co/blog/mistral-large4"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
+    "date": "Thu, 29 Oct 2026 00:00:00 GMT",
+    "url": "https://huggingface.co/blog/anydecisionmodel"
+  },
+  {
     "source": "HuggingFace",
     "title": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
     "date": "Wed, 28 Oct 2026 14:58:17 GMT",
@@ -1156,47 +1198,5 @@
     "title": "Speaking the Navigator's Language: Trajectory-Grounded Instruction Translation for Frozen Aerial VLN Agents",
     "date": "Fri, 09 Oct 2026 00:00:00 -0400",
     "url": "https://arxiv.org/abs/2610.10635"
-  },
-  {
-    "source": "arXiv",
-    "title": "Plan-and-Patch: Diffusion Language Models for Agentic Planning",
-    "date": "Fri, 09 Oct 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2610.10786"
-  },
-  {
-    "source": "arXiv",
-    "title": "Whose Ground Truth? Embracing Ambiguity in Human-Centered AI",
-    "date": "Fri, 09 Oct 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2610.10805"
-  },
-  {
-    "source": "arXiv",
-    "title": "On the Clock: Towards Punctual and Productive Time-Budgeted AI Agents",
-    "date": "Fri, 09 Oct 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2610.10833"
-  },
-  {
-    "source": "arXiv",
-    "title": "Self-Supervised Keyframe Discovery for Horizon-Invariant Behavior Cloning",
-    "date": "Fri, 09 Oct 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2610.10857"
-  },
-  {
-    "source": "OpenAI",
-    "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
-    "date": "Thu, 08 Oct 2026 16:00:00 GMT",
-    "url": "https://openai.com/index/oracle"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
-    "date": "Thu, 08 Oct 2026 12:00:00 GMT",
-    "url": "https://openai.com/index/pollo-ai"
-  },
-  {
-    "source": "OpenAI",
-    "title": "LegalOn halves Codex costs while maintaining development speed",
-    "date": "Thu, 08 Oct 2026 12:00:00 GMT",
-    "url": "https://openai.com/index/legalon-halves-codex-costs"
   }
 ]
