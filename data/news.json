@@ -1,5 +1,29 @@
 [
   {
+    "source": "HuggingFace",
+    "title": "nemotron-halloween",
+    "date": "Fri, 30 Oct 2026 17:57:24 GMT",
+    "url": "https://huggingface.co/blog/nvidia/nemotron-halloween"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Making it easier for websites to express AI training preferences",
+    "date": "Fri, 30 Oct 2026 09:30:00 GMT",
+    "url": "https://openai.com/index/helping-websites-express-ai-training-preferences"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Community safety report and new protections for teens",
+    "date": "Fri, 30 Oct 2026 09:00:00 GMT",
+    "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Fair use benefits everyone",
+    "date": "Fri, 30 Oct 2026 00:00:00 GMT",
+    "url": "https://openai.com/index/fair-use-benefits-everyone"
+  },
+  {
     "source": "OpenAI",
     "title": "An updated Model Spec for more capable and beneficial AI",
     "date": "Thu, 29 Oct 2026 17:00:00 GMT",
@@ -40,6 +64,12 @@
     "title": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
     "date": "Thu, 29 Oct 2026 00:00:00 GMT",
     "url": "https://huggingface.co/blog/anydecisionmodel"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Credit Saison achieves 954% ROI in a ChatGPT Enterprise pilot",
+    "date": "Thu, 29 Oct 2026 00:00:00 GMT",
+    "url": "https://openai.com/index/credit-saison"
   },
   {
     "source": "HuggingFace",
@@ -1168,35 +1198,5 @@
     "title": "An Explainable Header-Centric Framework for Large-Scale Semantic Table Interpretation and Data Quality Assessment",
     "date": "Fri, 09 Oct 2026 00:00:00 -0400",
     "url": "https://arxiv.org/abs/2610.10541"
-  },
-  {
-    "source": "arXiv",
-    "title": "Synthesis Through Simulation: Generating Coherent Enterprise Data via Scalable Agent-System Interaction",
-    "date": "Fri, 09 Oct 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2610.10549"
-  },
-  {
-    "source": "arXiv",
-    "title": "Agent-Controlled Forgetting for Tool-Using Agents: Reversible Context Curation in Practice",
-    "date": "Fri, 09 Oct 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2610.10590"
-  },
-  {
-    "source": "arXiv",
-    "title": "Verification and Self-Improvement in Agentic AI: Foundations and Limits",
-    "date": "Fri, 09 Oct 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2610.10611"
-  },
-  {
-    "source": "arXiv",
-    "title": "The Harness as the Only Mutable Surface: Compliance-Bounded Self-Evolution of LLM Agents in Credit Pipelines, with a Measured Admission Gate",
-    "date": "Fri, 09 Oct 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2610.10629"
-  },
-  {
-    "source": "arXiv",
-    "title": "Speaking the Navigator's Language: Trajectory-Grounded Instruction Translation for Frozen Aerial VLN Agents",
-    "date": "Fri, 09 Oct 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2610.10635"
   }
 ]
