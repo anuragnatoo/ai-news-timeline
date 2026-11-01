@@ -1,5 +1,65 @@
 [
   {
+    "source": "arXiv",
+    "title": "LRMoE: Demand-Side Load Re-Calibration for Efficient MoE Training on Memory-Constrained Nodes",
+    "date": "Sat, 31 Oct 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2610.37720"
+  },
+  {
+    "source": "arXiv",
+    "title": "Amortized Localized Posterior Inference for Model Calibration with Application to an Ocean Turbulence Closure",
+    "date": "Sat, 31 Oct 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2610.37731"
+  },
+  {
+    "source": "arXiv",
+    "title": "ThinkJev: One Thought, Every Budget for Calibrated Typed Decisions",
+    "date": "Sat, 31 Oct 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2610.37732"
+  },
+  {
+    "source": "arXiv",
+    "title": "OpenFrontiers: A Collection of Open Research Problems and a Benchmark for Scientific Rediscovery",
+    "date": "Sat, 31 Oct 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2610.37739"
+  },
+  {
+    "source": "arXiv",
+    "title": "WebAnything: From the Wild Web to Scalable Agent Environments",
+    "date": "Sat, 31 Oct 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2610.37786"
+  },
+  {
+    "source": "arXiv",
+    "title": "What Does an Ontology Catch? Curated, LLM-Generated and Data-Derived Ontologies as Checkers of LLM Agents over Knowledge Graphs",
+    "date": "Sat, 31 Oct 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2610.37809"
+  },
+  {
+    "source": "arXiv",
+    "title": "Measuring Where Intent Gets Lost in Agentic Smart Contract Synthesis",
+    "date": "Sat, 31 Oct 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2610.37830"
+  },
+  {
+    "source": "arXiv",
+    "title": "Detecting Covert Collusion between AI Agents through Partner-Outsider Positive Listening",
+    "date": "Sat, 31 Oct 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2610.37849"
+  },
+  {
+    "source": "arXiv",
+    "title": "Evaluating and improving AI agents for sequencing protocol understanding",
+    "date": "Sat, 31 Oct 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2610.37851"
+  },
+  {
+    "source": "arXiv",
+    "title": "Seq@K: Evaluating Language Models Under Sequential Feedback",
+    "date": "Sat, 31 Oct 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2610.37859"
+  },
+  {
     "source": "HuggingFace",
     "title": "nemotron-halloween",
     "date": "Fri, 30 Oct 2026 17:57:24 GMT",
@@ -1138,65 +1198,5 @@
     "title": "Neural networks are more modular than single neurons suggest",
     "date": "Tue, 13 Oct 2026 00:00:00 -0400",
     "url": "https://arxiv.org/abs/2610.12842"
-  },
-  {
-    "source": "arXiv",
-    "title": "Towards Defining, Measuring, and Leveraging Creativity in AI Applications",
-    "date": "Tue, 13 Oct 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2610.12845"
-  },
-  {
-    "source": "arXiv",
-    "title": "Mitigating Capability Degradation in LLM Self-Improvement via Representation Geometry Regularization",
-    "date": "Tue, 13 Oct 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2610.12855"
-  },
-  {
-    "source": "arXiv",
-    "title": "Collaborative Theory of Mind: Learning to Self-Revise by Anticipating User Responses",
-    "date": "Tue, 13 Oct 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2610.12872"
-  },
-  {
-    "source": "arXiv",
-    "title": "One-Step Text Generation by Seq-Drifting",
-    "date": "Tue, 13 Oct 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2610.12879"
-  },
-  {
-    "source": "arXiv",
-    "title": "Mind the Spatial Gap: A Benchmark for Geospatial Reasoning and Constrained Spatial Editing",
-    "date": "Tue, 13 Oct 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2610.12881"
-  },
-  {
-    "source": "arXiv",
-    "title": "OGPO: Offline Goal-conditioned Policy Optimization for Recoverable Vision-Language-Action Models",
-    "date": "Tue, 13 Oct 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2610.12914"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "Impactful scheduling for GPU clusters",
-    "date": "Fri, 09 Oct 2026 15:20:29 GMT",
-    "url": "https://huggingface.co/blog/allenai/impactful-scheduling"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-    "date": "Fri, 09 Oct 2026 07:00:00 GMT",
-    "url": "https://openai.com/index/sophos"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-    "date": "Fri, 09 Oct 2026 07:00:00 GMT",
-    "url": "https://openai.com/index/asana-browser-agent"
-  },
-  {
-    "source": "arXiv",
-    "title": "An Explainable Header-Centric Framework for Large-Scale Semantic Table Interpretation and Data Quality Assessment",
-    "date": "Fri, 09 Oct 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2610.10541"
   }
 ]
