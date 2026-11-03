@@ -1,5 +1,47 @@
 [
   {
+    "source": "OpenAI",
+    "title": "Rewarding defenders with bigger bug bounties",
+    "date": "Mon, 02 Nov 2026 18:00:00 GMT",
+    "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Preparing our next security sprint to harden OpenAI",
+    "date": "Mon, 02 Nov 2026 18:00:00 GMT",
+    "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Scaling Git at OpenAI",
+    "date": "Mon, 02 Nov 2026 15:30:00 GMT",
+    "url": "https://openai.com/index/scaling-git-at-openai"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Introducing the Grid Protectors Program",
+    "date": "Mon, 02 Nov 2026 15:00:00 GMT",
+    "url": "https://openai.com/index/grid-protectors-program"
+  },
+  {
+    "source": "OpenAI",
+    "title": "LifeVal",
+    "date": "Mon, 02 Nov 2026 09:00:00 GMT",
+    "url": "https://openai.com/index/lifeval"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Qodo builds context into AI code review with Codex",
+    "date": "Mon, 02 Nov 2026 00:00:00 GMT",
+    "url": "https://openai.com/index/qodo-codex-plugin"
+  },
+  {
+    "source": "OpenAI",
+    "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
+    "date": "Mon, 02 Nov 2026 00:00:00 GMT",
+    "url": "https://openai.com/index/dan-driscoll-joins-openai"
+  },
+  {
     "source": "arXiv",
     "title": "LRMoE: Demand-Side Load Re-Calibration for Efficient MoE Training on Memory-Constrained Nodes",
     "date": "Sat, 31 Oct 2026 00:00:00 -0400",
@@ -1156,47 +1198,5 @@
     "title": "CLEAT: Learning Value-Guided Clarification for Interactive Agents",
     "date": "Tue, 13 Oct 2026 00:00:00 -0400",
     "url": "https://arxiv.org/abs/2610.12655"
-  },
-  {
-    "source": "arXiv",
-    "title": "MagicBeanStalk: Escaping the RLVR Zero Advantage Trap with Recursive Data Synthesis",
-    "date": "Tue, 13 Oct 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2610.12659"
-  },
-  {
-    "source": "arXiv",
-    "title": "Faithful and Complete LLM-Assisted Automated Construction of Hierarchical Hardware Knowledge Graphs",
-    "date": "Tue, 13 Oct 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2610.12762"
-  },
-  {
-    "source": "arXiv",
-    "title": "Representation Alignment from a Few Paired Data via Distilled Optimal Transport",
-    "date": "Tue, 13 Oct 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2610.12781"
-  },
-  {
-    "source": "arXiv",
-    "title": "EvoBelief: Falsifiable World Models for Self-Improving LLM Agents",
-    "date": "Tue, 13 Oct 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2610.12789"
-  },
-  {
-    "source": "arXiv",
-    "title": "VEPA: Verified Evolving Formal Policy for Lifelong LLM Agent Guardrails",
-    "date": "Tue, 13 Oct 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2610.12813"
-  },
-  {
-    "source": "arXiv",
-    "title": "Reward Hacking as a Transmissible Strategy in Multi-Agent Coding Systems",
-    "date": "Tue, 13 Oct 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2610.12822"
-  },
-  {
-    "source": "arXiv",
-    "title": "Neural networks are more modular than single neurons suggest",
-    "date": "Tue, 13 Oct 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2610.12842"
   }
 ]
