@@ -1,5 +1,53 @@
 [
   {
+    "source": "HuggingFace",
+    "title": "StateBench: Testing how language models track state changes over long documents",
+    "date": "Tue, 03 Nov 2026 17:15:21 GMT",
+    "url": "https://huggingface.co/blog/allenai/statebench"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "Palette: teaching a small model to build decks in your design language",
+    "date": "Tue, 03 Nov 2026 16:35:36 GMT",
+    "url": "https://huggingface.co/blog/ibm-research/palette-deck-building"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Accelerating engineering for the physical world",
+    "date": "Tue, 03 Nov 2026 12:00:00 GMT",
+    "url": "https://openai.com/index/accelerating-engineering-for-the-physical-world"
+  },
+  {
+    "source": "OpenAI",
+    "title": "How Cisco defends at machine speed with OpenAI",
+    "date": "Tue, 03 Nov 2026 08:00:00 GMT",
+    "url": "https://openai.com/index/cisco-cyber"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Heimstaden is changing residential real estate management with AI",
+    "date": "Tue, 03 Nov 2026 08:00:00 GMT",
+    "url": "https://openai.com/index/heimstaden"
+  },
+  {
+    "source": "OpenAI",
+    "title": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
+    "date": "Tue, 03 Nov 2026 00:00:00 GMT",
+    "url": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "CWE-bench v2: More coverage, quality, and transparency",
+    "date": "Tue, 03 Nov 2026 00:00:00 GMT",
+    "url": "https://huggingface.co/blog/cwe-bench"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "Transformers Model Integration Contracts",
+    "date": "Tue, 03 Nov 2026 00:00:00 GMT",
+    "url": "https://huggingface.co/blog/transformers-mic"
+  },
+  {
     "source": "OpenAI",
     "title": "Rewarding defenders with bigger bug bounties",
     "date": "Mon, 02 Nov 2026 18:00:00 GMT",
@@ -28,6 +76,66 @@
     "title": "LifeVal",
     "date": "Mon, 02 Nov 2026 09:00:00 GMT",
     "url": "https://openai.com/index/lifeval"
+  },
+  {
+    "source": "arXiv",
+    "title": "More Rules, Longer Lists? Benchmarking Self-Evolving Agents on a Hidden-Rule Curriculum",
+    "date": "Mon, 02 Nov 2026 00:00:00 -0500",
+    "url": "https://arxiv.org/abs/2610.40758"
+  },
+  {
+    "source": "arXiv",
+    "title": "Beyond Plausible Prediction: Safety Sufficiency in Web World Models",
+    "date": "Mon, 02 Nov 2026 00:00:00 -0500",
+    "url": "https://arxiv.org/abs/2610.40798"
+  },
+  {
+    "source": "arXiv",
+    "title": "Circumventing the Computational Hardness of Computational Arbitrage",
+    "date": "Mon, 02 Nov 2026 00:00:00 -0500",
+    "url": "https://arxiv.org/abs/2610.40831"
+  },
+  {
+    "source": "arXiv",
+    "title": "Incongruence-Aware Evaluation of Multimodal Speech Emotion Recognition in Audio Large Language Models",
+    "date": "Mon, 02 Nov 2026 00:00:00 -0500",
+    "url": "https://arxiv.org/abs/2610.40883"
+  },
+  {
+    "source": "arXiv",
+    "title": "ChatGPT as a Surveillance Assistant? An Exploratory Case Study of AI-Assisted Surveillance Risks",
+    "date": "Mon, 02 Nov 2026 00:00:00 -0500",
+    "url": "https://arxiv.org/abs/2610.40890"
+  },
+  {
+    "source": "arXiv",
+    "title": "Does Recursive Knowledge Construction Help Agents Verify Consensus Claims in Science?",
+    "date": "Mon, 02 Nov 2026 00:00:00 -0500",
+    "url": "https://arxiv.org/abs/2610.40906"
+  },
+  {
+    "source": "arXiv",
+    "title": "Towards Portable Specification of the Agent Harness",
+    "date": "Mon, 02 Nov 2026 00:00:00 -0500",
+    "url": "https://arxiv.org/abs/2610.40917"
+  },
+  {
+    "source": "arXiv",
+    "title": "Agentic World Modeling for Agent Test-time Scaling without Environment Replica",
+    "date": "Mon, 02 Nov 2026 00:00:00 -0500",
+    "url": "https://arxiv.org/abs/2610.40927"
+  },
+  {
+    "source": "arXiv",
+    "title": "DiRAFT: Privacy-Aware Financial Transcript Synthesis from Aggregate Discourse Priors",
+    "date": "Mon, 02 Nov 2026 00:00:00 -0500",
+    "url": "https://arxiv.org/abs/2610.40938"
+  },
+  {
+    "source": "arXiv",
+    "title": "The First Few Tokens Matter: Understanding Chain-of-Thought Controllability",
+    "date": "Mon, 02 Nov 2026 00:00:00 -0500",
+    "url": "https://arxiv.org/abs/2610.40939"
   },
   {
     "source": "OpenAI",
@@ -172,6 +280,12 @@
     "title": "Credit Saison achieves 954% ROI in a ChatGPT Enterprise pilot",
     "date": "Thu, 29 Oct 2026 00:00:00 GMT",
     "url": "https://openai.com/index/credit-saison"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Evernote turns AI-driven discovery into paid subscriptions",
+    "date": "Wed, 28 Oct 2026 19:40:49 GMT",
+    "url": "https://openai.com/ads/customers/evernote"
   },
   {
     "source": "HuggingFace",
@@ -1084,119 +1198,5 @@
     "title": "Cross-Modal Latent Influence: Patch-Level Training Sample Attribution for Vision-Language Models",
     "date": "Thu, 15 Oct 2026 00:00:00 -0400",
     "url": "https://arxiv.org/abs/2610.14190"
-  },
-  {
-    "source": "arXiv",
-    "title": "Should SLMs be in the Driver's Seat? A Study of Local Models as Interpreters in Cloud-Written Agent Programs",
-    "date": "Thu, 15 Oct 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2610.14209"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Sullivan & Cromwell brings legal expertise into agreement review",
-    "date": "Thu, 15 Oct 2026 00:00:00 GMT",
-    "url": "https://openai.com/index/sullivan-cromwell"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
-    "date": "Thu, 15 Oct 2026 00:00:00 GMT",
-    "url": "https://huggingface.co/blog/meta-muse-spark-open"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "Welcome FLUX.3 Image Klein in Diffusers",
-    "date": "Thu, 15 Oct 2026 00:00:00 GMT",
-    "url": "https://huggingface.co/blog/flux-3"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
-    "date": "Wed, 14 Oct 2026 16:12:42 GMT",
-    "url": "https://huggingface.co/blog/allenai/hiro-acev2"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Amp puts AI agents to work beyond code with OpenAI models",
-    "date": "Wed, 14 Oct 2026 12:00:00 GMT",
-    "url": "https://openai.com/index/amp-beyond-coding"
-  },
-  {
-    "source": "OpenAI",
-    "title": "SentinelOne cuts malware analysis from weeks to hours",
-    "date": "Wed, 14 Oct 2026 12:00:00 GMT",
-    "url": "https://openai.com/index/sentinelone"
-  },
-  {
-    "source": "OpenAI",
-    "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
-    "date": "Wed, 14 Oct 2026 07:00:00 GMT",
-    "url": "https://openai.com/index/third-moment-research"
-  },
-  {
-    "source": "OpenAI",
-    "title": "How Block is building AI-powered security with OpenAI technology",
-    "date": "Wed, 14 Oct 2026 07:00:00 GMT",
-    "url": "https://openai.com/index/block-ai-powered-security"
-  },
-  {
-    "source": "OpenAI",
-    "title": "The EU’s next chapter in AI is agentic",
-    "date": "Wed, 14 Oct 2026 00:00:00 GMT",
-    "url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
-    "date": "Tue, 13 Oct 2026 17:05:48 GMT",
-    "url": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Higgsfield takes AI video from 1 minute to over 10",
-    "date": "Tue, 13 Oct 2026 12:00:00 GMT",
-    "url": "https://openai.com/index/higgsfield-longer-videos-voice"
-  },
-  {
-    "source": "arXiv",
-    "title": "Faithfulness Without Anchors: A Position Paper on the Structural Misalignments of Explainable AI Faithfulness Metrics for Feature Importance",
-    "date": "Tue, 13 Oct 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2610.12493"
-  },
-  {
-    "source": "arXiv",
-    "title": "EliteTable: Self-Improving Program Search for Executable Control Policies",
-    "date": "Tue, 13 Oct 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2610.12536"
-  },
-  {
-    "source": "arXiv",
-    "title": "Equal-Budget Monte Carlo Tree Search versus Randomized-Restart List Scheduling for DAG Workflows: A Controlled Equal-Budget Computational Study",
-    "date": "Tue, 13 Oct 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2610.12542"
-  },
-  {
-    "source": "arXiv",
-    "title": "Know What You Don't Know: Agentic Data Synthesis by Evolving Generation Space for Closed-Loop Learning",
-    "date": "Tue, 13 Oct 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2610.12593"
-  },
-  {
-    "source": "arXiv",
-    "title": "SpireBench: Evaluating Long-Horizon Strategic Play of Agentic Models with Slay the Spire",
-    "date": "Tue, 13 Oct 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2610.12596"
-  },
-  {
-    "source": "arXiv",
-    "title": "Beyond Binary Verifiable Rewards: Behavioral Self-Rewarding for SWE Agents",
-    "date": "Tue, 13 Oct 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2610.12598"
-  },
-  {
-    "source": "arXiv",
-    "title": "CLEAT: Learning Value-Guided Clarification for Interactive Agents",
-    "date": "Tue, 13 Oct 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2610.12655"
   }
 ]
