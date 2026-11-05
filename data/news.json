@@ -1,6 +1,42 @@
 [
   {
     "source": "HuggingFace",
+    "title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
+    "date": "Wed, 04 Nov 2026 17:50:10 GMT",
+    "url": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor"
+  },
+  {
+    "source": "OpenAI",
+    "title": "OpenAI to acquire Pierre Computer Company, Inc.",
+    "date": "Wed, 04 Nov 2026 14:30:00 GMT",
+    "url": "https://openai.com/index/openai-to-acquire-pierre"
+  },
+  {
+    "source": "OpenAI",
+    "title": "A thousand fewer paths to root",
+    "date": "Wed, 04 Nov 2026 08:00:00 GMT",
+    "url": "https://openai.com/index/a-thousand-fewer-paths-to-root"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
+    "date": "Wed, 04 Nov 2026 07:00:00 GMT",
+    "url": "https://openai.com/index/daybreak-red-aws-govcloud"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Introducing Images 2.6",
+    "date": "Wed, 04 Nov 2026 00:00:00 GMT",
+    "url": "https://openai.com/index/introducing-images-2-6"
+  },
+  {
+    "source": "OpenAI",
+    "title": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
+    "date": "Wed, 04 Nov 2026 00:00:00 GMT",
+    "url": "https://openai.com/index/devrev-enterprise-self-service"
+  },
+  {
+    "source": "HuggingFace",
     "title": "StateBench: Testing how language models track state changes over long documents",
     "date": "Tue, 03 Nov 2026 17:15:21 GMT",
     "url": "https://huggingface.co/blog/allenai/statebench"
@@ -1162,41 +1198,5 @@
     "title": "ClawLoop: Self-Improving Agents via Harness-Native Training Loop",
     "date": "Thu, 15 Oct 2026 00:00:00 -0400",
     "url": "https://arxiv.org/abs/2610.14118"
-  },
-  {
-    "source": "arXiv",
-    "title": "Correction Training for Diffusion Models",
-    "date": "Thu, 15 Oct 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2610.14136"
-  },
-  {
-    "source": "arXiv",
-    "title": "Long-Horizon-Terminal-Bench 2.0: Automating Diverse Task Construction and Measuring Sustained Agent Progress",
-    "date": "Thu, 15 Oct 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2610.14146"
-  },
-  {
-    "source": "arXiv",
-    "title": "VETNET: Assembling Benchmark Datasets for AI-Driven Veterinary Innovation",
-    "date": "Thu, 15 Oct 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2610.14149"
-  },
-  {
-    "source": "arXiv",
-    "title": "Unconstrained CTI-REALM with Open-Weights",
-    "date": "Thu, 15 Oct 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2610.14180"
-  },
-  {
-    "source": "arXiv",
-    "title": "Visualizing the World Model in an Agent's Value Function",
-    "date": "Thu, 15 Oct 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2610.14186"
-  },
-  {
-    "source": "arXiv",
-    "title": "Cross-Modal Latent Influence: Patch-Level Training Sample Attribution for Vision-Language Models",
-    "date": "Thu, 15 Oct 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2610.14190"
   }
 ]
