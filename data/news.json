@@ -1,5 +1,89 @@
 [
   {
+    "source": "HuggingFace",
+    "title": "ToyBlocks: A controlled world for robot learning and evaluation",
+    "date": "Fri, 06 Nov 2026 14:00:48 GMT",
+    "url": "https://huggingface.co/blog/allenai/toyblocks"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+    "date": "Fri, 06 Nov 2026 08:00:00 GMT",
+    "url": "https://openai.com/index/partnering-with-hacktron"
+  },
+  {
+    "source": "arXiv",
+    "title": "Formalizing inverse problems in the age of AI: possibilities, pitfalls, and an invitation",
+    "date": "Fri, 06 Nov 2026 00:00:00 -0500",
+    "url": "https://arxiv.org/abs/2611.06962"
+  },
+  {
+    "source": "arXiv",
+    "title": "KDASO: Knowledge-Data Dual-Driven Automated Skill Optimization for Liability Adjudication Tasks",
+    "date": "Fri, 06 Nov 2026 00:00:00 -0500",
+    "url": "https://arxiv.org/abs/2611.06972"
+  },
+  {
+    "source": "arXiv",
+    "title": "BlockLock: Reproducible LLM Inference with Fixed Batch Geometry",
+    "date": "Fri, 06 Nov 2026 00:00:00 -0500",
+    "url": "https://arxiv.org/abs/2611.06977"
+  },
+  {
+    "source": "arXiv",
+    "title": "Resource-Efficient Reinforcement Learning Post-Training through Elastic Expert Parallelism",
+    "date": "Fri, 06 Nov 2026 00:00:00 -0500",
+    "url": "https://arxiv.org/abs/2611.06984"
+  },
+  {
+    "source": "arXiv",
+    "title": "The Two-Ledger Model: Transaction-Grain Cost Accounting for Multi-Agent AI Systems Across Clouds, Models, and Systems of Record",
+    "date": "Fri, 06 Nov 2026 00:00:00 -0500",
+    "url": "https://arxiv.org/abs/2611.06989"
+  },
+  {
+    "source": "arXiv",
+    "title": "Autonomous AI Agents Systematically Diverge From Human Preferences in Proof Formalization",
+    "date": "Fri, 06 Nov 2026 00:00:00 -0500",
+    "url": "https://arxiv.org/abs/2611.06995"
+  },
+  {
+    "source": "arXiv",
+    "title": "Trust Responsive Runtime Authorization for Agentic AI with Empirical Characterization of Policy Behavior and Parameter Sensitivity",
+    "date": "Fri, 06 Nov 2026 00:00:00 -0500",
+    "url": "https://arxiv.org/abs/2611.06996"
+  },
+  {
+    "source": "arXiv",
+    "title": "Adapting the Process of Adaptation: Darwinian, Lamarckian, and Agent-Directed Evolution in AI",
+    "date": "Fri, 06 Nov 2026 00:00:00 -0500",
+    "url": "https://arxiv.org/abs/2611.07048"
+  },
+  {
+    "source": "arXiv",
+    "title": "Closed-Loop Agent Evaluation: Layered Measurement and Self-Calibration",
+    "date": "Fri, 06 Nov 2026 00:00:00 -0500",
+    "url": "https://arxiv.org/abs/2611.07051"
+  },
+  {
+    "source": "arXiv",
+    "title": "Cooperative Multi-Agent Reinforcement Learning via Epigraph-Form Guided Exploration",
+    "date": "Fri, 06 Nov 2026 00:00:00 -0500",
+    "url": "https://arxiv.org/abs/2611.07066"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Measuring how AI agents handle everyday wet-lab science",
+    "date": "Fri, 06 Nov 2026 00:00:00 GMT",
+    "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "Egyptian and Nigerian English join the Open ASR Leaderboard",
+    "date": "Fri, 06 Nov 2026 00:00:00 GMT",
+    "url": "https://huggingface.co/blog/open-asr-leaderboard-liva"
+  },
+  {
     "source": "OpenAI",
     "title": "Cult.fit builds operational muscle with Codex",
     "date": "Thu, 05 Nov 2026 20:00:00 GMT",
@@ -1114,89 +1198,5 @@
     "title": "Rethinking User Encoders: Routing Diffusion States for Scenario-Adaptive User Representation",
     "date": "Mon, 19 Oct 2026 00:00:00 -0400",
     "url": "https://arxiv.org/abs/2610.22400"
-  },
-  {
-    "source": "arXiv",
-    "title": "From Events to Reasoning: Hierarchical Rule Composition over Explicit States",
-    "date": "Mon, 19 Oct 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2610.22403"
-  },
-  {
-    "source": "arXiv",
-    "title": "ECHOES: Seeing Beyond the Current Image via Recursive History Compression and Privileged On-Policy Distillation",
-    "date": "Mon, 19 Oct 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2610.22408"
-  },
-  {
-    "source": "arXiv",
-    "title": "Sensitivity Analysis of Decision Rules in an Agent-Based Agro-Ecological Model",
-    "date": "Mon, 19 Oct 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2610.22420"
-  },
-  {
-    "source": "arXiv",
-    "title": "PRIME: Towards Verifiable Evidence-Grounded Reasoning in LLM Agents",
-    "date": "Mon, 19 Oct 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2610.22426"
-  },
-  {
-    "source": "arXiv",
-    "title": "From Natural Language Intent to Executable Control: Hierarchical Feedback-Guided LLM Planning for Multi-component Cyber-Physical Systems",
-    "date": "Mon, 19 Oct 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2610.22441"
-  },
-  {
-    "source": "arXiv",
-    "title": "Null Controls Are Necessary but Not Sufficient: Evaluating Acceptance Guards for Scientific Discovery and Interpretability",
-    "date": "Mon, 19 Oct 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2610.22445"
-  },
-  {
-    "source": "arXiv",
-    "title": "Learnable Splines for Unstructured Neural Operators",
-    "date": "Mon, 19 Oct 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2610.22446"
-  },
-  {
-    "source": "arXiv",
-    "title": "Functional Welfare for AI Safety",
-    "date": "Mon, 19 Oct 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2610.22460"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "TorchNeuron: running HF models on AWS Trainium is easier than ever",
-    "date": "Mon, 19 Oct 2026 00:00:00 GMT",
-    "url": "https://huggingface.co/blog/hf-torchneuron"
-  },
-  {
-    "source": "OpenAI",
-    "title": "How Itaú is building generative AI for its entire customer base",
-    "date": "Fri, 16 Oct 2026 19:00:00 GMT",
-    "url": "https://openai.com/index/itau-generative-ai"
-  },
-  {
-    "source": "arXiv",
-    "title": "The World Won't Wait: Evaluating and Teaching Agents Under a Live Clock",
-    "date": "Fri, 16 Oct 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2610.20665"
-  },
-  {
-    "source": "arXiv",
-    "title": "Evaluating Model Capabilities After Benchmark Saturation",
-    "date": "Fri, 16 Oct 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2610.20667"
-  },
-  {
-    "source": "arXiv",
-    "title": "Value-Informed Schedule Trimming for Accelerated Sequential Monte Carlo Guidance in Discrete Diffusion",
-    "date": "Fri, 16 Oct 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2610.20669"
-  },
-  {
-    "source": "arXiv",
-    "title": "AlphaDiana: A Measurement System for Agents in Verifiable Reasoning Tasks",
-    "date": "Fri, 16 Oct 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2610.20675"
   }
 ]
