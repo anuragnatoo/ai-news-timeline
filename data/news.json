@@ -1,5 +1,41 @@
 [
   {
+    "source": "OpenAI",
+    "title": "ChatGPT Enterprise now available in AWS Marketplace",
+    "date": "Mon, 09 Nov 2026 19:00:00 GMT",
+    "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context ",
+    "date": "Mon, 09 Nov 2026 15:05:57 GMT",
+    "url": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+    "date": "Mon, 09 Nov 2026 13:00:00 GMT",
+    "url": "https://openai.com/index/control-room"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
+    "date": "Mon, 09 Nov 2026 12:34:29 GMT",
+    "url": "https://huggingface.co/blog/amazon/higher-order-pruning-experts"
+  },
+  {
+    "source": "OpenAI",
+    "title": "CodeRabbit scales agentic software development and ships 20x more",
+    "date": "Mon, 09 Nov 2026 08:00:00 GMT",
+    "url": "https://openai.com/index/coderabbit-codex-daybreak"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Kuken Industries searches 70 years of drawings in minutes",
+    "date": "Mon, 09 Nov 2026 08:00:00 GMT",
+    "url": "https://openai.com/index/kuken"
+  },
+  {
     "source": "HuggingFace",
     "title": "ToyBlocks: A controlled world for robot learning and evaluation",
     "date": "Fri, 06 Nov 2026 14:00:48 GMT",
@@ -1162,41 +1198,5 @@
     "title": "OpenAI acquires Orchestra Bio",
     "date": "Tue, 20 Oct 2026 00:00:00 GMT",
     "url": "https://openai.com/index/openai-to-acquire-orchestra-bio"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "Hugging Face ❤️ TorchTPU: TPUs, Natively",
-    "date": "Tue, 20 Oct 2026 00:00:00 GMT",
-    "url": "https://huggingface.co/blog/hf-torchtpu"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms",
-    "date": "Tue, 20 Oct 2026 00:00:00 GMT",
-    "url": "https://huggingface.co/blog/anylanguagemodel-1-0"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "MPS in PyTorch 2.15",
-    "date": "Tue, 20 Oct 2026 00:00:00 GMT",
-    "url": "https://huggingface.co/blog/mps-pytorch-2-15"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Advancing coding in low‑resource programming languages",
-    "date": "Mon, 19 Oct 2026 12:00:00 GMT",
-    "url": "https://openai.com/index/low-resource-programming-languages"
-  },
-  {
-    "source": "arXiv",
-    "title": "Structured Authority Injection: Persistent Human Control for LLM Agents via Typed MCP Overrides",
-    "date": "Mon, 19 Oct 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2610.22373"
-  },
-  {
-    "source": "arXiv",
-    "title": "Rethinking User Encoders: Routing Diffusion States for Scenario-Adaptive User Representation",
-    "date": "Mon, 19 Oct 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2610.22400"
   }
 ]
