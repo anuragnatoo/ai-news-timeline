@@ -1,6 +1,48 @@
 [
   {
     "source": "OpenAI",
+    "title": "Gilbert + Tobin rethinks the business of law with AI",
+    "date": "Thu, 12 Nov 2026 00:00:00 GMT",
+    "url": "https://openai.com/index/gilbert-tobin-sam-nickless"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Helping caregivers use AI in everyday life",
+    "date": "Tue, 10 Nov 2026 12:00:00 GMT",
+    "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Introducing Businesses in ChatGPT",
+    "date": "Tue, 10 Nov 2026 10:00:00 GMT",
+    "url": "https://openai.com/index/introducing-businesses-chatgpt"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Closing the AI guidance gap in education",
+    "date": "Tue, 10 Nov 2026 09:00:00 GMT",
+    "url": "https://openai.com/index/closing-ai-guidance-gap-education"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Work at the Frontier: AI’s effect on freelance work",
+    "date": "Tue, 10 Nov 2026 07:00:00 GMT",
+    "url": "https://openai.com/index/ai-effect-on-freelance-work"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "Pay for Hugging Face Hub with your Google Cloud Account",
+    "date": "Tue, 10 Nov 2026 00:00:00 GMT",
+    "url": "https://huggingface.co/blog/hub-gcp-marketplace"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "Decision Models in Hugging Face",
+    "date": "Tue, 10 Nov 2026 00:00:00 GMT",
+    "url": "https://huggingface.co/blog/decision"
+  },
+  {
+    "source": "OpenAI",
     "title": "ChatGPT Enterprise now available in AWS Marketplace",
     "date": "Mon, 09 Nov 2026 19:00:00 GMT",
     "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace"
@@ -1156,47 +1198,5 @@
     "title": "Cloudflare links vulnerability discovery to defense with OpenAI",
     "date": "Wed, 21 Oct 2026 00:00:00 GMT",
     "url": "https://openai.com/index/cloudflare-cyber"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Democratic governance of frontier AI, part II: Empowering cyber defenders",
-    "date": "Wed, 21 Oct 2026 00:00:00 GMT",
-    "url": "https://openai.com/index/empowering-cyber-defenders"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation",
-    "date": "Tue, 20 Oct 2026 18:17:47 GMT",
-    "url": "https://huggingface.co/blog/nvidia/cosmos3-h-dreams"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "FairStress: A deeper evaluation of fairness in LLM decision-making",
-    "date": "Tue, 20 Oct 2026 16:09:19 GMT",
-    "url": "https://huggingface.co/blog/allenai/fairstress"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model",
-    "date": "Tue, 20 Oct 2026 15:19:48 GMT",
-    "url": "https://huggingface.co/blog/ibm-research/altk-evolve-bc"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
-    "date": "Tue, 20 Oct 2026 10:00:00 GMT",
-    "url": "https://openai.com/index/ted-taylor-restaurant"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
-    "date": "Tue, 20 Oct 2026 07:00:00 GMT",
-    "url": "https://openai.com/index/terminal-x"
-  },
-  {
-    "source": "OpenAI",
-    "title": "OpenAI acquires Orchestra Bio",
-    "date": "Tue, 20 Oct 2026 00:00:00 GMT",
-    "url": "https://openai.com/index/openai-to-acquire-orchestra-bio"
   }
 ]
