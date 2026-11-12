@@ -7,6 +7,30 @@
   },
   {
     "source": "OpenAI",
+    "title": "ChatGPT Plus for veterans and servicemembers",
+    "date": "Wed, 11 Nov 2026 08:00:00 GMT",
+    "url": "https://openai.com/index/chatgpt-plus-for-veterans"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+    "date": "Wed, 11 Nov 2026 05:01:16 GMT",
+    "url": "https://huggingface.co/blog/qvac/botpsy"
+  },
+  {
+    "source": "OpenAI",
+    "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
+    "date": "Wed, 11 Nov 2026 00:00:00 GMT",
+    "url": "https://openai.com/index/jiostar-vijay-seshadri"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
+    "date": "Wed, 11 Nov 2026 00:00:00 GMT",
+    "url": "https://huggingface.co/blog/token-pooling"
+  },
+  {
+    "source": "OpenAI",
     "title": "Helping caregivers use AI in everyday life",
     "date": "Tue, 10 Nov 2026 12:00:00 GMT",
     "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life"
@@ -25,6 +49,12 @@
   },
   {
     "source": "OpenAI",
+    "title": "Singapore Airlines elevates travel & work with OpenAI technology",
+    "date": "Tue, 10 Nov 2026 08:00:00 GMT",
+    "url": "https://openai.com/index/singapore-airlines-travel-work"
+  },
+  {
+    "source": "OpenAI",
     "title": "Work at the Frontier: AI’s effect on freelance work",
     "date": "Tue, 10 Nov 2026 07:00:00 GMT",
     "url": "https://openai.com/index/ai-effect-on-freelance-work"
@@ -40,6 +70,12 @@
     "title": "Decision Models in Hugging Face",
     "date": "Tue, 10 Nov 2026 00:00:00 GMT",
     "url": "https://huggingface.co/blog/decision"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Cogent and OpenAI build cyber defense factories for enterprises",
+    "date": "Tue, 10 Nov 2026 00:00:00 GMT",
+    "url": "https://openai.com/index/cogent-security"
   },
   {
     "source": "OpenAI",
@@ -1162,41 +1198,5 @@
     "title": "DataPraxis: Scaling Analytics Tasks via Verified Workspace Evolution",
     "date": "Wed, 21 Oct 2026 00:00:00 -0400",
     "url": "https://arxiv.org/abs/2610.26924"
-  },
-  {
-    "source": "arXiv",
-    "title": "Industrial Agentic AI: LLM-Driven New-Generation Agents for Smart Manufacturing",
-    "date": "Wed, 21 Oct 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2610.26941"
-  },
-  {
-    "source": "arXiv",
-    "title": "Fix, Not Just Resample: Bounded Compiler-Guided Repair in Lean 4",
-    "date": "Wed, 21 Oct 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2610.26942"
-  },
-  {
-    "source": "arXiv",
-    "title": "MAMath-Bench: Process-Aware and Robust Evaluation of Multimodal Multi-Agent Mathematical Reasoning",
-    "date": "Wed, 21 Oct 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2610.26943"
-  },
-  {
-    "source": "arXiv",
-    "title": "LightCRS: Lightweight Multi-Domain Conversational Recommendation System",
-    "date": "Wed, 21 Oct 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2610.26948"
-  },
-  {
-    "source": "arXiv",
-    "title": "When Planning Problems Become Hard for LLMs: Separating Structural Complexity from Semantic Interpretability",
-    "date": "Wed, 21 Oct 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2610.26964"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Cloudflare links vulnerability discovery to defense with OpenAI",
-    "date": "Wed, 21 Oct 2026 00:00:00 GMT",
-    "url": "https://openai.com/index/cloudflare-cyber"
   }
 ]
