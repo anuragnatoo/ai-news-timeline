@@ -1,5 +1,65 @@
 [
   {
+    "source": "arXiv",
+    "title": "Zugwise: Domain-Aware Game Reconstruction for Digitizing Handwritten Chess Scoresheets",
+    "date": "Sat, 14 Nov 2026 00:00:00 -0500",
+    "url": "https://arxiv.org/abs/2611.14544"
+  },
+  {
+    "source": "arXiv",
+    "title": "Cleaning an Agent's History Hurts When the World Still Holds the Error",
+    "date": "Sat, 14 Nov 2026 00:00:00 -0500",
+    "url": "https://arxiv.org/abs/2611.14654"
+  },
+  {
+    "source": "arXiv",
+    "title": "Together Compiler: Continual Compilation for AI Inference",
+    "date": "Sat, 14 Nov 2026 00:00:00 -0500",
+    "url": "https://arxiv.org/abs/2611.14681"
+  },
+  {
+    "source": "arXiv",
+    "title": "When Should Semantic Priors Enter Partially-Identified Causal Discovery?",
+    "date": "Sat, 14 Nov 2026 00:00:00 -0500",
+    "url": "https://arxiv.org/abs/2611.14736"
+  },
+  {
+    "source": "arXiv",
+    "title": "SynthCorp: A Platform for Creating Benchmarks for Data Agents",
+    "date": "Sat, 14 Nov 2026 00:00:00 -0500",
+    "url": "https://arxiv.org/abs/2611.14765"
+  },
+  {
+    "source": "arXiv",
+    "title": "Rational Use of Time for Social Coordination in Humans and AI",
+    "date": "Sat, 14 Nov 2026 00:00:00 -0500",
+    "url": "https://arxiv.org/abs/2611.14766"
+  },
+  {
+    "source": "arXiv",
+    "title": "Leaderboard Hacking: Preference-Based Model Evaluations are Vulnerable to Manipulation",
+    "date": "Sat, 14 Nov 2026 00:00:00 -0500",
+    "url": "https://arxiv.org/abs/2611.14769"
+  },
+  {
+    "source": "arXiv",
+    "title": "Robust Task-Aware State Estimation from Pre-trained Perception",
+    "date": "Sat, 14 Nov 2026 00:00:00 -0500",
+    "url": "https://arxiv.org/abs/2611.14781"
+  },
+  {
+    "source": "arXiv",
+    "title": "When Is Proof-Step Verification Worth Its Cost? Operating Requirements of Certify-or-Decline Verification for Open-Weight Mathematical Reasoning",
+    "date": "Sat, 14 Nov 2026 00:00:00 -0500",
+    "url": "https://arxiv.org/abs/2611.14794"
+  },
+  {
+    "source": "arXiv",
+    "title": "GenPFN: An In-Context Tabular Foundation Model Approach for Augmenting Small Datasets in Engineering",
+    "date": "Sat, 14 Nov 2026 00:00:00 -0500",
+    "url": "https://arxiv.org/abs/2611.14804"
+  },
+  {
     "source": "HuggingFace",
     "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
     "date": "Fri, 13 Nov 2026 18:00:39 GMT",
@@ -1138,65 +1198,5 @@
     "title": "ReuF2F: Benchmarking Coding Agents on Formalized Undergraduate Research Problems",
     "date": "Thu, 22 Oct 2026 00:00:00 -0400",
     "url": "https://arxiv.org/abs/2610.27046"
-  },
-  {
-    "source": "arXiv",
-    "title": "A general-purpose System One decision model for clinical records",
-    "date": "Thu, 22 Oct 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2610.27099"
-  },
-  {
-    "source": "arXiv",
-    "title": "Omni-Woodpecker: Hallucination Correction via Evidence-Prior Rebalancing for Omni LLMs",
-    "date": "Thu, 22 Oct 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2610.27103"
-  },
-  {
-    "source": "arXiv",
-    "title": "PROVISO: Provenance-Informed Action Selection for Secure LLM Agents",
-    "date": "Thu, 22 Oct 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2610.27115"
-  },
-  {
-    "source": "arXiv",
-    "title": "PORA: Learning When More Reasoning Pays Off for LLM Agents",
-    "date": "Thu, 22 Oct 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2610.27119"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Uber brings ChatGPT Work to all employees with OpenAI",
-    "date": "Thu, 22 Oct 2026 00:00:00 GMT",
-    "url": "https://openai.com/index/uber-chatgpt-work-rollout"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Broad access through consistent standards",
-    "date": "Wed, 21 Oct 2026 21:00:00 GMT",
-    "url": "https://openai.com/index/broad-access-through-consistent-standards"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
-    "date": "Wed, 21 Oct 2026 18:26:30 GMT",
-    "url": "https://huggingface.co/blog/nvidia/kumo-relational"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
-    "date": "Wed, 21 Oct 2026 17:35:36 GMT",
-    "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization"
-  },
-  {
-    "source": "OpenAI",
-    "title": "How AT&T is rethinking in-house legal work with OpenAI",
-    "date": "Wed, 21 Oct 2026 17:00:00 GMT",
-    "url": "https://openai.com/index/att-legal"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
-    "date": "Wed, 21 Oct 2026 16:04:43 GMT",
-    "url": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1"
   }
 ]
