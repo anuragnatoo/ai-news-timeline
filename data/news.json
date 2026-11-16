@@ -1,5 +1,17 @@
 [
   {
+    "source": "OpenAI",
+    "title": "A step toward defining the Standard Model on a lattice",
+    "date": "Sun, 15 Nov 2026 22:00:01 GMT",
+    "url": "https://openai.com/index/step-toward-defining-the-standard-model"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Our new blog for science",
+    "date": "Sun, 15 Nov 2026 22:00:00 GMT",
+    "url": "https://openai.com/index/our-new-blog-for-science"
+  },
+  {
     "source": "arXiv",
     "title": "Zugwise: Domain-Aware Game Reconstruction for Digitizing Handwritten Chess Scoresheets",
     "date": "Sat, 14 Nov 2026 00:00:00 -0500",
@@ -1186,17 +1198,5 @@
     "title": "M-Plan: Comprehensive Planning For LLM Agents with Memory Arrangement",
     "date": "Thu, 22 Oct 2026 00:00:00 -0400",
     "url": "https://arxiv.org/abs/2610.27032"
-  },
-  {
-    "source": "arXiv",
-    "title": "Physical AI: Concepts, Techniques, and Challenges",
-    "date": "Thu, 22 Oct 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2610.27045"
-  },
-  {
-    "source": "arXiv",
-    "title": "ReuF2F: Benchmarking Coding Agents on Formalized Undergraduate Research Problems",
-    "date": "Thu, 22 Oct 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2610.27046"
   }
 ]
