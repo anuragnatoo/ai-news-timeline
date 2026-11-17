@@ -1,6 +1,66 @@
 [
   {
     "source": "OpenAI",
+    "title": "Broadening access to AI for scientists",
+    "date": "Mon, 16 Nov 2026 17:00:00 GMT",
+    "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Strengthening the fight against online child sexual abuse with new tools and support",
+    "date": "Mon, 16 Nov 2026 17:00:00 GMT",
+    "url": "https://openai.com/index/strengthening-online-child-safety"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Science at the Frontier: How scientists use ChatGPT",
+    "date": "Mon, 16 Nov 2026 12:00:00 GMT",
+    "url": "https://openai.com/index/science-at-the-frontier"
+  },
+  {
+    "source": "OpenAI",
+    "title": "LVMH’s Media Division announces strategic partnership with OpenAI",
+    "date": "Mon, 16 Nov 2026 09:00:00 GMT",
+    "url": "https://openai.com/index/lvmh-media-division-partnership"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Our first phase of embedded assessments",
+    "date": "Mon, 16 Nov 2026 08:00:00 GMT",
+    "url": "https://openai.com/index/our-first-phase-of-embedded-assessments"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Advancing computer-use agents for healthcare teams",
+    "date": "Mon, 16 Nov 2026 06:00:00 GMT",
+    "url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams"
+  },
+  {
+    "source": "OpenAI",
+    "title": "More ways to move care forward with ChatGPT for Healthcare",
+    "date": "Mon, 16 Nov 2026 06:00:00 GMT",
+    "url": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare"
+  },
+  {
+    "source": "OpenAI",
+    "title": "The King’s Trust and OpenAI launch £1m partnership",
+    "date": "Mon, 16 Nov 2026 00:00:00 GMT",
+    "url": "https://openai.com/index/the-kings-trust-and-openai"
+  },
+  {
+    "source": "OpenAI",
+    "title": "At Holiday Extras, dots get to work before anyone asks",
+    "date": "Mon, 16 Nov 2026 00:00:00 GMT",
+    "url": "https://openai.com/business/customer-stories/holiday-extras-dots"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "Hugging Face and OpenRouter join forces to make open-weight models easy to run",
+    "date": "Mon, 16 Nov 2026 00:00:00 GMT",
+    "url": "https://huggingface.co/blog/openrouter"
+  },
+  {
+    "source": "OpenAI",
     "title": "A step toward defining the Standard Model on a lattice",
     "date": "Sun, 15 Nov 2026 22:00:01 GMT",
     "url": "https://openai.com/index/step-toward-defining-the-standard-model"
@@ -1138,65 +1198,5 @@
     "title": "Does Your Model Run on AWS Trainium? Look It Up",
     "date": "Fri, 23 Oct 2026 00:00:00 GMT",
     "url": "https://huggingface.co/blog/torch-neuronx-model-support"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Anima helps clinics cut call waits by 75% with GPT-6 and GPT-Live",
-    "date": "Fri, 23 Oct 2026 00:00:00 GMT",
-    "url": "https://openai.com/index/anima"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
-    "date": "Thu, 22 Oct 2026 22:24:34 GMT",
-    "url": "https://huggingface.co/blog/microsoft/thinkingbox-training"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Build more responsive apps with the Decisions API",
-    "date": "Thu, 22 Oct 2026 19:00:00 GMT",
-    "url": "https://openai.com/index/decisions-api"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
-    "date": "Thu, 22 Oct 2026 16:11:31 GMT",
-    "url": "https://huggingface.co/blog/allenai/olmoearth-v1-3"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "Ensemble forecasting with IBM Granite time-series models",
-    "date": "Thu, 22 Oct 2026 07:51:31 GMT",
-    "url": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1"
-  },
-  {
-    "source": "OpenAI",
-    "title": "What FDE means at OpenAI",
-    "date": "Thu, 22 Oct 2026 06:00:00 GMT",
-    "url": "https://openai.com/index/forward-deployed-engineering-means"
-  },
-  {
-    "source": "arXiv",
-    "title": "SPEM: Structure-Aware Procedural Memory for Efficient Skill Use in LLM Agents",
-    "date": "Thu, 22 Oct 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2610.26995"
-  },
-  {
-    "source": "arXiv",
-    "title": "Does Multi-Agent Collaboration Reduce Hallucination in Clinical Tasks?",
-    "date": "Thu, 22 Oct 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2610.27027"
-  },
-  {
-    "source": "arXiv",
-    "title": "Teaching AI Agent to Play Poker Strategically Through Preference Optimization",
-    "date": "Thu, 22 Oct 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2610.27028"
-  },
-  {
-    "source": "arXiv",
-    "title": "M-Plan: Comprehensive Planning For LLM Agents with Memory Arrangement",
-    "date": "Thu, 22 Oct 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2610.27032"
   }
 ]
