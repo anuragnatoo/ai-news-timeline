@@ -1,5 +1,95 @@
 [
   {
+    "source": "arXiv",
+    "title": "NEBench R1: a Reasoning Benchmark for Evaluating Nuclear Domain Competence in Large Language Models",
+    "date": "Wed, 18 Nov 2026 00:00:00 -0500",
+    "url": "https://arxiv.org/abs/2611.21682"
+  },
+  {
+    "source": "arXiv",
+    "title": "Chain-of-Thought Controllability Can Reduce Chain-of-Thought Monitorability",
+    "date": "Wed, 18 Nov 2026 00:00:00 -0500",
+    "url": "https://arxiv.org/abs/2611.21799"
+  },
+  {
+    "source": "arXiv",
+    "title": "How Much of SAR Vehicle Recognition Is the Vehicle? Background Shortcuts, Angle Gaps and Partial Libraries on MSTAR and ATRNet-STAR",
+    "date": "Wed, 18 Nov 2026 00:00:00 -0500",
+    "url": "https://arxiv.org/abs/2611.21827"
+  },
+  {
+    "source": "arXiv",
+    "title": "Auditors Struggle to Catch Sabotage In End-to-End Transcripts of AI Safety Research",
+    "date": "Wed, 18 Nov 2026 00:00:00 -0500",
+    "url": "https://arxiv.org/abs/2611.21832"
+  },
+  {
+    "source": "arXiv",
+    "title": "Language Models Can Rewrite Their Own Weights",
+    "date": "Wed, 18 Nov 2026 00:00:00 -0500",
+    "url": "https://arxiv.org/abs/2611.21885"
+  },
+  {
+    "source": "arXiv",
+    "title": "DNeo: Your Parallel Draft Model Needs Better Target Feature Encoding",
+    "date": "Wed, 18 Nov 2026 00:00:00 -0500",
+    "url": "https://arxiv.org/abs/2611.21925"
+  },
+  {
+    "source": "arXiv",
+    "title": "SLED: Sensor SLicing from Edge to Datacenter",
+    "date": "Wed, 18 Nov 2026 00:00:00 -0500",
+    "url": "https://arxiv.org/abs/2611.21937"
+  },
+  {
+    "source": "arXiv",
+    "title": "Conserved Verdicts, Drifting Commitments: Identifying Harmful Overthinking",
+    "date": "Wed, 18 Nov 2026 00:00:00 -0500",
+    "url": "https://arxiv.org/abs/2611.21946"
+  },
+  {
+    "source": "arXiv",
+    "title": "Honest Brokers in AI Regulation: How Public Comments Introduce Evidence to Regulators",
+    "date": "Wed, 18 Nov 2026 00:00:00 -0500",
+    "url": "https://arxiv.org/abs/2611.21948"
+  },
+  {
+    "source": "arXiv",
+    "title": "DiscoveryAgent: A Framework for Scientist-centric Agentic AI",
+    "date": "Wed, 18 Nov 2026 00:00:00 -0500",
+    "url": "https://arxiv.org/abs/2611.21950"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Introducing GPT-6.2 Astra and Sol",
+    "date": "Tue, 17 Nov 2026 17:45:00 GMT",
+    "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Introducing ChatGPT for Sales",
+    "date": "Tue, 17 Nov 2026 08:00:00 GMT",
+    "url": "https://openai.com/index/introducing-chatgpt-for-sales"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Strengthening NATO and allied cyber defenses with AI",
+    "date": "Tue, 17 Nov 2026 00:00:00 GMT",
+    "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Astra for Law leads in legal intelligence",
+    "date": "Tue, 17 Nov 2026 00:00:00 GMT",
+    "url": "https://openai.com/index/astra-law-6-2"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Introducing OpenAI for Chile",
+    "date": "Tue, 17 Nov 2026 00:00:00 GMT",
+    "url": "https://openai.com/index/introducing-openai-for-chile"
+  },
+  {
     "source": "OpenAI",
     "title": "Broadening access to AI for scientists",
     "date": "Mon, 16 Nov 2026 17:00:00 GMT",
@@ -16,6 +106,12 @@
     "title": "Science at the Frontier: How scientists use ChatGPT",
     "date": "Mon, 16 Nov 2026 12:00:00 GMT",
     "url": "https://openai.com/index/science-at-the-frontier"
+  },
+  {
+    "source": "OpenAI",
+    "title": "How Revolut raises ambition without lowering the bar",
+    "date": "Mon, 16 Nov 2026 09:30:00 GMT",
+    "url": "https://openai.com/business/customer-stories/revolut"
   },
   {
     "source": "OpenAI",
@@ -205,6 +301,12 @@
   },
   {
     "source": "OpenAI",
+    "title": "ChatGPT Ads increases its market presence in 44 countries",
+    "date": "Thu, 12 Nov 2026 00:00:00 GMT",
+    "url": "https://openai.com/ads/blog/chatgpt-ads-increases-its-market-presence"
+  },
+  {
+    "source": "OpenAI",
     "title": "ChatGPT Plus for veterans and servicemembers",
     "date": "Wed, 11 Nov 2026 08:00:00 GMT",
     "url": "https://openai.com/index/chatgpt-plus-for-veterans"
@@ -310,6 +412,12 @@
     "title": "Kuken Industries searches 70 years of drawings in minutes",
     "date": "Mon, 09 Nov 2026 08:00:00 GMT",
     "url": "https://openai.com/index/kuken"
+  },
+  {
+    "source": "OpenAI",
+    "title": "How VistaPrint helps small businesses get the word out",
+    "date": "Mon, 09 Nov 2026 00:00:00 GMT",
+    "url": "https://openai.com/ads/customers/vistaprint"
   },
   {
     "source": "HuggingFace",
@@ -1090,113 +1198,5 @@
     "title": "Beyond On-Policy vs. Off-Policy: At What Level Should LLM Agent Distillation Follow the Student?",
     "date": "Mon, 26 Oct 2026 00:00:00 -0400",
     "url": "https://arxiv.org/abs/2610.31918"
-  },
-  {
-    "source": "arXiv",
-    "title": "$M^3$: A Multi-LLM System for Multi-Turn Jailbreaking as a Markov Decision Process",
-    "date": "Mon, 26 Oct 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2610.31937"
-  },
-  {
-    "source": "arXiv",
-    "title": "Knowing Whom to Trust is not Enough: The Trust--Agreement Gap in Repeated Multi-Party LLM Negotiation",
-    "date": "Mon, 26 Oct 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2610.31971"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Introducing GPT-6.1 Terra",
-    "date": "Mon, 26 Oct 2026 00:00:00 GMT",
-    "url": "https://openai.com/index/introducing-gpt-6-1-terra"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
-    "date": "Fri, 23 Oct 2026 17:00:00 GMT",
-    "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
-    "date": "Fri, 23 Oct 2026 16:15:50 GMT",
-    "url": "https://huggingface.co/blog/allenai/litpivot"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Securing our frontier model training environment",
-    "date": "Fri, 23 Oct 2026 10:00:00 GMT",
-    "url": "https://openai.com/index/securing-our-frontier-model-training-environment"
-  },
-  {
-    "source": "arXiv",
-    "title": "A Small Model Asks Better: Fine-Tuning Query Clarification for Retrieval-Augmented Generation",
-    "date": "Fri, 23 Oct 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2610.28686"
-  },
-  {
-    "source": "arXiv",
-    "title": "Scaling in Games: Continued Pre-Training For Embodied Agents In Diverse Virtual Worlds",
-    "date": "Fri, 23 Oct 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2610.28698"
-  },
-  {
-    "source": "arXiv",
-    "title": "SpecEvo: Speculative Evolution with Large Language Models for Cost-Efficient Scientific Discovery",
-    "date": "Fri, 23 Oct 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2610.28706"
-  },
-  {
-    "source": "arXiv",
-    "title": "Automating ML for Science: Can Frontier Agents Climb Scientific Hills in the Wild?",
-    "date": "Fri, 23 Oct 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2610.28763"
-  },
-  {
-    "source": "arXiv",
-    "title": "Forging More Tasks into Better Harnesses: Agentic Harness Evolution via Successive Scale Racing",
-    "date": "Fri, 23 Oct 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2610.28815"
-  },
-  {
-    "source": "arXiv",
-    "title": "Decision language models as affordable and rapid alternatives to LLM judges of clinical generative AI",
-    "date": "Fri, 23 Oct 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2610.28826"
-  },
-  {
-    "source": "arXiv",
-    "title": "Sketch2Sim: an end-to-end modular framework for hand-drawn circuit analysis",
-    "date": "Fri, 23 Oct 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2610.28836"
-  },
-  {
-    "source": "arXiv",
-    "title": "Speedrunning Relational Foundation Model Pretraining",
-    "date": "Fri, 23 Oct 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2610.28855"
-  },
-  {
-    "source": "arXiv",
-    "title": "To Manipulate or Not: Opinion Dynamics in LLM Interactions",
-    "date": "Fri, 23 Oct 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2610.28875"
-  },
-  {
-    "source": "arXiv",
-    "title": "Fig: Automated Multiagent Behavior Elicitor",
-    "date": "Fri, 23 Oct 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2610.28891"
-  },
-  {
-    "source": "OpenAI",
-    "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
-    "date": "Fri, 23 Oct 2026 00:00:00 GMT",
-    "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "Does Your Model Run on AWS Trainium? Look It Up",
-    "date": "Fri, 23 Oct 2026 00:00:00 GMT",
-    "url": "https://huggingface.co/blog/torch-neuronx-model-support"
   }
 ]
