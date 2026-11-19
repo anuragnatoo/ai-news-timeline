@@ -1,6 +1,114 @@
 [
   {
     "source": "arXiv",
+    "title": "WebAgents: Unbundling Agent Creation, Hosting, and Execution for an Agent-Native Web",
+    "date": "Thu, 19 Nov 2026 00:00:00 -0500",
+    "url": "https://arxiv.org/abs/2611.21978"
+  },
+  {
+    "source": "arXiv",
+    "title": "KV-LTM: Persistent Per-Session KV Caches as Long-Term Memory for Personal Assistants",
+    "date": "Thu, 19 Nov 2026 00:00:00 -0500",
+    "url": "https://arxiv.org/abs/2611.21998"
+  },
+  {
+    "source": "arXiv",
+    "title": "On Formal Counterfactual Explanations",
+    "date": "Thu, 19 Nov 2026 00:00:00 -0500",
+    "url": "https://arxiv.org/abs/2611.22010"
+  },
+  {
+    "source": "arXiv",
+    "title": "SkillBuffBench: Measuring What Agent Skills Contribute across Harnesses, Models, Skill Access Modes and Memory",
+    "date": "Thu, 19 Nov 2026 00:00:00 -0500",
+    "url": "https://arxiv.org/abs/2611.22017"
+  },
+  {
+    "source": "arXiv",
+    "title": "What Does an Agent Need? Bundle-Aware Agent Resource Composition",
+    "date": "Thu, 19 Nov 2026 00:00:00 -0500",
+    "url": "https://arxiv.org/abs/2611.22030"
+  },
+  {
+    "source": "arXiv",
+    "title": "Thinking Harder Doesn't Lead to Better Choices: Reasoning Effort Increases the Confidence but Not the Correctness of LLM Shopping Agents",
+    "date": "Thu, 19 Nov 2026 00:00:00 -0500",
+    "url": "https://arxiv.org/abs/2611.22033"
+  },
+  {
+    "source": "arXiv",
+    "title": "A Hybrid Exact-Heuristic Solver for the Integrated Passenger and Parcel Transportation Problem",
+    "date": "Thu, 19 Nov 2026 00:00:00 -0500",
+    "url": "https://arxiv.org/abs/2611.22043"
+  },
+  {
+    "source": "arXiv",
+    "title": "MedGuardBench: A Patient-Oriented Benchmark for Personalized Guardrail Development",
+    "date": "Thu, 19 Nov 2026 00:00:00 -0500",
+    "url": "https://arxiv.org/abs/2611.22069"
+  },
+  {
+    "source": "arXiv",
+    "title": "Can You Undo It? Reversibility Classes for AI Agent Actions",
+    "date": "Thu, 19 Nov 2026 00:00:00 -0500",
+    "url": "https://arxiv.org/abs/2611.22075"
+  },
+  {
+    "source": "arXiv",
+    "title": "When Lower Harm Misleads: Auditing Concept Corrections",
+    "date": "Thu, 19 Nov 2026 00:00:00 -0500",
+    "url": "https://arxiv.org/abs/2611.22084"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
+    "date": "Wed, 18 Nov 2026 19:54:56 GMT",
+    "url": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "Why your fine-tuning job takes longer than the FLOPs say",
+    "date": "Wed, 18 Nov 2026 18:53:43 GMT",
+    "url": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
+    "date": "Wed, 18 Nov 2026 15:00:23 GMT",
+    "url": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse"
+  },
+  {
+    "source": "OpenAI",
+    "title": "The Silent Consensus",
+    "date": "Wed, 18 Nov 2026 10:00:00 GMT",
+    "url": "https://openai.com/index/the-silent-consensus"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Research acceleration: The jagged frontier",
+    "date": "Wed, 18 Nov 2026 08:00:00 GMT",
+    "url": "https://openai.com/index/research-acceleration-jagged-frontier"
+  },
+  {
+    "source": "OpenAI",
+    "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
+    "date": "Wed, 18 Nov 2026 08:00:00 GMT",
+    "url": "https://openai.com/business/customer-stories/sumitomo-life"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Inside the Codex sandbox",
+    "date": "Wed, 18 Nov 2026 08:00:00 GMT",
+    "url": "https://openai.com/index/inside-the-codex-sandbox"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Managing frontier AI risk: From training to deployment",
+    "date": "Wed, 18 Nov 2026 06:00:00 GMT",
+    "url": "https://openai.com/index/managing-frontier-ai-risk"
+  },
+  {
+    "source": "arXiv",
     "title": "NEBench R1: a Reasoning Benchmark for Evaluating Nuclear Domain Competence in Large Language Models",
     "date": "Wed, 18 Nov 2026 00:00:00 -0500",
     "url": "https://arxiv.org/abs/2611.21682"
@@ -58,6 +166,30 @@
     "title": "DiscoveryAgent: A Framework for Scientist-centric Agentic AI",
     "date": "Wed, 18 Nov 2026 00:00:00 -0500",
     "url": "https://arxiv.org/abs/2611.21950"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+    "date": "Wed, 18 Nov 2026 00:00:00 GMT",
+    "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Advancing chip design with OpenAI models",
+    "date": "Wed, 18 Nov 2026 00:00:00 GMT",
+    "url": "https://openai.com/index/advancing-chip-design-with-our-models"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers",
+    "date": "Wed, 18 Nov 2026 00:00:00 GMT",
+    "url": "https://huggingface.co/blog/moe-expert-streaming"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "Rumble-2-Flash: an open 0.5B speech model for 40+ languages",
+    "date": "Wed, 18 Nov 2026 00:00:00 GMT",
+    "url": "https://huggingface.co/blog/rumble-2-flash"
   },
   {
     "source": "OpenAI",
@@ -1066,137 +1198,5 @@
     "title": "Prospect Theory in Large Language Models: A Meta-Analysis of Loss Aversion, Diminishing Sensitivity, and Probability Weighting",
     "date": "Tue, 27 Oct 2026 00:00:00 -0400",
     "url": "https://arxiv.org/abs/2610.33103"
-  },
-  {
-    "source": "arXiv",
-    "title": "Artificial Intelligence in Mechanical Engineering: Foundations, Opportunities, Challenges, and Responsibilities",
-    "date": "Tue, 27 Oct 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2610.33105"
-  },
-  {
-    "source": "arXiv",
-    "title": "Conformance as a Distribution: Delegation Contracts, Error Budgets, and the Allocation of Evaluation Authority in Use-Based AI Regulation",
-    "date": "Tue, 27 Oct 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2610.33112"
-  },
-  {
-    "source": "arXiv",
-    "title": "Optimal Correction Sets for Provable Redress of Contestable Causal Discovery",
-    "date": "Tue, 27 Oct 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2610.33138"
-  },
-  {
-    "source": "arXiv",
-    "title": "AOS-Bench: Can LLM Agents Manage Dynamic Workloads?",
-    "date": "Tue, 27 Oct 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2610.33178"
-  },
-  {
-    "source": "arXiv",
-    "title": "Propensities Please: Exposing Alignment-Faking LLMs using Synthetic Document Finetuning",
-    "date": "Tue, 27 Oct 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2610.33180"
-  },
-  {
-    "source": "arXiv",
-    "title": "Isharah-Selfie: Continuous Sign Language Recognition Dataset for One-handed Signing",
-    "date": "Tue, 27 Oct 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2610.33200"
-  },
-  {
-    "source": "arXiv",
-    "title": "Scaling Qualitative Analysis with Large Language Models: Development and Validation of the Smart Coder Framework for Human-LLM Collaborative Coding",
-    "date": "Tue, 27 Oct 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2610.33205"
-  },
-  {
-    "source": "OpenAI",
-    "title": "How Check Point accelerates vulnerability research with Daybreak",
-    "date": "Tue, 27 Oct 2026 00:00:00 GMT",
-    "url": "https://openai.com/index/check-point-daybreak"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
-    "date": "Mon, 26 Oct 2026 22:00:00 GMT",
-    "url": "https://openai.com/index/greptile-code-review-codex-astra"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Working with academic communities to build scientific understanding",
-    "date": "Mon, 26 Oct 2026 14:30:00 GMT",
-    "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities"
-  },
-  {
-    "source": "OpenAI",
-    "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
-    "date": "Mon, 26 Oct 2026 13:45:00 GMT",
-    "url": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security"
-  },
-  {
-    "source": "OpenAI",
-    "title": "ChatGPT’s expanding world of work",
-    "date": "Mon, 26 Oct 2026 10:00:00 GMT",
-    "url": "https://openai.com/index/chatgpt-expanding-world-of-work"
-  },
-  {
-    "source": "OpenAI",
-    "title": "How Fanatics and OpenAI streamline the fan experience",
-    "date": "Mon, 26 Oct 2026 07:00:00 GMT",
-    "url": "https://openai.com/index/fanatics-streamline-fan-experience"
-  },
-  {
-    "source": "OpenAI",
-    "title": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
-    "date": "Mon, 26 Oct 2026 07:00:00 GMT",
-    "url": "https://openai.com/index/openai-cut-incident-investigation"
-  },
-  {
-    "source": "arXiv",
-    "title": "Tradeoff-Aware Territory Design: A Multi-Objective Decision System for Enterprise Customer-to-Seller Allocation",
-    "date": "Mon, 26 Oct 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2610.31701"
-  },
-  {
-    "source": "arXiv",
-    "title": "Phronix: The Capability-Centric Learning Paradigm for Agents",
-    "date": "Mon, 26 Oct 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2610.31789"
-  },
-  {
-    "source": "arXiv",
-    "title": "Patronizing and Condescending Language Detection in English and Mandarin",
-    "date": "Mon, 26 Oct 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2610.31808"
-  },
-  {
-    "source": "arXiv",
-    "title": "PaperFormalizer: Author-in-the-Loop Autoformalization of Research Papers in Lean",
-    "date": "Mon, 26 Oct 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2610.31810"
-  },
-  {
-    "source": "arXiv",
-    "title": "Don't Forget What You Just Learned: Self-Directed Repair Turns Agent Mistakes Into Lasting Lessons",
-    "date": "Mon, 26 Oct 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2610.31846"
-  },
-  {
-    "source": "arXiv",
-    "title": "TACS-RF: Tool-driven Agentic Circuit Synthesis of RF and mmWave Modules",
-    "date": "Mon, 26 Oct 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2610.31882"
-  },
-  {
-    "source": "arXiv",
-    "title": "Permission to Retry: A Study of Authorization and Recovery in AI Agent Workflows",
-    "date": "Mon, 26 Oct 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2610.31916"
-  },
-  {
-    "source": "arXiv",
-    "title": "Beyond On-Policy vs. Off-Policy: At What Level Should LLM Agent Distillation Follow the Student?",
-    "date": "Mon, 26 Oct 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2610.31918"
   }
 ]
