@@ -1,6 +1,72 @@
 [
   {
     "source": "arXiv",
+    "title": "Human-AI Mutualism Is Unstable under Capability Asymmetry",
+    "date": "Fri, 20 Nov 2026 00:00:00 -0500",
+    "url": "https://arxiv.org/abs/2611.23322"
+  },
+  {
+    "source": "arXiv",
+    "title": "Training Language Models for Introspective Oversight",
+    "date": "Fri, 20 Nov 2026 00:00:00 -0500",
+    "url": "https://arxiv.org/abs/2611.23365"
+  },
+  {
+    "source": "arXiv",
+    "title": "Where the Tokens Go: Heat, Entropy and Error in Agentic Coding",
+    "date": "Fri, 20 Nov 2026 00:00:00 -0500",
+    "url": "https://arxiv.org/abs/2611.23375"
+  },
+  {
+    "source": "arXiv",
+    "title": "HardwareDx: A Foundational Graph Model System for Datacenter Machine Repairs",
+    "date": "Fri, 20 Nov 2026 00:00:00 -0500",
+    "url": "https://arxiv.org/abs/2611.23398"
+  },
+  {
+    "source": "arXiv",
+    "title": "RFBench: A Simulator-Grounded Multimodal Benchmark for Passive RF Layout Design and Understanding",
+    "date": "Fri, 20 Nov 2026 00:00:00 -0500",
+    "url": "https://arxiv.org/abs/2611.23410"
+  },
+  {
+    "source": "arXiv",
+    "title": "Why Sub-4-Bit Vision CNNs Collapse and Where Mixed-Precision Recovery Stops",
+    "date": "Fri, 20 Nov 2026 00:00:00 -0500",
+    "url": "https://arxiv.org/abs/2611.23445"
+  },
+  {
+    "source": "arXiv",
+    "title": "LusoClin: A Synthetic Clinical Note Dataset for Medical Information Retrieval in European Portuguese",
+    "date": "Fri, 20 Nov 2026 00:00:00 -0500",
+    "url": "https://arxiv.org/abs/2611.23454"
+  },
+  {
+    "source": "arXiv",
+    "title": "VeriMath: Human-in-the-Loop Generation and Verification of Curriculum-Aligned Mathematics Assessment Items",
+    "date": "Fri, 20 Nov 2026 00:00:00 -0500",
+    "url": "https://arxiv.org/abs/2611.23456"
+  },
+  {
+    "source": "arXiv",
+    "title": "GUARD: Stabilizing Recursive Self-Improvement with Regret Guidance",
+    "date": "Fri, 20 Nov 2026 00:00:00 -0500",
+    "url": "https://arxiv.org/abs/2611.23476"
+  },
+  {
+    "source": "arXiv",
+    "title": "Diagnostic Accuracy and Navigation Behavior of Vision-Language Model Agents Reading Emergency CT and MRI Examinations",
+    "date": "Fri, 20 Nov 2026 00:00:00 -0500",
+    "url": "https://arxiv.org/abs/2611.23480"
+  },
+  {
+    "source": "OpenAI",
+    "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
+    "date": "Thu, 19 Nov 2026 08:00:00 GMT",
+    "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast"
+  },
+  {
+    "source": "arXiv",
     "title": "WebAgents: Unbundling Agent Creation, Hosting, and Execution for an Agent-Native Web",
     "date": "Thu, 19 Nov 2026 00:00:00 -0500",
     "url": "https://arxiv.org/abs/2611.21978"
@@ -58,6 +124,30 @@
     "title": "When Lower Harm Misleads: Auditing Concept Corrections",
     "date": "Thu, 19 Nov 2026 00:00:00 -0500",
     "url": "https://arxiv.org/abs/2611.22084"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Deploying Daybreak Red",
+    "date": "Thu, 19 Nov 2026 00:00:00 GMT",
+    "url": "https://openai.com/business/learn/deploying-daybreak-red"
+  },
+  {
+    "source": "OpenAI",
+    "title": "See PR scans in action",
+    "date": "Thu, 19 Nov 2026 00:00:00 GMT",
+    "url": "https://openai.com/business/learn/pr-scans-demo"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Explore the Codex Security Plugin",
+    "date": "Thu, 19 Nov 2026 00:00:00 GMT",
+    "url": "https://openai.com/business/learn/codex-security-plugin-demo"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Get started with Daybreak Blue",
+    "date": "Thu, 19 Nov 2026 00:00:00 GMT",
+    "url": "https://openai.com/business/learn/daybreak-blue-onboarding-demo"
   },
   {
     "source": "HuggingFace",
@@ -1108,95 +1198,5 @@
     "title": "Enhancing Deep Learning Model Performance through Data Generation Strategies: Classification of Olive Tree Diseases",
     "date": "Wed, 28 Oct 2026 00:00:00 -0400",
     "url": "https://arxiv.org/abs/2610.35984"
-  },
-  {
-    "source": "arXiv",
-    "title": "The Trinity:Capability-Driven Recursive Self-Improvement for Multimodal Agents",
-    "date": "Wed, 28 Oct 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2610.36077"
-  },
-  {
-    "source": "arXiv",
-    "title": "CohortFlow: A Steerable Clinical Cohort Curation Agent with Localized Semantic Correction",
-    "date": "Wed, 28 Oct 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2610.36100"
-  },
-  {
-    "source": "arXiv",
-    "title": "Why and How to Do Science When AI Is Better at It: A Framework Grounded in Human Understanding and Direction",
-    "date": "Wed, 28 Oct 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2610.36116"
-  },
-  {
-    "source": "arXiv",
-    "title": "From Structural Feedback to Prompt Policies: Learning Faithful Text-to-Image Prompt Editors",
-    "date": "Wed, 28 Oct 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2610.36146"
-  },
-  {
-    "source": "arXiv",
-    "title": "Don't Pick a Winner: Knowledge Conflicts Need a Prior, Not a Rule",
-    "date": "Wed, 28 Oct 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2610.36169"
-  },
-  {
-    "source": "arXiv",
-    "title": "Learning Human Sports Motion Feasibility via Quantile Regression on Tracking Data",
-    "date": "Wed, 28 Oct 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2610.36183"
-  },
-  {
-    "source": "arXiv",
-    "title": "Skill Dreaming: Evolving Repository Skills through Pull Request Streams",
-    "date": "Wed, 28 Oct 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2610.36188"
-  },
-  {
-    "source": "arXiv",
-    "title": "MARQ: A Modular, LLM-Agnostic Requirement Quality Assessor Infused with Systems Engineering Knowledge",
-    "date": "Wed, 28 Oct 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2610.36234"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "Build specialized multimodal models with LFM3",
-    "date": "Tue, 27 Oct 2026 17:16:52 GMT",
-    "url": "https://huggingface.co/blog/LiquidAI/lfm3"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "Can we trust LLMs to judge whether a research idea is novel?",
-    "date": "Tue, 27 Oct 2026 16:12:42 GMT",
-    "url": "https://huggingface.co/blog/allenai/novelty-bench"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Retell uses OpenAI models to help power 100M monthly calls",
-    "date": "Tue, 27 Oct 2026 15:00:00 GMT",
-    "url": "https://openai.com/index/retell-ai"
-  },
-  {
-    "source": "OpenAI",
-    "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
-    "date": "Tue, 27 Oct 2026 07:00:00 GMT",
-    "url": "https://openai.com/index/oracle-apps-in-chatgpt"
-  },
-  {
-    "source": "arXiv",
-    "title": "Inverse Modeling for Laser Pulse Shape Design in Inertial Confinement Fusion",
-    "date": "Tue, 27 Oct 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2610.33096"
-  },
-  {
-    "source": "arXiv",
-    "title": "IRON-Meme: A Benchmark for Structured Understanding of Identities and Roles in Online Meme Narratives",
-    "date": "Tue, 27 Oct 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2610.33097"
-  },
-  {
-    "source": "arXiv",
-    "title": "Prospect Theory in Large Language Models: A Meta-Analysis of Loss Aversion, Diminishing Sensitivity, and Probability Weighting",
-    "date": "Tue, 27 Oct 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2610.33103"
   }
 ]
