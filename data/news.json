@@ -1,5 +1,11 @@
 [
   {
+    "source": "OpenAI",
+    "title": "Combatting adversarial distillation",
+    "date": "Fri, 20 Nov 2026 10:00:00 GMT",
+    "url": "https://openai.com/index/combatting-adversarial-distillation"
+  },
+  {
     "source": "arXiv",
     "title": "Human-AI Mutualism Is Unstable under Capability Asymmetry",
     "date": "Fri, 20 Nov 2026 00:00:00 -0500",
@@ -58,6 +64,90 @@
     "title": "Diagnostic Accuracy and Navigation Behavior of Vision-Language Model Agents Reading Emergency CT and MRI Examinations",
     "date": "Fri, 20 Nov 2026 00:00:00 -0500",
     "url": "https://arxiv.org/abs/2611.23480"
+  },
+  {
+    "source": "arXiv",
+    "title": "SpecLook: Speculating Where to Look for Fast and Reliable Agentic MLLMs",
+    "date": "Fri, 20 Nov 2026 00:00:00 -0500",
+    "url": "https://arxiv.org/abs/2611.23483"
+  },
+  {
+    "source": "arXiv",
+    "title": "BOS Summary: The First Token Matters",
+    "date": "Fri, 20 Nov 2026 00:00:00 -0500",
+    "url": "https://arxiv.org/abs/2611.23508"
+  },
+  {
+    "source": "arXiv",
+    "title": "GRAFT: Execution-Guided Genetic Recombination for Agent Design",
+    "date": "Fri, 20 Nov 2026 00:00:00 -0500",
+    "url": "https://arxiv.org/abs/2611.23509"
+  },
+  {
+    "source": "arXiv",
+    "title": "BeFit: Shifting Complexity from Weights to Bernstein Activations for Resource-Constrained Sensing",
+    "date": "Fri, 20 Nov 2026 00:00:00 -0500",
+    "url": "https://arxiv.org/abs/2611.23520"
+  },
+  {
+    "source": "arXiv",
+    "title": "FACET - Facet Aware Contrastive Embeddings for Traits- Big Five Estimation from Life Narratives",
+    "date": "Fri, 20 Nov 2026 00:00:00 -0500",
+    "url": "https://arxiv.org/abs/2611.23560"
+  },
+  {
+    "source": "arXiv",
+    "title": "LProp: Propagating Latent Uncertainty through Evidence-Conditioned Belief Revision in LLM Agents",
+    "date": "Fri, 20 Nov 2026 00:00:00 -0500",
+    "url": "https://arxiv.org/abs/2611.23564"
+  },
+  {
+    "source": "arXiv",
+    "title": "Receiver-Conditioned Clarification for Multi-Agent Food Assistance",
+    "date": "Fri, 20 Nov 2026 00:00:00 -0500",
+    "url": "https://arxiv.org/abs/2611.23572"
+  },
+  {
+    "source": "arXiv",
+    "title": "ARISE: Practical Self-Evolving Memory for Accurate and Cost-Efficient Enterprise Agents",
+    "date": "Fri, 20 Nov 2026 00:00:00 -0500",
+    "url": "https://arxiv.org/abs/2611.23588"
+  },
+  {
+    "source": "arXiv",
+    "title": "RefinementGuard: Counterexample-Directed Semantic Qualification for Hidden Agent-Tool Execution",
+    "date": "Fri, 20 Nov 2026 00:00:00 -0500",
+    "url": "https://arxiv.org/abs/2611.23611"
+  },
+  {
+    "source": "arXiv",
+    "title": "Searching the Pareto Front: Multi-Objective Retrieval for Heterogeneous Scientific Modalities",
+    "date": "Fri, 20 Nov 2026 00:00:00 -0500",
+    "url": "https://arxiv.org/abs/2611.23639"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
+    "date": "Fri, 20 Nov 2026 00:00:00 GMT",
+    "url": "https://openai.com/business/customer-stories/hebbia"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Can AI help scientists identify promising drug candidates?",
+    "date": "Fri, 20 Nov 2026 00:00:00 GMT",
+    "url": "https://openai.com/index/introducing-medchembench"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
+    "date": "Fri, 20 Nov 2026 00:00:00 GMT",
+    "url": "https://huggingface.co/blog/inkling2mini"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
+    "date": "Fri, 20 Nov 2026 00:00:00 GMT",
+    "url": "https://huggingface.co/blog/harness-adapters-at-scale"
   },
   {
     "source": "OpenAI",
@@ -1108,95 +1198,5 @@
     "title": "Fair use benefits everyone",
     "date": "Fri, 30 Oct 2026 00:00:00 GMT",
     "url": "https://openai.com/index/fair-use-benefits-everyone"
-  },
-  {
-    "source": "OpenAI",
-    "title": "An updated Model Spec for more capable and beneficial AI",
-    "date": "Thu, 29 Oct 2026 17:00:00 GMT",
-    "url": "https://openai.com/index/updated-model-spec"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "Granite Switch 4.1.1 — Update models like you update software",
-    "date": "Thu, 29 Oct 2026 13:37:07 GMT",
-    "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1"
-  },
-  {
-    "source": "OpenAI",
-    "title": "How we detect frontier model misalignment",
-    "date": "Thu, 29 Oct 2026 09:00:00 GMT",
-    "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment"
-  },
-  {
-    "source": "OpenAI",
-    "title": "How Ropes & Gray is developing AI for transactional diligence",
-    "date": "Thu, 29 Oct 2026 07:00:00 GMT",
-    "url": "https://openai.com/index/ropes-gray-ai-diligence"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
-    "date": "Thu, 29 Oct 2026 00:00:00 GMT",
-    "url": "https://huggingface.co/blog/announcing-project-protostar"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
-    "date": "Thu, 29 Oct 2026 00:00:00 GMT",
-    "url": "https://huggingface.co/blog/mistral-large4"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
-    "date": "Thu, 29 Oct 2026 00:00:00 GMT",
-    "url": "https://huggingface.co/blog/anydecisionmodel"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Credit Saison achieves 954% ROI in a ChatGPT Enterprise pilot",
-    "date": "Thu, 29 Oct 2026 00:00:00 GMT",
-    "url": "https://openai.com/index/credit-saison"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Evernote turns AI-driven discovery into paid subscriptions",
-    "date": "Wed, 28 Oct 2026 19:40:49 GMT",
-    "url": "https://openai.com/ads/customers/evernote"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
-    "date": "Wed, 28 Oct 2026 14:58:17 GMT",
-    "url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary"
-  },
-  {
-    "source": "OpenAI",
-    "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
-    "date": "Wed, 28 Oct 2026 13:15:00 GMT",
-    "url": "https://openai.com/index/openai-servicenow-partnership-expansion"
-  },
-  {
-    "source": "OpenAI",
-    "title": "The future of the firm",
-    "date": "Wed, 28 Oct 2026 10:00:00 GMT",
-    "url": "https://openai.com/index/the-future-of-the-firm"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Legora is building the agentic operating system for legal work",
-    "date": "Wed, 28 Oct 2026 09:30:00 GMT",
-    "url": "https://openai.com/index/legora"
-  },
-  {
-    "source": "arXiv",
-    "title": "Counting the Bandages: On measuring the time that AI saves",
-    "date": "Wed, 28 Oct 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2610.35942"
-  },
-  {
-    "source": "arXiv",
-    "title": "Enhancing Deep Learning Model Performance through Data Generation Strategies: Classification of Olive Tree Diseases",
-    "date": "Wed, 28 Oct 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2610.35984"
   }
 ]
