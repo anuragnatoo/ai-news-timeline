@@ -1,6 +1,12 @@
 [
   {
     "source": "OpenAI",
+    "title": "Perplexity and Intelligence",
+    "date": "Sun, 22 Nov 2026 00:00:00 GMT",
+    "url": "https://openai.com/index/perplexity-and-intelligence"
+  },
+  {
+    "source": "OpenAI",
     "title": "Combatting adversarial distillation",
     "date": "Fri, 20 Nov 2026 10:00:00 GMT",
     "url": "https://openai.com/index/combatting-adversarial-distillation"
@@ -1192,11 +1198,5 @@
     "title": "Community safety report and new protections for teens",
     "date": "Fri, 30 Oct 2026 09:00:00 GMT",
     "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Fair use benefits everyone",
-    "date": "Fri, 30 Oct 2026 00:00:00 GMT",
-    "url": "https://openai.com/index/fair-use-benefits-everyone"
   }
 ]
