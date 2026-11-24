@@ -1,6 +1,36 @@
 [
   {
     "source": "OpenAI",
+    "title": "OpenAI and Cisco introduce Shirudo",
+    "date": "Mon, 23 Nov 2026 21:20:00 GMT",
+    "url": "https://openai.com/index/introducing-shirudo"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "RoboTrack: Point tracking for real-world robotic manipulation",
+    "date": "Mon, 23 Nov 2026 17:20:37 GMT",
+    "url": "https://huggingface.co/blog/allenai/robotrack"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Connected intelligence for in-house legal",
+    "date": "Mon, 23 Nov 2026 08:00:00 GMT",
+    "url": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Richpanel helps companies automate 50% of support in 30 days",
+    "date": "Mon, 23 Nov 2026 08:00:00 GMT",
+    "url": "https://openai.com/business/customer-stories/richpanel-ai-customer-support"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "How to build and maintain an agentic evaluation",
+    "date": "Mon, 23 Nov 2026 00:00:00 GMT",
+    "url": "https://huggingface.co/blog/agentic-evals"
+  },
+  {
+    "source": "OpenAI",
     "title": "Perplexity and Intelligence",
     "date": "Sun, 22 Nov 2026 00:00:00 GMT",
     "url": "https://openai.com/index/perplexity-and-intelligence"
@@ -1168,35 +1198,5 @@
     "title": "Detecting Covert Collusion between AI Agents through Partner-Outsider Positive Listening",
     "date": "Sat, 31 Oct 2026 00:00:00 -0400",
     "url": "https://arxiv.org/abs/2610.37849"
-  },
-  {
-    "source": "arXiv",
-    "title": "Evaluating and improving AI agents for sequencing protocol understanding",
-    "date": "Sat, 31 Oct 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2610.37851"
-  },
-  {
-    "source": "arXiv",
-    "title": "Seq@K: Evaluating Language Models Under Sequential Feedback",
-    "date": "Sat, 31 Oct 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2610.37859"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "nemotron-halloween",
-    "date": "Fri, 30 Oct 2026 17:57:24 GMT",
-    "url": "https://huggingface.co/blog/nvidia/nemotron-halloween"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Making it easier for websites to express AI training preferences",
-    "date": "Fri, 30 Oct 2026 09:30:00 GMT",
-    "url": "https://openai.com/index/helping-websites-express-ai-training-preferences"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Community safety report and new protections for teens",
-    "date": "Fri, 30 Oct 2026 09:00:00 GMT",
-    "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens"
   }
 ]
