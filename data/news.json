@@ -1,5 +1,71 @@
 [
   {
+    "source": "arXiv",
+    "title": "Context Scaling: A New Frontier of AI Scaling",
+    "date": "Fri, 27 Nov 2026 00:00:00 -0500",
+    "url": "https://arxiv.org/abs/2611.33160"
+  },
+  {
+    "source": "arXiv",
+    "title": "Constraint-Aware Test-Time Scoring for LLM and VLM Candidate Selection",
+    "date": "Fri, 27 Nov 2026 00:00:00 -0500",
+    "url": "https://arxiv.org/abs/2611.33161"
+  },
+  {
+    "source": "arXiv",
+    "title": "AutoformBench: A Lean Formalization Benchmark for Advanced Mathematics",
+    "date": "Fri, 27 Nov 2026 00:00:00 -0500",
+    "url": "https://arxiv.org/abs/2611.33165"
+  },
+  {
+    "source": "arXiv",
+    "title": "General-Purpose Decision Models for AI Configuration Tuning",
+    "date": "Fri, 27 Nov 2026 00:00:00 -0500",
+    "url": "https://arxiv.org/abs/2611.33190"
+  },
+  {
+    "source": "arXiv",
+    "title": "What, Who, and When: Structured Harm Assessment for Mental Health Safety via Short Reasoning",
+    "date": "Fri, 27 Nov 2026 00:00:00 -0500",
+    "url": "https://arxiv.org/abs/2611.33263"
+  },
+  {
+    "source": "arXiv",
+    "title": "Certify What You Plant: Shortcut-Free Proof Depth in Logical Reasoning Data",
+    "date": "Fri, 27 Nov 2026 00:00:00 -0500",
+    "url": "https://arxiv.org/abs/2611.33303"
+  },
+  {
+    "source": "arXiv",
+    "title": "The Platonic Representation Hypothesis in Jacobian-Space: Language and Vision Models Agree Approximately Up to a Rotation",
+    "date": "Fri, 27 Nov 2026 00:00:00 -0500",
+    "url": "https://arxiv.org/abs/2611.33304"
+  },
+  {
+    "source": "arXiv",
+    "title": "Brand Recall and Category Accuracy in Language Models: An Audit of 1,000 B2B SaaS Brands",
+    "date": "Fri, 27 Nov 2026 00:00:00 -0500",
+    "url": "https://arxiv.org/abs/2611.33322"
+  },
+  {
+    "source": "arXiv",
+    "title": "Confidence scores for gated automation of large language models",
+    "date": "Fri, 27 Nov 2026 00:00:00 -0500",
+    "url": "https://arxiv.org/abs/2611.33394"
+  },
+  {
+    "source": "arXiv",
+    "title": "Partial Routing: Trace-Tuned Delegation for Resource-Efficient Agentic Workflows",
+    "date": "Fri, 27 Nov 2026 00:00:00 -0500",
+    "url": "https://arxiv.org/abs/2611.33402"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+    "date": "Thu, 26 Nov 2026 11:37:17 GMT",
+    "url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench"
+  },
+  {
     "source": "HuggingFace",
     "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
     "date": "Thu, 26 Nov 2026 05:05:36 GMT",
@@ -64,6 +130,12 @@
     "title": "SpatialCraft: Evolving Procedural Intelligence from Experience and Skills for Spatial Reasoning Agents",
     "date": "Thu, 26 Nov 2026 00:00:00 -0500",
     "url": "https://arxiv.org/abs/2611.31475"
+  },
+  {
+    "source": "HuggingFace",
+    "title": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
+    "date": "Thu, 26 Nov 2026 00:00:00 GMT",
+    "url": "https://huggingface.co/blog/training-swarms"
   },
   {
     "source": "HuggingFace",
@@ -1126,77 +1198,5 @@
     "title": "StateBench: Testing how language models track state changes over long documents",
     "date": "Tue, 03 Nov 2026 17:15:21 GMT",
     "url": "https://huggingface.co/blog/allenai/statebench"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "Palette: teaching a small model to build decks in your design language",
-    "date": "Tue, 03 Nov 2026 16:35:36 GMT",
-    "url": "https://huggingface.co/blog/ibm-research/palette-deck-building"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Accelerating engineering for the physical world",
-    "date": "Tue, 03 Nov 2026 12:00:00 GMT",
-    "url": "https://openai.com/index/accelerating-engineering-for-the-physical-world"
-  },
-  {
-    "source": "OpenAI",
-    "title": "How Cisco defends at machine speed with OpenAI",
-    "date": "Tue, 03 Nov 2026 08:00:00 GMT",
-    "url": "https://openai.com/index/cisco-cyber"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Heimstaden is changing residential real estate management with AI",
-    "date": "Tue, 03 Nov 2026 08:00:00 GMT",
-    "url": "https://openai.com/index/heimstaden"
-  },
-  {
-    "source": "OpenAI",
-    "title": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
-    "date": "Tue, 03 Nov 2026 00:00:00 GMT",
-    "url": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "CWE-bench v2: More coverage, quality, and transparency",
-    "date": "Tue, 03 Nov 2026 00:00:00 GMT",
-    "url": "https://huggingface.co/blog/cwe-bench"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "Transformers Model Integration Contracts",
-    "date": "Tue, 03 Nov 2026 00:00:00 GMT",
-    "url": "https://huggingface.co/blog/transformers-mic"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Rewarding defenders with bigger bug bounties",
-    "date": "Mon, 02 Nov 2026 18:00:00 GMT",
-    "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Preparing our next security sprint to harden OpenAI",
-    "date": "Mon, 02 Nov 2026 18:00:00 GMT",
-    "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Scaling Git at OpenAI",
-    "date": "Mon, 02 Nov 2026 15:30:00 GMT",
-    "url": "https://openai.com/index/scaling-git-at-openai"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Introducing the Grid Protectors Program",
-    "date": "Mon, 02 Nov 2026 15:00:00 GMT",
-    "url": "https://openai.com/index/grid-protectors-program"
-  },
-  {
-    "source": "OpenAI",
-    "title": "LifeVal",
-    "date": "Mon, 02 Nov 2026 09:00:00 GMT",
-    "url": "https://openai.com/index/lifeval"
   }
 ]
