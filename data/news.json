@@ -61,6 +61,12 @@
   },
   {
     "source": "HuggingFace",
+    "title": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
+    "date": "Fri, 27 Nov 2026 00:00:00 GMT",
+    "url": "https://huggingface.co/blog/video-trainium3"
+  },
+  {
+    "source": "HuggingFace",
     "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
     "date": "Thu, 26 Nov 2026 11:37:17 GMT",
     "url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench"
@@ -1192,11 +1198,5 @@
     "title": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
     "date": "Wed, 04 Nov 2026 00:00:00 GMT",
     "url": "https://openai.com/index/devrev-enterprise-self-service"
-  },
-  {
-    "source": "HuggingFace",
-    "title": "StateBench: Testing how language models track state changes over long documents",
-    "date": "Tue, 03 Nov 2026 17:15:21 GMT",
-    "url": "https://huggingface.co/blog/allenai/statebench"
   }
 ]
